@@ -1,0 +1,1357 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+												<!--  当前的类别归属ID--> 
+		<!--  当前的类别表现ID--> 
+		<!--  当前的类别listname (eg:banjia)--> 
+		<!--  当前的类别catename (eg:搬家)--> 
+		<!--  一级类别归属ID--> 
+		<!--  一级类别表现ID--> 
+		<!--  一级类别listname eg:jiazheng--> 
+		<!--  一级类别catename eg:家政--> 
+		<!--  二级类别归属ID [Ljava.lang.Integer;@5c4401a2 数字长度：2--> 
+			<!--  二级类别表现ID--> 
+				<!--  二级类别listname eg:jiazhuang--> 
+				<!--  二级类别catename eg:家装-->
+				<!-- 表现类别的全路径   eg:8512,96-->
+									
+						<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>【58同城】鹤壁制卡_鹤壁制卡公司_鹤壁卡片制作</title>
+	<meta name="description" content='58同城鹤壁制卡频道是最大的鹤壁制卡免费信息发布、查阅平台。58同城鹤壁制卡频道每天都有大量专业、真实的优秀商家提供鹤壁制卡,制卡制卡公司,鹤壁卡片制作信息大家选择，同时您可以免费发布鹤壁制卡信息。-58.com'/>
+	<meta name="keywords" content='鹤壁制卡,制卡制卡公司,鹤壁卡片制作'/>
+	<meta http-equiv="X-UA-Compatible" content="edge" />
+		<meta name="location" content="province=河南;city=鹤壁;coord=114.29777,35.755426">
+				<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/hb/allzhika/" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/hb/allzhika/" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/hb/allzhika/" />
+					<script type="text/javascript">
+		var ____loadCfg = ['huangye', 'shenghuo', 'listpage'];
+	</script>
+	<script src='http://j2.58cdn.com.cn/js/require_jquery_load.js'></script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">document.write('<scri'+'pt src="http://j1.58cdn.com.cn/ds/tgbrand/js/brand_listpage_v1.js?temp=' + Math.random() + '"></scri'+'pt>');</script> 
+<script type="text/javascript">
+	var xxfwConfig = {namespace:'huangyelistpc'};
+</script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/resource/xxzl/xxfw/xxfw.min_v20161021110430.js'></script>
+
+<script type="text/javascript">
+try{
+	var ____json4fe = {"catentry":[{"dispid":"8703","name":"商务服务","listname":"shangwu"},{"dispid":"8692","name":"制卡","listname":"allzhika"}],"locallist":[{"dispid":"2344","name":"鹤壁","listname":"hb"}],"start":(new Date()).getTime(),"modules":"list"};
+	____json4fe.version = 'A';
+	____json4fe.modules = 'listpage';
+	____json4fe.sid = '109114776195459455674698056';
+	____json4fe.sessionid = '5dd3b9e0-8f50-4b8b-8945-02df141e3e65';
+	____json4fe.smsc = 'e79814be33df51a9e2419fac617f1dbecc8dd12ec7e75c096a0e536c3edc974e8e5b70be19bb67e73a09899a3f6e8c2f4ccaae8d1878db4d512e689397fefadac80490600aa4cb7b79658bbbfdb9eace757205a063b27fa09ccf9ebcffaec7e09810863231fd5122bc8098dae7ec79a7723ea459f9e97d69c0d10838fa807a19252874290ebf599eeb47098a418a3046aae8ba2b1689be63';
+	____json4fe.newcateid='';
+	____json4fe.keyword='';
+	____json4fe.page='1';
+	____json4fe.param='';
+	}catch(e){};
+	(function(){
+var e = "header,nav,section,aside,article,footer".split(','),
+i=0,
+length=e.length;
+while(i<length){
+    document.createElement(e[i++])
+}
+})();
+	var ajax_param = '{"platform":"pc","paramMap":null,"pageIndex":1,"dispCateId":8692,"infoMethod":["renzheng","baojia","wltAge"],"dataParam":"29590867201871_32127764975370_0_commoninfo,29568830237125_39898392545811_0_commoninfo,29448426794026_44391432239895_0_commoninfo,29449688682799_45739834242062_0_commoninfo,26992165684279_38892052963088_0_commoninfo,28595881350706_43346087285783_0_commoninfo,28441131943339_40357752517908_0_commoninfo,28242559728077_19035953936647_0_commoninfo,28236649069741_30284725_0_commoninfo,27990860461642_42082869704461_0_commoninfo,27689621596982_40950677678863_0_commoninfo,27647390713129_19549251996935_0_commoninfo,27435668763338_14923045309702_0_commoninfo,26904792969804_40866238816020_0_commoninfo,26517626523054_39892055570449_0_commoninfo,29437289177646_32127764975370_0_commoninfo,29373558819259_44391432239895_0_commoninfo,29381296470093_39898392545811_0_commoninfo,27159675417151_14923045309702_0_commoninfo,26848722850381_40357752517908_0_commoninfo,29426302933694_32127764975370_0_commoninfo,25522071512391_22489677924870_0_commoninfo,25436810833346_37730718579471_0_commoninfo,25359948765121_37421855668494_0_commoninfo,25281848544302_37666008554000_0_commoninfo,25236941429711_31289342247690_0_commoninfo,24738948206785_11116320147719_0_commoninfo,24652663828920_17331012658183_0_commoninfo,23623978375071_56879810_0_commoninfo,23400768611236_15074493561606_0_commoninfo,22834460873887_27970580896519_0_commoninfo,22713544640800_9920508577799_0_commoninfo,22580567635616_23797371058694_0_commoninfo,22270118288138_31224981858567_0_commoninfo,21568443345292_30284725_0_commoninfo","dispCateName":"allzhika"}';
+	var s_ajax_param = 's_contact_allzhika_109114776195459455674698056_';
+</script>				<link href='http://c.58cdn.com.cn/ds/v1/base-v1_v0.css' rel="stylesheet" type="text/css">
+	<link href='http://c.58cdn.com.cn/ds/v1/common_list_v20170315183710.css' rel="stylesheet" type="text/css">
+<link href='http://c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20170331140927.css' rel="stylesheet" type="text/css">
+
+
+		<link href='http://c.58cdn.com.cn/ds/v1/list/defaultList_v20170220190119.css' rel="stylesheet" type="text/css">
+	<!-- <link rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv02_v0.css'> -->
+<link type="text/css" rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03_v20160727171301.css'>
+<!-- <link type="text/css" rel="stylesheet" href="http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03.css"> -->
+
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/dialog_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/release_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/retable_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/weixin/hy_freetel_v20161207184444.css">	
+    		</head>
+			<body class="">
+						<!-- =S top bar header -->
+			<div id="commonTopbar" class="commonTopbar">
+<script type="text/javascript">
+    var secId;
+        ____json4fe.catentry[1]? secId = ____json4fe.catentry[1].dispid : secId = ____json4fe.catentry.dispid;
+    var modules = ____json4fe.modules;
+    //搬家列表页(secId == "96" && modules=="listpage")宽度为1190px
+    if(secId == "96" && modules=="listpage"){
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'default' // default: 1190px, narrow: 1000px
+            });
+        };
+    }else{
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'narrow' // default: 1190px, narrow: 1000px
+            });
+        };
+    }    
+</script>
+</div>
+<!-- =S banner  div -->
+<div class="topbannerbar"><div id="brand_list_top_banner" onclick="clickLog('from=pc_list_allzhika_top_banner');" ></div></div>
+<!-- =E banner  div--><header id="header">
+    <div class="header-inner">
+    <a class="logo float_l" href="/huangye/" target="_blank" onclick="clickLog('from=pc_list_logo_allzhika');">58同城</a>
+            <a href='http://post.58.com/2344/8692/s5' target="_blank" onclick="clickLog('from=pc_list_fabu_allzhika');" class="postbtn float_r">免费发布</a>
+        		        <div class="header-search float_r">
+         <em class="ico-searchkey"></em>
+         <form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+         	            	<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();">
+                        <span onMouseOut="this.className='sbtn'" onMouseOver="this.className='sbtn hover'" class="sbtn">
+                			<input type="submit" value="搜服务" onclick="clickLog('from=pc_list_search_allzhika');" class="but-bl" name="" id="searchbtn1" ></span>
+                		        		<div class="clear"></div>
+        					       		       	  </form>
+       	</div>
+		            	<div class="nav float_l" >
+	<a href="/">鹤壁58同城</a> &gt; <a href="/shangwu.shtml">鹤壁商务服务</a>
+				 &gt; <a href="/allzhika/" itemprop="url">鹤壁制卡</a>
+	
+
+</div>
+	</div>
+</header>
+		<!-- =E top bar header -->
+	<!-- =S common_column_label-->
+			<!-- =E common_column_label-->
+	<!-- =S searchTip -->
+			<!-- =E searchTip  -->
+	<!-- =s cmcs -->
+							<section id="selection">
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">类别 ：</dt>
+		<dd id="ObjectType" >
+																    		    		    		    					<a href="/allzhika/" class='select' >全部</a>
+								    		    		    		    					<a href="http://hb.58.com/zhinengka/"  >智能卡/电子标签</a>
+								    		    		    		    					<a href="http://hb.58.com/zhika/"  >PVC卡</a>
+								    		    		    		    					<a href="http://hb.58.com/zhizhika/"  >纸卡</a>
+								    		    		    		    					<a href="http://hb.58.com/jinshuka/"  >金属卡</a>
+								    		    		    		    					<a href="http://hb.58.com/citiaoka/"  >磁条卡</a>
+								    		    		    		    					<a href="http://hb.58.com/dijiaoka/"  >滴胶卡</a>
+															    					    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">卡型 ：</dt>
+		<dd id="kaxing" >
+																    		    		    		    					<a href="/allzhika/" class='select' >全部</a>
+								    		    		    		    					<a href="http://hb.58.com/allzhika/pve_8724_606148/"  >人像卡</a>
+								    		    		    		    					<a href="http://hb.58.com/allzhika/pve_8724_606149/"  >会员卡</a>
+								    		    		    		    					<a href="http://hb.58.com/allzhika/pve_8724_606150/"  >异形卡</a>
+								    		    		    		    					<a href="http://hb.58.com/allzhika/pve_8724_606151/"  >年历卡</a>
+								    		    		    		    					<a href="http://hb.58.com/allzhika/pve_8724_606152/"  >贵宾卡/VIP卡</a>
+								    		    		    		    					<a href="http://hb.58.com/allzhika/pve_8724_606153/"  >刮刮卡</a>
+								    		    		    		    					<a href="http://hb.58.com/allzhika/pve_8724_606154/"  >积分卡</a>
+								    		    		    		    					<a href="http://hb.58.com/allzhika/pve_8724_606155/"  >优惠卡</a>
+								    		    		    		    					<a href="http://hb.58.com/allzhika/pve_8724_606156/"  >条码卡</a>
+								    		    		    		    					<a href="http://hb.58.com/allzhika/pve_8724_606157/"  >充值卡</a>
+								    		    		    		    					<a href="http://hb.58.com/allzhika/pve_8724_606158/"  >礼品卡</a>
+								    		    		    		    					<a href="http://hb.58.com/allzhika/pve_8724_606159/"  >磨砂卡</a>
+																				    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">服务区域  ：</dt>
+		<dd id="local" >
+																    		    		    		    					<a href="/allzhika/" class='select' >全鹤壁</a>
+								    		    		    		    					<a href="/qibinqu/allzhika/"  >淇滨</a>
+								    		    		    		    					<a href="/shanchengqu/allzhika/"  >山城</a>
+								    		    		    		    					<a href="/heshanqu/allzhika/"  >鹤山</a>
+								    		    		    		    					<a href="/junxian/allzhika/"  >浚县</a>
+								    		    		    		    					<a href="/qixianq/allzhika/"  >淇县</a>
+																									    	</dd>
+    </dl>
+	<div id="selected" class="bar"></div>
+	<i class="shadow"></i>
+</section>
+
+			<!-- =E cmcs -->
+		<div id="adtop_1" class="hc"><div class="mouter defa"><div class="inner"><div id="md3" class="mdul"></div><ul id="md1" class="mdul"></ul><ul id="md2" class="mdul"></ul><ul id="md4" class="mdul"></ul><ul id="md5" class="mdul"></ul><div class="clear"></div></div></div></div>
+<div class="tabsbar">
+    <div class="list-tabs">
+												<a href="/allzhika/" onclick="clickLog('from=pc_list_allzhika_list_tabs');" class="sel"><h1>鹤壁制卡</h1></a>
+											</div>
+	 	    	                	        
+
+		
+	
+				<span class="zhaobiao" >
+			<a href="http://bianmin.58.com/hb/?from=pc_list_bianmin_wzl"
+			   target="_blank" >学习办事经验，解决办证难题</a>
+		</span>
+		
+			
+
+
+</div>
+ 				<section id="mainlist" class="main clearfix pr">
+					<div class="filterbar h28">
+    <div class="filterbar-l">
+			<!-- <div class="filterup" id="filterup">
+				 <a class="m1" title="找班级" href="#" rel="nofollow" onclick=""><span>找班级<em></em></span></a>
+				 <a class="m1" title="找拼友" href="#" rel="nofollow" onclick=""><span>找拼友<em></em></span></a>
+			</div>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">全部</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示教育机构</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示个人教师</a></span> -->
+				<div class="filterup" id="filterup">
+			 <a class="m1 sel" title="默认" href="#" rel="nofollow" onclick="g2({sort:null}); clickLog('from=huangye_list_moren_allzhika_hb&psid=109114776195459455674698056'); "><span>默认排序<em></em></span></a>
+											</div>
+														<span class="checkbox-ico" id="renzheng"><a href="javascript:void(0);" onclick="clickLog('from=List_sort_allzhika__zhikanrenzheng');">只看认证</a></span>
+									
+									</div>  
+     <div class="filterbar-md">
+    	    	<!-- 加入医疗健康判断-->
+    	    		    		        		           		        		    	
+				   </div>        
+</div>
+					<div id="infolist" class="cleft" >
+				<!-- =S infolist -->
+									<div id="top_google_ad"></div>
+<table class="small-tbimg" cellspacing="0" cellpadding="0" >
+							<tr logr='p_1_32127764975370_29590867201871_0' infotag="29590867201871_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">胡经理 : </b>
+				<a href='http://hb.58.com/allzhika/29590867201871x.shtml?psid=109114776195459455674698056&entinfo=29590867201871_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			会员卡，磁条卡，贵宾卡，刷卡器，pvc卡 工厂店
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												蓝天印务是集广告印刷与一体的专业设计制作公司，本公司从业多年，有丰富的...
+				(16小时)
+							<p class="seller">
+					a***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29590867201871' wltMark="0" param="29590867201871_32127764975370_0_commoninfo_2614ACCC15B8FD63370145C6E39B70C5"  data-j4fe="13643864757,胡经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29590867201871&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39898392545811_29568830237125_0' infotag="29568830237125_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">胡经理 : </b>
+				<a href='http://hb.58.com/allzhika/29568830237125x.shtml?psid=109114776195459455674698056&entinfo=29568830237125_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			定制 PVC卡 会员卡 磁条卡 刷卡器 广告扇
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												速度快、质量好、价格优惠，请选择我们！蓝天印务是集广告印刷与一体的专业...
+				(04-01)
+							<p class="seller">
+					1***z
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29568830237125' wltMark="0" param="29568830237125_39898392545811_0_commoninfo_C1EF0C1887657DEE44F0D194255BD793"  data-j4fe="13014618071,胡经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29568830237125&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_44391432239895_29448426794026_0' infotag="29448426794026_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">陈先生 : </b>
+				<a href='http://hb.58.com/allzhika/29448426794026x.shtml?psid=109114776195459455674698056&entinfo=29448426794026_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			得创易购商城
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												先消费后还款.全国办理
+				(03-22)
+							<p class="seller">
+					得创易购
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29448426794026' wltMark="0" param="29448426794026_44391432239895_0_commoninfo_6C90619CF5E56864A414D559507745D8"  data-j4fe="18739278276,陈先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29448426794026&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_45739834242062_29449688682799_0' infotag="29449688682799_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张经理 : </b>
+				<a href='http://hb.58.com/allzhika/29449688682799x.shtml?psid=109114776195459455674698056&entinfo=29449688682799_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			充气城堡支架水池水上冲关鲸鱼岛水上大滑梯龙头滑梯移
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												游乐设备出租/出售 主营产品：大型欢乐水世界,支架水池,支架游泳池,钢...
+				(03-21)
+							<p class="seller">
+					张***5
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29449688682799' wltMark="0" param="29449688682799_45739834242062_0_commoninfo_195CBC182457021ADC4322D8DB1104BE"  data-j4fe="13346805102,张经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29449688682799&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_38892052963088_26992165684279_0' infotag="26992165684279_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王燕坤 : </b>
+				<a href='http://hb.58.com/allzhika/26992165684279x.shtml?psid=109114776195459455674698056&entinfo=26992165684279_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			IC卡ID卡 楼宇对讲 小区物业停车场 滴胶卡
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												深圳市方卡实业有限公司是一家实力雄厚，集研发、生产、销售为一体的高科技...
+				(03-16)
+							<p class="seller">
+					郑州方卡科技有限公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26992165684279' wltMark="0" param="26992165684279_38892052963088_0_commoninfo_71D0BBCCDD4BD4C0694FE691506FFDAC"  data-j4fe="18703972679,王燕坤" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26992165684279&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_43346087285783_28595881350706_0' infotag="28595881350706_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">白燕 : </b>
+				<a href='http://hb.58.com/allzhika/28595881350706x.shtml?psid=109114776195459455674698056&entinfo=28595881350706_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			鹤壁刮奖卡制作，刮刮卡厂家，扫码兑奖，防窜货
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												我公司专业制作：刮奖卡，刮刮卡，不干胶奖卡，一物一码扫码兑奖撕开奖卡，...
+				(01-05)
+							<p class="seller">
+					论彩制卡
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28595881350706' wltMark="0" param="28595881350706_43346087285783_0_commoninfo_4074CF5CA4FDCE01ED9DF5164140F6AF"  data-j4fe="15127091597,白燕" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28595881350706&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_40357752517908_28441131943339_0' infotag="28441131943339_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">周女士 : </b>
+				<a href='http://hb.58.com/allzhika/28441131943339x.shtml?psid=109114776195459455674698056&entinfo=28441131943339_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			鹤壁磁条卡制卡_金属卡制作_鹤壁会员卡定制
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												河南秒速制卡，专注生产各种IC卡， ID卡， MI卡，感应卡，加密卡，...
+				(12-20)
+							<p class="seller">
+					1***a
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28441131943339' wltMark="0" param="28441131943339_40357752517908_0_commoninfo_79F82D72A2E8D002CC6FE2CE768F77EE"  data-j4fe="18539961210,周女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28441131943339&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_19035953936647_28242559728077_0' infotag="28242559728077_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">嘉振专业制卡 : </b>
+				<a href='http://hb.58.com/allzhika/28242559728077x.shtml?psid=109114776195459455674698056&entinfo=28242559728077_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			ID、M1印刷卡1000张0.34元每张，质保三年
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												直接厂家--惊爆价来袭！制卡500张60元 1000张80元 PVC名...
+				(12-02)
+							<p class="seller">
+					嘉振制卡
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28242559728077' wltMark="0" param="28242559728077_19035953936647_0_commoninfo_B1A24E96D376C83F56C2DE186D2B4B2B"  data-j4fe="18632666920,嘉振专业制卡" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28242559728077&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_30284725_28236649069741_0' infotag="28236649069741_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">丁经理 : </b>
+				<a href='http://hb.58.com/allzhika/28236649069741x.shtml?psid=109114776195459455674698056&entinfo=28236649069741_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			会员卡,磁条卡,贵宾卡,芯片卡,M1,IC卡
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												专业设计印刷：彩页，画册，折页，海报，不干胶，标签，背胶贴，名片，纸杯...
+				(12-01)
+							<p class="seller">
+					郑州市飞鸿彩印有限公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28236649069741' wltMark="0" param="28236649069741_30284725_0_commoninfo_E8A93E755C81FDF2F4F08C6460268564"  data-j4fe="15138681538,丁经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28236649069741&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_42082869704461_27990860461642_0' infotag="27990860461642_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李经理 : </b>
+				<a href='http://hb.58.com/allzhika/27990860461642x.shtml?psid=109114776195459455674698056&entinfo=27990860461642_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			鹤壁期货开户手续费加一分 股指期货万0.24
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												鹤壁期货公司 期货开户、股指开户、期货转户、企业套期保值开户、期货开户...
+				(11-09)
+							<p class="seller">
+					徽商期货有限责任公司北京南竹杆胡同营业部
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27990860461642' wltMark="0" param="27990860461642_42082869704461_0_commoninfo_C0C49808E35EB05018DDDE3539324740" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27990860461642&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_40950677678863_27689621596982_0' infotag="27689621596982_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">姜小姐 : </b>
+				<a href='http://hb.58.com/allzhika/27689621596982x.shtml?psid=109114776195459455674698056&entinfo=27689621596982_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			专业开户，验资
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												注册公司？那就找信诺财税。验资？那就找信诺财税。开户？那就找信诺财税。...
+				(10-13)
+							<p class="seller">
+					x***2
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27689621596982' wltMark="0" param="27689621596982_40950677678863_0_commoninfo_443EB784D42A3DF100FF76E238344047"  data-j4fe="15816855153,姜小姐" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27689621596982&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_19549251996935_27647390713129_0' infotag="27647390713129_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张先生 : </b>
+				<a href='http://hb.58.com/allzhika/27647390713129x.shtml?psid=109114776195459455674698056&entinfo=27647390713129_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			专业会员卡制作
+		</a>
+						<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												1000张磁条卡加键盘刷卡器，加小票打印机和正版会员管理软件
+				(10-09)
+							<p class="seller">
+					鹤壁万能众意网络科技有限公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27647390713129' wltMark="0" param="27647390713129_19549251996935_0_commoninfo_2EC3600550C0E0F7C28A238E79F07357"  data-j4fe="15039203008,张先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27647390713129&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_14923045309702_27435668763338_0' infotag="27435668763338_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">苗飞 : </b>
+				<a href='http://hb.58.com/allzhika/27435668763338x.shtml?psid=109114776195459455674698056&entinfo=27435668763338_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			河南专业设计制作各种卡片，名片，会员卡，磁条卡餐卡
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												主要生产：各种优质PVC卡，酒店会员卡、美食会员卡、旅游会员卡、医疗会...
+				(09-20)
+							<p class="seller">
+					卡乐乐智能科技
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27435668763338' wltMark="0" param="27435668763338_14923045309702_0_commoninfo_9AC72F354209A32487321F3F78E41034"  data-j4fe="13703825095,苗飞" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27435668763338&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_40866238816020_26904792969804_0' infotag="26904792969804_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">杨先生 : </b>
+				<a href='http://hb.58.com/allzhika/26904792969804x.shtml?psid=109114776195459455674698056&entinfo=26904792969804_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			秒速制卡 会员卡 磁条卡 条码卡
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												河南制卡厂——秒速科技，专业制作PVC会员卡，贵宾卡，人像卡量大优惠,...
+				(08-03)
+							<p class="seller">
+					1***v
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26904792969804' wltMark="0" param="26904792969804_40866238816020_0_commoninfo_4DE34B52BD91207165C6DA2A32CD15B6"  data-j4fe="18539988010,杨先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26904792969804&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39892055570449_26517626523054_0' infotag="26517626523054_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">高女士 : </b>
+				<a href='http://hb.58.com/allzhika/26517626523054x.shtml?psid=109114776195459455674698056&entinfo=26517626523054_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			鹤壁 防伪标签 刮奖卡 溯源管理
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												诺真防伪科技有限公司是一家提供防伪，防窜货整体防伪解决方案的高科技防伪...
+				(06-29)
+							<p class="seller">
+					1***f
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26517626523054' wltMark="0" param="26517626523054_39892055570449_0_commoninfo_4A20AC103CCF0E10545DBF0D43C1BB58"  data-j4fe="13585455135,高女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26517626523054&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_32127764975370_29437289177646_0' infotag="29437289177646_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">胡经理 : </b>
+				<a href='http://hb.58.com/allzhika/29437289177646x.shtml?psid=109114776195459455674698056&entinfo=29437289177646_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			彩页名片会员卡画册鼠标垫磁条卡广告扇工厂直营
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												蓝天印务专业设计：彩页，画册，折页，海报，不干胶，标签，背胶贴，名片，...
+				(03-20)
+							<p class="seller">
+					a***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29437289177646' wltMark="0" param="29437289177646_32127764975370_0_commoninfo_2614ACCC15B8FD63370145C6E39B70C5"  data-j4fe="13643864757,胡经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29437289177646&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_44391432239895_29373558819259_0' infotag="29373558819259_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">陈先生 : </b>
+				<a href='http://hb.58.com/allzhika/29373558819259x.shtml?psid=109114776195459455674698056&entinfo=29373558819259_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			得创易购鹤壁市区域运营商
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												办理30--50万额度消费卡..先消费后还款周期3..36个月无利息.
+				(03-17)
+							<p class="seller">
+					得创易购
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29373558819259' wltMark="0" param="29373558819259_44391432239895_0_commoninfo_6C90619CF5E56864A414D559507745D8"  data-j4fe="18739278276,陈先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29373558819259&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39898392545811_29381296470093_0' infotag="29381296470093_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">胡经理 : </b>
+				<a href='http://hb.58.com/allzhika/29381296470093x.shtml?psid=109114776195459455674698056&entinfo=29381296470093_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			彩页不干胶名片画册广告扇广告纸杯鼠标垫免费设计
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												速度快、质量好、价格优惠，请选择我们！蓝天印务是集广告印刷与一体的专业...
+				(03-15)
+							<p class="seller">
+					1***z
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29381296470093' wltMark="0" param="29381296470093_39898392545811_0_commoninfo_C1EF0C1887657DEE44F0D194255BD793"  data-j4fe="13014618071,胡经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29381296470093&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_14923045309702_27159675417151_0' infotag="27159675417151_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">苗经理 : </b>
+				<a href='http://hb.58.com/allzhika/27159675417151x.shtml?psid=109114776195459455674698056&entinfo=27159675417151_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			河南郑州卡乐乐专业制卡，会员卡，磁条卡，芯片卡等
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												专业会员卡 pvc卡 贵宾卡 充值卡 专业设计印刷制作 出货快 送货上...
+				(08-26)
+							<p class="seller">
+					卡乐乐智能科技
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27159675417151' wltMark="0" param="27159675417151_14923045309702_0_commoninfo_9AC72F354209A32487321F3F78E41034"  data-j4fe="13703825095,苗经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27159675417151&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_40357752517908_26848722850381_0' infotag="26848722850381_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">周女士 : </b>
+				<a href='http://hb.58.com/allzhika/26848722850381x.shtml?psid=109114776195459455674698056&entinfo=26848722850381_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			鹤壁制卡_pvc会员卡定做_鹤壁会员卡制作
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												河南秒速专业制作小区门禁卡，业主卡，KTV,健身房，电影票，观影卡，医...
+				(07-29)
+							<p class="seller">
+					1***a
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26848722850381' wltMark="0" param="26848722850381_40357752517908_0_commoninfo_79F82D72A2E8D002CC6FE2CE768F77EE"  data-j4fe="18539961210,周女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26848722850381&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_32127764975370_29426302933694_0' infotag="29426302933694_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">胡经理 : </b>
+				<a href='http://hb.58.com/allzhika/29426302933694x.shtml?psid=109114776195459455674698056&entinfo=29426302933694_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			彩页名片会员卡画册鼠标垫磁条卡广告扇火热预定中
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												蓝天印务专业设计：彩页，画册，折页，海报，不干胶，标签，背胶贴，名片，...
+				(03-19)
+							<p class="seller">
+					a***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29426302933694' wltMark="0" param="29426302933694_32127764975370_0_commoninfo_2614ACCC15B8FD63370145C6E39B70C5"  data-j4fe="13643864757,胡经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29426302933694&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_22489677924870_25522071512391_0' infotag="25522071512391_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张经理 : </b>
+				<a href='http://hb.58.com/allzhika/25522071512391x.shtml?psid=109114776195459455674698056&entinfo=25522071512391_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			精美滴胶卡制作|条码卡制作厂家|储值会员卡制作厂家
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												深圳市贝斯特印刷科技有限公司 面向全国接单会员卡制作：www.bstc...
+				(03-31)
+							<p class="seller">
+					深圳市贝斯特印刷科技有限公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25522071512391' wltMark="0" param="25522071512391_22489677924870_0_commoninfo_CE8955A1CCFC4079407A092E87283B37"  data-j4fe="15818559533,张经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25522071512391&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37730718579471_25436810833346_0' infotag="25436810833346_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">牛经理 : </b>
+				<a href='http://hb.58.com/allzhika/25436810833346x.shtml?psid=109114776195459455674698056&entinfo=25436810833346_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			浚县墙上写大字 墙体写标语 好大一棵树 专业高品质
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												浚县墙上写大字 墙体写标语 好大一棵树 专业高品质 好大一棵树墙体彩绘...
+				(03-23)
+							<p class="seller">
+					x***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25436810833346' wltMark="0" param="25436810833346_37730718579471_0_commoninfo_37C1CE601920CEF544BE15A8589A8624"  data-j4fe="15343838508,牛经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25436810833346&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37421855668494_25359948765121_0' infotag="25359948765121_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">牛经理 : </b>
+				<a href='http://hb.58.com/allzhika/25359948765121x.shtml?psid=109114776195459455674698056&entinfo=25359948765121_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			全河南墙体写标语 鹤山墙上写大字 浚县杞县手绘墙
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												全河南墙体写标语 鹤山墙上写大字 浚县墙体广告 杞县手绘墙 好大一棵树...
+				(03-16)
+							<p class="seller">
+					k***7
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25359948765121' wltMark="0" param="25359948765121_37421855668494_0_commoninfo_ADCF65187CE2BDD5214FC6068AC4AC0C"  data-j4fe="18937169821,牛经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25359948765121&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37666008554000_25281848544302_0' infotag="25281848544302_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">牛先生 : </b>
+				<a href='http://hb.58.com/allzhika/25281848544302x.shtml?psid=109114776195459455674698056&entinfo=25281848544302_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			写全国墙体大字 写全河南墙体大字 鹤壁墙上标语口号
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												写全国墙体大字 写全河南墙体大字 鹤壁墙上标语口号 好大一棵树墙体彩绘...
+				(03-09)
+							<p class="seller">
+					好***5
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25281848544302' wltMark="0" param="25281848544302_37666008554000_0_commoninfo_805C8CB49A547E50005BF6134794C3FB"  data-j4fe="0371-53362130,牛先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25281848544302&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_31289342247690_25236941429711_0' infotag="25236941429711_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">郭先生 : </b>
+				<a href='http://hb.58.com/allzhika/25236941429711x.shtml?psid=109114776195459455674698056&entinfo=25236941429711_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			鹤壁定做印标筷子套的厂家 咖啡厅刀叉套 勺子套牙签
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												鹤壁定做印标筷子套的厂家，河南印标筷子套生产基地,雨田纸品拥有国内成熟...
+				(03-05)
+							<p class="seller">
+					1***a
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25236941429711' wltMark="0" param="25236941429711_31289342247690_0_commoninfo_3B0C70403E8D5160161539D2BE061B36"  data-j4fe="18739914351,郭先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25236941429711&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_11116320147719_24738948206785_0' infotag="24738948206785_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">吴经理 : </b>
+				<a href='http://hb.58.com/allzhika/24738948206785x.shtml?psid=109114776195459455674698056&entinfo=24738948206785_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			机不可失,失不再来机会就在——鹤壁同城贷
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												机不可失,失不再来机会就在——鹤壁同城贷同城贷www.tcdai.co...
+				(01-20)
+							<p class="seller">
+					苏州同城贷
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='24738948206785' wltMark="0" param="24738948206785_11116320147719_0_commoninfo_3F04699A621730530A1D164F03C794EB"  data-j4fe="18012771537,吴经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24738948206785&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_17331012658183_24652663828920_0' infotag="24652663828920_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">邢经理 : </b>
+				<a href='http://hb.58.com/allzhika/24652663828920x.shtml?psid=109114776195459455674698056&entinfo=24652663828920_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			鹤壁停车卡生产制作
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												停车场出入卡定做,停车场出入卡生产制作, 136-138-50121 郑州...
+				(01-12)
+							<p class="seller">
+					河南博泰智能科技
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='24652663828920' wltMark="0" param="24652663828920_17331012658183_0_commoninfo_D5D3023D4EB86EDB2A1F963D2A872DA2" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24652663828920&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_56879810_23623978375071_0' infotag="23623978375071_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">马甲大王 : </b>
+				<a href='http://hb.58.com/allzhika/23623978375071x.shtml?psid=109114776195459455674698056&entinfo=23623978375071_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			定做志愿者马甲，广告帽，电话营销勿扰！
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												定做广告马夹，志愿者马甲，超市马甲，促销马甲， 红马甲，公益马甲，婚...
+				(10-11)
+							<p class="seller">
+					郑州银基商贸城
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='23623978375071' wltMark="0" param="23623978375071_56879810_0_commoninfo_D16EA8D906264EC55B7EC280B63797A3"  data-j4fe="18103774313,马甲大王" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23623978375071&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_15074493561606_23400768611236_0' infotag="23400768611236_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刘伟 : </b>
+				<a href='http://hb.58.com/allzhika/23400768611236x.shtml?psid=109114776195459455674698056&entinfo=23400768611236_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			专业制作PVC卡、智能IC卡、磁条卡等
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												会员卡制作、定做PVC卡、磁条卡、VIP卡、贵宾卡、异形条码积分卡、片...
+				(09-21)
+							<p class="seller">
+					友好印务
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='23400768611236' wltMark="0" param="23400768611236_15074493561606_0_commoninfo_5D03FCF5019B7A47697FDEAB6DF7154F"  data-j4fe="18703664596,刘伟" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23400768611236&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_27970580896519_22834460873887_0' infotag="22834460873887_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">浩世小王 : </b>
+				<a href='http://hb.58.com/allzhika/22834460873887x.shtml?psid=109114776195459455674698056&entinfo=22834460873887_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			专业制作PVC会员卡 磁条卡 M1卡 磨砂卡
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												郑州浩世电子科技有限公司，位于郑州市北三环附近，占地约6000平方米，...
+				(08-01)
+							<p class="seller">
+					郑***7
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='22834460873887' wltMark="0" param="22834460873887_27970580896519_0_commoninfo_A30E00432EED73DDFE77F8F4F497E63E"  data-j4fe="15638860930,浩世小王" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22834460873887&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_9920508577799_22713544640800_0' infotag="22713544640800_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张先生 : </b>
+				<a href='http://hb.58.com/allzhika/22713544640800x.shtml?psid=109114776195459455674698056&entinfo=22713544640800_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			会员卡/智能卡/金属卡等
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												设计印刷各种会员卡：pvc会员卡、异形卡、金属卡、各种智能卡及刷卡配套...
+				(07-21)
+							<p class="seller">
+					奥之蓝文化传播
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='22713544640800' wltMark="0" param="22713544640800_9920508577799_0_commoninfo_A745E3274172D81149ACCA6E6B17A576"  data-j4fe="18903849379,张先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22713544640800&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_23797371058694_22580567635616_0' infotag="22580567635616_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张小姐 : </b>
+				<a href='http://hb.58.com/allzhika/22580567635616x.shtml?psid=109114776195459455674698056&entinfo=22580567635616_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			嘉振制卡厂专印会员卡磁条卡条码卡IC芯片卡感应卡
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												强烈震撼-为您介绍：中国卡王-中国制卡行业较快速成长的企业嘉振科技（深...
+				(07-21)
+							<p class="seller">
+					x***6
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='22580567635616' wltMark="0" param="22580567635616_23797371058694_0_commoninfo_12CE3B363ECDFDE9A0445D2553F6219D"  data-j4fe="18610481591,张小姐" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22580567635616&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_31224981858567_22270118288138_0' infotag="22270118288138_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李文英 : </b>
+				<a href='http://hb.58.com/allzhika/22270118288138x.shtml?psid=109114776195459455674698056&entinfo=22270118288138_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			河南筑信不押车贷款 放款快
+		</a>
+						<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												只要你有全款车俩 1-2天放款 利率超低 额度高 鹤壁**不押车金融公...
+				(06-11)
+							<p class="seller">
+					河南筑信
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='22270118288138' wltMark="0" param="22270118288138_31224981858567_0_commoninfo_4166DBFE012871112EEAF6ED6BF708F2"  data-j4fe="18239263338,李文英" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22270118288138&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_30284725_21568443345292_0' infotag="21568443345292_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">丁经理 : </b>
+				<a href='http://hb.58.com/allzhika/21568443345292x.shtml?psid=109114776195459455674698056&entinfo=21568443345292_0' onclick="clickLog('from=pc_list_allzhika_xinxi_commoninfo_hb');" target="_blank" class="t" >
+			会员卡,磁条卡,贵宾卡,芯片卡,M1,IC卡
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='533' -->
+		    	        		<br />
+												专业设计印刷：彩页，画册，折页，海报，不干胶，标签，背胶贴，名片，纸杯...
+				(04-08)
+							<p class="seller">
+					郑州市飞鸿彩印有限公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='21568443345292' wltMark="0" param="21568443345292_30284725_0_commoninfo_E8A93E755C81FDF2F4F08C6460268564"  data-j4fe="15138681538,丁经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=21568443345292&entityType=0&psid=109114776195459455674698056")'>免费预约</a></span>
+		</div>
+	
+</td></tr>	</table>								<!-- =E infolist -->
+					<div id="gjwb_bottom_jz_ad"></div>
+	<div id="bottom_google_ad"></div>
+<div class="pager" >
+	 <strong><span>1</span></strong><a href="/allzhika/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>2</span></a><a class="next" href="/allzhika/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>下一页</span></a>
+</div>
+<div id="infocont">
+	<!--当是健康答疑时，链接变为提问-->
+										<a target="_blank" rel="nofollow" href="http://post.58.com/2344/8692/s5" onclick="clickLog('pc_list_allzhika_bottom_fabu');" >马上发布一条制卡信息&raquo;</a>
+						</div>
+<!--医疗健康判断-->
+		<div id="direct_ad_bottom" onclick="clickLog('from=pc_list_allzhika_bottom_zhineng1');"  ></div>
+	<div id="bottom_zhaoshangjiameng_ad" onclick="clickLog('from=pc_list_allzhika_bottom_tuiguang2');"  ></div>
+
+			</div>
+			<div id="rightframe" class="cright">
+	
+
+			<div class="tuijian" id="ylad" style="display:none"></div>
+							<div id="developmentcontent">
+		
+	</div>
+							<div class="brand_md_tit"><h3><i class="brand_md_tit_i1"></i>名店推荐<i class="brand_md_tit_i2"></i></h3></div>
+	<div id="brand_md"><div id="ad19"  style="display:none"></div></div>
+	<script>
+		$("#brand_md").bind("bindBrandEvent",function(){ 
+            if($('.brand_md200').length > 0){
+				$('.brand_md_tit').show();
+			}
+        }); 
+	</script>
+	</div>	    </section>
+		<div id="wangmeng_list_bottom_ditong" onclick="clickLog('from=pc_list_allzhika_bottom_tuiguang3');"   ></div><section id="links">
+<i class="linksTopline"></i>
+	<!-- =S friendtips -->
+	<dl id="friendtips" class="linksItem friendtips"><dt class="b-left">鹤壁制卡介绍：</dt>
+<dd class="b-right">58同城鹤壁制卡频道是鹤壁最大的制卡信息免费发布查询平台，免费提供智能卡、PVC卡、人像证卡、纸卡等多种类别的鹤壁制卡相关信息，感谢您选择<a href=http://www.58.com/hyzt/allzhika/ target=_blank>制卡</a>信息平台。如有疑问请<a href=http://about.58.com/v5/ target=_blank rel=nofollow>与客服对话</a>。手机版请访问<a href=http://m.58.com/hb/allzhika/>鹤壁制卡</a></dd>
+</dl>
+	<!-- =E friendtips -->
+	<!-- =S relate  -->
+					<!-- =E relate -->
+	<!-- =S relatelink allshangquan-->
+		 	<!-- =E relatelink -->
+	<!-- =S bottomlink-->
+	            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+				制卡- 相关类别：
+			</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://www.58.com/hyzt/zhuce/'>工商注册</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/kuaidi/'>快递公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/huoyun/'>货运物流</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zulin/'>租赁公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/danbaobaoxiantouzi/'>投资担保</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/xitong/'>网络维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/yinshua/'>印刷包装</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zixunzhongjie/'>咨询服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/penhui/'>法律咨询</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/wangzhan/'>网站建设</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiajuweixiu/'>招牌喷绘</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/visa/'>代办签证</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/bgsbwx/'>办公维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/baoxianfuwu/'>保险投保</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zhuangxiujc/'>装修建材</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiaoyu/'>教育培训</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/hunjiehunqing/'>婚庆摄影</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/qichefw/'>汽车服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shop/'>批发采购</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shenghuo/'>家政服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shangwu/'>商务服务</a></li>
+        		        		<li><a href='http://www.58.com/ppb58weixiu2/'>品牌家电维修大全</a></li>
+        		        		<li><a href='http://www.58.com/ppbhyzt1/'>黄页大全</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+		<!-- =E bottomlink -->
+	<!-- =S hotcity-->
+	        <dl class="linksItem hotcity" id="hotcity">
+    	<dt class="b-left">鹤壁制卡周边城市：</dt>
+    	<dd class="b-right">
+    		<ul class="b-ul">
+    			    			<li><a href="http://zz.58.com/allzhika/">郑州制卡</a></li>
+    			    			<li><a href="http://puyang.58.com/allzhika/">濮阳制卡</a></li>
+    			    			<li><a href="http://xx.58.com/allzhika/">新乡制卡</a></li>
+    			    			<li><a href="http://hd.58.com/allzhika/">邯郸制卡</a></li>
+    			    			<li><a href="http://changzhi.58.com/allzhika/">长治制卡</a></li>
+    			    			<li><a href="http://jiaozuo.58.com/allzhika/">焦作制卡</a></li>
+    			    			<li><a href="http://kaifeng.58.com/allzhika/">开封制卡</a></li>
+    			    			<li><a href="http://ay.58.com/allzhika/">安阳制卡</a></li>
+    			    			<li><a href="http://sq.58.com/allzhika/">商丘制卡</a></li>
+    			    		</ul>
+    	</dd>
+    </dl>
+	<!-- =S hotcity -->
+            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+					制卡- 热门城市：
+					</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://bj.58.com/allzhika/'>北京制卡</a></li>
+        		        		<li><a href='http://sh.58.com/allzhika/'>上海制卡</a></li>
+        		        		<li><a href='http://gz.58.com/allzhika/'>广州制卡</a></li>
+        		        		<li><a href='http://sz.58.com/allzhika/'>深圳制卡</a></li>
+        		        		<li><a href='http://tj.58.com/allzhika/'>天津制卡</a></li>
+        		        		<li><a href='http://hz.58.com/allzhika/'>杭州制卡</a></li>
+        		        		<li><a href='http://wh.58.com/allzhika/'>武汉制卡</a></li>
+        		        		<li><a href='http://xa.58.com/allzhika/'>西安制卡</a></li>
+        		        		<li><a href='http://cd.58.com/allzhika/'>成都制卡</a></li>
+        		        		<li><a href='http://zz.58.com/allzhika/'>郑州制卡</a></li>
+        		        		<li><a href='http://cs.58.com/allzhika/'>长沙制卡</a></li>
+        		        		<li><a href='http://nj.58.com/allzhika/'>南京制卡</a></li>
+        		        		<li><a href='http://hrb.58.com/allzhika/'>哈尔滨制卡</a></li>
+        		        		<li><a href='http://sy.58.com/allzhika/'>沈阳制卡</a></li>
+        		        		<li><a href='http://su.58.com/allzhika/'>苏州制卡</a></li>
+        		        		<li><a href='http://sjz.58.com/allzhika/'>石家庄制卡</a></li>
+        		        		<li><a href='http://dl.58.com/allzhika/'>大连制卡</a></li>
+        		        		<li><a href='http://qd.58.com/allzhika/'>青岛制卡</a></li>
+        		        		<li><a href='http://jn.58.com/allzhika/'>济南制卡</a></li>
+        		        		<li><a href='http://cq.58.com/allzhika/'>重庆制卡</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/allzhika/'>制卡</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+	<!-- =E hotcity --> 	<!-- =E hotcity -->
+	<!-- =S friendlink-->
+					<!-- =E friendlink -->
+</section>
+	<footer id="footer" class="footer">
+	    <div id="upWrap"> <a target="_blank" href="http://about.58.com/help.html" rel="nofollow">常见问题</a><span>|</span> <a target="_blank" href="http://about.58.com/" rel="nofollow">帮助中心</a><span>|</span> <a target="_blank" href="http://about.58.com/feedback.html" rel="nofollow">意见反馈</a><span>|</span> <a target="_blank" href="http://about.58.com/home/" rel="nofollow">了解58同城</a><span>|</span> <a target="_blank" href="http://about.58.com/hr/" rel="nofollow">加入58同城</a><span>|</span> <a target="_blank" href="http://fanqizha.58.com/" rel="nofollow">反欺诈联盟</a><span>|</span> <a target="_blank" href="http://110.58.com" rel="nofollow">报案平台</a><span>|</span> <a target="_blank" href="http://e.58.com" rel="nofollow">推广服务</a><span>|</span> <a target="_blank" href="http://biz.58.com" rel="nofollow">渠道招商</a><span>|</span> <a target="_blank" href="http://baozhang.58.com" rel="nofollow">先行赔付</a><span>|</span> <a target="_blank" href="http://ir.58.com?PGTID=0d100000-0000-13da-8041-51f9a3a739fa&amp;ClickID=2" rel="nofollow">Investor Relations</a> </div>
+	    <div id="downWrap"> <em>2005-2016 58.com版权所有</em><span>|</span> <em>京公网备案信息110105000809</em><span>|</span> <a target="_blank" href="http://www.miibeian.gov.cn/" rel="nofollow">京ICP证060405</a><span>|</span><em>乙测资字11018014</em><span>|</span> <a target="_blank" href="http://ir.58.com" rel="nofollow">Investor Relations</a><span>|</span><em>违法信息举报：4008135858&nbsp;&nbsp;jubao@58ganji.com</em> </div>
+	    <div class="fotBtmIcon">
+	        <a target="_blank" id="fotBm_1" href="http://fanqizha.58.com"></a>
+	        <a target="_blank" id="fotBm_2" href="http://www.12377.cn/"></a>
+	        <a target="_blank" id="fotBm_3" href="http://www.12377.cn/node_548446.htm"></a>
+	        <a target="_blank" id="fotBm_4" href="https://credit.szfw.org/CX20120918001650001720.html"></a>
+	        <a target="_blank" id="fotBm_5" href="http://img.58cdn.com.cn/ui6/index/qyxinyong.jpg?v=3"></a>
+	        <a target="_blank" id="fotBm_6" href="http://about.58.com/fqz/index.html"></a>
+	    </div>
+	</footer>
+<script>
+	var currentDate = new Date();
+</script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfc_v20160418145051.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfcInit_v20161121150119.js'></script>
+<script>
+	var jingzhun_ads = [];
+	var jingzhun_ads_param = "";
+</script>
+
+				<script type="text/javascript" src='http://j1.58cdn.com.cn/js/5_1/comm_js/boot_listpage_version_v20170329165708.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript">
+document.domain = '58.com';
+var win = new GetToolTipWindow('tooltipdiv', 'keyword', '3','2344','', true);win.setSearchButton('searchbtn');
+var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','2344','');win1.setSearchButton('searchbtn1');
+var win2 = new GetToolTipWindow('tooltipdiv2', 'mudidi', '7', '2344', '');win2.setSearchButton('searchbtn1');
+boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'hb');});
+</script>
+
+<script type="text/javascript" >
+// JavaScript Document
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	toggle(".p-help");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".small-tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+
+$("#shangmenfw a").each(function(){
+	if("到店服务"== $(this).text().trim()){
+		$(this).remove();
+	}
+});
+
+BAIDU_CLB_fillSlot("567863");
+
+var alldt = $("#relateSelect>dt");
+function showNear(dt){
+    alldt.each(function(){
+        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+        else {$(this).next("dd").hide();$(this).removeClass("select");}
+    });
+}
+alldt.each(function(){
+    $(this).click(function(){showNear(this);}).hover(function(){showNear(this);});
+});
+
+showNear(alldt[0]);
+
+  
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+$(".selector").each(function(){
+	$(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+});
+
+</script>
+
+<div style="display:none;">
+<script type="text/javascript">
+ var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3bb04d7a4ca3846dcc66a99c3e861511' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+</div>
+
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+
+
+			<script type="text/javascript" src='http://j1.58cdn.com.cn/js/v8/boot/boot_huangye_v20170329172410.js'>
+		</script>
+		<script>
+			require(['_pkg/huangye/huangye_shenghuo_list_dom'],function(){});
+		</script>
+	
+<script src="http://track.58.com/adsys/ggafs?rand=20170404"></script>
+<script>
+//统计埋点
+$(function(){
+	$('dl.secitem').each(function(){
+	    var idname = $(this).find("dd").eq(0).attr('id');
+		$(this).find('a').not('span a').each(function(){
+			$(this).click(function(){
+				clickLog('from=pc_list_allzhika_shaixuan_'+idname+ '_hb');
+		    });		
+		});	
+    });	
+})
+</script>
+<script type="text/javascript">
+    $("#more_ObjectType").click(function(){
+    	console.log("ok");
+    	var showmoreBrand = document.getElementById("moreBrandct"),moreBrandbtn = document.getElementById("moreBrandbtn");
+	    showmoreBrand.style.display = (showmoreBrand.style.display=="block")?"none":"block";
+	    moreBrandbtn.className = (moreBrandbtn.className=="moreBrand")?"moreBrand hold":"moreBrand";
+    });
+    var pemorealldt = $("#moreBrandct dt");
+	function showpemorecon(dt){
+		pemorealldt.each(function(){
+		    if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+            else {$(this).next("dd").hide();$(this).removeClass("select");}
+        });
+    }
+    pemorealldt.each(function(){
+		$(this).click(function(){showpemorecon(this);}).hover(function(){showpemorecon(this);});
+    });
+    showpemorecon(pemorealldt[0]);
+</script>
+		<script type="text/javascript">
+function cpcget(url){
+	$.ajax({
+		url:url,
+		type:"get",
+		dataType:"jsonp",
+		success:function(data){
+		
+        }
+    });	
+}
+</script>					<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e15962162366a86a6229038443847be7";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div style="display:none">
+	<script type="text/javascript">
+____json4fe.supplycount = {sortid:'21568443345292'};
+var _gaq = _gaq || [],site_name = "58",post_count = "44",shop_count= "",page_type = "list";
+var _trackURL = "{'cate':'8703,8692','area':'2344','pagetype':'list','GA_pageview':'/hb/shangwu/allzhika/listversion/','version':'A','pagesize':'35','pagenum':'1','level1':'','level2':'','level3':'','level4':'','level5':'','level6':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/hb/shangwu/allzhika/listversion/']);
+
+$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+
+</div>
+<script src="http://wechat.58.com/google-analytics"></script> 				<!-- 抢单神器下线-->
+				<!-- 抢单神器下线-->
+		<!-- 装修搜索弹窗  S -->
+				<!-- 招标弹框start -->
+<link rel="stylesheet" href='http://c.58cdn.com.cn/ds/zhaobiao/pc_search_win/list_win_zb_v20161010135135.css' />
+<script src="http://j1.58cdn.com.cn/ds/zhaobiao/v1/js/fastpost/jquery.md5.js"></script>
+<script>
+ var cityid=2344;
+</script>
+
+        <!-- 招标弹框end -->
+
+
+				<!-- 装修搜索弹窗  E -->
+		<!-- 前置登陆  s -->
+				<!-- 前置登陆  e -->
+	</body>
+</html>

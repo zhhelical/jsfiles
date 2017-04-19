@@ -1,0 +1,1456 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+												<!--  当前的类别归属ID--> 
+		<!--  当前的类别表现ID--> 
+		<!--  当前的类别listname (eg:banjia)--> 
+		<!--  当前的类别catename (eg:搬家)--> 
+		<!--  一级类别归属ID--> 
+		<!--  一级类别表现ID--> 
+		<!--  一级类别listname eg:jiazheng--> 
+		<!--  一级类别catename eg:家政--> 
+		<!--  二级类别归属ID [Ljava.lang.Integer;@20a55697 数字长度：2--> 
+			<!--  二级类别表现ID--> 
+				<!--  二级类别listname eg:jiazhuang--> 
+				<!--  二级类别catename eg:家装-->
+				<!-- 表现类别的全路径   eg:8512,96-->
+									
+						<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>【58同城】济源家具维修_济源家具翻新补漆</title>
+	<meta name="description" content='58同城济源家具维修频道是最大的济源家具维修免费信息发布、查阅平台。每天都有大量真实优秀的商家提供济源家具维修,家具翻新,家具拆装信息大家选择，同时您可以免费发布济源家具维修信息。-58.com'/>
+	<meta name="keywords" content='济源家具维修,济源家具翻新,济源家具补漆'/>
+	<meta http-equiv="X-UA-Compatible" content="edge" />
+		<meta name="location" content="province=河南;city=济源;coord=112.405268,35.105365">
+				<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/jiyuan/jiajuweixiu/" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/jiyuan/jiajuweixiu/" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/jiyuan/jiajuweixiu/" />
+					<script type="text/javascript">
+		var ____loadCfg = ['huangye', 'shenghuo', 'listpage'];
+	</script>
+	<script src='http://j2.58cdn.com.cn/js/require_jquery_load.js'></script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">document.write('<scri'+'pt src="http://j1.58cdn.com.cn/ds/tgbrand/js/brand_listpage_v1.js?temp=' + Math.random() + '"></scri'+'pt>');</script> 
+<script type="text/javascript">
+	var xxfwConfig = {namespace:'huangyelistpc'};
+</script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/resource/xxzl/xxfw/xxfw.min_v20161021110430.js'></script>
+
+<script type="text/javascript">
+try{
+	var ____json4fe = {"catentry":[{"dispid":"8512","name":"家政服务","listname":"shenghuo"},{"dispid":"8558","name":"家具维修","listname":"jiajuweixiu"}],"locallist":[{"dispid":"9918","name":"济源","listname":"jiyuan"}],"start":(new Date()).getTime(),"modules":"list"};
+	____json4fe.version = 'A';
+	____json4fe.modules = 'listpage';
+	____json4fe.sid = '170758278195460308433780819';
+	____json4fe.sessionid = '2d224db2-20ef-40d7-9bc7-353efe5697e9';
+	____json4fe.smsc = 'e79814be33df51a96fd432d1db7f3eb8dc5fa55970131e7dca1148c1c633efdab34ee4bb723fcd7026eeb8d7aca3221bd4d198f0cfc3d6b6fbebebf8c7d0f135cd5ef1d8dc27d51e0e4f4ca411e9c9a45717686ebcb977438131871413d46005ee6a12b4496c2a261e917641cfd5c0c6816b8d8940e8f6675685a34f50c8eb901bb74aa0f8cb324121b4e34a7c21e015de551c04a8e07f53';
+	____json4fe.newcateid='';
+	____json4fe.keyword='';
+	____json4fe.page='1';
+	____json4fe.param='';
+	}catch(e){};
+	(function(){
+var e = "header,nav,section,aside,article,footer".split(','),
+i=0,
+length=e.length;
+while(i<length){
+    document.createElement(e[i++])
+}
+})();
+	var ajax_param = '{"platform":"pc","dispCateId":8558,"pageIndex":1,"infoMethod":["renzheng","baojia","wltAge"],"dataParam":"29296104115125_28487131103494_0_commoninfo,25324102126776_37090852133655_0_commoninfo,29590937015606_45550476736272_0_commoninfo,24399574567360_20037466073607_0_commoninfo,19410727637257_26162155329799_0_commoninfo,19576738224517_18620927387911_0_commoninfo,29469488278582_38729067774998_0_commoninfo,28700821190703_32911548247819_0_commoninfo,29474832381245_23664647676422_0_commoninfo,24275653846200_33390042502662_0_commoninfo,29217801263147_45776446188819_0_commoninfo,29094354183098_37840946259728_0_commoninfo,28623643711560_35448206961174_0_commoninfo,28378475983043_40601442256141_0_commoninfo,21808066303904_30956772283146_0_commoninfo,14169280864007_49116853_0_commoninfo,27714051758280_42768018004246_0_commoninfo,27713564907835_39248652664342_0_commoninfo,27661582019024_32765139349513_0_commoninfo,27593378913727_41704649508887_0_commoninfo,27462407838900_42265609593878_0_commoninfo,26908234357292_40508670368782_0_commoninfo,24990679318461_37308593508879_0_commoninfo,26630215745605_33966628710409_0_commoninfo,25432685169731_35894451065110_0_commoninfo,26120755146290_10474406032903_0_commoninfo,25920000409150_38240656578583_0_commoninfo,25720805225525_38729013152526_0_commoninfo,25581167173935_35385710037262_0_commoninfo,29296091352136_28487131103494_0_commoninfo,29560443838658_45550476736272_0_commoninfo,29296091352136_28487131103494_0_promationinfo,26908234357292_40508670368782_0_promationinfo,29296104115125_28487131103494_0_promationinfo,26908088245046_40508670368782_0_promationinfo","dispCateName":"jiajuweixiu","paramMap":null}';
+	var s_ajax_param = 's_contact_jiajuweixiu_170758278195460308433780819_';
+</script>				<link href='http://c.58cdn.com.cn/ds/v1/base-v1_v0.css' rel="stylesheet" type="text/css">
+	<link href='http://c.58cdn.com.cn/ds/v1/common_list_v20170315183710.css' rel="stylesheet" type="text/css">
+<link href='http://c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20170331140927.css' rel="stylesheet" type="text/css">
+
+
+		<link href='http://c.58cdn.com.cn/ds/v1/list/defaultList_v20170220190119.css' rel="stylesheet" type="text/css">
+	<!-- <link rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv02_v0.css'> -->
+<link type="text/css" rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03_v20160727171301.css'>
+<!-- <link type="text/css" rel="stylesheet" href="http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03.css"> -->
+
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/dialog_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/release_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/retable_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/weixin/hy_freetel_v20161207184444.css">	
+    		</head>
+			<body class="">
+						<!-- =S top bar header -->
+			<div id="commonTopbar" class="commonTopbar">
+<script type="text/javascript">
+    var secId;
+        ____json4fe.catentry[1]? secId = ____json4fe.catentry[1].dispid : secId = ____json4fe.catentry.dispid;
+    var modules = ____json4fe.modules;
+    //搬家列表页(secId == "96" && modules=="listpage")宽度为1190px
+    if(secId == "96" && modules=="listpage"){
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'default' // default: 1190px, narrow: 1000px
+            });
+        };
+    }else{
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'narrow' // default: 1190px, narrow: 1000px
+            });
+        };
+    }    
+</script>
+</div>
+<!-- =S banner  div -->
+<div class="topbannerbar"><div id="brand_list_top_banner" onclick="clickLog('from=pc_list_jiajuweixiu_top_banner');" ></div></div>
+<!-- =E banner  div--><header id="header">
+    <div class="header-inner">
+    <a class="logo float_l" href="/huangye/" target="_blank" onclick="clickLog('from=pc_list_logo_jiajuweixiu');">58同城</a>
+            <a href='http://post.58.com/9918/8558/s5' target="_blank" onclick="clickLog('from=pc_list_fabu_jiajuweixiu');" class="postbtn float_r">免费发布</a>
+        		        <div class="header-search float_r">
+         <em class="ico-searchkey"></em>
+         <form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+         	            	<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();">
+                        <span onMouseOut="this.className='sbtn'" onMouseOver="this.className='sbtn hover'" class="sbtn">
+                			<input type="submit" value="搜服务" onclick="clickLog('from=pc_list_search_jiajuweixiu');" class="but-bl" name="" id="searchbtn1" ></span>
+                		        		<div class="clear"></div>
+        					       		       	  </form>
+       	</div>
+		            	<div class="nav float_l" >
+	<a href="/">济源58同城</a> &gt; <a href="/shenghuo.shtml">济源家政服务</a>
+				 &gt; <a href="/jiajuweixiu/" itemprop="url">济源家具维修</a>
+	
+
+</div>
+	</div>
+</header>
+		<!-- =E top bar header -->
+	<!-- =S common_column_label-->
+			<!-- =E common_column_label-->
+	<!-- =S searchTip -->
+			<!-- =E searchTip  -->
+	<!-- =s cmcs -->
+							<section id="selection">
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">类别 ：</dt>
+		<dd id="ObjectType" >
+																    		    		    		    					<a href="/jiajuweixiu/" class='select' >全部</a>
+								    		    		    		    					<a href="http://jiyuan.58.com/jiasiweixiu/"  >桌椅柜维修</a>
+								    		    		    		    					<a href="http://jiyuan.58.com/dibanweixiu/"  >地板维修</a>
+								    		    		    		    					<a href="http://jiyuan.58.com/zhongbiaowx/"  >钟表维修</a>
+								    		    		    		    					<a href="http://jiyuan.58.com/bgjjwx/"  >办公家具维修</a>
+								    		    		    		    					<a href="http://jiyuan.58.com/shafahuli/"  >沙发维修护理</a>
+															    					    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">服务区域  ：</dt>
+		<dd id="local" >
+																    		    		    		    					<a href="/jiajuweixiu/" class='select' >全济源</a>
+								    		    		    		    					<a href="/shuangqiaojd/jiajuweixiu/"  >双桥街道</a>
+								    		    		    		    					<a href="/jishuijd/jiajuweixiu/"  >济水街道</a>
+								    		    		    		    					<a href="/beihaijd/jiajuweixiu/"  >北海街道</a>
+								    		    		    		    					<a href="/tiantanjd/jiajuweixiu/"  >天坛街道</a>
+								    		    		    		    					<a href="/longquanjd/jiajuweixiu/"  >龙泉街道</a>
+								    		    		    		    					<a href="/jiyuanzb/jiajuweixiu/"  >济源周边</a>
+																									    	</dd>
+    </dl>
+	<div id="selected" class="bar"></div>
+	<i class="shadow"></i>
+</section>
+
+			<!-- =E cmcs -->
+		<div id="adtop_1" class="hc"><div class="mouter defa"><div class="inner"><div id="md3" class="mdul"></div><ul id="md1" class="mdul"></ul><ul id="md2" class="mdul"></ul><ul id="md4" class="mdul"></ul><ul id="md5" class="mdul"></ul><div class="clear"></div></div></div></div>
+<div class="tabsbar">
+    <div class="list-tabs">
+												<a href="/jiajuweixiu/" onclick="clickLog('from=pc_list_jiajuweixiu_list_tabs');" class="sel"><h1>济源家具维修</h1></a>
+											</div>
+	 	    	                	        
+
+		
+	
+				<span class="zhaobiao" >
+			<a href="http://bianmin.58.com/jiyuan/?from=pc_list_bianmin_wzl"
+			   target="_blank" >学习办事经验，解决办证难题</a>
+		</span>
+		
+			
+
+
+</div>
+ 				<section id="mainlist" class="main clearfix pr">
+					<div class="filterbar h28">
+    <div class="filterbar-l">
+			<!-- <div class="filterup" id="filterup">
+				 <a class="m1" title="找班级" href="#" rel="nofollow" onclick=""><span>找班级<em></em></span></a>
+				 <a class="m1" title="找拼友" href="#" rel="nofollow" onclick=""><span>找拼友<em></em></span></a>
+			</div>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">全部</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示教育机构</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示个人教师</a></span> -->
+				<div class="filterup" id="filterup">
+			 <a class="m1 sel" title="默认" href="#" rel="nofollow" onclick="g2({sort:null}); clickLog('from=huangye_list_moren_jiajuweixiu_jiyuan&psid=170758278195460308433780819'); "><span>默认排序<em></em></span></a>
+											</div>
+														<span class="checkbox-ico" id="renzheng"><a href="javascript:void(0);" onclick="clickLog('from=List_sort_jiajuweixiu__zhikanrenzheng');">只看认证</a></span>
+									
+									</div>  
+     <div class="filterbar-md">
+    	    	<!-- 加入医疗健康判断-->
+    	    		    		        		       <a class="mdtj" style="display:inline-block;" rel="nofollow" target="_blank" href="http://e.58.com/shenghuo.html" onClick="clickLog('from=huangye_zhaoshang&psid=170758278195460308433780819');">想提升接单效果，请致电4008107258</a>
+    		        		    	
+				   </div>        
+</div>
+					<div id="infolist" class="cleft" >
+				<!-- =S infolist -->
+									<div id="top_google_ad"></div>
+<table class="small-tbimg" cellspacing="0" cellpadding="0" >
+							<tr logr='j_2_28487131103494_29296091352136_3' infotag="29296091352136_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_promationinfo_tupian&entityId=29296091352136&entityType=0&psid=170758278195460308433780819');">
+		<div>
+			<a href='http://jiyuan.58.com/jiajuweixiu/29296091352136x.shtml?psid=170758278195460308433780819&entinfo=29296091352136_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic6.58cdn.com.cn/p1/tiny/n_v1bkuymc5hoc7fqbj4obpq.jpg' alt='千城家具维修售后服务中心' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://jiyuan.58.com/jiajuweixiu/29296091352136x.shtml?psid=170758278195460308433780819&entinfo=29296091352136_0' target="_blank" class="t" >济源千城维修:专业提供家具补漆,皮革维修,物流损坏</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='511' -->
+		            				<br />
+									    		济源千城家具维修售后服务中心，为您提供优质的维修服务！咨询电...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://qcjjwxfw.5858.com?psid=170758278195460308433780819&entinfo=29296091352136_0" onClick="clickLog('from=List_wangzhan&entityId=29296091352136&entityType=0&psid=170758278195460308433780819');" target='_blank' class='u' rel="nofollow">千城家具维修售后服务中心</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='29296091352136' wltMark="2" param="29296091352136_28487131103494_0_promationinfo_4B45672CAF5015294388B113ACFFEFDA" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29296091352136&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_40508670368782_26908234357292_3' infotag="26908234357292_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_promationinfo_tupian&entityId=26908234357292&entityType=0&psid=170758278195460308433780819');">
+		<div>
+			<a href='http://jiyuan.58.com/jiajuweixiu/26908234357292x.shtml?psid=170758278195460308433780819&entinfo=26908234357292_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic6.58cdn.com.cn/p2/tiny/n_v1bl2lwxttysqvonbkbmga.jpg' alt='无忧家具维修售后服务' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://jiyuan.58.com/jiajuweixiu/26908234357292x.shtml?psid=170758278195460308433780819&entinfo=26908234357292_0' target="_blank" class="t" >济源家具服务中心:家具补漆,皮革维修翻新,配送安装</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='511' -->
+		            				<br />
+									    		济源无忧家具售后维修中心，为您提供较优质的配送安装，维修服务...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://wyjjwx.5858.com?psid=170758278195460308433780819&entinfo=26908234357292_0" onClick="clickLog('from=List_wangzhan&entityId=26908234357292&entityType=0&psid=170758278195460308433780819');" target='_blank' class='u' rel="nofollow">无忧家具维修售后服务</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='26908234357292' wltMark="2" param="26908234357292_40508670368782_0_promationinfo_1F8A25CF3D2FFE971C194C4D4F7330C4" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26908234357292&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_28487131103494_29296104115125_3' infotag="29296104115125_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_promationinfo_tupian&entityId=29296104115125&entityType=0&psid=170758278195460308433780819');">
+		<div>
+			<a href='http://jiyuan.58.com/jiajuweixiu/29296104115125x.shtml?psid=170758278195460308433780819&entinfo=29296104115125_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic7.58cdn.com.cn/p1/tiny/n_v1bl2lwwpjoc7frsillbaa.jpg' alt='千城家具维修售后服务中心' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://jiyuan.58.com/jiajuweixiu/29296104115125x.shtml?psid=170758278195460308433780819&entinfo=29296104115125_0' target="_blank" class="t" >千城全能网购维修:提供家具补漆,皮革维修,物流损坏</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='511' -->
+		            				<br />
+									    		千城多年来，以丰富的经验、过硬的技术，合理的价格，为企、事业...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://qcjjwxfw.5858.com?psid=170758278195460308433780819&entinfo=29296104115125_0" onClick="clickLog('from=List_wangzhan&entityId=29296104115125&entityType=0&psid=170758278195460308433780819');" target='_blank' class='u' rel="nofollow">千城家具维修售后服务中心</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='29296104115125' wltMark="2" param="29296104115125_28487131103494_0_promationinfo_64404F65705DFDF08122C4181E96D694" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29296104115125&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_40508670368782_26908088245046_3' infotag="26908088245046_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_promationinfo_tupian&entityId=26908088245046&entityType=0&psid=170758278195460308433780819');">
+		<div>
+			<a href='http://jiyuan.58.com/jiajuweixiu/26908088245046x.shtml?psid=170758278195460308433780819&entinfo=26908088245046_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic6.58cdn.com.cn/p2/tiny/n_v1bl2lwxttysqvonbkbmga.jpg' alt='无忧家具维修售后服务' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://jiyuan.58.com/jiajuweixiu/26908088245046x.shtml?psid=170758278195460308433780819&entinfo=26908088245046_0' target="_blank" class="t" >济源家具服务中心:家具补漆,皮革维修翻新,配送安装</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='511' -->
+		            				<br />
+									    		无忧家具售后维修中心联系人： 金师傅联系电话： 170658...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://wyjjwx.5858.com?psid=170758278195460308433780819&entinfo=26908088245046_0" onClick="clickLog('from=List_wangzhan&entityId=26908088245046&entityType=0&psid=170758278195460308433780819');" target='_blank' class='u' rel="nofollow">无忧家具维修售后服务</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='26908088245046' wltMark="2" param="26908088245046_40508670368782_0_promationinfo_1F8A25CF3D2FFE971C194C4D4F7330C4" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26908088245046&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_2_28487131103494_29296104115125_0' infotag="29296104115125_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">曹师傅 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/29296104115125x.shtml?psid=170758278195460308433780819&entinfo=29296104115125_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			千城全能网购维修:提供家具补漆,皮革维修,物流损坏
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												千城多年来，以丰富的经验、过硬的技术，合理的价格，为企、事业单位、宾馆...
+				(03-07)
+							<p class="seller">
+			<a href="http://qcjjwxfw.5858.com?psid=170758278195460308433780819&entinfo=29296104115125_0" onClick="clickLog('from=List_wangzhan&entityId=29296104115125&entityType=0&psid=170758278195460308433780819');" target='_blank' class='u' rel="nofollow">千城家具维修售后服务中心</a>
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='29296104115125' wltMark="2" param="29296104115125_28487131103494_0_commoninfo_64404F65705DFDF08122C4181E96D694" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29296104115125&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37090852133655_25324102126776_0' infotag="25324102126776_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">崔师傅 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/25324102126776x.shtml?psid=170758278195460308433780819&entinfo=25324102126776_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			精装家具服务中心(一站式配送安维)
+		</a>
+						<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												济源市专业精装家具服务中心！是一家专业从事网购家具的配送安装维修于一体...
+				(15小时)
+							<p class="seller">
+					清***0
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25324102126776' wltMark="0" param="25324102126776_37090852133655_0_commoninfo_43EAF0D581B994899A5B92D6A2E60299"  data-j4fe="15670912619,崔师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25324102126776&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_45550476736272_29590937015606_0' infotag="29590937015606_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">穆师傅 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/29590937015606x.shtml?psid=170758278195460308433780819&entinfo=29590937015606_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			家具维修美容为一体专门维修一些疑难杂问题，
+		</a>
+						<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												本人经验丰富从业十多年了，专门维修高档家居，和沙发，
+				(17小时)
+							<p class="seller">
+					z***3
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29590937015606' wltMark="0" param="29590937015606_45550476736272_0_commoninfo_5D0A469CA54233FD334E3D850DE60BC5"  data-j4fe="15639133560,穆师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29590937015606&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_20037466073607_24399574567360_0' infotag="24399574567360_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">任龙江 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/24399574567360x.shtml?psid=170758278195460308433780819&entinfo=24399574567360_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			精艺家具服务中心（一站式配安维）
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												济源市精艺家具服务中心！是一家专业从事网购家具的配送安装维修于一体的专...
+				(04-01)
+							<p class="seller">
+					家具美容
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='24399574567360' wltMark="0" param="24399574567360_20037466073607_0_commoninfo_2B7E116BC93322EB731E6260F25FE750"  data-j4fe="15938139005,任龙江" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24399574567360&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_26162155329799_19410727637257_0' infotag="19410727637257_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王师傅 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/19410727637257x.shtml?psid=170758278195460308433780819&entinfo=19410727637257_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			家具维修 沙发维修 家具提货配送安装 家具贴膜
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												家具维修：各种红木家具 实木家具 欧式家具 韩式家具 办公家具 高档木...
+				(04-01)
+							<p class="seller">
+					r***6
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='19410727637257' wltMark="0" param="19410727637257_26162155329799_0_commoninfo_7A97631A6EDA102A02A5695F2995574C"  data-j4fe="15503905441,王师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=19410727637257&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_18620927387911_19576738224517_0' infotag="19576738224517_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李师傅 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/19576738224517x.shtml?psid=170758278195460308433780819&entinfo=19576738224517_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			j家具维修 沙发维修 大理石维修 家具提货配送安装
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												家具维修：各种 实木家具 红木家具 欧式家具 美式家具 韩式家具 办公...
+				(04-01)
+							<p class="seller">
+					r***3
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='19576738224517' wltMark="0" param="19576738224517_18620927387911_0_commoninfo_F34D5104C261511B0C2FC95447989100"  data-j4fe="15514703819,李师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=19576738224517&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_38729067774998_29469488278582_0' infotag="29469488278582_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">韩师傅 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/29469488278582x.shtml?psid=170758278195460308433780819&entinfo=29469488278582_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			维修各种家具/安装家具/搬家
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												专业维修各种各样的家具，专业安装网购家具，专业拆装家具，搬家。
+				(03-29)
+							<p class="seller">
+					乐***3
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29469488278582' wltMark="0" param="29469488278582_38729067774998_0_commoninfo_3FD1F96A14F1C18A390168576EBCE9C9"  data-j4fe="15670900281,韩师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29469488278582&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_32911548247819_28700821190703_0' infotag="28700821190703_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王徳闯 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/28700821190703x.shtml?psid=170758278195460308433780819&entinfo=28700821190703_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			济源专业翻新沙发
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												沙发换面，换海绵，皮革，布料，高中低档面料，价格合理，诚信经营
+				(03-29)
+							<p class="seller">
+					1***k
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28700821190703' wltMark="0" param="28700821190703_32911548247819_0_commoninfo_DB5AC9C8EFB6A5188C8CBA445029E279"  data-j4fe="17703771281,王徳闯" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28700821190703&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_23664647676422_29474832381245_0' infotag="29474832381245_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李银正 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/29474832381245x.shtml?psid=170758278195460308433780819&entinfo=29474832381245_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			专业搬家，组装家具及维修
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												专业搬家，组装网购，郑州购买的家具及维修，拆装沙发，办公，民用家具及搬...
+				(03-23)
+							<p class="seller">
+					s***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29474832381245' wltMark="0" param="29474832381245_23664647676422_0_commoninfo_5F34815B6A42F599F6F180AB725D12F8"  data-j4fe="15565626765,李银正" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29474832381245&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_33390042502662_24275653846200_0' infotag="24275653846200_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刘总 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/24275653846200x.shtml?psid=170758278195460308433780819&entinfo=24275653846200_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			刘师傅专业家具安装维修团队
+		</a>
+						<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												本公司专业从事各类型 家具安装 运输 上楼 维修翻新 保养 贴膜为一体...
+				(03-09)
+							<p class="seller">
+					克*茜
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='24275653846200' wltMark="0" param="24275653846200_33390042502662_0_commoninfo_6AFFC854B08A55498B2C46BA0D9AED57"  data-j4fe="18603899790,刘总" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24275653846200&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_45776446188819_29217801263147_0' infotag="29217801263147_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">牛女士 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/29217801263147x.shtml?psid=170758278195460308433780819&entinfo=29217801263147_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			实木带软包的餐椅更换皮革
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												实木餐椅上的黑白相间的皮革软包需要更换，能做的师傅请联系我
+				(02-28)
+							<p class="seller">
+					h***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29217801263147' wltMark="0" param="29217801263147_45776446188819_0_commoninfo_FE0C0A537DD76E5DC05D28D844ABCFD9"  data-j4fe="13949693448,牛女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29217801263147&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37840946259728_29094354183098_0' infotag="29094354183098_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">穆师傅 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/29094354183098x.shtml?psid=170758278195460308433780819&entinfo=29094354183098_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			家具美容维修为一体
+		</a>
+						<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												本人以家居维修美容服务为一体，
+				(02-17)
+							<p class="seller">
+					1***v
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29094354183098' wltMark="0" param="29094354183098_37840946259728_0_commoninfo_80C6CC44B8274E406E1DE959C69DEF30"  data-j4fe="17737333550,穆师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29094354183098&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_35448206961174_28623643711560_0' infotag="28623643711560_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王经理 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/28623643711560x.shtml?psid=170758278195460308433780819&entinfo=28623643711560_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			济源专业翻新沙发
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												包沙发，翻新沙发，包床，包床头承包网吧、KTV、酒店、酒吧、洗浴中心、...
+				(01-05)
+							<p class="seller">
+					1***v
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28623643711560' wltMark="0" param="28623643711560_35448206961174_0_commoninfo_360E0B89586C068977886EB100782213"  data-j4fe="18903920812,王经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28623643711560&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_40601442256141_28378475983043_0' infotag="28378475983043_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">牟师傅 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/28378475983043x.shtml?psid=170758278195460308433780819&entinfo=28378475983043_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			家具美容维修为一体
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												真诚为你服务，本人有着丰富的修复经验，
+				(12-14)
+							<p class="seller">
+					1***e
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28378475983043' wltMark="0" param="28378475983043_40601442256141_0_commoninfo_80C6CC44B8274E406E1DE959C69DEF30"  data-j4fe="17737333550,牟师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28378475983043&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_30956772283146_21808066303904_0' infotag="21808066303904_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">舒师傅 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/21808066303904x.shtml?psid=170758278195460308433780819&entinfo=21808066303904_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			沙发维修翻新、卡座订做维修以及各种软包背景墙制作
+		</a>
+						<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												本店承接酒店、KTV、酒吧、网吧、宾馆、休闲中心等等各种企业单位以及私...
+				(12-12)
+							<p class="seller">
+					j***4
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='21808066303904' wltMark="0" param="21808066303904_30956772283146_0_commoninfo_2DE83CF1BA3624489C1CC8E4B341F154"  data-j4fe="13233937659,舒师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=21808066303904&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_49116853_14169280864007_0' infotag="14169280864007_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">师傅 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/14169280864007x.shtml?psid=170758278195460308433780819&entinfo=14169280864007_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			专业家具维修安装
+		</a>
+							<span class='tu'>[13图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												主要维修 实木门,铝合金门,装家具 维修真皮沙发,沙发护理,实木家具维...
+				(11-10)
+							<p class="seller">
+					左右沙发
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='14169280864007' wltMark="0" param="14169280864007_49116853_0_commoninfo_1CA42963BD6C00875E3776B04290D7A5"  data-j4fe="18839011799,师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=14169280864007&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_42768018004246_27714051758280_0' infotag="27714051758280_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李德红 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/27714051758280x.shtml?psid=170758278195460308433780819&entinfo=27714051758280_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			济源搬家
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												​专业组装家具，办公家具，搬家，拆装家具，上门服务，济源市以内的都可以...
+				(10-15)
+							<p class="seller">
+					q***s
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27714051758280' wltMark="0" param="27714051758280_42768018004246_0_commoninfo_07FAF7855AAAD4C7AE4A95BC912ADF40"  data-j4fe="13569165833,李德红" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27714051758280&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39248652664342_27713564907835_0' infotag="27713564907835_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">赵经理 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/27713564907835x.shtml?psid=170758278195460308433780819&entinfo=27713564907835_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			BOSH美缝产品，欧耐尔陶瓷胶招代理
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												提升室内装修效果，美化居住环境，卫浴封边，地脚线美化，装修材料1：产品...
+				(10-15)
+							<p class="seller">
+					f***7
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27713564907835' wltMark="0" param="27713564907835_39248652664342_0_commoninfo_6D6D67D99225B9A300911488780F3E8E"  data-j4fe="18519702717,赵经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27713564907835&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_32765139349513_27661582019024_0' infotag="27661582019024_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刘海波 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/27661582019024x.shtml?psid=170758278195460308433780819&entinfo=27661582019024_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			专业安装家具
+		</a>
+						<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												橱柜，衣柜安装及维修。家用电器安装。
+				(10-10)
+							<p class="seller">
+					o***2
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27661582019024' wltMark="0" param="27661582019024_32765139349513_0_commoninfo_28A1E2809FD0F81EE1A0716648B34330"  data-j4fe="15939194136,刘海波" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27661582019024&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_41704649508887_27593378913727_0' infotag="27593378913727_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">梁总 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/27593378913727x.shtml?psid=170758278195460308433780819&entinfo=27593378913727_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			华昶汽车俱乐部网上商城招商
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												一．招商目的：合作共赢，共同发展！二．项目介绍：以整合汽车资源、为车主...
+				(10-04)
+							<p class="seller">
+					w***3
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27593378913727' wltMark="0" param="27593378913727_41704649508887_0_commoninfo_80A7B6A4C02D54D97AFC93CAD1FF9993"  data-j4fe="0391-6600166,梁总" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27593378913727&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_42265609593878_27462407838900_0' infotag="27462407838900_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李军 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/27462407838900x.shtml?psid=170758278195460308433780819&entinfo=27462407838900_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			济源**专业甲醛检测机构
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												专业室内甲醛检测，济源**专业机构
+				(09-22)
+							<p class="seller">
+					7***e
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27462407838900' wltMark="0" param="27462407838900_42265609593878_0_commoninfo_FEC3B7563952EAC4DD25BD35B3C52272"  data-j4fe="13298396664,李军" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27462407838900&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_2_40508670368782_26908234357292_0' infotag="26908234357292_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">金师傅 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/26908234357292x.shtml?psid=170758278195460308433780819&entinfo=26908234357292_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			济源家具服务中心:家具补漆,皮革维修翻新,配送安装
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												济源无忧家具售后维修中心，为您提供较优质的配送安装，维修服务！忠于商家...
+				(08-03)
+							<p class="seller">
+			<a href="http://wyjjwx.5858.com?psid=170758278195460308433780819&entinfo=26908234357292_0" onClick="clickLog('from=List_wangzhan&entityId=26908234357292&entityType=0&psid=170758278195460308433780819');" target='_blank' class='u' rel="nofollow">无忧家具维修售后服务</a>
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='26908234357292' wltMark="2" param="26908234357292_40508670368782_0_commoninfo_1F8A25CF3D2FFE971C194C4D4F7330C4" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26908234357292&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37308593508879_24990679318461_0' infotag="24990679318461_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小张 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/24990679318461x.shtml?psid=170758278195460308433780819&entinfo=24990679318461_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			小张维修木家具，木门，皮革家具·各种家具配送安装
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												各种门，门窗套线，木质踢脚线，各种板木家具，实木家具维修，大理石修补，...
+				(07-29)
+							<p class="seller">
+					1***j
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='24990679318461' wltMark="0" param="24990679318461_37308593508879_0_commoninfo_96D71E8D5C38A25D1323F9E251CFC431"  data-j4fe="18239095535,小张" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24990679318461&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_33966628710409_26630215745605_0' infotag="26630215745605_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">牟先生 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/26630215745605x.shtml?psid=170758278195460308433780819&entinfo=26630215745605_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			专业家具维修师傅还你一个温馨的家！
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												专业维修，各种高中档家具，本人经过专业家具维修学校培训，在高档家具的维...
+				(07-09)
+							<p class="seller">
+					w***6
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26630215745605' wltMark="0" param="26630215745605_33966628710409_0_commoninfo_A20827F6B15B781494F88E069A59B3A9"  data-j4fe="13703893836,牟先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26630215745605&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_35894451065110_25432685169731_0' infotag="25432685169731_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">崔师傅 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/25432685169731x.shtml?psid=170758278195460308433780819&entinfo=25432685169731_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			专业拆装，运输家具
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												网购、办公、民用家具全程服务（安装．拆．运．维护．修复等）
+				(06-26)
+							<p class="seller">
+					1***i
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25432685169731' wltMark="0" param="25432685169731_35894451065110_0_commoninfo_8E22385877E8DC4209C48A697D8E01D3"  data-j4fe="13903898476,崔师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25432685169731&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_10474406032903_26120755146290_0' infotag="26120755146290_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刘经理 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/26120755146290x.shtml?psid=170758278195460308433780819&entinfo=26120755146290_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			想赚钱找同城贷，同城贷圆您发财梦
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												在古代要想取得较后的胜利需要靠的是天时地利人和这三者都是缺一不可。同样...
+				(05-24)
+							<p class="seller">
+					l***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26120755146290' wltMark="0" param="26120755146290_10474406032903_0_commoninfo_27D3C91A0651D46870DE64722F626CE4"  data-j4fe="18963660275,刘经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26120755146290&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_38240656578583_25920000409150_0' infotag="25920000409150_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小伟 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/25920000409150x.shtml?psid=170758278195460308433780819&entinfo=25920000409150_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			专业安装.维修
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												家装上门服务.，主要服务项目：全套家具安装，洁具安装和整体橱柜安装，我...
+				(05-06)
+							<p class="seller">
+					1***u
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25920000409150' wltMark="0" param="25920000409150_38240656578583_0_commoninfo_D3CB40F31E45F22BEF6D3FF03A0F03C1"  data-j4fe="15239791016,小伟" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25920000409150&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_38729013152526_25720805225525_0' infotag="25720805225525_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">韩先生 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/25720805225525x.shtml?psid=170758278195460308433780819&entinfo=25720805225525_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			专业安装傢具及搬家
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												专业安装傢具，拆装傢具配送货物上门服务及搬家
+				(04-18)
+							<p class="seller">
+					1***r
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25720805225525' wltMark="0" param="25720805225525_38729013152526_0_commoninfo_3FD1F96A14F1C18A390168576EBCE9C9"  data-j4fe="15670900281,韩先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25720805225525&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_35385710037262_25581167173935_0' infotag="25581167173935_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+				<a href='http://jiyuan.58.com/jiajuweixiu/25581167173935x.shtml?psid=170758278195460308433780819&entinfo=25581167173935_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			专业经营品牌太阳能，净水机及维修
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												专业实体店维修，品牌产品，欢迎百度
+				(04-05)
+							<p class="seller">
+					t***1
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25581167173935' wltMark="0" param="25581167173935_35385710037262_0_commoninfo_B8D935E52A5A7AA31B3B8377B1DBD23B"  data-j4fe="13782708568," >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25581167173935&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_2_28487131103494_29296091352136_0' infotag="29296091352136_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">徐师傅 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/29296091352136x.shtml?psid=170758278195460308433780819&entinfo=29296091352136_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			济源千城维修:专业提供家具补漆,皮革维修,物流损坏
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												济源千城家具维修售后服务中心，为您提供优质的维修服务！咨询电话：173...
+				(03-07)
+							<p class="seller">
+			<a href="http://qcjjwxfw.5858.com?psid=170758278195460308433780819&entinfo=29296091352136_0" onClick="clickLog('from=List_wangzhan&entityId=29296091352136&entityType=0&psid=170758278195460308433780819');" target='_blank' class='u' rel="nofollow">千城家具维修售后服务中心</a>
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='29296091352136' wltMark="2" param="29296091352136_28487131103494_0_commoninfo_4B45672CAF5015294388B113ACFFEFDA" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29296091352136&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_45550476736272_29560443838658_0' infotag="29560443838658_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">穆师傅 : </b>
+				<a href='http://jiyuan.58.com/jiajuweixiu/29560443838658x.shtml?psid=170758278195460308433780819&entinfo=29560443838658_0' onclick="clickLog('from=pc_list_jiajuweixiu_xinxi_commoninfo_jiyuan');" target="_blank" class="t" >
+			家具美容维修为一体
+		</a>
+						<!-- cxsjstate='false',dispCateID='511' -->
+		    	        		<br />
+												家具美容维修为一体服务周到价格合理
+				(03-31)
+							<p class="seller">
+					z***3
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29560443838658' wltMark="0" param="29560443838658_45550476736272_0_commoninfo_5D0A469CA54233FD334E3D850DE60BC5"  data-j4fe="15639133560,穆师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29560443838658&entityType=0&psid=170758278195460308433780819")'>免费预约</a></span>
+		</div>
+	
+</td></tr>	</table>								<!-- =E infolist -->
+					<div id="gjwb_bottom_jz_ad"></div>
+	<div id="bottom_google_ad"></div>
+<div class="pager" >
+	 <strong><span>1</span></strong><a href="/jiajuweixiu/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>2</span></a><a href="/jiajuweixiu/pn3/" onClick="clickLog('from=huangye_list_fanye_3');"><span>3</span></a><a href="/jiajuweixiu/pn4/" onClick="clickLog('from=huangye_list_fanye_4');"><span>4</span></a><a class="next" href="/jiajuweixiu/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>下一页</span></a>
+</div>
+<div id="infocont">
+	<!--当是健康答疑时，链接变为提问-->
+										<a target="_blank" rel="nofollow" href="http://post.58.com/9918/8558/s5" onclick="clickLog('pc_list_jiajuweixiu_bottom_fabu');" >马上发布一条家具维修信息&raquo;</a>
+						</div>
+<!--医疗健康判断-->
+		<div id="direct_ad_bottom" onclick="clickLog('from=pc_list_jiajuweixiu_bottom_zhineng1');"  ></div>
+	<div id="bottom_zhaoshangjiameng_ad" onclick="clickLog('from=pc_list_jiajuweixiu_bottom_tuiguang2');"  ></div>
+
+			</div>
+			<div id="rightframe" class="cright">
+	
+
+			<div class="tuijian" id="ylad" style="display:none"></div>
+												<div class="brand_md_tit"><h3><i class="brand_md_tit_i1"></i>名店推荐<i class="brand_md_tit_i2"></i></h3></div>
+	<div id="brand_md"><div id="ad19"  style="display:none"></div></div>
+	<script>
+		$("#brand_md").bind("bindBrandEvent",function(){ 
+            if($('.brand_md200').length > 0){
+				$('.brand_md_tit').show();
+			}
+        }); 
+	</script>
+	</div>	    </section>
+		<div id="wangmeng_list_bottom_ditong" onclick="clickLog('from=pc_list_jiajuweixiu_bottom_tuiguang3');"   ></div><section id="links">
+<i class="linksTopline"></i>
+	<!-- =S friendtips -->
+	<dl id="friendtips" class="linksItem friendtips"><dt class="b-left">济源家具维修介绍：</dt>
+<dd class="b-right">58同城济源家具维修频道是济源最大的家具维修信息免费发布查询平台，免费提供家私维修、沙发护理、开锁换锁、门窗维修等多种类别的济源家具维修相关信息，感谢您选择<a href=http://www.58.com/hyzt/jiajuweixiu/ target=_blank>家具维修</a>信息平台。手机版请访问<a href=http://m.58.com/jiyuan/jiajuweixiu/  target=_blank >济源家具维修</a></dd>
+</dl>
+	<!-- =E friendtips -->
+	<!-- =S relate  -->
+			<dl class="linksItem relate" id="relate">
+	<dt class="b-left">济源家具维修相关信息：</dt>
+	<dd class="b-right">
+		<ul class="b-ul">
+						    			        <li><a href="/jiajuweixiu/jh_%E7%AB%B9%E5%88%B6%E5%AE%B6%E5%85%B7%E8%A1%A5%E6%BC%86/">竹制家具补漆</a></li>
+			    		    			    			        <li><a href="/jiajuweixiu/jh_%E7%B4%AB%E6%AA%80%E5%AE%B6%E5%85%B7%E8%A1%A5%E6%BC%86/">紫檀家具补漆</a></li>
+			    		    			    			        <li><a href="/jiajuweixiu/jh_%E7%B4%AB%E6%AA%80%E6%9C%A8%E5%AE%B6%E5%85%B7%E8%A1%A5%E6%BC%86/">紫檀木家具补漆</a></li>
+			    		    			    			        <li><a href="/jiajuweixiu/jh_%E6%A5%A0%E6%9C%A8%E5%AE%B6%E5%85%B7%E8%A1%A5%E6%BC%86/">楠木家具补漆</a></li>
+			    		    			    			        <li><a href="/jiajuweixiu/jh_%E6%A5%B8%E6%9C%A8%E5%AE%B6%E5%85%B7%E8%A1%A5%E6%BC%86/">楸木家具补漆</a></li>
+			    		    			    			        <li><a href="/jiajuweixiu/jh_%E7%BE%8E%E5%BC%8F%E5%AE%B6%E5%85%B7%E8%A1%A5%E6%BC%86/">美式家具补漆</a></li>
+			    		    			    			        <li><a href="/jiajuweixiu/jh_%E6%A6%89%E6%9C%A8%E5%AE%B6%E5%85%B7%E8%A1%A5%E6%BC%86/">榉木家具补漆</a></li>
+			    		    			    			        <li><a href="/jiajuweixiu/jh_%E9%87%91%E4%B8%9D%E6%A5%A0%E6%9C%A8%E5%AE%B6%E5%85%B7%E8%A1%A5%E6%BC%86/">金丝楠木家具补漆</a></li>
+			    		    			    			        <li><a href="/jiajuweixiu/jh_%E5%A1%91%E6%96%99%E5%AE%B6%E5%85%B7%E8%A1%A5%E6%BC%86/">塑料家具补漆</a></li>
+			    		    			     			        			        				    <li><a href='/jiajuweixiu/daohang_济源家具维修/' target="_blank">更多>></a></li>
+			    		    		</ul>
+	</dd>
+</dl>
+		<!-- =E relate -->
+	<!-- =S relatelink allshangquan-->
+			<dl class="linksItem relatelink" id="relatelink">
+		<dt class="b-left">济源家具维修全部商圈：</dt>
+		<dd class="b-right">
+			<dl id="relateSelect" class="relateSelect"> 
+									<dt><span>A</span></dt>
+					<dd>
+																					<dt><span>B</span></dt>
+					<dd>
+																					<dt><span>C</span></dt>
+					<dd>
+																			<a href="/chengliu/jiajuweixiu/" target="_blank" >济源承留镇家具维修</a>        
+															<dt><span>D</span></dt>
+					<dd>
+																			<a href="/dayuz/jiajuweixiu/" target="_blank" >济源大峪镇家具维修</a>        
+															<dt><span>E</span></dt>
+					<dd>
+																					<dt><span>F</span></dt>
+					<dd>
+																					<dt><span>G</span></dt>
+					<dd>
+																					<dt><span>H</span></dt>
+					<dd>
+																					<dt><span>I</span></dt>
+					<dd>
+																					<dt><span>J</span></dt>
+					<dd>
+																					<dt><span>K</span></dt>
+					<dd>
+																			<a href="/kejing/jiajuweixiu/" target="_blank" >济源克井镇家具维修</a>        
+															<dt><span>L</span></dt>
+					<dd>
+																			<a href="/lilin/jiajuweixiu/" target="_blank" >济源梨林镇家具维修</a>        
+															<dt><span>M</span></dt>
+					<dd>
+																					<dt><span>N</span></dt>
+					<dd>
+																					<dt><span>O</span></dt>
+					<dd>
+																					<dt><span>P</span></dt>
+					<dd>
+																			<a href="/potouz/jiajuweixiu/" target="_blank" >济源坡头镇家具维修</a>        
+															<dt><span>Q</span></dt>
+					<dd>
+																			<a href="/jyqyjd/jiajuweixiu/" target="_blank" >济源沁园街道家具维修</a>        
+															<dt><span>R</span></dt>
+					<dd>
+																					<dt><span>S</span></dt>
+					<dd>
+																			<a href="/shaoyuan/jiajuweixiu/" target="_blank" >济源邵原镇家具维修</a>        
+													<a href="/sili/jiajuweixiu/" target="_blank" >济源思礼镇家具维修</a>        
+															<dt><span>T</span></dt>
+					<dd>
+																					<dt><span>U</span></dt>
+					<dd>
+																					<dt><span>V</span></dt>
+					<dd>
+																					<dt><span>W</span></dt>
+					<dd>
+																			<a href="/wulongkou/jiajuweixiu/" target="_blank" >济源五龙口镇家具维修</a>        
+													<a href="/wangwu/jiajuweixiu/" target="_blank" >济源王屋镇家具维修</a>        
+															<dt><span>X</span></dt>
+					<dd>
+																			<a href="/xiaye/jiajuweixiu/" target="_blank" >济源下冶镇家具维修</a>        
+															<dt><span>Y</span></dt>
+					<dd>
+																			<a href="/yaqiao/jiajuweixiu/" target="_blank" >济源亚桥乡家具维修</a>        
+															<dt><span>Z</span></dt>
+					<dd>
+																			<a href="/zhicheng/jiajuweixiu/" target="_blank" >济源轵城镇家具维修</a>        
+														<dt><span>区域</span></dt>
+				<dd>	
+																	
+																		
+																		
+																		
+																		
+																		
+																													
+													<a href="/jiajuweixiu/" target="_blank" >全济源家具维修</a>                
+																		
+													<a href="/shuangqiaojd/jiajuweixiu/" target="_blank" >双桥街道家具维修</a>                
+																		
+													<a href="/jishuijd/jiajuweixiu/" target="_blank" >济水街道家具维修</a>                
+																		
+													<a href="/beihaijd/jiajuweixiu/" target="_blank" >北海街道家具维修</a>                
+																		
+													<a href="/tiantanjd/jiajuweixiu/" target="_blank" >天坛街道家具维修</a>                
+																		
+													<a href="/longquanjd/jiajuweixiu/" target="_blank" >龙泉街道家具维修</a>                
+																		
+													<a href="/jiyuanzb/jiajuweixiu/" target="_blank" >济源周边家具维修</a>                
+																					</dd> 
+        
+    		</dl>
+  		</dd>
+	</dl>
+	 	<!-- =E relatelink -->
+	<!-- =S bottomlink-->
+	            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+				家具维修- 相关类别：
+			</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://www.58.com/hyzt/dianqi/'>家电维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/dianshiweixiu/'>电视维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/bingxiangweixiu/'>冰箱维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/kongtiao/'>空调维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/reshuiqiweixiu/'>热水器维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/xiyijiweixiu/'>洗衣机维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shoujiweixiu/'>手机维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/fangweixiu/'>房屋维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/weixiu/'>电脑维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/bijibenweixiu/'>笔记本维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiajuweixiu/'>家具维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/chufangwx/'>厨房家电维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/wangluoweixiu/'>网络维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shumaxiangjiwx/'>数码维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zhuangxiujc/'>装修建材</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiaoyu/'>教育培训</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/hunjiehunqing/'>婚庆摄影</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/qichefw/'>汽车服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shop/'>批发采购</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shenghuo/'>家政服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shangwu/'>商务服务</a></li>
+        		        		<li><a href='http://www.58.com/ppb58weixiu2/'>品牌家电维修大全</a></li>
+        		        		<li><a href='http://www.58.com/ppbhyzt1/'>黄页大全</a></li>
+        		        		<li><a href='http://www.58.com/pprmap5/'>家政地图</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+		<!-- =E bottomlink -->
+	<!-- =S hotcity-->
+	        <dl class="linksItem hotcity" id="hotcity">
+    	<dt class="b-left">济源家具维修周边城市：</dt>
+    	<dd class="b-right">
+    		<ul class="b-ul">
+    			    			<li><a href="http://zz.58.com/jiajuweixiu/">郑州家具维修</a></li>
+    			    			<li><a href="http://puyang.58.com/jiajuweixiu/">濮阳家具维修</a></li>
+    			    			<li><a href="http://xx.58.com/jiajuweixiu/">新乡家具维修</a></li>
+    			    			<li><a href="http://hd.58.com/jiajuweixiu/">邯郸家具维修</a></li>
+    			    			<li><a href="http://changzhi.58.com/jiajuweixiu/">长治家具维修</a></li>
+    			    			<li><a href="http://jiaozuo.58.com/jiajuweixiu/">焦作家具维修</a></li>
+    			    			<li><a href="http://kaifeng.58.com/jiajuweixiu/">开封家具维修</a></li>
+    			    			<li><a href="http://ay.58.com/jiajuweixiu/">安阳家具维修</a></li>
+    			    			<li><a href="http://sq.58.com/jiajuweixiu/">商丘家具维修</a></li>
+    			    		</ul>
+    	</dd>
+    </dl>
+	<!-- =S hotcity -->
+            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+					家具维修- 热门城市：
+					</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://bj.58.com/jiajuweixiu/'>北京家具维修</a></li>
+        		        		<li><a href='http://sh.58.com/jiajuweixiu/'>上海家具维修</a></li>
+        		        		<li><a href='http://gz.58.com/jiajuweixiu/'>广州家具维修</a></li>
+        		        		<li><a href='http://sz.58.com/jiajuweixiu/'>深圳家具维修</a></li>
+        		        		<li><a href='http://tj.58.com/jiajuweixiu/'>天津家具维修</a></li>
+        		        		<li><a href='http://hz.58.com/jiajuweixiu/'>杭州家具维修</a></li>
+        		        		<li><a href='http://wh.58.com/jiajuweixiu/'>武汉家具维修</a></li>
+        		        		<li><a href='http://xa.58.com/jiajuweixiu/'>西安家具维修</a></li>
+        		        		<li><a href='http://cd.58.com/jiajuweixiu/'>成都家具维修</a></li>
+        		        		<li><a href='http://zz.58.com/jiajuweixiu/'>郑州家具维修</a></li>
+        		        		<li><a href='http://cs.58.com/jiajuweixiu/'>长沙家具维修</a></li>
+        		        		<li><a href='http://nj.58.com/jiajuweixiu/'>南京家具维修</a></li>
+        		        		<li><a href='http://hrb.58.com/jiajuweixiu/'>哈尔滨家具维修</a></li>
+        		        		<li><a href='http://sy.58.com/jiajuweixiu/'>沈阳家具维修</a></li>
+        		        		<li><a href='http://su.58.com/jiajuweixiu/'>苏州家具维修</a></li>
+        		        		<li><a href='http://sjz.58.com/jiajuweixiu/'>石家庄家具维修</a></li>
+        		        		<li><a href='http://dl.58.com/jiajuweixiu/'>大连家具维修</a></li>
+        		        		<li><a href='http://qd.58.com/jiajuweixiu/'>青岛家具维修</a></li>
+        		        		<li><a href='http://jn.58.com/jiajuweixiu/'>济南家具维修</a></li>
+        		        		<li><a href='http://cq.58.com/jiajuweixiu/'>重庆家具维修</a></li>
+        		        		<li><a href='http://cc.58.com/jiajuweixiu/'>长春家具维修</a></li>
+        		        		<li><a href='http://fx.58.com/jiajuweixiu/'>阜新家具维修</a></li>
+        		        		<li><a href='http://yb.58.com/jiajuweixiu/'>宜宾家具维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiajuweixiu/'>家具维修</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+	<!-- =E hotcity --> 	<!-- =E hotcity -->
+	<!-- =S friendlink-->
+					<!-- =E friendlink -->
+</section>
+	<footer id="footer" class="footer">
+	    <div id="upWrap"> <a target="_blank" href="http://about.58.com/help.html" rel="nofollow">常见问题</a><span>|</span> <a target="_blank" href="http://about.58.com/" rel="nofollow">帮助中心</a><span>|</span> <a target="_blank" href="http://about.58.com/feedback.html" rel="nofollow">意见反馈</a><span>|</span> <a target="_blank" href="http://about.58.com/home/" rel="nofollow">了解58同城</a><span>|</span> <a target="_blank" href="http://about.58.com/hr/" rel="nofollow">加入58同城</a><span>|</span> <a target="_blank" href="http://fanqizha.58.com/" rel="nofollow">反欺诈联盟</a><span>|</span> <a target="_blank" href="http://110.58.com" rel="nofollow">报案平台</a><span>|</span> <a target="_blank" href="http://e.58.com" rel="nofollow">推广服务</a><span>|</span> <a target="_blank" href="http://biz.58.com" rel="nofollow">渠道招商</a><span>|</span> <a target="_blank" href="http://baozhang.58.com" rel="nofollow">先行赔付</a><span>|</span> <a target="_blank" href="http://ir.58.com?PGTID=0d100000-0000-13da-8041-51f9a3a739fa&amp;ClickID=2" rel="nofollow">Investor Relations</a> </div>
+	    <div id="downWrap"> <em>2005-2016 58.com版权所有</em><span>|</span> <em>京公网备案信息110105000809</em><span>|</span> <a target="_blank" href="http://www.miibeian.gov.cn/" rel="nofollow">京ICP证060405</a><span>|</span><em>乙测资字11018014</em><span>|</span> <a target="_blank" href="http://ir.58.com" rel="nofollow">Investor Relations</a><span>|</span><em>违法信息举报：4008135858&nbsp;&nbsp;jubao@58ganji.com</em> </div>
+	    <div class="fotBtmIcon">
+	        <a target="_blank" id="fotBm_1" href="http://fanqizha.58.com"></a>
+	        <a target="_blank" id="fotBm_2" href="http://www.12377.cn/"></a>
+	        <a target="_blank" id="fotBm_3" href="http://www.12377.cn/node_548446.htm"></a>
+	        <a target="_blank" id="fotBm_4" href="https://credit.szfw.org/CX20120918001650001720.html"></a>
+	        <a target="_blank" id="fotBm_5" href="http://img.58cdn.com.cn/ui6/index/qyxinyong.jpg?v=3"></a>
+	        <a target="_blank" id="fotBm_6" href="http://about.58.com/fqz/index.html"></a>
+	    </div>
+	</footer>
+<script>
+	var currentDate = new Date();
+</script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfc_v20160418145051.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfcInit_v20161121150119.js'></script>
+<script>
+	var jingzhun_ads = [];
+	var jingzhun_ads_param = "";
+</script>
+
+				<script type="text/javascript" src='http://j1.58cdn.com.cn/js/5_1/comm_js/boot_listpage_version_v20170329165708.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript">
+document.domain = '58.com';
+var win = new GetToolTipWindow('tooltipdiv', 'keyword', '3','9918','', true);win.setSearchButton('searchbtn');
+var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','9918','');win1.setSearchButton('searchbtn1');
+var win2 = new GetToolTipWindow('tooltipdiv2', 'mudidi', '7', '9918', '');win2.setSearchButton('searchbtn1');
+boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'jiyuan');});
+</script>
+
+<script type="text/javascript" >
+// JavaScript Document
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	toggle(".p-help");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".small-tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+
+$("#shangmenfw a").each(function(){
+	if("到店服务"== $(this).text().trim()){
+		$(this).remove();
+	}
+});
+
+BAIDU_CLB_fillSlot("567863");
+
+var alldt = $("#relateSelect>dt");
+function showNear(dt){
+    alldt.each(function(){
+        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+        else {$(this).next("dd").hide();$(this).removeClass("select");}
+    });
+}
+alldt.each(function(){
+    $(this).click(function(){showNear(this);}).hover(function(){showNear(this);});
+});
+
+showNear(alldt[0]);
+
+  
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+$(".selector").each(function(){
+	$(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+});
+
+</script>
+
+<div style="display:none;">
+<script type="text/javascript">
+ var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3bb04d7a4ca3846dcc66a99c3e861511' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+</div>
+
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+
+
+			<script type="text/javascript" src='http://j1.58cdn.com.cn/js/v8/boot/boot_huangye_v20170329172410.js'>
+		</script>
+		<script>
+			require(['_pkg/huangye/huangye_shenghuo_list_dom'],function(){});
+		</script>
+	
+<script src="http://track.58.com/adsys/ggafs?rand=20170404"></script>
+<script>
+//统计埋点
+$(function(){
+	$('dl.secitem').each(function(){
+	    var idname = $(this).find("dd").eq(0).attr('id');
+		$(this).find('a').not('span a').each(function(){
+			$(this).click(function(){
+				clickLog('from=pc_list_jiajuweixiu_shaixuan_'+idname+ '_jiyuan');
+		    });		
+		});	
+    });	
+})
+</script>
+<script type="text/javascript">
+    $("#more_ObjectType").click(function(){
+    	console.log("ok");
+    	var showmoreBrand = document.getElementById("moreBrandct"),moreBrandbtn = document.getElementById("moreBrandbtn");
+	    showmoreBrand.style.display = (showmoreBrand.style.display=="block")?"none":"block";
+	    moreBrandbtn.className = (moreBrandbtn.className=="moreBrand")?"moreBrand hold":"moreBrand";
+    });
+    var pemorealldt = $("#moreBrandct dt");
+	function showpemorecon(dt){
+		pemorealldt.each(function(){
+		    if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+            else {$(this).next("dd").hide();$(this).removeClass("select");}
+        });
+    }
+    pemorealldt.each(function(){
+		$(this).click(function(){showpemorecon(this);}).hover(function(){showpemorecon(this);});
+    });
+    showpemorecon(pemorealldt[0]);
+</script>
+		<script type="text/javascript">
+function cpcget(url){
+	$.ajax({
+		url:url,
+		type:"get",
+		dataType:"jsonp",
+		success:function(data){
+		
+        }
+    });	
+}
+</script>					<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e15962162366a86a6229038443847be7";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div style="display:none">
+	<!--基本统计代码begin(8558,0)--by:zhanghao06-->
+<script type="text/javascript">
+____json4fe.supplycount = {sortid:'29560443838658'};
+var _gaq = _gaq || [],site_name = "58",post_count = "112",shop_count= "",page_type = "list";
+var _trackURL = "{'cate':'8512,8558','area':'9918','pagetype':'list','GA_pageview':'/jiyuan/shenghuo/jiajuweixiu/listversion/','version':'A','pagesize':'35','pagenum':'1','level1':'','level2':'','level3':'','level4':'','level5':'','level6':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/jiyuan/shenghuo/jiajuweixiu/listversion/']);
+$.getScript( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')  + '.google-analytics.com/ga.js');
+$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+<!--基本统计代码end-->
+</div>
+<script src="http://wechat.58.com/google-analytics"></script> 				<!-- 抢单神器下线-->
+				<!-- 抢单神器下线-->
+		<!-- 装修搜索弹窗  S -->
+				<!-- 招标弹框start -->
+<link rel="stylesheet" href='http://c.58cdn.com.cn/ds/zhaobiao/pc_search_win/list_win_zb_v20161010135135.css' />
+<script src="http://j1.58cdn.com.cn/ds/zhaobiao/v1/js/fastpost/jquery.md5.js"></script>
+<script>
+ var cityid=9918;
+</script>
+
+        <!-- 招标弹框end -->
+
+
+				<!-- 装修搜索弹窗  E -->
+		<!-- 前置登陆  s -->
+				<!-- 前置登陆  e -->
+	</body>
+</html>

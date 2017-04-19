@@ -1,0 +1,1437 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+												<!--  当前的类别归属ID--> 
+		<!--  当前的类别表现ID--> 
+		<!--  当前的类别listname (eg:banjia)--> 
+		<!--  当前的类别catename (eg:搬家)--> 
+		<!--  一级类别归属ID--> 
+		<!--  一级类别表现ID--> 
+		<!--  一级类别listname eg:jiazheng--> 
+		<!--  一级类别catename eg:家政--> 
+		<!--  二级类别归属ID [Ljava.lang.Integer;@44167528 数字长度：2--> 
+			<!--  二级类别表现ID--> 
+				<!--  二级类别listname eg:jiazhuang--> 
+				<!--  二级类别catename eg:家装-->
+				<!-- 表现类别的全路径   eg:8512,96-->
+									
+						<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>【58同城】琼海电脑维修_琼海电脑维修店_琼海电脑维修网</title>
+	<meta name="description" content='58同城琼海电脑维修频道是最大的琼海电脑维修免费信息发布、查阅平台。58同城琼海电脑维修频道每天都有大量专业、真实的优秀商家提供琼海电脑维修中心,琼海电脑维修网,琼海电脑上门维修信息，同时您可以免费发布琼海电脑维修信息。-58.com'/>
+	<meta name="keywords" content='琼海电脑维修,琼海电脑维修中心,琼海电脑维修网'/>
+	<meta http-equiv="X-UA-Compatible" content="edge" />
+		
+				<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/qh/weixiu/" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/qh/weixiu/" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/qh/weixiu/" />
+					<script type="text/javascript">
+		var ____loadCfg = ['huangye', 'shenghuo', 'listpage'];
+	</script>
+	<script src='http://j2.58cdn.com.cn/js/require_jquery_load.js'></script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">document.write('<scri'+'pt src="http://j1.58cdn.com.cn/ds/tgbrand/js/brand_listpage_v1.js?temp=' + Math.random() + '"></scri'+'pt>');</script> 
+<script type="text/javascript">
+	var xxfwConfig = {namespace:'huangyelistpc'};
+</script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/resource/xxzl/xxfw/xxfw.min_v20161021110430.js'></script>
+
+<script type="text/javascript">
+try{
+	var ____json4fe = {"catentry":[{"dispid":"8512","name":"家政服务","listname":"shenghuo"},{"dispid":"111","name":"电脑维修","listname":"weixiu"}],"locallist":[{"dispid":"10136","name":"琼海","listname":"qh"}],"start":(new Date()).getTime(),"modules":"list"};
+	____json4fe.version = 'A';
+	____json4fe.modules = 'listpage';
+	____json4fe.sid = '108305856195479315705588507';
+	____json4fe.sessionid = '2fb672e0-93e6-4662-b7f2-3842e6d1f871';
+	____json4fe.smsc = '3f2dd2de9529e6336d8f29ac6766225f26415f240602ebe21ce94698a323de5cf57807577c7dc9d12010c943f7360d739f4fdf71378d7d6fac294e14e451174deeb164e5f2684099021068118fd459a181043697a9020d109878aefe1e5ff9c90d549e736ca4a92dd8bbf0e65ba68ec56929e01df5584d0eac50428e52235fecec79069da6b32f6916d81a5bb101e93e8d932a3f17887c70';
+	____json4fe.newcateid='';
+	____json4fe.keyword='';
+	____json4fe.page='1';
+	____json4fe.param='';
+	}catch(e){};
+	(function(){
+var e = "header,nav,section,aside,article,footer".split(','),
+i=0,
+length=e.length;
+while(i<length){
+    document.createElement(e[i++])
+}
+})();
+	var ajax_param = '{"platform":"pc","paramMap":null,"pageIndex":1,"dispCateId":111,"infoMethod":["renzheng","baojia","wltAge"],"dataParam":"27911633914058_605656182022_0_commoninfo,29027805812547_30887377352966_0_commoninfo,29215905175608_45772624343315_0_commoninfo,28689764083019_6360448455175_0_commoninfo,26218131879491_35609639176976_0_commoninfo,28236694024384_36041905640470_0_commoninfo,28072254386473_39179915307282_0_commoninfo,28035936670001_13771572469255_0_commoninfo,26970703597775_41082781793552_0_commoninfo,26974253407434_41289404553742_0_commoninfo,26440379950907_40221457488401_0_commoninfo,23655394093215_34650256782091_0_commoninfo,25676473374007_15518529083143_0_commoninfo,27815612920258_605656182022_0_commoninfo,26314250855357_39179915307282_0_commoninfo,27993441991735_605656182022_0_commoninfo,26280570150843_39179915307282_0_commoninfo,27880243497033_605656182022_0_commoninfo,26067255368367_39179915307282_0_commoninfo,25931772845134_39179915307282_0_commoninfo,25919509819055_39179915307282_0_commoninfo,25392167364022_38125133113615_0_commoninfo,24841573059265_5474582606854_0_commoninfo,24128380848188_35597636760855_0_commoninfo,24128101232820_35597074795799_0_commoninfo,23852112918708_35045127515403_0_commoninfo,23829462749493_35021733259530_0_commoninfo","dispCateName":"weixiu"}';
+	var s_ajax_param = 's_contact_weixiu_108305856195479315705588507_';
+</script>				<link href='http://c.58cdn.com.cn/ds/v1/base-v1_v0.css' rel="stylesheet" type="text/css">
+	<link href='http://c.58cdn.com.cn/ds/v1/common_list_v20170315183710.css' rel="stylesheet" type="text/css">
+<link href='http://c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20170331140927.css' rel="stylesheet" type="text/css">
+
+
+		<link href='http://c.58cdn.com.cn/ds/v1/list/defaultList_v20170220190119.css' rel="stylesheet" type="text/css">
+	<!-- <link rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv02_v0.css'> -->
+<link type="text/css" rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03_v20160727171301.css'>
+<!-- <link type="text/css" rel="stylesheet" href="http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03.css"> -->
+
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/dialog_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/release_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/retable_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/weixin/hy_freetel_v20161207184444.css">	
+    		</head>
+			<body class="">
+						<!-- =S top bar header -->
+			<div id="commonTopbar" class="commonTopbar">
+<script type="text/javascript">
+    var secId;
+        ____json4fe.catentry[1]? secId = ____json4fe.catentry[1].dispid : secId = ____json4fe.catentry.dispid;
+    var modules = ____json4fe.modules;
+    //搬家列表页(secId == "96" && modules=="listpage")宽度为1190px
+    if(secId == "96" && modules=="listpage"){
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'default' // default: 1190px, narrow: 1000px
+            });
+        };
+    }else{
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'narrow' // default: 1190px, narrow: 1000px
+            });
+        };
+    }    
+</script>
+</div>
+<!-- =S banner  div -->
+<div class="topbannerbar"><div id="brand_list_top_banner" onclick="clickLog('from=pc_list_weixiu_top_banner');" ></div></div>
+<!-- =E banner  div--><header id="header">
+    <div class="header-inner">
+    <a class="logo float_l" href="/huangye/" target="_blank" onclick="clickLog('from=pc_list_logo_weixiu');">58同城</a>
+            <a href='http://post.58.com/10136/111/s5' target="_blank" onclick="clickLog('from=pc_list_fabu_weixiu');" class="postbtn float_r">免费发布</a>
+        		        <div class="header-search float_r">
+         <em class="ico-searchkey"></em>
+         <form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+         	            	<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();">
+                        <span onMouseOut="this.className='sbtn'" onMouseOver="this.className='sbtn hover'" class="sbtn">
+                			<input type="submit" value="搜服务" onclick="clickLog('from=pc_list_search_weixiu');" class="but-bl" name="" id="searchbtn1" ></span>
+                		        		<div class="clear"></div>
+        		<span class="hotsearch">
+    						           		<a href="http://qh.58.com/weixiu/?key=%E7%94%B5%E8%84%91%E7%BB%B4%E4%BF%AE&final=1&searchtype=3&sourcetype=21" onclick="clickLog('from=pc_list_resouci_1_weixiu');_gaq.push(['pageTracker._trackEvent', 'list', 'tag_click', '/huangye/hotkeywords/zz/weixiu/']);">电脑维修</a>
+       			   
+	   </span>
+    		       	  </form>
+       	</div>
+		            	<div class="nav float_l" >
+	<a href="/">琼海58同城</a> &gt; <a href="/shenghuo.shtml">琼海家政服务</a>
+				 &gt; <a href="/weixiu/" itemprop="url">琼海电脑维修</a>
+	
+
+</div>
+	</div>
+</header>
+		<!-- =E top bar header -->
+	<!-- =S common_column_label-->
+			<!-- =E common_column_label-->
+	<!-- =S searchTip -->
+			<!-- =E searchTip  -->
+	<!-- =s cmcs -->
+							<section id="selection">
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">类别 ：</dt>
+		<dd id="ObjectType" >
+																    		    		    		    					<a href="/weixiu/" class='select' >全部</a>
+								    		    		    		    					<a href="http://qh.58.com/taishidiannao/"  >台式电脑</a>
+								    		    		    		    					<a href="http://qh.58.com/bijibenweixiu/"  >笔记本维修</a>
+								    		    		    		    					<a href="http://qh.58.com/ipadpingbanweixiu/"  >ipad/平板电脑维修</a>
+								    		    		    		    					<a href="http://qh.58.com/wangluoweixiu/"  >网络维修</a>
+								    		    		    		    					<a href="http://qh.58.com/shujuhuifu/"  >数据恢复</a>
+								    		    		    		    					<a href="http://qh.58.com/fuwuqiweixiu/"  >服务器维修</a>
+															    					    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">是否上门 ：</dt>
+		<dd id="shangmenfw" >
+																    		    		    		    					<a href="/weixiu/" class='select' >全部</a>
+								    		    		    		    					<a href="http://qh.58.com/weixiu/pve_9121_657335/"  >上门服务</a>
+								    		    		    		    					<a href="http://qh.58.com/weixiu/pve_9121_657336/"  >到店服务</a>
+																				    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">服务区域  ：</dt>
+		<dd id="local" >
+																    		    		    		    					<a href="/weixiu/" class='select' >全琼海</a>
+								    		    		    		    					<a href="/jiaji/weixiu/"  >嘉积镇</a>
+								    		    		    		    					<a href="/wangquan/weixiu/"  >万泉镇</a>
+								    		    		    		    					<a href="/shibi/weixiu/"  >石壁镇</a>
+								    		    		    		    					<a href="/zhongyuanz/weixiu/"  >中原镇</a>
+								    		    		    		    					<a href="/boao/weixiu/"  >博鳌镇</a>
+								    		    		    		    					<a href="/yangjiang/weixiu/"  >阳江镇</a>
+								    		    		    		    					<a href="/qionghaizb/weixiu/"  >琼海周边</a>
+																									    	</dd>
+    </dl>
+	<div id="selected" class="bar"></div>
+	<i class="shadow"></i>
+</section>
+
+			<!-- =E cmcs -->
+		<div id="adtop_1" class="hc"><div class="mouter defa"><div class="inner"><div id="md3" class="mdul"></div><ul id="md1" class="mdul"></ul><ul id="md2" class="mdul"></ul><ul id="md4" class="mdul"></ul><ul id="md5" class="mdul"></ul><div class="clear"></div></div></div></div>
+<div class="tabsbar">
+    <div class="list-tabs">
+												<a href="/weixiu/" onclick="clickLog('from=pc_list_weixiu_list_tabs');" class="sel"><h1>琼海电脑维修</h1></a>
+											</div>
+	 	    	                	        
+
+		
+	
+				<span class="zhaobiao" >
+			<a href="http://bianmin.58.com/qh/?from=pc_list_bianmin_wzl"
+			   target="_blank" >学习办事经验，解决办证难题</a>
+		</span>
+		
+			
+
+
+</div>
+ 				<section id="mainlist" class="main clearfix pr">
+					<div class="filterbar h28">
+    <div class="filterbar-l">
+			<!-- <div class="filterup" id="filterup">
+				 <a class="m1" title="找班级" href="#" rel="nofollow" onclick=""><span>找班级<em></em></span></a>
+				 <a class="m1" title="找拼友" href="#" rel="nofollow" onclick=""><span>找拼友<em></em></span></a>
+			</div>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">全部</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示教育机构</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示个人教师</a></span> -->
+				<div class="filterup" id="filterup">
+			 <a class="m1 sel" title="默认" href="#" rel="nofollow" onclick="g2({sort:null}); clickLog('from=huangye_list_moren_weixiu_qh&psid=108305856195479315705588507'); "><span>默认排序<em></em></span></a>
+											</div>
+														<span class="checkbox-ico" id="renzheng"><a href="javascript:void(0);" onclick="clickLog('from=List_sort_weixiu__zhikanrenzheng');">只看认证</a></span>
+									
+									</div>  
+     <div class="filterbar-md">
+    	    	<!-- 加入医疗健康判断-->
+    	    		    		        		       <a class="mdtj" style="display:inline-block;" rel="nofollow" target="_blank" href="http://e.58.com/shenghuo.html" onClick="clickLog('from=huangye_zhaoshang&psid=108305856195479315705588507');">想提升接单效果，请致电4008107258</a>
+    		        		    	
+				   </div>        
+</div>
+					<div id="infolist" class="cleft" >
+				<!-- =S infolist -->
+									<div id="top_google_ad"></div>
+<table class="small-tbimg" cellspacing="0" cellpadding="0" >
+							<tr logr='p_1_605656182022_27911633914058_0' infotag="27911633914058_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">梁先生 : </b>
+				<a href='http://qh.58.com/weixiu/27911633914058x.shtml?psid=108305856195479315705588507&entinfo=27911633914058_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			海南省琼海市台式电脑，笔记本专业上门维修
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												在戴尔指定接机点，工作过两年，对戴尔个人台式电脑，笔记本电脑等，维修故...
+				(16小时)
+							<p class="seller">
+					o***1
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27911633914058' wltMark="0" param="27911633914058_605656182022_0_commoninfo_0E6DC29B4637D738FF38B1FA56CC5B7B"  data-j4fe="18689709831,梁先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27911633914058&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_30887377352966_29027805812547_0' infotag="29027805812547_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">龙兴电脑 : </b>
+				<a href='http://qh.58.com/weixiu/29027805812547x.shtml?psid=108305856195479315705588507&entinfo=29027805812547_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			电脑维修／证件照／复印打印
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												维修电脑，组装电脑，电脑配件，路由器销售及安装
+				(03-30)
+							<p class="seller">
+					c***0
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29027805812547' wltMark="0" param="29027805812547_30887377352966_0_commoninfo_F10256CF51F1BE6F230DF178E2F6AF71"  data-j4fe="18089886728,龙兴电脑" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29027805812547&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_45772624343315_29215905175608_0' infotag="29215905175608_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">黄师傅 : </b>
+				<a href='http://qh.58.com/weixiu/29215905175608x.shtml?psid=108305856195479315705588507&entinfo=29215905175608_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			维修电脑。安装WIFI，安装监控。
+		</a>
+						<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												进店面维修电脑，说明在58看到，送鼠标店垫。
+				(02-28)
+							<p class="seller">
+					z***r
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29215905175608' wltMark="0" param="29215905175608_45772624343315_0_commoninfo_EC56ED25D1A247AA9C503E5AD0BD35F9"  data-j4fe="18976819795,黄师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29215905175608&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_6360448455175_28689764083019_0' infotag="28689764083019_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王师傅 : </b>
+				<a href='http://qh.58.com/weixiu/28689764083019x.shtml?psid=108305856195479315705588507&entinfo=28689764083019_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			柏燃科技服务有限公司
+		</a>
+						<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												维修服务范围：系统安装，笔记本主板维修，台式机主板维修，台式机显示器维...
+				(02-16)
+							<p class="seller">
+					柏燃电脑科技
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28689764083019' wltMark="0" param="28689764083019_6360448455175_0_commoninfo_3988E61D469DA6B9C87558D3F02117A5"  data-j4fe="13876944430,王师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28689764083019&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_35609639176976_26218131879491_0' infotag="26218131879491_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">周先生 : </b>
+				<a href='http://qh.58.com/weixiu/26218131879491x.shtml?psid=108305856195479315705588507&entinfo=26218131879491_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			琼海市专业笔记本电脑维修中心上门服务
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												半小时免费上门 修不好不收任何费用 您身边的IT专家秉承“永恒的诚信是...
+				(01-10)
+							<p class="seller">
+					活**海
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26218131879491' wltMark="0" param="26218131879491_35609639176976_0_commoninfo_96B30CC89256F14F1472CD6E244DCBBF"  data-j4fe="13876229796,周先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26218131879491&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_36041905640470_28236694024384_0' infotag="28236694024384_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">陈铭 : </b>
+				<a href='http://qh.58.com/weixiu/28236694024384x.shtml?psid=108305856195479315705588507&entinfo=28236694024384_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			电脑维修及网络技术服务
+		</a>
+						<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												所有电脑问题及网络和服务器问题解决
+				(12-01)
+							<p class="seller">
+					琼***脑
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28236694024384' wltMark="0" param="28236694024384_36041905640470_0_commoninfo_E6D55C1DDCA1E1AC65CE6082E4FEC7D1"  data-j4fe="13907520787,陈铭" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28236694024384&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39179915307282_28072254386473_0' infotag="28072254386473_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张先生 : </b>
+				<a href='http://qh.58.com/weixiu/28072254386473x.shtml?psid=108305856195479315705588507&entinfo=28072254386473_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			琼海市区上门维修电脑打印机复印机 网络
+		</a>
+						<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												笔记本 台式机 维修 网络检测，监控！ 打印机加粉 复印机清理！上门维...
+				(11-17)
+							<p class="seller">
+					鼎峰科技
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28072254386473' wltMark="0" param="28072254386473_39179915307282_0_commoninfo_7BA5ED91658302C532CAEC64D7EC7951"  data-j4fe="13687525053,张先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28072254386473&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_13771572469255_28035936670001_0' infotag="28035936670001_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">阿宾 : </b>
+				<a href='http://qh.58.com/weixiu/28035936670001x.shtml?psid=108305856195479315705588507&entinfo=28035936670001_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			打印机连供墨安装 改造 维修
+		</a>
+						<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												只有你想到的，我们都会帮您做的。打印机连供墨安装 改造 维修
+				(11-13)
+							<p class="seller">
+					t***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28035936670001' wltMark="0" param="28035936670001_13771572469255_0_commoninfo_4918C9F8B929CE61C347EFB19A722DF5"  data-j4fe="13976067353,阿宾" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28035936670001&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_41082781793552_26970703597775_0' infotag="26970703597775_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">周先生 : </b>
+				<a href='http://qh.58.com/weixiu/26970703597775x.shtml?psid=108305856195479315705588507&entinfo=26970703597775_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			上门维修电脑，安装监控
+		</a>
+						<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												专业维修电脑，安装监控，出售全新电脑、二手电脑。
+				(10-13)
+							<p class="seller">
+					n***5
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26970703597775' wltMark="0" param="26970703597775_41082781793552_0_commoninfo_96B30CC89256F14F1472CD6E244DCBBF"  data-j4fe="13876229796,周先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26970703597775&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_41289404553742_26974253407434_0' infotag="26974253407434_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">梁先生 : </b>
+				<a href='http://qh.58.com/weixiu/26974253407434x.shtml?psid=108305856195479315705588507&entinfo=26974253407434_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			创盛电脑科技
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												电脑上门维修服务，组装电脑，监控安装，酒店网络工程，办公设备及耗材，品...
+				(08-09)
+							<p class="seller">
+					q***e
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26974253407434' wltMark="0" param="26974253407434_41289404553742_0_commoninfo_0E6DC29B4637D738FF38B1FA56CC5B7B"  data-j4fe="18689709831,梁先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26974253407434&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_40221457488401_26440379950907_0' infotag="26440379950907_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">冯师傅 : </b>
+				<a href='http://qh.58.com/weixiu/26440379950907x.shtml?psid=108305856195479315705588507&entinfo=26440379950907_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			博鳌华兴电脑维修
+		</a>
+						<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												系统蓝屏！打印机卡纸复印机一体机故障！电脑死机！安装系统！监控安装调试...
+				(06-22)
+							<p class="seller">
+					k***9
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26440379950907' wltMark="0" param="26440379950907_40221457488401_0_commoninfo_9B2930BDFF12F05F31608A7F4CA312A6"  data-j4fe="13519856054,冯师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26440379950907&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_34650256782091_23655394093215_0' infotag="23655394093215_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">电脑先生 : </b>
+				<a href='http://qh.58.com/weixiu/23655394093215x.shtml?psid=108305856195479315705588507&entinfo=23655394093215_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			电脑服务(琼海站)
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												电脑E保店 服务内容：台式机维修 打印机维修 传真机维修 网络布线 I...
+				(05-31)
+							<p class="seller">
+					火**脑
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='23655394093215' wltMark="0" param="23655394093215_34650256782091_0_commoninfo_D4E42E759C52A87B5FC2BFDD6358CF06"  data-j4fe="13687591800,电脑先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23655394093215&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_15518529083143_25676473374007_0' infotag="25676473374007_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">冯先生 : </b>
+				<a href='http://qh.58.com/weixiu/25676473374007x.shtml?psid=108305856195479315705588507&entinfo=25676473374007_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			琼海平板电脑维修中心
+		</a>
+						<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												本店承接各种型号平板电脑维修，更换显示屏，触摸屏。升级，解锁，主板维修...
+				(04-14)
+							<p class="seller">
+					嘉**我
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25676473374007' wltMark="0" param="25676473374007_15518529083143_0_commoninfo_4D0095984E2E7AF38F60879679249BFD"  data-j4fe="18689995967,冯先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25676473374007&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_605656182022_27815612920258_0' infotag="27815612920258_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">梁先生 : </b>
+				<a href='http://qh.58.com/weixiu/27815612920258x.shtml?psid=108305856195479315705588507&entinfo=27815612920258_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			台式机，笔记本上门维修
+		</a>
+						<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												​台式机，笔记本电脑各种问题上门维修服务，组装电脑，监控安装，酒店网络...
+				(02-01)
+							<p class="seller">
+					o***1
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27815612920258' wltMark="0" param="27815612920258_605656182022_0_commoninfo_0E6DC29B4637D738FF38B1FA56CC5B7B"  data-j4fe="18689709831,梁先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27815612920258&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39179915307282_26314250855357_0' infotag="26314250855357_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张先生 : </b>
+				<a href='http://qh.58.com/weixiu/26314250855357x.shtml?psid=108305856195479315705588507&entinfo=26314250855357_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			琼海市维修电脑打印机
+		</a>
+						<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												30分钟内到！系统蓝屏！打印机卡纸复印机一体机故障！电脑死机！安装系统...
+				(06-11)
+							<p class="seller">
+					鼎峰科技
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26314250855357' wltMark="0" param="26314250855357_39179915307282_0_commoninfo_7BA5ED91658302C532CAEC64D7EC7951"  data-j4fe="13687525053,张先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26314250855357&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_605656182022_27993441991735_0' infotag="27993441991735_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">梁先生 : </b>
+				<a href='http://qh.58.com/weixiu/27993441991735x.shtml?psid=108305856195479315705588507&entinfo=27993441991735_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			台式电脑，笔记本上门维修
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												在戴尔指定接机点，工作过两年，对戴尔个人台式电脑，笔记本电脑等，维修故...
+				(11-18)
+							<p class="seller">
+					o***1
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27993441991735' wltMark="0" param="27993441991735_605656182022_0_commoninfo_0E6DC29B4637D738FF38B1FA56CC5B7B"  data-j4fe="18689709831,梁先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27993441991735&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39179915307282_26280570150843_0' infotag="26280570150843_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张先生 : </b>
+				<a href='http://qh.58.com/weixiu/26280570150843x.shtml?psid=108305856195479315705588507&entinfo=26280570150843_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			维修电脑打印机复印机，办公耗材笔记本
+		</a>
+						<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												鼎峰科技有限公司，以顾客满意为准则，服务满意为主！地址安居工程北路38...
+				(06-08)
+							<p class="seller">
+					鼎峰科技
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26280570150843' wltMark="0" param="26280570150843_39179915307282_0_commoninfo_7BA5ED91658302C532CAEC64D7EC7951"  data-j4fe="13687525053,张先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26280570150843&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_605656182022_27880243497033_0' infotag="27880243497033_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">梁先生 : </b>
+				<a href='http://qh.58.com/weixiu/27880243497033x.shtml?psid=108305856195479315705588507&entinfo=27880243497033_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			台式电脑，笔记本上门维修
+		</a>
+						<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												1：开机无反应、开机黑屏、开机出错、开机报警、开机速度慢、自动关机、自...
+				(10-30)
+							<p class="seller">
+					o***1
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27880243497033' wltMark="0" param="27880243497033_605656182022_0_commoninfo_0E6DC29B4637D738FF38B1FA56CC5B7B"  data-j4fe="18689709831,梁先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27880243497033&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39179915307282_26067255368367_0' infotag="26067255368367_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张俊杰 : </b>
+				<a href='http://qh.58.com/weixiu/26067255368367x.shtml?psid=108305856195479315705588507&entinfo=26067255368367_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			维修打印机，电脑。监控安装
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												​特快服务区：全市上门快修服务！30分钟响应-2小时​‌‌内到维修现场...
+				(05-19)
+							<p class="seller">
+					鼎峰科技
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26067255368367' wltMark="0" param="26067255368367_39179915307282_0_commoninfo_7BA5ED91658302C532CAEC64D7EC7951"  data-j4fe="13687525053,张俊杰" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26067255368367&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39179915307282_25931772845134_0' infotag="25931772845134_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张俊杰 : </b>
+				<a href='http://qh.58.com/weixiu/25931772845134x.shtml?psid=108305856195479315705588507&entinfo=25931772845134_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			维修电脑打印机！安装系统网络设置
+		</a>
+						<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												监控 电脑组装 打印机 维修 系统重装！ 10分钟上门！以客户为主！客...
+				(05-07)
+							<p class="seller">
+					鼎峰科技
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25931772845134' wltMark="0" param="25931772845134_39179915307282_0_commoninfo_7BA5ED91658302C532CAEC64D7EC7951"  data-j4fe="13687525053,张俊杰" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25931772845134&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39179915307282_25919509819055_0' infotag="25919509819055_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张俊杰 : </b>
+				<a href='http://qh.58.com/weixiu/25919509819055x.shtml?psid=108305856195479315705588507&entinfo=25919509819055_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			鼎峰科技电脑店
+		</a>
+						<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												电脑维护，打印机维修！ 安装系统，网吧无盘组建！
+				(05-06)
+							<p class="seller">
+					鼎峰科技
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25919509819055' wltMark="0" param="25919509819055_39179915307282_0_commoninfo_7BA5ED91658302C532CAEC64D7EC7951"  data-j4fe="13687525053,张俊杰" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25919509819055&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_38125133113615_25392167364022_0' infotag="25392167364022_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">泽熙 : </b>
+				<a href='http://qh.58.com/weixiu/25392167364022x.shtml?psid=108305856195479315705588507&entinfo=25392167364022_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			台式，笔记本电脑维修清洁
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												解决系统故障、驱动冲突、软件冲突 解决硬件故障、硬盘故障、内存故障 解...
+				(03-19)
+							<p class="seller">
+					長**熈
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25392167364022' wltMark="0" param="25392167364022_38125133113615_0_commoninfo_0F67E00D751AA2E4D0A489210FDF9384"  data-j4fe="18889393986,泽熙" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25392167364022&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_5474582606854_24841573059265_0' infotag="24841573059265_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李先生 : </b>
+				<a href='http://qh.58.com/weixiu/24841573059265x.shtml?psid=108305856195479315705588507&entinfo=24841573059265_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			琼海直流屏维修,UPS ,蓄电池
+		</a>
+						<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												琼海直流屏电源技术服务中心有十年各类直流屏及UPS,EPS等电源的设计...
+				(01-29)
+							<p class="seller">
+					g***n
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='24841573059265' wltMark="0" param="24841573059265_5474582606854_0_commoninfo_1247905F65CE58D919828977964560F4"  data-j4fe="13675189949,李先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24841573059265&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_35597636760855_24128380848188_0' infotag="24128380848188_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">梁先生 : </b>
+				<a href='http://qh.58.com/weixiu/24128380848188x.shtml?psid=108305856195479315705588507&entinfo=24128380848188_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			电脑上门维修
+		</a>
+						<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												本人24小时上门电脑维修，，，修不好不收钱！！~ 只限制琼海嘉积市内。
+				(11-26)
+							<p class="seller">
+					琼***修
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='24128380848188' wltMark="0" param="24128380848188_35597636760855_0_commoninfo_1D66F20DC4AD14D52128FDB2AF4ABD8C"  data-j4fe="18876102665,梁先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24128380848188&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_35597074795799_24128101232820_0' infotag="24128101232820_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">陈先生 : </b>
+				<a href='http://qh.58.com/weixiu/24128101232820x.shtml?psid=108305856195479315705588507&entinfo=24128101232820_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			诚德电脑服务中心
+		</a>
+						<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												经营范围：监控安防安装，电脑维修，网络覆盖安装，办公设备销售，电脑销售...
+				(11-26)
+							<p class="seller">
+					诚***心
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='24128101232820' wltMark="0" param="24128101232820_35597074795799_0_commoninfo_6897238878A6864F9DB0E6FA60F89B5B"  data-j4fe="0898-62815912,陈先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24128101232820&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_35045127515403_23852112918708_0' infotag="23852112918708_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王先生 : </b>
+				<a href='http://qh.58.com/weixiu/23852112918708x.shtml?psid=108305856195479315705588507&entinfo=23852112918708_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			监控、安防设备安装调试;酒店、出租楼WIFI覆盖
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												监控、安防设备布线安装、调试；酒店、宾馆、出租楼WIFI覆盖；卫星电视...
+				(11-01)
+							<p class="seller">
+					季诚房产
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='23852112918708' wltMark="0" param="23852112918708_35045127515403_0_commoninfo_A7670F2C5F62A0BC6BC6DFA19FD9996A"  data-j4fe="18976153666,王先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23852112918708&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_35021733259530_23829462749493_0' infotag="23829462749493_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">潘技术 : </b>
+				<a href='http://qh.58.com/weixiu/23829462749493x.shtml?psid=108305856195479315705588507&entinfo=23829462749493_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_qh');" target="_blank" class="t" >
+			专业维修电脑
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												承接:组装电脑，品牌电脑，笔记本电脑，平板电脑，手机批发，电视批发，监...
+				(10-29)
+							<p class="seller">
+					1***q
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='23829462749493' wltMark="0" param="23829462749493_35021733259530_0_commoninfo_013386D3750BBD89A2990F1B6C1EB7DF"  data-j4fe="13627531893,潘技术" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23829462749493&entityType=0&psid=108305856195479315705588507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>	</table>								<!-- =E infolist -->
+					<div id="gjwb_bottom_jz_ad"></div>
+	<div id="bottom_google_ad"></div>
+<div class="pager" >
+	 <strong><span>1</span></strong>
+</div>
+<div id="infocont">
+	<!--当是健康答疑时，链接变为提问-->
+										<a target="_blank" rel="nofollow" href="http://post.58.com/10136/111/s5" onclick="clickLog('pc_list_weixiu_bottom_fabu');" >马上发布一条电脑维修信息&raquo;</a>
+						</div>
+<!--医疗健康判断-->
+		<div id="direct_ad_bottom" onclick="clickLog('from=pc_list_weixiu_bottom_zhineng1');"  ></div>
+	<div id="bottom_zhaoshangjiameng_ad" onclick="clickLog('from=pc_list_weixiu_bottom_tuiguang2');"  ></div>
+
+			</div>
+			<div id="rightframe" class="cright">
+		<div style="margin-bottom:10px">
+		<a href='http://c.58cdn.com.cn/ui7/help/pf_xx_v1.html' target="_blank">
+			<img src="http://img.58cdn.com.cn/ds/other/bannerz_03.png">
+		</a>
+	</div>
+	<div class="r-banner-hot">
+	  	<p><i></i><a target="_blank" href="http://www.58.com/weixiudaquan/">维修教程</a><span class="r-banner-hotico"></span></p>
+		<p><i></i><a target="_blank" href="http://www.58.com/jiadianweixiu/">电脑维修教程</a></p>
+		<p><i></i><a target="_blank" href="http://www.58.com/diannaoyingjian/">电脑硬件故障维修</a></p>
+	</div>
+
+
+			<div class="tuijian" id="ylad" style="display:none"></div>
+												<div class="brand_md_tit"><h3><i class="brand_md_tit_i1"></i>名店推荐<i class="brand_md_tit_i2"></i></h3></div>
+	<div id="brand_md"><div id="ad19"  style="display:none"></div></div>
+	<script>
+		$("#brand_md").bind("bindBrandEvent",function(){ 
+            if($('.brand_md200').length > 0){
+				$('.brand_md_tit').show();
+			}
+        }); 
+	</script>
+	</div>	    </section>
+		<div id="wangmeng_list_bottom_ditong" onclick="clickLog('from=pc_list_weixiu_bottom_tuiguang3');"   ></div><section id="links">
+<i class="linksTopline"></i>
+	<!-- =S friendtips -->
+	<dl id="friendtips" class="linksItem friendtips"><dt class="b-left">琼海电脑维修介绍：</dt>
+<dd class="b-right">58同城琼海电脑维修点频道是琼海最大的电脑维修信息免费发布查询平台，免费提供台式电脑维修、笔记本维修、服务器维修、硬盘维修等多种类别的琼海电脑维修相关信息，感谢您选择<a href=http://www.58.com/hyzt/weixiu/ target=_blank>电脑维修</a>信息平台。手机版请访问<a href=http://m.58.com/qh/weixiu/  target=_blank >琼海电脑维修</a></dd>
+</dl>
+	<!-- =E friendtips -->
+	<!-- =S relate  -->
+					<!-- =E relate -->
+	<!-- =S relatelink allshangquan-->
+	    <dl class="linksItem relatelink" id="relatelink">
+					<dt class="b-left">琼海电脑维修全部商圈：</dt>
+		      <dd class="b-right">
+        <dl id="relateSelect" class="relateSelect"> 
+    	    		<dt><span>DC</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://qh.58.com/sonyxiangjiwx/" target="_blank">琼海索尼数码相机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/nikonxiangjiwx/" target="_blank">琼海尼康数码相机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/canonxjwx/" target="_blank">琼海佳能数码相机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/casioxjwx/" target="_blank">琼海卡西欧数码相机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/samsungxjwx/" target="_blank">琼海三星数码相机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/songxiaxjwx/" target="_blank">琼海松下数码相机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/fushiweixiu/" target="_blank">琼海富士数码相机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/leicaxjwx/" target="_blank">琼海徕卡数码相机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/olympusxjwx/" target="_blank">琼海奥林巴斯数码相机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/pentaxxjwx/" target="_blank">琼海宾得数码相机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/benqxjwx/" target="_blank">琼海明基数码相机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/gexjwx/" target="_blank">琼海通用数码相机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/aigoxjwx/" target="_blank">琼海爱国者数码相机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/haierxjwx/" target="_blank">琼海海尔数码相机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/lemoxjwx/" target="_blank">琼海乐魔数码相机维修</a>        
+    	                			    		</dd>
+             		<dt><span>保洁</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://qh.58.com/jiatingbaojie/" target="_blank">琼海家庭保洁</a>        
+    	                			    	                	                 <a href="http://qh.58.com/zhensi/" target="_blank">琼海真丝地毯清洗</a>        
+    	                			    	                	                 <a href="http://qh.58.com/smdala/" target="_blank">琼海实木地板打蜡</a>        
+    	                			    	                	                 <a href="http://qh.58.com/rmdala/" target="_blank">琼海软木地板打蜡</a>        
+    	                			    	                	                 <a href="http://qh.58.com/pvcdala/" target="_blank">琼海PVC地板打蜡</a>        
+    	                			    	                	                 <a href="http://qh.58.com/scfanxin/" target="_blank">琼海石材翻新/养护</a>        
+    	                			    	                	                 <a href="http://qh.58.com/smsjiejing/" target="_blank">琼海水磨石镜面处理</a>        
+    	                			    	                	                 <a href="http://qh.58.com/dlsjiejing/" target="_blank">琼海石材结晶</a>        
+    	                			    	                	                 <a href="http://qh.58.com/dlspaoguang/" target="_blank">琼海大理石抛光</a>        
+    	                			    	                	                 <a href="http://qh.58.com/scbingbian/" target="_blank">琼海石材病变处理</a>        
+    	                			    	                	                 <a href="http://qh.58.com/scfanghua/" target="_blank">琼海石材地面防滑</a>        
+    	                			    	                	                 <a href="http://qh.58.com/snqisha/" target="_blank">琼海水泥地面起砂</a>        
+    	                			    	                	                 <a href="http://qh.58.com/xzlbaojie/" target="_blank">琼海写字楼保洁</a>        
+    	                			    	                	                 <a href="http://qh.58.com/cfbaojie/" target="_blank">琼海厂房保洁</a>        
+    	                			    	                	                 <a href="http://qh.58.com/yybaojie/" target="_blank">琼海医院保洁</a>        
+    	                			    	                	                 <a href="http://qh.58.com/scbaojie/" target="_blank">琼海商场保洁</a>        
+    	                			    	                	                 <a href="http://qh.58.com/zhbaojie/" target="_blank">琼海展会保洁</a>        
+    	                			    	                	                 <a href="http://qh.58.com/xxbaojie/" target="_blank">琼海学校保洁</a>        
+    	                			    	                	                 <a href="http://qh.58.com/xqbaojie/" target="_blank">琼海小区保洁</a>        
+    	                			    		</dd>
+             		<dt><span>单反</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://qh.58.com/nikongdanfan/" target="_blank">琼海尼康单反维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/canondanfan/" target="_blank">琼海佳能单反维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/bindedanfan/" target="_blank">琼海宾得单反维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/suonidanfan/" target="_blank">琼海索尼单反维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/fushidanfan/" target="_blank">琼海富士单反维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/sanxingweidan/" target="_blank">琼海三星微单维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/suoniwd/" target="_blank">琼海索尼微单维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/jianengwd/" target="_blank">琼海佳能微单维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/fushiwd/" target="_blank">琼海富士微单维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/songxiawd/" target="_blank">琼海松下微单维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/kaxiouwd/" target="_blank">琼海卡西欧微单维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/kedawd/" target="_blank">琼海柯达微单维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/nikangwd/" target="_blank">琼海尼康微单维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/aolinbasiwd/" target="_blank">琼海奥林巴斯微单维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/aiguozhewd/" target="_blank">琼海爱国者微单维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/jvcwd/" target="_blank">琼海jvc微单维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/meinengdawd/" target="_blank">琼海美能达微单维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/liguangwd/" target="_blank">琼海理光微单维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/bindewd/" target="_blank">琼海宾得微单维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/sanyangwd/" target="_blank">琼海三洋微单维修</a>        
+    	                			    		</dd>
+             		<dt><span>厨房家电</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://qh.58.com/youyanjiweixiu/" target="_blank">琼海抽油烟机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/zhaojuweixiu/" target="_blank">琼海燃气灶维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/weiboluweixiu/" target="_blank">琼海微波炉维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/youyanjiweixiu/" target="_blank">琼海抽油烟机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/zhaojuweixiu/" target="_blank">琼海燃气灶维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/yinshujiwx/" target="_blank">琼海饮水机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/dianciluwx/" target="_blank">琼海电磁炉维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/dianfanbaowx/" target="_blank">琼海电饭煲维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/doujiangjiwx/" target="_blank">琼海豆浆机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/zhazhijiwx/" target="_blank">琼海榨汁机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/dianbingchengwx/" target="_blank">琼海电饼铛维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/yaliguowx/" target="_blank">琼海压力锅维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/kafeijiwx/" target="_blank">琼海咖啡机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/xiaoduguiwx/" target="_blank">琼海消毒柜维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/jingshuijiwx/" target="_blank">琼海净水机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/xiwanjiwx/" target="_blank">琼海洗碗机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/diankaoxiangwx/" target="_blank">琼海电烤箱维修</a>        
+    	                			    		</dd>
+             		<dt><span>家具</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://qh.58.com/shafahuli/" target="_blank">琼海沙发维修护理</a>        
+    	                			    	                	                 <a href="http://qh.58.com/jiasiweixiu/" target="_blank">琼海桌椅柜维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/zhongbiaowx/" target="_blank">琼海钟表维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/bgjjwx/" target="_blank">琼海办公家具维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/dibanweixiu/" target="_blank">琼海地板维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/menchweixiu/" target="_blank">琼海门窗维修</a>        
+    	                			    		</dd>
+             		<dt><span>家电</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://qh.58.com/gongfangwx/" target="_blank">琼海功放维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/yinxiangwx/" target="_blank">琼海音响维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/yinxiangweixiu/" target="_blank">琼海音箱维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/jiatingyingyuanweix/" target="_blank">琼海家庭影院维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/languangbofangweix/" target="_blank">琼海蓝光播放机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/qunuandianqi/" target="_blank">琼海取暖电器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/jinghuaqiwx/" target="_blank">琼海净化器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/jiashiqiwx/" target="_blank">琼海加湿器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/xichenqiwx/" target="_blank">琼海吸尘器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/ganyijiwx/" target="_blank">琼海干衣机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/dianfengshanwx/" target="_blank">琼海电风扇维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/yubapaifengshan/" target="_blank">琼海浴霸维修</a>        
+    	                			    		</dd>
+             		<dt><span>平板电脑</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://qh.58.com/pingguoipadweix/" target="_blank">琼海苹果iPad维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/lianxianglepadwx/" target="_blank">琼海联想乐Pad维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/hshpadweix/" target="_blank">琼海华硕Pad维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/acerpad/" target="_blank">琼海宏碁平板电脑维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/dongzhipad/" target="_blank">琼海东芝平板电脑维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/sanxingpadwx/" target="_blank">琼海三星平板电脑维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/dellpad/" target="_blank">琼海戴尔平板电脑维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/thinkpadtableweix/" target="_blank">琼海ThinkPad Tablet</a>        
+    	                			    	                	                 <a href="http://qh.58.com/sonypad/" target="_blank">琼海索尼平板电脑维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/wanlidapad/" target="_blank">琼海万利达平板电脑维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/shenzhoupad/" target="_blank">琼海神舟平板电脑维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/jijiapad/" target="_blank">琼海技嘉平板电脑维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/huaweipad/" target="_blank">琼海华为平板电脑维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/fushitongpad/" target="_blank">琼海富士通平板电脑维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/niumanpad/" target="_blank">琼海纽曼平板电脑维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/haixinpad/" target="_blank">琼海海信平板电脑维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/haierpad/" target="_blank">琼海海尔平板电脑维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/youpaipad/" target="_blank">琼海优派平板电脑维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/aikeshipad/" target="_blank">琼海爱可视平板电脑维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/zhikupad/" target="_blank">琼海智酷平板电脑维修</a>        
+    	                			    		</dd>
+             		<dt><span>房屋</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://qh.58.com/matongwx/" target="_blank">琼海马桶维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/linyuwx/" target="_blank">琼海浴缸/淋浴设备维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/dengjuwx/" target="_blank">琼海灯具维修/安装</a>        
+    	                			    	                	                 <a href="http://qh.58.com/fangshui/" target="_blank">琼海防水补漏</a>        
+    	                			    	                	                 <a href="http://qh.58.com/dianlu/" target="_blank">琼海电路维修/安装</a>        
+    	                			    	                	                 <a href="http://qh.58.com/weiyusg/" target="_blank">琼海水管维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/shuilongtouwx/" target="_blank">琼海水龙头维修/安装</a>        
+    	                			    	                	                 <a href="http://qh.58.com/nuanqiweixiu/" target="_blank">琼海暖气水管维修/安装</a>        
+    	                			    	                	                 <a href="http://qh.58.com/dakong/" target="_blank">琼海打孔</a>        
+    	                			    	                	                 <a href="http://qh.58.com/fangfu/" target="_blank">琼海防腐</a>        
+    	                			    	                	                 <a href="http://qh.58.com/qmfenshua/" target="_blank">琼海墙面粉刷</a>        
+    	                			    	                	                 <a href="http://qh.58.com/qmxiubu/" target="_blank">琼海墙面修补</a>        
+    	                			    	                	                 <a href="http://qh.58.com/guanizi/" target="_blank">琼海刮腻子</a>        
+    	                			    	                	                 <a href="http://qh.58.com/guadabai/" target="_blank">琼海刮大白</a>        
+    	                			    		</dd>
+             		<dt><span>手机</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://qh.58.com/pgshj/" target="_blank">琼海iphone维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/sxshj/" target="_blank">琼海三星手机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/nokiashj/" target="_blank">琼海诺基亚手机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/mtllshj/" target="_blank">琼海摩托罗拉手机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/sashj/" target="_blank">琼海索尼爱立信手机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/xpshj/" target="_blank">琼海夏普手机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/lgshj/" target="_blank">琼海lg手机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/dpdshj/" target="_blank">琼海多普达手机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/lxshj/" target="_blank">琼海联想手机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/htcwx/" target="_blank">琼海HTC手机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/xiaomisjwx/" target="_blank">琼海小米手机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/meizuwx/" target="_blank">琼海魅族手机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/heimeiwx/" target="_blank">琼海黑莓手机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/huaweiwx/" target="_blank">琼海华为手机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/zhongxingwx/" target="_blank">琼海中兴手机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/kupaiwx/" target="_blank">琼海酷派手机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/tianyuwx/" target="_blank">琼海天语手机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/jinliwx/" target="_blank">琼海金立手机维修</a>        
+    	                			    		</dd>
+             		<dt><span>摄像机</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://qh.58.com/suoniwx/" target="_blank">琼海索尼摄像机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/jianengwx/" target="_blank">琼海佳能摄像机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/jvcwx/" target="_blank">琼海JVC摄像机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/songxiawx/" target="_blank">琼海松下摄像机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/sanxingwx/" target="_blank">琼海三星摄像机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/aiguozhewx/" target="_blank">琼海爱国者摄像机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/mingjiwx/" target="_blank">琼海明基摄像机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/haierwx/" target="_blank">琼海海尔摄像机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/oudawx/" target="_blank">琼海欧达摄像机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/xiandaiwx/" target="_blank">琼海AEE现代摄像机维修</a>        
+    	                			    		</dd>
+             		<dt><span>数据</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://qh.58.com/shangwangxf/" target="_blank">琼海上网修复</a>        
+    	                			    	                	                 <a href="http://qh.58.com/luyouqiwx/" target="_blank">琼海路由器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/jiaohuanjiwx/" target="_blank">琼海交换机维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/wangkawx/" target="_blank">琼海网卡维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/yingpanwx/" target="_blank">琼海硬盘数据恢复</a>        
+    	                			    	                	                 <a href="http://qh.58.com/upanhuifu/" target="_blank">琼海U盘数据恢复</a>        
+    	                			    	                	                 <a href="http://qh.58.com/wenjianhuifu/" target="_blank">琼海文件恢复</a>        
+    	                			    		</dd>
+             		<dt><span>洗衣</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://qh.58.com/xiyiyanghu/" target="_blank">琼海洗衣店</a>        
+    	                			    	                	                 <a href="http://qh.58.com/pijuyanghu/" target="_blank">琼海皮具养护</a>        
+    	                			    	                	                 <a href="http://qh.58.com/yfyanghu/" target="_blank">琼海衣服养护</a>        
+    	                			    	                	                 <a href="http://qh.58.com/xieyanghu/" target="_blank">琼海鞋类养护</a>        
+    	                			    	                	                 <a href="http://qh.58.com/pibaoyanghu/" target="_blank">琼海皮包养护</a>        
+    	                			    	                	                 <a href="http://qh.58.com/jiajuyanghu/" target="_blank">琼海家居用品清洗养护</a>        
+    	                			    	                	                 <a href="http://qh.58.com/qczyyanghu/" target="_blank">琼海汽车座椅清洗养护</a>        
+    	                			    	                	                 <a href="http://qh.58.com/yibaogaizhi/" target="_blank">琼海衣物鞋包改制</a>        
+    	                			    	                	                 <a href="http://qh.58.com/yfgaizhi/" target="_blank">琼海衣服改制</a>        
+    	                			    	                	                 <a href="http://qh.58.com/xiegaizhi/" target="_blank">琼海鞋类改制</a>        
+    	                			    	                	                 <a href="http://qh.58.com/xiangbaogz/" target="_blank">琼海箱包改制</a>        
+    	                			    		</dd>
+             		<dt><span>清洗</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://qh.58.com/dengjubaojie/" target="_blank">琼海灯具清洗</a>        
+    	                			    	                	                 <a href="http://qh.58.com/gaokongqingxi/" target="_blank">琼海高空清洗</a>        
+    	                			    	                	                 <a href="http://qh.58.com/blmuqiangqx/" target="_blank">琼海玻璃幕墙</a>        
+    	                			    	                	                 <a href="http://qh.58.com/yancongqx/" target="_blank">琼海烟囱清洗</a>        
+    	                			    	                	                 <a href="http://qh.58.com/chuchongchuyi/" target="_blank">琼海除虫除蚁</a>        
+    	                			    	                	                 <a href="http://qh.58.com/mieshu/" target="_blank">琼海灭鼠</a>        
+    	                			    	                	                 <a href="http://qh.58.com/miezl/" target="_blank">琼海灭蟑螂</a>        
+    	                			    	                	                 <a href="http://qh.58.com/miewen/" target="_blank">琼海灭蚊</a>        
+    	                			    	                	                 <a href="http://qh.58.com/miecy/" target="_blank">琼海灭苍蝇</a>        
+    	                			    	                	                 <a href="http://qh.58.com/mieby/" target="_blank">琼海灭白蚁</a>        
+    	                			    	                	                 <a href="http://qh.58.com/mietz/" target="_blank">琼海灭跳蚤</a>        
+    	                			    	                	                 <a href="http://qh.58.com/miecc/" target="_blank">琼海灭臭虫</a>        
+    	                			    	                	                 <a href="http://qh.58.com/kongqijinghua/" target="_blank">琼海空气净化</a>        
+    	                			    	                	                 <a href="http://qh.58.com/shineikq/" target="_blank">琼海室内空气净化</a>        
+    	                			    	                	                 <a href="http://qh.58.com/cheneikq/" target="_blank">琼海车内空气净化</a>        
+    	                			    	                	                 <a href="http://qh.58.com/shineixd/" target="_blank">琼海室内消毒</a>        
+    	                			    	                	                 <a href="http://qh.58.com/shiwaixd/" target="_blank">琼海室外消毒</a>        
+    	                			    	                	                 <a href="http://qh.58.com/cheneixd/" target="_blank">琼海车内消毒</a>        
+    	                			    		</dd>
+             		<dt><span>管道</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://qh.58.com/diloust/" target="_blank">琼海地漏</a>        
+    	                			    	                	                 <a href="http://qh.58.com/mianpenst/" target="_blank">琼海面盆</a>        
+    	                			    	                	                 <a href="http://qh.58.com/yugangst/" target="_blank">琼海浴缸</a>        
+    	                			    	                	                 <a href="http://qh.58.com/caichist/" target="_blank">琼海菜池</a>        
+    	                			    	                	                 <a href="http://qh.58.com/dunbuchi/" target="_blank">琼海墩布池</a>        
+    	                			    	                	                 <a href="http://qh.58.com/hfcqingdi/" target="_blank">琼海化粪池清底</a>        
+    	                			    	                	                 <a href="http://qh.58.com/wsjqingtao/" target="_blank">琼海污水井清掏</a>        
+    	                			    	                	                 <a href="http://qh.58.com/shenghuachi/" target="_blank">琼海生化池</a>        
+    	                			    	                	                 <a href="http://qh.58.com/dxspaiwu/" target="_blank">琼海地下室排污</a>        
+    	                			    	                	                 <a href="http://qh.58.com/choufen/" target="_blank">琼海抽粪</a>        
+    	                			    	                	                 <a href="http://qh.58.com/yaliguandao/" target="_blank">琼海压力管道安装</a>        
+    	                			    	                	                 <a href="http://qh.58.com/meiqiguandao/" target="_blank">琼海煤气管道安装</a>        
+    	                			    	                	                 <a href="http://qh.58.com/yushuigd/" target="_blank">琼海雨水管道安装</a>        
+    	                			    	                	                 <a href="http://qh.58.com/kongtiaogd/" target="_blank">琼海空调管道</a>        
+    	                			    	                	                 <a href="http://qh.58.com/gongshuigd/" target="_blank">琼海供水管道</a>        
+    	                			    	                	                 <a href="http://qh.58.com/tianranqigd/" target="_blank">琼海天然气管道</a>        
+    	                			    	                	                 <a href="http://qh.58.com/religd/" target="_blank">琼海热力管道</a>        
+    	                			    	                	                 <a href="http://qh.58.com/gdshiya/" target="_blank">琼海管道试压</a>        
+    	                			    	                	                 <a href="http://qh.58.com/gddakong/" target="_blank">琼海管道打孔</a>        
+    	                			    	                	                 <a href="http://qh.58.com/gdgaizao/" target="_blank">琼海管道改造</a>        
+    	                			    	                	                 <a href="http://qh.58.com/gdfangfu/" target="_blank">琼海管道防腐</a>        
+    	                			    		</dd>
+             		<dt><span>网络</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://qh.58.com/fuwuqishuju/" target="_blank">琼海服务器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/ibmfwqweix/" target="_blank">琼海IBM服务器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/huipufwq/" target="_blank">琼海惠普服务器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/dellfwq/" target="_blank">琼海戴尔服务器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/sunfwq/" target="_blank">琼海Sun服务器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/lianxiangfwq/" target="_blank">琼海联想服务器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/langchaofwq/" target="_blank">琼海浪潮服务器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/shuguangfwq/" target="_blank">琼海曙光服务器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/huashuofwq/" target="_blank">琼海华硕服务器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/tongfangfwq/" target="_blank">琼海同方服务器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/baodefwq/" target="_blank">琼海宝德服务器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/fangzhengfwq/" target="_blank">琼海方正服务器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/ablenetfwq/" target="_blank">琼海ABLENET服务器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/huaweifwq/" target="_blank">琼海华为服务器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/jijiafwq/" target="_blank">琼海技嘉服务器维修</a>        
+    	                			    	                	                 <a href="http://qh.58.com/pingguofwq/" target="_blank">琼海苹果服务器维修</a>        
+    	                			    		</dd>
+                 </dl>
+      </dd>
+    </dl>
+ 	<!-- =E relatelink -->
+	<!-- =S bottomlink-->
+	            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+				电脑维修- 相关类别：
+			</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://www.58.com/hyzt/dianqi/'>家电维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/dianshiweixiu/'>电视维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/bingxiangweixiu/'>冰箱维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/kongtiao/'>空调维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/reshuiqiweixiu/'>热水器维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/xiyijiweixiu/'>洗衣机维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shoujiweixiu/'>手机维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/fangweixiu/'>房屋维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/weixiu/'>电脑维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/bijibenweixiu/'>笔记本维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiajuweixiu/'>家具维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/chufangwx/'>厨房家电维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/wangluoweixiu/'>网络维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shumaxiangjiwx/'>数码维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zhuangxiujc/'>装修建材</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiaoyu/'>教育培训</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/hunjiehunqing/'>婚庆摄影</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/qichefw/'>汽车服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shop/'>批发采购</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shenghuo/'>家政服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shangwu/'>商务服务</a></li>
+        		        		<li><a href='http://www.58.com/ppb58weixiu2/'>品牌家电维修大全</a></li>
+        		        		<li><a href='http://www.58.com/ppbhyzt1/'>黄页大全</a></li>
+        		        		<li><a href='http://www.58.com/pprmap5/'>家政地图</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+		<!-- =E bottomlink -->
+	<!-- =S hotcity-->
+	    <!-- =S hotcity -->
+            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+					电脑维修- 热门城市：
+					</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://bj.58.com/weixiu/'>北京电脑维修</a></li>
+        		        		<li><a href='http://sh.58.com/weixiu/'>上海电脑维修</a></li>
+        		        		<li><a href='http://gz.58.com/weixiu/'>广州电脑维修</a></li>
+        		        		<li><a href='http://sz.58.com/weixiu/'>深圳电脑维修</a></li>
+        		        		<li><a href='http://tj.58.com/weixiu/'>天津电脑维修</a></li>
+        		        		<li><a href='http://hz.58.com/weixiu/'>杭州电脑维修</a></li>
+        		        		<li><a href='http://wh.58.com/weixiu/'>武汉电脑维修</a></li>
+        		        		<li><a href='http://xa.58.com/weixiu/'>西安电脑维修</a></li>
+        		        		<li><a href='http://cd.58.com/weixiu/'>成都电脑维修</a></li>
+        		        		<li><a href='http://zz.58.com/weixiu/'>郑州电脑维修</a></li>
+        		        		<li><a href='http://cs.58.com/weixiu/'>长沙电脑维修</a></li>
+        		        		<li><a href='http://nj.58.com/weixiu/'>南京电脑维修</a></li>
+        		        		<li><a href='http://hrb.58.com/weixiu/'>哈尔滨电脑维修</a></li>
+        		        		<li><a href='http://sy.58.com/weixiu/'>沈阳电脑维修</a></li>
+        		        		<li><a href='http://su.58.com/weixiu/'>苏州电脑维修</a></li>
+        		        		<li><a href='http://sjz.58.com/weixiu/'>石家庄电脑维修</a></li>
+        		        		<li><a href='http://dl.58.com/weixiu/'>大连电脑维修</a></li>
+        		        		<li><a href='http://qd.58.com/weixiu/'>青岛电脑维修</a></li>
+        		        		<li><a href='http://jn.58.com/weixiu/'>济南电脑维修</a></li>
+        		        		<li><a href='http://cq.58.com/weixiu/'>重庆电脑维修</a></li>
+        		        		<li><a href='http://fx.58.com/weixiu/'>阜新电脑维修</a></li>
+        		        		<li><a href='http://yb.58.com/weixiu/'>宜宾电脑维修</a></li>
+        		        		<li><a href='http://cy.58.com/weixiu/'>朝阳电脑维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/weixiu/'>电脑维修</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+	<!-- =E hotcity --> 	<!-- =E hotcity -->
+	<!-- =S friendlink-->
+					<!-- =E friendlink -->
+</section>
+	<footer id="footer" class="footer">
+	    <div id="upWrap"> <a target="_blank" href="http://about.58.com/help.html" rel="nofollow">常见问题</a><span>|</span> <a target="_blank" href="http://about.58.com/" rel="nofollow">帮助中心</a><span>|</span> <a target="_blank" href="http://about.58.com/feedback.html" rel="nofollow">意见反馈</a><span>|</span> <a target="_blank" href="http://about.58.com/home/" rel="nofollow">了解58同城</a><span>|</span> <a target="_blank" href="http://about.58.com/hr/" rel="nofollow">加入58同城</a><span>|</span> <a target="_blank" href="http://fanqizha.58.com/" rel="nofollow">反欺诈联盟</a><span>|</span> <a target="_blank" href="http://110.58.com" rel="nofollow">报案平台</a><span>|</span> <a target="_blank" href="http://e.58.com" rel="nofollow">推广服务</a><span>|</span> <a target="_blank" href="http://biz.58.com" rel="nofollow">渠道招商</a><span>|</span> <a target="_blank" href="http://baozhang.58.com" rel="nofollow">先行赔付</a><span>|</span> <a target="_blank" href="http://ir.58.com?PGTID=0d100000-0000-13da-8041-51f9a3a739fa&amp;ClickID=2" rel="nofollow">Investor Relations</a> </div>
+	    <div id="downWrap"> <em>2005-2016 58.com版权所有</em><span>|</span> <em>京公网备案信息110105000809</em><span>|</span> <a target="_blank" href="http://www.miibeian.gov.cn/" rel="nofollow">京ICP证060405</a><span>|</span><em>乙测资字11018014</em><span>|</span> <a target="_blank" href="http://ir.58.com" rel="nofollow">Investor Relations</a><span>|</span><em>违法信息举报：4008135858&nbsp;&nbsp;jubao@58ganji.com</em> </div>
+	    <div class="fotBtmIcon">
+	        <a target="_blank" id="fotBm_1" href="http://fanqizha.58.com"></a>
+	        <a target="_blank" id="fotBm_2" href="http://www.12377.cn/"></a>
+	        <a target="_blank" id="fotBm_3" href="http://www.12377.cn/node_548446.htm"></a>
+	        <a target="_blank" id="fotBm_4" href="https://credit.szfw.org/CX20120918001650001720.html"></a>
+	        <a target="_blank" id="fotBm_5" href="http://img.58cdn.com.cn/ui6/index/qyxinyong.jpg?v=3"></a>
+	        <a target="_blank" id="fotBm_6" href="http://about.58.com/fqz/index.html"></a>
+	    </div>
+	</footer>
+<script>
+	var currentDate = new Date();
+</script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfc_v20160418145051.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfcInit_v20161121150119.js'></script>
+<script>
+	var jingzhun_ads = [];
+	var jingzhun_ads_param = "";
+</script>
+
+				<script type="text/javascript" src='http://j1.58cdn.com.cn/js/5_1/comm_js/boot_listpage_version_v20170329165708.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript">
+document.domain = '58.com';
+var win = new GetToolTipWindow('tooltipdiv', 'keyword', '3','10136','', true);win.setSearchButton('searchbtn');
+var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','10136','');win1.setSearchButton('searchbtn1');
+var win2 = new GetToolTipWindow('tooltipdiv2', 'mudidi', '7', '10136', '');win2.setSearchButton('searchbtn1');
+boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'qh');});
+</script>
+
+<script type="text/javascript" >
+// JavaScript Document
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	toggle(".p-help");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".small-tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+
+$("#shangmenfw a").each(function(){
+	if("到店服务"== $(this).text().trim()){
+		$(this).remove();
+	}
+});
+
+BAIDU_CLB_fillSlot("567863");
+
+var alldt = $("#relateSelect>dt");
+function showNear(dt){
+    alldt.each(function(){
+        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+        else {$(this).next("dd").hide();$(this).removeClass("select");}
+    });
+}
+alldt.each(function(){
+    $(this).click(function(){showNear(this);}).hover(function(){showNear(this);});
+});
+
+showNear(alldt[0]);
+
+	boot.require('dom, anim.hover', function(Frame, dom, hover){
+	  var cc = dom.get('infolist'),
+	      trs = cc.getElementsByTagName('tr');
+	  Frame.each(trs, function(item){
+	    hover.bind(item, 'bg');
+	  });
+	});
+	$(".selector").each(function(){
+	  $(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+	});
+  
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+$(".selector").each(function(){
+	$(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+});
+
+</script>
+
+<div style="display:none;">
+<script type="text/javascript">
+ var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3bb04d7a4ca3846dcc66a99c3e861511' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+</div>
+
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+
+
+			<script type="text/javascript" src='http://j1.58cdn.com.cn/js/v8/boot/boot_huangye_v20170329172410.js'>
+		</script>
+		<script>
+			require(['_pkg/huangye/huangye_shenghuo_list_dom'],function(){});
+		</script>
+	
+<script src="http://track.58.com/adsys/ggafs?rand=20170405"></script>
+<script>
+//统计埋点
+$(function(){
+	$('dl.secitem').each(function(){
+	    var idname = $(this).find("dd").eq(0).attr('id');
+		$(this).find('a').not('span a').each(function(){
+			$(this).click(function(){
+				clickLog('from=pc_list_weixiu_shaixuan_'+idname+ '_qh');
+		    });		
+		});	
+    });	
+})
+</script>
+<script type="text/javascript">
+    $("#more_ObjectType").click(function(){
+    	console.log("ok");
+    	var showmoreBrand = document.getElementById("moreBrandct"),moreBrandbtn = document.getElementById("moreBrandbtn");
+	    showmoreBrand.style.display = (showmoreBrand.style.display=="block")?"none":"block";
+	    moreBrandbtn.className = (moreBrandbtn.className=="moreBrand")?"moreBrand hold":"moreBrand";
+    });
+    var pemorealldt = $("#moreBrandct dt");
+	function showpemorecon(dt){
+		pemorealldt.each(function(){
+		    if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+            else {$(this).next("dd").hide();$(this).removeClass("select");}
+        });
+    }
+    pemorealldt.each(function(){
+		$(this).click(function(){showpemorecon(this);}).hover(function(){showpemorecon(this);});
+    });
+    showpemorecon(pemorealldt[0]);
+</script>
+		<script type="text/javascript">
+function cpcget(url){
+	$.ajax({
+		url:url,
+		type:"get",
+		dataType:"jsonp",
+		success:function(data){
+		
+        }
+    });	
+}
+</script>					<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e15962162366a86a6229038443847be7";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div style="display:none">
+	<!--基本统计代码begin(8512,0)--by:zhanghao06-->
+<script type="text/javascript">
+____json4fe.supplycount = {sortid:'23829462749493'};
+var _gaq = _gaq || [],site_name = "58",post_count = "27",shop_count= "",page_type = "list";
+var _trackURL = "{'cate':'8512,111','area':'10136','pagetype':'list','GA_pageview':'/qh/shenghuo/weixiu/listversion/','version':'A','pagesize':'35','pagenum':'1','level1':'','level2':'','level3':'','level4':'','level5':'','level6':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/qh/shenghuo/weixiu/listversion/']);
+
+$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+<!--基本统计代码end-->
+</div>
+<script src="http://wechat.58.com/google-analytics"></script> 				<!-- 抢单神器下线-->
+				<!-- 抢单神器下线-->
+		<!-- 装修搜索弹窗  S -->
+				<!-- 招标弹框start -->
+<link rel="stylesheet" href='http://c.58cdn.com.cn/ds/zhaobiao/pc_search_win/list_win_zb_v20161010135135.css' />
+<script src="http://j1.58cdn.com.cn/ds/zhaobiao/v1/js/fastpost/jquery.md5.js"></script>
+<script>
+ var cityid=10136;
+</script>
+
+        <!-- 招标弹框end -->
+
+
+				<!-- 装修搜索弹窗  E -->
+		<!-- 前置登陆  s -->
+				<!-- 前置登陆  e -->
+	</body>
+</html>

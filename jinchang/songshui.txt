@@ -1,0 +1,1324 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+												<!--  当前的类别归属ID--> 
+		<!--  当前的类别表现ID--> 
+		<!--  当前的类别listname (eg:banjia)--> 
+		<!--  当前的类别catename (eg:搬家)--> 
+		<!--  一级类别归属ID--> 
+		<!--  一级类别表现ID--> 
+		<!--  一级类别listname eg:jiazheng--> 
+		<!--  一级类别catename eg:家政--> 
+		<!--  二级类别归属ID [Ljava.lang.Integer;@6857eb11 数字长度：2--> 
+			<!--  二级类别表现ID--> 
+				<!--  二级类别listname eg:jiazhuang--> 
+				<!--  二级类别catename eg:家装-->
+				<!-- 表现类别的全路径   eg:8512,96-->
+									
+						<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>【58同城】金昌配送中心_金昌生活配送服务公司</title>
+	<meta name="description" content='58同城金昌生活配送频道是最大的金昌送水公司、生活配送服务信息免费发布、查阅平台。在这里每天都有大量专业、真实的优秀金昌生活配送公司提供，同时您可以免费发布金昌配送中心信息。-58.com'/>
+	<meta name="keywords" content='金昌配送中心,金昌配送公司,生活配送'/>
+	<meta http-equiv="X-UA-Compatible" content="edge" />
+		<meta name="location" content="province=甘肃;city=金昌;coord=102.208126,38.516072">
+				<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/jinchang/songshui/" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/jinchang/songshui/" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/jinchang/songshui/" />
+					<script type="text/javascript">
+		var ____loadCfg = ['huangye', 'shenghuo', 'listpage'];
+	</script>
+	<script src='http://j2.58cdn.com.cn/js/require_jquery_load.js'></script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">document.write('<scri'+'pt src="http://j1.58cdn.com.cn/ds/tgbrand/js/brand_listpage_v1.js?temp=' + Math.random() + '"></scri'+'pt>');</script> 
+<script type="text/javascript">
+	var xxfwConfig = {namespace:'huangyelistpc'};
+</script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/resource/xxzl/xxfw/xxfw.min_v20161021110430.js'></script>
+
+<script type="text/javascript">
+try{
+	var ____json4fe = {"catentry":[{"dispid":"8512","name":"家政服务","listname":"shenghuo"},{"dispid":"102","name":"生活配送","listname":"songshui"}],"locallist":[{"dispid":"7428","name":"金昌","listname":"jinchang"}],"start":(new Date()).getTime(),"modules":"list"};
+	____json4fe.version = 'A';
+	____json4fe.modules = 'listpage';
+	____json4fe.sid = '115949016195459256977548755';
+	____json4fe.sessionid = '6620815d-d3aa-413c-8a86-20ce2b440206';
+	____json4fe.smsc = '3f2dd2de9529e633cf209c4fcf6c364c8320bcb2748deeb5f4b6480df43cfde33ad302b70e54453e01445c7dc48fb6236eacd4d014a89d2d06b992ed6cbd8d87b2b082def8d73f386b0cc4d4537c18c06610fb1118ed0171ebb34bbb7028813e8d3186e38a4481b80319a73cb78cd1924f2b8e17625df609d6db42604c50692c261af3e2db2eaffab0d15e0cd07fbea383c658168e5f4c2f';
+	____json4fe.newcateid='';
+	____json4fe.keyword='';
+	____json4fe.page='1';
+	____json4fe.param='';
+	}catch(e){};
+	(function(){
+var e = "header,nav,section,aside,article,footer".split(','),
+i=0,
+length=e.length;
+while(i<length){
+    document.createElement(e[i++])
+}
+})();
+	var ajax_param = '{"platform":"pc","paramMap":null,"pageIndex":1,"dispCateId":102,"infoMethod":["renzheng","baojia","wltAge"],"dataParam":"25141062038573_20767056154886_0_commoninfo,29514344360890_45375413634327_0_commoninfo,29491440194766_37875647509783_0_commoninfo,24881468436796_37103739827728_0_commoninfo,29338576536257_9860126872582_0_commoninfo,29304352841535_37590283566351_0_commoninfo,29262169554121_14896378224134_0_commoninfo,29130083118006_31969866896647_0_commoninfo,28995443766842_28962272574212_0_commoninfo,27942757399218_26208419852294_0_commoninfo,28699532198314_39717698199830_0_commoninfo,28655778640947_21577817863430_0_commoninfo,28523462133041_44387409861651_0_commoninfo,28452414963401_41619740874000_0_commoninfo,28214075764688_35563269091862_0_commoninfo,28182119297103_43692114029334_0_commoninfo,27949959671865_19283100616967_0_commoninfo,27815417297718_27768238511111_0_commoninfo,25887815749676_34316018093580_0_commoninfo,24665723443897_36671858839056_0_commoninfo,26877748015154_35244146381319_0_commoninfo,26428531602880_39236597998614_0_commoninfo,26257472193328_38229390525200_0_commoninfo,22947406743713_26607997742598_0_commoninfo,22407752086558_32156284905223_0_commoninfo,25931461271862_33496709875718_0_commoninfo,25857110484267_39038325785364_0_commoninfo,25702722733885_31598891042567_0_commoninfo,29427365313228_45375413634327_0_commoninfo,29130338658113_9860126872582_0_commoninfo,29006724144433_31969866896647_0_commoninfo,24665539303865_36671858839056_0_commoninfo,29304588247354_45375413634327_0_commoninfo,29017724470697_9860126872582_0_commoninfo,29129938911568_45375413634327_0_commoninfo","dispCateName":"songshui"}';
+	var s_ajax_param = 's_contact_songshui_115949016195459256977548755_';
+</script>				<link href='http://c.58cdn.com.cn/ds/v1/base-v1_v0.css' rel="stylesheet" type="text/css">
+	<link href='http://c.58cdn.com.cn/ds/v1/common_list_v20170315183710.css' rel="stylesheet" type="text/css">
+<link href='http://c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20170331140927.css' rel="stylesheet" type="text/css">
+
+
+		<link href='http://c.58cdn.com.cn/ds/v1/list/defaultList_v20170220190119.css' rel="stylesheet" type="text/css">
+	<!-- <link rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv02_v0.css'> -->
+<link type="text/css" rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03_v20160727171301.css'>
+<!-- <link type="text/css" rel="stylesheet" href="http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03.css"> -->
+
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/dialog_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/release_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/retable_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/weixin/hy_freetel_v20161207184444.css">	
+    		</head>
+				<body class="body-songhui">
+						<!-- =S top bar header -->
+			<div id="commonTopbar" class="commonTopbar">
+<script type="text/javascript">
+    var secId;
+        ____json4fe.catentry[1]? secId = ____json4fe.catentry[1].dispid : secId = ____json4fe.catentry.dispid;
+    var modules = ____json4fe.modules;
+    //搬家列表页(secId == "96" && modules=="listpage")宽度为1190px
+    if(secId == "96" && modules=="listpage"){
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'default' // default: 1190px, narrow: 1000px
+            });
+        };
+    }else{
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'narrow' // default: 1190px, narrow: 1000px
+            });
+        };
+    }    
+</script>
+</div>
+<!-- =S banner  div -->
+<div class="topbannerbar"><div id="brand_list_top_banner" onclick="clickLog('from=pc_list_songshui_top_banner');" ></div></div>
+<!-- =E banner  div--><header id="header">
+    <div class="header-inner">
+    <a class="logo float_l" href="/huangye/" target="_blank" onclick="clickLog('from=pc_list_logo_songshui');">58同城</a>
+            <a href='http://post.58.com/7428/102/s5' target="_blank" onclick="clickLog('from=pc_list_fabu_songshui');" class="postbtn float_r">免费发布</a>
+        		        <div class="header-search float_r">
+         <em class="ico-searchkey"></em>
+         <form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+         	            	<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();">
+                        <span onMouseOut="this.className='sbtn'" onMouseOver="this.className='sbtn hover'" class="sbtn">
+                			<input type="submit" value="搜服务" onclick="clickLog('from=pc_list_search_songshui');" class="but-bl" name="" id="searchbtn1" ></span>
+                		        		<div class="clear"></div>
+        					       		       	  </form>
+       	</div>
+		            	<div class="nav float_l" >
+	<a href="/">金昌58同城</a> &gt; <a href="/shenghuo.shtml">金昌家政服务</a>
+				 &gt; <a href="/songshui/" itemprop="url">金昌生活配送</a>
+	
+
+</div>
+	</div>
+</header>
+		<!-- =E top bar header -->
+	<!-- =S common_column_label-->
+			<!-- =E common_column_label-->
+	<!-- =S searchTip -->
+			<!-- =E searchTip  -->
+	<!-- =s cmcs -->
+							<section id="selection">
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">类别 ：</dt>
+		<dd id="ObjectType" >
+																    		    		    		    					<a href="/songshui/" class='select' >全部</a>
+								    		    		    		    					<a href="http://jinchang.58.com/sshui/"  >桶装水</a>
+								    		    		    		    					<a href="http://jinchang.58.com/paotui/"  >跑腿服务</a>
+								    		    		    		    					<a href="http://jinchang.58.com/songmi/"  >粮油副食</a>
+								    		    		    		    					<a href="http://jinchang.58.com/songqi/"  >液化气/煤气</a>
+								    		    		    		    					<a href="http://jinchang.58.com/shucai/"  >蔬菜水果</a>
+								    		    		    		    					<a href="http://jinchang.58.com/smeitan/"  >煤炭</a>
+															    					    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">服务区域  ：</dt>
+		<dd id="local" >
+																    		    		    		    					<a href="/songshui/" class='select' >全金昌</a>
+								    		    		    		    					<a href="/yongchangxian/songshui/"  >永昌</a>
+								    		    		    		    					<a href="/hexibao/songshui/"  >河西堡</a>
+								    		    		    		    					<a href="/jinchangshiqu/songshui/"  >金川</a>
+																									    	</dd>
+    </dl>
+	<div id="selected" class="bar"></div>
+	<i class="shadow"></i>
+</section>
+
+			<!-- =E cmcs -->
+		<div id="adtop_1" class="hc"><div class="mouter defa"><div class="inner"><div id="md3" class="mdul"></div><ul id="md1" class="mdul"></ul><ul id="md2" class="mdul"></ul><ul id="md4" class="mdul"></ul><ul id="md5" class="mdul"></ul><div class="clear"></div></div></div></div>
+<div class="tabsbar">
+    <div class="list-tabs">
+												<a href="/songshui/" onclick="clickLog('from=pc_list_songshui_list_tabs');" class="sel"><h1>金昌生活配送</h1></a>
+											</div>
+	 	    	                	        
+
+		
+	
+				<span class="zhaobiao" >
+			<a href="http://bianmin.58.com/jinchang/?from=pc_list_bianmin_wzl"
+			   target="_blank" >学习办事经验，解决办证难题</a>
+		</span>
+		
+			
+
+
+</div>
+ 				<section id="mainlist" class="main clearfix pr">
+					<div class="filterbar h28">
+    <div class="filterbar-l">
+			<!-- <div class="filterup" id="filterup">
+				 <a class="m1" title="找班级" href="#" rel="nofollow" onclick=""><span>找班级<em></em></span></a>
+				 <a class="m1" title="找拼友" href="#" rel="nofollow" onclick=""><span>找拼友<em></em></span></a>
+			</div>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">全部</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示教育机构</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示个人教师</a></span> -->
+				<div class="filterup" id="filterup">
+			 <a class="m1 sel" title="默认" href="#" rel="nofollow" onclick="g2({sort:null}); clickLog('from=huangye_list_moren_songshui_jinchang&psid=115949016195459256977548755'); "><span>默认排序<em></em></span></a>
+											</div>
+														<span class="checkbox-ico" id="renzheng"><a href="javascript:void(0);" onclick="clickLog('from=List_sort_songshui__zhikanrenzheng');">只看认证</a></span>
+									
+									</div>  
+     <div class="filterbar-md">
+    	    	<!-- 加入医疗健康判断-->
+    	    		    		        		       <a class="mdtj" style="display:inline-block;" rel="nofollow" target="_blank" href="http://e.58.com/shenghuo.html" onClick="clickLog('from=huangye_zhaoshang&psid=115949016195459256977548755');">想提升接单效果，请致电4008107258</a>
+    		        		    	
+				   </div>        
+</div>
+					<div id="infolist" class="cleft" >
+				<!-- =S infolist -->
+									<div id="top_google_ad"></div>
+<table class="small-tbimg" cellspacing="0" cellpadding="0" >
+							<tr logr='p_1_20767056154886_25141062038573_0' infotag="25141062038573_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李先生 : </b>
+				<a href='http://jinchang.58.com/songshui/25141062038573x.shtml?psid=115949016195459256977548755&entinfo=25141062038573_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			跑腿服务，为你解忧。
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												24小时为您跑腿服务，不管什么，您有问题找我，吃饭，生活需求，为您所想...
+				(03-30)
+							<p class="seller">
+					s***5
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25141062038573' wltMark="0" param="25141062038573_20767056154886_0_commoninfo_8146C8A5856B3E155F20AE96006ED0F3"  data-j4fe="13830562644,李先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25141062038573&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_45375413634327_29514344360890_0' infotag="29514344360890_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小李 : </b>
+				<a href='http://jinchang.58.com/songshui/29514344360890x.shtml?psid=115949016195459256977548755&entinfo=29514344360890_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			暖心包车服务
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												诚信跑腿，提供飞机场、火车站接送及长短途包车服务。 ​
+				(03-27)
+							<p class="seller">
+					n***政
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29514344360890' wltMark="0" param="29514344360890_45375413634327_0_commoninfo_B26F92ACE0E26CE2244E326A7AF8FD62"  data-j4fe="18909453565,小李" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29514344360890&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37875647509783_29491440194766_0' infotag="29491440194766_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小东北 : </b>
+				<a href='http://jinchang.58.com/songshui/29491440194766x.shtml?psid=115949016195459256977548755&entinfo=29491440194766_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			时间就是金钱
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												打电话十分钟就到，诚信服务，
+				(03-25)
+							<p class="seller">
+					1***k
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29491440194766' wltMark="0" param="29491440194766_37875647509783_0_commoninfo_D07F5600919BD72F36753D9EF6692E9B"  data-j4fe="13993579052,小东北" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29491440194766&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37103739827728_24881468436796_0' infotag="24881468436796_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李先生 : </b>
+				<a href='http://jinchang.58.com/songshui/24881468436796x.shtml?psid=115949016195459256977548755&entinfo=24881468436796_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			送餐服务，为您解忧。
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												送餐服务，两公里内十元，两公里外十五元。六十岁以上老人免费服务。
+				(03-12)
+							<p class="seller">
+					喜***1
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='24881468436796' wltMark="0" param="24881468436796_37103739827728_0_commoninfo_8146C8A5856B3E155F20AE96006ED0F3"  data-j4fe="13830562644,李先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24881468436796&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_9860126872582_29338576536257_0' infotag="29338576536257_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李师傅 : </b>
+				<a href='http://jinchang.58.com/songshui/29338576536257x.shtml?psid=115949016195459256977548755&entinfo=29338576536257_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			老兵跑腿服务
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												诚信跑腿，提供飞机场、火车站接送及长途包车服务。 办理代理包括各类证件...
+				(03-11)
+							<p class="seller">
+					老兵家政
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29338576536257' wltMark="0" param="29338576536257_9860126872582_0_commoninfo_7157C25C593E41F38FCF3AF976577568"  data-j4fe="15101391326,李师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29338576536257&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37590283566351_29304352841535_0' infotag="29304352841535_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李师傅 : </b>
+				<a href='http://jinchang.58.com/songshui/29304352841535x.shtml?psid=115949016195459256977548755&entinfo=29304352841535_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			长短途包车服务
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												诚信跑腿，提供飞机场、火车站接送及长短途包车服务。 ​
+				(03-08)
+							<p class="seller">
+					老兵疏通
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29304352841535' wltMark="0" param="29304352841535_37590283566351_0_commoninfo_A32DC9D75FA7EB0B830909C67F91B454"  data-j4fe="18993500575,李师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29304352841535&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_14896378224134_29262169554121_0' infotag="29262169554121_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">周总 : </b>
+				<a href='http://jinchang.58.com/songshui/29262169554121x.shtml?psid=115949016195459256977548755&entinfo=29262169554121_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			金昌洗涤设备江苏汉庭机械生产制造销售处（厂直销部）
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												江苏汉庭机械是专业生产制造洗涤设备厂家，至今已有二十多年的生产史，产品...
+				(03-04)
+							<p class="seller">
+					t***1
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29262169554121' wltMark="0" param="29262169554121_14896378224134_0_commoninfo_ABE0AAC76A240BF0C04EEEAB6C2431F5"  data-j4fe="13991208710,周总" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29262169554121&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_31969866896647_29130083118006_0' infotag="29130083118006_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">高师傅 : </b>
+				<a href='http://jinchang.58.com/songshui/29130083118006x.shtml?psid=115949016195459256977548755&entinfo=29130083118006_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			长短途包车服务
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												长期承接长短途包车服务，诚信服务、信誉至上！ ​
+				(02-20)
+							<p class="seller">
+					w***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29130083118006' wltMark="0" param="29130083118006_31969866896647_0_commoninfo_D3F2E50E9882A1EE46B15B21D269AE17"  data-j4fe="17793533256,高师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29130083118006&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_28962272574212_28995443766842_0' infotag="28995443766842_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小李 : </b>
+				<a href='http://jinchang.58.com/songshui/28995443766842x.shtml?psid=115949016195459256977548755&entinfo=28995443766842_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			小李跑腿服务
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												诚信跑腿，提供飞机场、火车站接送及长途包车服务。 办理代理包括各类证件...
+				(02-08)
+							<p class="seller">
+					u***0
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28995443766842' wltMark="0" param="28995443766842_28962272574212_0_commoninfo_B26F92ACE0E26CE2244E326A7AF8FD62"  data-j4fe="18909453565,小李" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28995443766842&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_26208419852294_27942757399218_0' infotag="27942757399218_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刘月 : </b>
+				<a href='http://jinchang.58.com/songshui/27942757399218x.shtml?psid=115949016195459256977548755&entinfo=27942757399218_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			出售执照分一分一百
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												出售执照分，一分100元。
+				(01-13)
+							<p class="seller">
+					国芳置业淘宝生态成
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27942757399218' wltMark="0" param="27942757399218_26208419852294_0_commoninfo_D9D2EE2C2357E2760BBF6299EC731CA5"  data-j4fe="13519460603,刘月" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27942757399218&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39717698199830_28699532198314_0' infotag="28699532198314_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王先生 : </b>
+				<a href='http://jinchang.58.com/songshui/28699532198314x.shtml?psid=115949016195459256977548755&entinfo=28699532198314_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			箱货拉货出租，代配送货
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												带送货，诚实可靠，诚信为本
+				(01-12)
+							<p class="seller">
+					西***剂
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28699532198314' wltMark="0" param="28699532198314_39717698199830_0_commoninfo_1A853B9B1E3AF11CBAFE901794976ABF"  data-j4fe="13519466938,王先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28699532198314&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_21577817863430_28655778640947_0' infotag="28655778640947_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张永涛 : </b>
+				<a href='http://jinchang.58.com/songshui/28655778640947x.shtml?psid=115949016195459256977548755&entinfo=28655778640947_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			四季香批发香菇酱
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												本公司专注研发生产销售酱类产品，经过张先生与十几位名厨多年潜心研究，研...
+				(01-08)
+							<p class="seller">
+					三六九食品
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28655778640947' wltMark="0" param="28655778640947_21577817863430_0_commoninfo_7C190BB428FA7DF9A9400289E4CF169B"  data-j4fe="18500030086,张永涛" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28655778640947&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_44387409861651_28523462133041_0' infotag="28523462133041_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">孙伟 : </b>
+				<a href='http://jinchang.58.com/songshui/28523462133041x.shtml?psid=115949016195459256977548755&entinfo=28523462133041_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			空车配货，长短途均可
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												专业搬家，价格合理，服务到家
+				(12-27)
+							<p class="seller">
+					h***2
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28523462133041' wltMark="0" param="28523462133041_44387409861651_0_commoninfo_84A241F2D2227FDC7146FF32EE5C8B5D"  data-j4fe="15025991717,孙伟" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28523462133041&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_41619740874000_28452414963401_0' infotag="28452414963401_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王永龙 : </b>
+				<a href='http://jinchang.58.com/songshui/28452414963401x.shtml?psid=115949016195459256977548755&entinfo=28452414963401_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			出租车24小时服务
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												正规朗逸出租车，电话24小时开机，提供飞机场、火车站接送及长途包车服务...
+				(12-21)
+							<p class="seller">
+					x***3
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28452414963401' wltMark="0" param="28452414963401_41619740874000_0_commoninfo_1A408B95D7996B271BA2775AE4521CD2"  data-j4fe="18909451808,王永龙" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28452414963401&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_35563269091862_28214075764688_0' infotag="28214075764688_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小米 : </b>
+				<a href='http://jinchang.58.com/songshui/28214075764688x.shtml?psid=115949016195459256977548755&entinfo=28214075764688_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			正纯胡麻油配送
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												古浪正宗胡麻油，需要的朋友提前定购，11元/斤，送货上，送亲戚，送朋友...
+				(11-29)
+							<p class="seller">
+					k***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28214075764688' wltMark="0" param="28214075764688_35563269091862_0_commoninfo_C85F73E87112857E5CE18134523E954D"  data-j4fe="13993599536,小米" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28214075764688&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_43692114029334_28182119297103_0' infotag="28182119297103_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">蔡先生 : </b>
+				<a href='http://jinchang.58.com/songshui/28182119297103x.shtml?psid=115949016195459256977548755&entinfo=28182119297103_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			空车配货，价格便宜
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												空车配货，价格便宜。金昌，永昌，武威都跑
+				(11-26)
+							<p class="seller">
+					8***z
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28182119297103' wltMark="0" param="28182119297103_43692114029334_0_commoninfo_549E768DEAC5BC1D63C2337B4C447BAA"  data-j4fe="18909454868,蔡先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28182119297103&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_19283100616967_27949959671865_0' infotag="27949959671865_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+				<a href='http://jinchang.58.com/songshui/27949959671865x.shtml?psid=115949016195459256977548755&entinfo=27949959671865_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			顺丰速递，跑腿业务
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												金昌市区内点餐送餐。鲜花礼品，生活用品等跑腿业务。两公里以内十元，两公...
+				(11-05)
+							<p class="seller">
+					z***5
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27949959671865' wltMark="0" param="27949959671865_19283100616967_0_commoninfo_40212CD2928A91245F9A213B2EB0DE64"  data-j4fe="18909451544," >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27949959671865&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_27768238511111_27815417297718_0' infotag="27815417297718_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">大海 : </b>
+				<a href='http://jinchang.58.com/songshui/27815417297718x.shtml?psid=115949016195459256977548755&entinfo=27815417297718_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			小车服务，可货运可客运。
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												诚信服务，价格合理。
+				(10-24)
+							<p class="seller">
+					y***2
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27815417297718' wltMark="0" param="27815417297718_27768238511111_0_commoninfo_81889D35D6CAEF16684911B29ACAFEBD"  data-j4fe="13993579470,大海" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27815417297718&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_34316018093580_25887815749676_0' infotag="25887815749676_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">薛飞 : </b>
+				<a href='http://jinchang.58.com/songshui/25887815749676x.shtml?psid=115949016195459256977548755&entinfo=25887815749676_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			电动三轮车改装油电两用三轮车
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												本人专业改装三轮车油电两用曾程器。
+				(09-01)
+							<p class="seller">
+					小***迪
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25887815749676' wltMark="0" param="25887815749676_34316018093580_0_commoninfo_3A4788C53E2EE2BD97573CEA76B92677"  data-j4fe="15809454513,薛飞" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25887815749676&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_36671858839056_24665723443897_0' infotag="24665723443897_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李先生 : </b>
+				<a href='http://jinchang.58.com/songshui/24665723443897x.shtml?psid=115949016195459256977548755&entinfo=24665723443897_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			24小时送餐，别让自己饿着。
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												24小时送餐服务，想吃哪家的您说了算，两公里内收费10圆，两公里外收费...
+				(08-10)
+							<p class="seller">
+					q***4
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='24665723443897' wltMark="0" param="24665723443897_36671858839056_0_commoninfo_8146C8A5856B3E155F20AE96006ED0F3"  data-j4fe="13830562644,李先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24665723443897&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_35244146381319_26877748015154_0' infotag="26877748015154_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小李 : </b>
+				<a href='http://jinchang.58.com/songshui/26877748015154x.shtml?psid=115949016195459256977548755&entinfo=26877748015154_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			我们为你夏日配送
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												大家订的美食，鲜花等等，我们都会在这炎炎夏日为你服务，帮你从店里送到你...
+				(08-01)
+							<p class="seller">
+					1***z
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26877748015154' wltMark="0" param="26877748015154_35244146381319_0_commoninfo_74E77AE44B3D55313D07E0E3218DDB56"  data-j4fe="18189557608,小李" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26877748015154&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39236597998614_26428531602880_0' infotag="26428531602880_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+				<a href='http://jinchang.58.com/songshui/26428531602880x.shtml?psid=115949016195459256977548755&entinfo=26428531602880_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			大量苜蓿，品质优
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												本地有大量苜蓿，质优，欢迎各位老板前来收购。电话13519450865
+				(06-21)
+							<p class="seller">
+					熬骨香
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26428531602880' wltMark="0" param="26428531602880_39236597998614_0_commoninfo_EF46CE34681F368B6898954072DD55C0"  data-j4fe="13519450865," >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26428531602880&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_38229390525200_26257472193328_0' infotag="26257472193328_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小连 : </b>
+				<a href='http://jinchang.58.com/songshui/26257472193328x.shtml?psid=115949016195459256977548755&entinfo=26257472193328_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			拉货配送家具搬家什么都干
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												全新小货车、三轮车都有收费合理
+				(06-13)
+							<p class="seller">
+					懂***7
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26257472193328' wltMark="0" param="26257472193328_38229390525200_0_commoninfo_B6AE717706BA05931A8DCCB387DEB23B"  data-j4fe="18219779716,小连" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26257472193328&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_26607997742598_22947406743713_0' infotag="22947406743713_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小柴 : </b>
+				<a href='http://jinchang.58.com/songshui/22947406743713x.shtml?psid=115949016195459256977548755&entinfo=22947406743713_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			三马子空车配货搬家长期有效
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												只要你需要取货，拉货，短途运输，长期配送，联系我，随叫随到，全市较低，...
+				(05-21)
+							<p class="seller">
+					M***0
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='22947406743713' wltMark="0" param="22947406743713_26607997742598_0_commoninfo_70110AD0104CB54F1E0EA6F37CBCBE87"  data-j4fe="15097023253,小柴" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22947406743713&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_32156284905223_22407752086558_0' infotag="22407752086558_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">陈光雄 : </b>
+				<a href='http://jinchang.58.com/songshui/22407752086558x.shtml?psid=115949016195459256977548755&entinfo=22407752086558_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			昌盛蔬菜水果配送中心
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												昌盛蔬菜配送公司是以蔬菜、水果、等农产品批发市场经营管理、生鲜配送为主...
+				(05-08)
+							<p class="seller">
+					1***p
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='22407752086558' wltMark="0" param="22407752086558_32156284905223_0_commoninfo_21B15B42809219C2490371BF3E8A417B"  data-j4fe="15393587111,陈光雄" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22407752086558&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_33496709875718_25931461271862_0' infotag="25931461271862_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+				<a href='http://jinchang.58.com/songshui/25931461271862x.shtml?psid=115949016195459256977548755&entinfo=25931461271862_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			诚信第一，货运全国
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												诚信第一，货运全国
+				(05-07)
+							<p class="seller">
+					d***3
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25931461271862' wltMark="0" param="25931461271862_33496709875718_0_commoninfo_BD59F99CF06B288B006EC207A2114234"  data-j4fe="15393566760," >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25931461271862&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39038325785364_25857110484267_0' infotag="25857110484267_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+				<a href='http://jinchang.58.com/songshui/25857110484267x.shtml?psid=115949016195459256977548755&entinfo=25857110484267_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			跑腿，专车接送
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												本人下午6点以后有时间有意请联系我
+				(04-30)
+							<p class="seller">
+					j***9
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25857110484267' wltMark="0" param="25857110484267_39038325785364_0_commoninfo_71F4E503717B2AA9A8CFAD73ED863A7F"  data-j4fe="13830552032," >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25857110484267&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_31598891042567_25702722733885_0' infotag="25702722733885_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">牟先生 : </b>
+				<a href='http://jinchang.58.com/songshui/25702722733885x.shtml?psid=115949016195459256977548755&entinfo=25702722733885_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			批发各种煤炭
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												本人有一煤厂。经营新疆三道岭一矿，砂墩子，露天矿的优质块煤。阿拉善左旗...
+				(04-16)
+							<p class="seller">
+					l***2
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25702722733885' wltMark="0" param="25702722733885_31598891042567_0_commoninfo_B1AF08042C03E6A47AA54A00E303DC8C"  data-j4fe="13830581263,牟先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25702722733885&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_45375413634327_29427365313228_0' infotag="29427365313228_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小李 : </b>
+				<a href='http://jinchang.58.com/songshui/29427365313228x.shtml?psid=115949016195459256977548755&entinfo=29427365313228_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			暖心包车服务
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												诚信跑腿，提供飞机场、火车站接送及长短途包车服务。
+				(03-19)
+							<p class="seller">
+					n***政
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29427365313228' wltMark="0" param="29427365313228_45375413634327_0_commoninfo_B26F92ACE0E26CE2244E326A7AF8FD62"  data-j4fe="18909453565,小李" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29427365313228&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_9860126872582_29130338658113_0' infotag="29130338658113_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李师傅 : </b>
+				<a href='http://jinchang.58.com/songshui/29130338658113x.shtml?psid=115949016195459256977548755&entinfo=29130338658113_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			老兵跑腿服务
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												诚信跑腿，提供飞机场、火车站接送及长途包车服务。 办理代理包括各类证件...
+				(02-20)
+							<p class="seller">
+					老兵家政
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29130338658113' wltMark="0" param="29130338658113_9860126872582_0_commoninfo_7157C25C593E41F38FCF3AF976577568"  data-j4fe="15101391326,李师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29130338658113&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_31969866896647_29006724144433_0' infotag="29006724144433_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">高师傅 : </b>
+				<a href='http://jinchang.58.com/songshui/29006724144433x.shtml?psid=115949016195459256977548755&entinfo=29006724144433_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			长短途包车服务
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												长期承接长短途包车服务，诚信服务、信誉至上！
+				(02-09)
+							<p class="seller">
+					w***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29006724144433' wltMark="0" param="29006724144433_31969866896647_0_commoninfo_D3F2E50E9882A1EE46B15B21D269AE17"  data-j4fe="17793533256,高师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29006724144433&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_36671858839056_24665539303865_0' infotag="24665539303865_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李先生 : </b>
+				<a href='http://jinchang.58.com/songshui/24665539303865x.shtml?psid=115949016195459256977548755&entinfo=24665539303865_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			全天送餐服务，随时替您解忧
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												24小时送餐，随时服务，两公里内十元，两公里外十五元。六十岁以上免费服...
+				(04-17)
+							<p class="seller">
+					q***4
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='24665539303865' wltMark="0" param="24665539303865_36671858839056_0_commoninfo_8146C8A5856B3E155F20AE96006ED0F3"  data-j4fe="13830562644,李先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24665539303865&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_45375413634327_29304588247354_0' infotag="29304588247354_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小李 : </b>
+				<a href='http://jinchang.58.com/songshui/29304588247354x.shtml?psid=115949016195459256977548755&entinfo=29304588247354_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			暖心包车服务
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												诚信跑腿，提供飞机场、火车站接送及长短途包车服务。 ​
+				(03-08)
+							<p class="seller">
+					n***政
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29304588247354' wltMark="0" param="29304588247354_45375413634327_0_commoninfo_B26F92ACE0E26CE2244E326A7AF8FD62"  data-j4fe="18909453565,小李" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29304588247354&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_9860126872582_29017724470697_0' infotag="29017724470697_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李师傅 : </b>
+				<a href='http://jinchang.58.com/songshui/29017724470697x.shtml?psid=115949016195459256977548755&entinfo=29017724470697_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			老兵跑腿服务
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												诚信跑腿，提供飞机场、火车站接送及长途包车服务。 办理代理包括各类证件...
+				(02-10)
+							<p class="seller">
+					老兵家政
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29017724470697' wltMark="0" param="29017724470697_9860126872582_0_commoninfo_7157C25C593E41F38FCF3AF976577568"  data-j4fe="15101391326,李师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29017724470697&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_45375413634327_29129938911568_0' infotag="29129938911568_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小李 : </b>
+				<a href='http://jinchang.58.com/songshui/29129938911568x.shtml?psid=115949016195459256977548755&entinfo=29129938911568_0' onclick="clickLog('from=pc_list_songshui_xinxi_commoninfo_jinchang');" target="_blank" class="t" >
+			暖心包车服务
+		</a>
+						<!-- cxsjstate='false',dispCateID='102' -->
+		    	        		<br />
+												诚信跑腿，提供飞机场、火车站接送及长短途包车服务。 ​
+				(02-20)
+							<p class="seller">
+					n***政
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29129938911568' wltMark="0" param="29129938911568_45375413634327_0_commoninfo_B26F92ACE0E26CE2244E326A7AF8FD62"  data-j4fe="18909453565,小李" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29129938911568&entityType=0&psid=115949016195459256977548755")'>免费预约</a></span>
+		</div>
+	
+</td></tr>	</table>								<!-- =E infolist -->
+					<div id="gjwb_bottom_jz_ad"></div>
+	<div id="bottom_google_ad"></div>
+<div class="pager" >
+	 <strong><span>1</span></strong><a href="/songshui/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>2</span></a><a href="/songshui/pn3/" onClick="clickLog('from=huangye_list_fanye_3');"><span>3</span></a><a class="next" href="/songshui/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>下一页</span></a>
+</div>
+<div id="infocont">
+	<!--当是健康答疑时，链接变为提问-->
+										<a target="_blank" rel="nofollow" href="http://post.58.com/7428/102/s5" onclick="clickLog('pc_list_songshui_bottom_fabu');" >马上发布一条生活配送信息&raquo;</a>
+						</div>
+<!--医疗健康判断-->
+		<div id="direct_ad_bottom" onclick="clickLog('from=pc_list_songshui_bottom_zhineng1');"  ></div>
+	<div id="bottom_zhaoshangjiameng_ad" onclick="clickLog('from=pc_list_songshui_bottom_tuiguang2');"  ></div>
+
+			</div>
+			<div id="rightframe" class="cright">
+		<div style="margin-bottom:10px">
+		<a href='http://c.58cdn.com.cn/ui7/help/pf_xx_v1.html' target="_blank">
+			<img src="http://img.58cdn.com.cn/ds/other/bannerz_03.png">
+		</a>
+	</div>
+
+
+			<div class="tuijian" id="ylad" style="display:none"></div>
+												<div class="brand_md_tit"><h3><i class="brand_md_tit_i1"></i>名店推荐<i class="brand_md_tit_i2"></i></h3></div>
+	<div id="brand_md"><div id="ad19"  style="display:none"></div></div>
+	<script>
+		$("#brand_md").bind("bindBrandEvent",function(){ 
+            if($('.brand_md200').length > 0){
+				$('.brand_md_tit').show();
+			}
+        }); 
+	</script>
+	</div>	    </section>
+		<div id="wangmeng_list_bottom_ditong" onclick="clickLog('from=pc_list_songshui_bottom_tuiguang3');"   ></div><section id="links">
+<i class="linksTopline"></i>
+	<!-- =S friendtips -->
+	<dl id="friendtips" class="linksItem friendtips"><dt class="b-left">金昌生活配送介绍：</dt>
+<dd class="b-right">58同城金昌生活配送频道是金昌最大的生活配送信息免费发布查询平台，免费提供多种类别的金昌生活配送相关信息，感谢您选择<a href=http://www.58.com/hyzt/songshui/ target=_blank>生活配送</a>信息平台。手机版请访问<a href=http://m.58.com/jinchang/songshui/>金昌配送中心</a></dd>
+</dl>
+	<!-- =E friendtips -->
+	<!-- =S relate  -->
+			<dl class="linksItem relate" id="relate">
+	<dt class="b-left">金昌生活配送相关信息：</dt>
+	<dd class="b-right">
+		<ul class="b-ul">
+						    			        <li><a href="/songshui/jh_%E4%B8%8A%E9%97%A8%E6%89%93%E9%92%88%E8%BE%93%E6%B6%B2/">上门打针输液</a></li>
+			    		    			    			        <li><a href="/songshui/jh_%E9%87%91%E6%98%8C%E5%A5%B6%E7%AB%99/">金昌奶站</a></li>
+			    		    		</ul>
+	</dd>
+</dl>
+		<!-- =E relate -->
+	<!-- =S relatelink allshangquan-->
+		 	<!-- =E relatelink -->
+	<!-- =S bottomlink-->
+	            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+				生活配送- 相关类别：
+			</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://www.58.com/hyzt/banjia/'>搬家公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zhongdiangong/'>钟点工</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/baomu/'>家政公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/baojie/'>保洁公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/weixiu/'>电脑维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/dianqi/'>家电维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shoujiweixiu/'>手机维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/fangweixiu/'>房屋维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/songshui/'>跑腿配送</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/kaisuo/'>开锁公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiajuweixiu/'>家具维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/lipinxianhua/'>鲜花速递</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/yuesao/'>找月嫂</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shutong/'>管道疏通</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zhuangxiujc/'>装修建材</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiaoyu/'>教育培训</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/hunjiehunqing/'>婚庆摄影</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/qichefw/'>汽车服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shop/'>批发采购</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shenghuo/'>家政服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shangwu/'>商务服务</a></li>
+        		        		<li><a href='http://www.58.com/ppb58weixiu2/'>品牌家电维修大全</a></li>
+        		        		<li><a href='http://www.58.com/ppbhyzt1/'>黄页大全</a></li>
+        		        		<li><a href='http://www.58.com/pprmap5/'>家政地图</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+		<!-- =E bottomlink -->
+	<!-- =S hotcity-->
+	        <dl class="linksItem hotcity" id="hotcity">
+    	<dt class="b-left">金昌生活配送周边城市：</dt>
+    	<dd class="b-right">
+    		<ul class="b-ul">
+    			    			<li><a href="http://lz.58.com/songshui/">兰州生活配送</a></li>
+    			    			<li><a href="http://pl.58.com/songshui/">平凉生活配送</a></li>
+    			    			<li><a href="http://linxia.58.com/songshui/">临夏生活配送</a></li>
+    			    		</ul>
+    	</dd>
+    </dl>
+	<!-- =S hotcity -->
+            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+					生活配送- 热门城市：
+					</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://bj.58.com/songshui/'>北京配送中心</a></li>
+        		        		<li><a href='http://sh.58.com/songshui/'>上海配送中心</a></li>
+        		        		<li><a href='http://gz.58.com/songshui/'>广州配送中心</a></li>
+        		        		<li><a href='http://sz.58.com/songshui/'>深圳配送中心</a></li>
+        		        		<li><a href='http://tj.58.com/songshui/'>天津配送中心</a></li>
+        		        		<li><a href='http://hz.58.com/songshui/'>杭州配送中心</a></li>
+        		        		<li><a href='http://wh.58.com/songshui/'>武汉配送中心</a></li>
+        		        		<li><a href='http://xa.58.com/songshui/'>西安配送中心</a></li>
+        		        		<li><a href='http://cd.58.com/songshui/'>成都配送中心</a></li>
+        		        		<li><a href='http://zz.58.com/songshui/'>郑州配送中心</a></li>
+        		        		<li><a href='http://cs.58.com/songshui/'>长沙配送中心</a></li>
+        		        		<li><a href='http://nj.58.com/songshui/'>南京配送中心</a></li>
+        		        		<li><a href='http://hrb.58.com/songshui/'>哈尔滨配送中心</a></li>
+        		        		<li><a href='http://sy.58.com/songshui/'>沈阳配送中心</a></li>
+        		        		<li><a href='http://su.58.com/songshui/'>苏州配送中心</a></li>
+        		        		<li><a href='http://sjz.58.com/songshui/'>石家庄配送中心</a></li>
+        		        		<li><a href='http://dl.58.com/songshui/'>大连配送中心</a></li>
+        		        		<li><a href='http://qd.58.com/songshui/'>青岛配送中心</a></li>
+        		        		<li><a href='http://jn.58.com/songshui/'>济南配送中心</a></li>
+        		        		<li><a href='http://cq.58.com/songshui/'>重庆配送中心</a></li>
+        		        		<li><a href='http://cc.58.com/songshui/'>长春配送中心</a></li>
+        		        		<li><a href='http://yb.58.com/songshui/'>宜宾配送中心</a></li>
+        		        		<li><a href='http://fx.58.com/songshui/'>阜新配送中心</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/songshui/'>配送中心</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+	<!-- =E hotcity --> 	<!-- =E hotcity -->
+	<!-- =S friendlink-->
+			<dl id="friendlink" class="linksItem friendlink">
+<dt class="b-left"> 友情链接：</dt>
+<dd class="b-right"><a href='http://www.58.com/pprankbbpalg/' target='_blank'>上海养老院排行榜</a>&nbsp;<a href='http://www.58.com/ppbhyzt2/' target='_blank'>58黄页大全</a>&nbsp;  <a href="/link.html" target="_blank">更多...</a></dd>
+</dl>
+		<!-- =E friendlink -->
+</section>
+	<footer id="footer" class="footer">
+	    <div id="upWrap"> <a target="_blank" href="http://about.58.com/help.html" rel="nofollow">常见问题</a><span>|</span> <a target="_blank" href="http://about.58.com/" rel="nofollow">帮助中心</a><span>|</span> <a target="_blank" href="http://about.58.com/feedback.html" rel="nofollow">意见反馈</a><span>|</span> <a target="_blank" href="http://about.58.com/home/" rel="nofollow">了解58同城</a><span>|</span> <a target="_blank" href="http://about.58.com/hr/" rel="nofollow">加入58同城</a><span>|</span> <a target="_blank" href="http://fanqizha.58.com/" rel="nofollow">反欺诈联盟</a><span>|</span> <a target="_blank" href="http://110.58.com" rel="nofollow">报案平台</a><span>|</span> <a target="_blank" href="http://e.58.com" rel="nofollow">推广服务</a><span>|</span> <a target="_blank" href="http://biz.58.com" rel="nofollow">渠道招商</a><span>|</span> <a target="_blank" href="http://baozhang.58.com" rel="nofollow">先行赔付</a><span>|</span> <a target="_blank" href="http://ir.58.com?PGTID=0d100000-0000-13da-8041-51f9a3a739fa&amp;ClickID=2" rel="nofollow">Investor Relations</a> </div>
+	    <div id="downWrap"> <em>2005-2016 58.com版权所有</em><span>|</span> <em>京公网备案信息110105000809</em><span>|</span> <a target="_blank" href="http://www.miibeian.gov.cn/" rel="nofollow">京ICP证060405</a><span>|</span><em>乙测资字11018014</em><span>|</span> <a target="_blank" href="http://ir.58.com" rel="nofollow">Investor Relations</a><span>|</span><em>违法信息举报：4008135858&nbsp;&nbsp;jubao@58ganji.com</em> </div>
+	    <div class="fotBtmIcon">
+	        <a target="_blank" id="fotBm_1" href="http://fanqizha.58.com"></a>
+	        <a target="_blank" id="fotBm_2" href="http://www.12377.cn/"></a>
+	        <a target="_blank" id="fotBm_3" href="http://www.12377.cn/node_548446.htm"></a>
+	        <a target="_blank" id="fotBm_4" href="https://credit.szfw.org/CX20120918001650001720.html"></a>
+	        <a target="_blank" id="fotBm_5" href="http://img.58cdn.com.cn/ui6/index/qyxinyong.jpg?v=3"></a>
+	        <a target="_blank" id="fotBm_6" href="http://about.58.com/fqz/index.html"></a>
+	    </div>
+	</footer>
+<script>
+	var currentDate = new Date();
+</script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfc_v20160418145051.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfcInit_v20161121150119.js'></script>
+<script>
+	var jingzhun_ads = [];
+	var jingzhun_ads_param = "";
+</script>
+
+				<script type="text/javascript" src='http://j1.58cdn.com.cn/js/5_1/comm_js/boot_listpage_version_v20170329165708.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript">
+document.domain = '58.com';
+var win = new GetToolTipWindow('tooltipdiv', 'keyword', '3','7428','', true);win.setSearchButton('searchbtn');
+var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','7428','');win1.setSearchButton('searchbtn1');
+var win2 = new GetToolTipWindow('tooltipdiv2', 'mudidi', '7', '7428', '');win2.setSearchButton('searchbtn1');
+boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'jinchang');});
+</script>
+
+<script type="text/javascript" >
+// JavaScript Document
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	toggle(".p-help");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".small-tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+
+$("#shangmenfw a").each(function(){
+	if("到店服务"== $(this).text().trim()){
+		$(this).remove();
+	}
+});
+
+BAIDU_CLB_fillSlot("567863");
+
+var alldt = $("#relateSelect>dt");
+function showNear(dt){
+    alldt.each(function(){
+        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+        else {$(this).next("dd").hide();$(this).removeClass("select");}
+    });
+}
+alldt.each(function(){
+    $(this).click(function(){showNear(this);}).hover(function(){showNear(this);});
+});
+
+showNear(alldt[0]);
+
+  
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+$(".selector").each(function(){
+	$(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+});
+
+</script>
+
+<div style="display:none;">
+<script type="text/javascript">
+ var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3bb04d7a4ca3846dcc66a99c3e861511' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+</div>
+
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+
+
+			<script type="text/javascript" src='http://j1.58cdn.com.cn/js/v8/boot/boot_huangye_v20170329172410.js'>
+		</script>
+		<script>
+			require(['_pkg/huangye/huangye_shenghuo_list_dom'],function(){});
+		</script>
+	
+<script src="http://track.58.com/adsys/ggafs?rand=20170404"></script>
+<script>
+//统计埋点
+$(function(){
+	$('dl.secitem').each(function(){
+	    var idname = $(this).find("dd").eq(0).attr('id');
+		$(this).find('a').not('span a').each(function(){
+			$(this).click(function(){
+				clickLog('from=pc_list_songshui_shaixuan_'+idname+ '_jinchang');
+		    });		
+		});	
+    });	
+})
+</script>
+<script type="text/javascript">
+    $("#more_ObjectType").click(function(){
+    	console.log("ok");
+    	var showmoreBrand = document.getElementById("moreBrandct"),moreBrandbtn = document.getElementById("moreBrandbtn");
+	    showmoreBrand.style.display = (showmoreBrand.style.display=="block")?"none":"block";
+	    moreBrandbtn.className = (moreBrandbtn.className=="moreBrand")?"moreBrand hold":"moreBrand";
+    });
+    var pemorealldt = $("#moreBrandct dt");
+	function showpemorecon(dt){
+		pemorealldt.each(function(){
+		    if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+            else {$(this).next("dd").hide();$(this).removeClass("select");}
+        });
+    }
+    pemorealldt.each(function(){
+		$(this).click(function(){showpemorecon(this);}).hover(function(){showpemorecon(this);});
+    });
+    showpemorecon(pemorealldt[0]);
+</script>
+		<script type="text/javascript">
+function cpcget(url){
+	$.ajax({
+		url:url,
+		type:"get",
+		dataType:"jsonp",
+		success:function(data){
+		
+        }
+    });	
+}
+</script>					<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e15962162366a86a6229038443847be7";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div style="display:none">
+	<!--基本统计代码begin(8512,0)--by:zhanghao06-->
+<script type="text/javascript">
+____json4fe.supplycount = {sortid:'29129938911568'};
+var _gaq = _gaq || [],site_name = "58",post_count = "74",shop_count= "",page_type = "list";
+var _trackURL = "{'cate':'8512,102','area':'7428','pagetype':'list','GA_pageview':'/jinchang/shenghuo/songshui/listversion/','version':'A','pagesize':'35','pagenum':'1','level1':'','level2':'','level3':'','level4':'','level5':'','level6':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/jinchang/shenghuo/songshui/listversion/']);
+
+$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+<!--基本统计代码end-->
+</div>
+<script src="http://wechat.58.com/google-analytics"></script> 				<!-- 抢单神器下线-->
+				<!-- 抢单神器下线-->
+		<!-- 装修搜索弹窗  S -->
+				<!-- 招标弹框start -->
+<link rel="stylesheet" href='http://c.58cdn.com.cn/ds/zhaobiao/pc_search_win/list_win_zb_v20161010135135.css' />
+<script src="http://j1.58cdn.com.cn/ds/zhaobiao/v1/js/fastpost/jquery.md5.js"></script>
+<script>
+ var cityid=7428;
+</script>
+
+        <!-- 招标弹框end -->
+
+
+				<!-- 装修搜索弹窗  E -->
+		<!-- 前置登陆  s -->
+				<!-- 前置登陆  e -->
+	</body>
+</html>

@@ -1,0 +1,1538 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+												<!--  当前的类别归属ID--> 
+		<!--  当前的类别表现ID--> 
+		<!--  当前的类别listname (eg:banjia)--> 
+		<!--  当前的类别catename (eg:搬家)--> 
+		<!--  一级类别归属ID--> 
+		<!--  一级类别表现ID--> 
+		<!--  一级类别listname eg:jiazheng--> 
+		<!--  一级类别catename eg:家政--> 
+		<!--  二级类别归属ID [Ljava.lang.Integer;@2524a7fa 数字长度：2--> 
+			<!--  二级类别表现ID--> 
+				<!--  二级类别listname eg:jiazhuang--> 
+				<!--  二级类别catename eg:家装-->
+				<!-- 表现类别的全路径   eg:8512,96-->
+									
+						<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>【58同城】南京桌面游戏_南京桌游俱乐部</title>
+	<meta name="description" content='58同城频道免费提供给您大量真实有效的南京桌游吧|南京信息查询，同时您可以免费发布南京桌游吧,南京桌游吧信息。最好的南京桌游吧信息就在58同城南京桌游吧频道。'/>
+	<meta name="keywords" content='南京桌面游戏,南京桌游俱乐部'/>
+	<meta http-equiv="X-UA-Compatible" content="edge" />
+		<meta name="location" content="province=江苏;city=南京;coord=118.803377,32.066255">
+				<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/nj/zhuoyouba/" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/nj/zhuoyouba/" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/nj/zhuoyouba/" />
+					<script type="text/javascript">
+		var ____loadCfg = ['huangye', 'shenghuo', 'listpage'];
+	</script>
+	<script src='http://j2.58cdn.com.cn/js/require_jquery_load.js'></script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">document.write('<scri'+'pt src="http://j1.58cdn.com.cn/ds/tgbrand/js/brand_listpage_v1.js?temp=' + Math.random() + '"></scri'+'pt>');</script> 
+<script type="text/javascript">
+	var xxfwConfig = {namespace:'huangyelistpc'};
+</script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/resource/xxzl/xxfw/xxfw.min_v20161021110430.js'></script>
+
+<script type="text/javascript">
+try{
+	var ____json4fe = {"catentry":[{"dispid":"26506","name":"休闲娱乐","listname":"xiuxianyl"},{"dispid":"26514","name":"桌游/棋牌/智力","listname":"qipais"},{"dispid":"35133","name":"桌游吧","listname":"zhuoyouba"}],"locallist":[{"dispid":"172","name":"南京","listname":"nj"}],"start":(new Date()).getTime(),"modules":"list"};
+	____json4fe.version = 'A';
+	____json4fe.modules = 'listpage';
+	____json4fe.sid = '182159203195306067580249189';
+	____json4fe.sessionid = '66b15000-fd24-48ad-86b3-c386ea1ba08f';
+	____json4fe.smsc = 'c47aeb43ae4b016f22ada3535600bc02a3c1c0429b581d9d815e95b3e04d6131e06b8bfbaafde9e57699e574245aaff033bd59916e2eaa1410b50215e6f407bf8f646aaeb4582549b0cee706e0f5be5880f1b3b3248e89ea4583dd2aa9e1d06f799c2b320f22e86df56f03ae435a62d9409aa0205c8bbabf75afcacfe6b0cae305625fbc1da601b408ca8946018a4af7e430fe382dad6cfe850dc669fb98e6578e21d27967766f4c';
+	____json4fe.newcateid='35133';
+	____json4fe.keyword='';
+	____json4fe.page='1';
+	____json4fe.param='6206:1';
+	}catch(e){};
+	(function(){
+var e = "header,nav,section,aside,article,footer".split(','),
+i=0,
+length=e.length;
+while(i<length){
+    document.createElement(e[i++])
+}
+})();
+	var ajax_param = '{"platform":"pc","dispCateId":35133,"pageIndex":1,"infoMethod":["renzheng","baojia","wltAge"],"dataParam":"29238712552003_38751030294030_0_commoninfo,29209129120570_44854056481557_0_commoninfo,28302784715339_25781081237510_0_commoninfo,26418279945542_29074723808003_0_commoninfo,26101889199916_39544583042327_0_commoninfo,25876613401769_37879471539223_0_commoninfo,25422251469497_6695056062726_0_commoninfo,25665944033225_37879471539223_0_commoninfo,25356410220461_37879471539223_0_commoninfo,25204332589518_23909404403463_0_commoninfo,24318304099515_6718786786823_0_commoninfo,23767692518583_26294691197191_0_commoninfo,23337636166431_33232743599366_0_commoninfo,22878764730889_26982836_0_commoninfo,22801141396898_32810785838602_0_commoninfo,22254567558690_31849226016263_0_commoninfo,22238899775007_31818446206215_0_commoninfo,25280205378365_37879471539223_0_commoninfo,26630744826153_40583144747797_0_commoninfo,28998838421178_22687200754951_0_second_additional_info,28985349165774_18444066013447_0_second_additional_info,28818588897087_18501287671047_0_second_additional_info,28700053659702_44738801486097_0_second_additional_info,28608526558785_44557827753237_0_second_additional_info,28564943690567_11268025455879_0_second_additional_info,28475834283978_43423284033046_0_second_additional_info,28198105876538_5170311787271_0_second_additional_info,27759223230922_40596825319190_0_second_additional_info,27584651633987_11268025455879_0_second_additional_info,27426839950779_42080152532502_0_second_additional_info,23986409544627_17493931_0_second_additional_info,27394161493568_31134857094409_0_second_additional_info","dispCateName":"zhuoyouba","paramMap":null}';
+	var s_ajax_param = 's_contact_zhuoyouba_182159203195306067580249189_';
+</script>				<link href='http://c.58cdn.com.cn/ds/v1/base-v1_v0.css' rel="stylesheet" type="text/css">
+<link href='http://c.58cdn.com.cn/ds/v1/common_list_v20170315183710.css' rel="stylesheet" type="text/css">
+
+<link href='http://c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20170117143121.css' rel="stylesheet" type="text/css">
+
+
+		<link href='http://c.58cdn.com.cn/ds/v1/list/defaultList_v20170220190119.css' rel="stylesheet" type="text/css">
+	<!-- <link rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv02_v0.css'> -->
+<link type="text/css" rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03_v20160727171301.css'>
+<!-- <link type="text/css" rel="stylesheet" href="http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03.css"> -->
+
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/dialog_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/release_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/retable_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/weixin/hy_freetel_v20161207184444.css">	
+    		</head>
+			<body class="">
+						<!-- =S top bar header -->
+		<div id="commonTopbar" class="commonTopbar">
+<script type="text/javascript">
+    var secId;
+        ____json4fe.catentry[1]? secId = ____json4fe.catentry[1].dispid : secId = ____json4fe.catentry.dispid;
+    var modules = ____json4fe.modules;
+    //搬家列表页(secId == "96" && modules=="listpage")宽度为1190px
+    if(secId == "96" && modules=="listpage"){
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'default' // default: 1190px, narrow: 1000px
+            });
+        };
+    }else{
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'narrow' // default: 1190px, narrow: 1000px
+            });
+        };
+    }    
+</script>
+</div>
+<!-- =S banner  div -->
+<div class="topbannerbar"><div id="brand_list_top_banner" onclick="clickLog('from=pc_list_zhuoyouba_top_banner');" ></div></div>
+<!-- =E banner  div--><header id="header">
+    <div class="header-inner">
+    <a class="logo float_l" href="/huangye/" target="_blank" onclick="clickLog('from=pc_list_logo_zhuoyouba');">58同城</a>
+            <a href='http://post.58.com/172/26514/s5' target="_blank" onclick="clickLog('from=pc_list_fabu_zhuoyouba');" class="postbtn float_r">免费发布</a>
+        		        <div class="header-search float_r">
+         <em class="ico-searchkey"></em>
+         <form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+         	            	<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();">
+                        <span onMouseOut="this.className='sbtn'" onMouseOver="this.className='sbtn hover'" class="sbtn">
+                			<input type="submit" value="搜服务" onclick="clickLog('from=pc_list_search_zhuoyouba');" class="but-bl" name="" id="searchbtn1" ></span>
+                		        		<div class="clear"></div>
+        		
+			    		   	       		       	  </form>
+       	</div>
+		            <div class="nav float_l" >
+<a href="/">南京58同城</a> &gt; <a href="/xiuxianyl.shtml">南京休闲娱乐</a>
+		 &gt; <a href="/qipais/" itemprop="url">南京桌游/棋牌/智力</a>
+
+		 &gt; <a href="/zhuoyouba/" itemprop="url">南京桌游吧</a>
+
+</div>
+	</div>
+</header>
+	<!-- =E top bar header -->
+	<!-- =S common_column_label-->
+			<!-- =E common_column_label-->
+	<!-- =S searchTip -->
+			<!-- =E searchTip  -->
+	<!-- =s cmcs -->
+							<section id="selection">
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">类别 ：</dt>
+		<dd id="ObjectType" >
+									    		    		    		    					<a href="/qipais/"  >全部</a>
+									    				    				    														    		    		    		    					<a href="http://nj.58.com/zhuoyouba/" class='select' name='b_link' para='custom' cl='/qipais/' title='' >桌游吧</a>
+								    		    		    		    					<a href="http://nj.58.com/mishitt/"  >密室逃脱</a>
+								    		    		    		    					<a href="http://nj.58.com/qips/"  >棋牌室</a>
+															    					    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">地址 ：</dt>
+		<dd id="local" >
+																    		    		    		    					<a href="/zhuoyouba/" class='select' >全南京</a>
+								    		    		    		    					<a href="/xuanwuqu/zhuoyouba/"  >玄武</a>
+								    		    		    		    					<a href="/gulouqu/zhuoyouba/"  >鼓楼</a>
+								    		    		    		    					<a href="/jianye/zhuoyouba/"  >建邺</a>
+								    		    		    		    					<a href="/baixia/zhuoyouba/"  >白下</a>
+								    		    		    		    					<a href="/qinhuai/zhuoyouba/"  >秦淮</a>
+								    		    		    		    					<a href="/xiaguan/zhuoyouba/"  >下关</a>
+								    		    		    		    					<a href="/yuhuatai/zhuoyouba/"  >雨花台</a>
+								    		    		    		    					<a href="/pukouqu/zhuoyouba/"  >浦口</a>
+								    		    		    		    					<a href="/qixiaqu/zhuoyouba/"  >栖霞</a>
+								    		    		    		    					<a href="/jiangning/zhuoyouba/"  >江宁</a>
+								    		    		    		    					<a href="/liuhequ/zhuoyouba/"  >六合</a>
+								    		    		    		    					<a href="/gaochunxian/zhuoyouba/"  >高淳</a>
+								    		    		    		    					<a href="/lishuixian/zhuoyouba/"  >溧水</a>
+								    		    		    		    					<a href="/dachangqu/zhuoyouba/"  >大厂</a>
+								    		    		    		    					<a href="/nanjing/zhuoyouba/"  >南京周边</a>
+																									    	</dd>
+    </dl>
+	<div id="selected" class="bar"></div>
+	<i class="shadow"></i>
+</section>
+
+			<!-- =E cmcs -->
+		<div id="adtop_1" class="hc"><div class="mouter defa"><div class="inner"><div id="md3" class="mdul"></div><ul id="md1" class="mdul"></ul><ul id="md2" class="mdul"></ul><ul id="md4" class="mdul"></ul><ul id="md5" class="mdul"></ul><div class="clear"></div></div></div></div>
+<div class="tabsbar">
+    <div class="list-tabs">
+												<a href="/zhuoyouba/" onclick="clickLog('from=pc_list_zhuoyouba_list_tabs');" class="sel"><h1>南京桌游吧</h1></a>
+											</div>
+ 	    	                	        
+
+		
+	
+		<span class="zhaobiao" >
+		<a href="http://bianmin.58.com/nj/?from=pc_list_bianmin_wzl"
+		   target="_blank" >学习办事经验，解决办证难题</a>
+	</span>
+	
+			
+
+</div>
+ 				<section id="mainlist" class="main clearfix pr">
+					<div class="filterbar h28">
+    <div class="filterbar-l">
+			<!-- <div class="filterup" id="filterup">
+				 <a class="m1" title="找班级" href="#" rel="nofollow" onclick=""><span>找班级<em></em></span></a>
+				 <a class="m1" title="找拼友" href="#" rel="nofollow" onclick=""><span>找拼友<em></em></span></a>
+			</div>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">全部</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示教育机构</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示个人教师</a></span> -->
+				<div class="filterup" id="filterup">
+			 <a class="m1 sel" title="默认" href="#" rel="nofollow" onclick="g2({sort:null}); clickLog('from=huangye_list_moren_qipais_nj&psid=182159203195306067580249189'); "><span>默认排序<em></em></span></a>
+								</div>
+										
+									</div>  
+     <div class="filterbar-md">
+    	    	<!-- 加入医疗健康判断-->
+    	    		    		        		       <a class="mdtj" style="display:inline-block;" rel="nofollow" target="_blank" href="http://e.58.com/shenghuo.html" onClick="clickLog('from=huangye_zhaoshang&psid=182159203195306067580249189');">想提升接单效果，请致电4008107258</a>
+    		        		    	
+				   </div>        
+</div>
+					<div id="infolist" class="cleft" >
+				<!-- =S infolist -->
+									<div id="top_google_ad"></div>
+<table class="small-tbimg" cellspacing="0" cellpadding="0" >
+							<tr logr='p_1_38751030294030_29238712552003_0' infotag="29238712552003_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">林经理 : </b>
+				<a href='http://nj.58.com/qipais/29238712552003x.shtml?psid=182159203195306067580249189&entinfo=29238712552003_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_commoninfo_nj');" target="_blank" class="t" >
+			嘀嘀云【交易】微交易诚招会员公司代理
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												嘀嘀云【交易】微交易诚招会员公司代理
+				(03-02)
+							<p class="seller">
+					林***8
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='29238712552003' wltMark="0" param="29238712552003_38751030294030_0_commoninfo_4A3B6D72F4A47144AB3EA3908C06AC4F"  data-j4fe="020-61390032,林经理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29238712552003&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_44854056481557_29209129120570_0' infotag="29209129120570_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">范经理 : </b>
+				<a href='http://nj.58.com/qipais/29209129120570x.shtml?psid=182159203195306067580249189&entinfo=29209129120570_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_commoninfo_nj');" target="_blank" class="t" >
+			江宁百家湖1912桌游轰趴馆
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												交通：百家湖地铁站1号口出向右200米。环境：位于江宁百家湖1912街...
+				(02-27)
+							<p class="seller">
+					南京三只小猫文化传播有限公司
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='29209129120570' wltMark="0" param="29209129120570_44854056481557_0_commoninfo_B7CBA3F4453DBEBB6581F85729262011"  data-j4fe="13675168041,范经理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29209129120570&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_25781081237510_28302784715339_0' infotag="28302784715339_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">康康 : </b>
+				<a href='http://nj.58.com/qipais/28302784715339x.shtml?psid=182159203195306067580249189&entinfo=28302784715339_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_commoninfo_nj');" target="_blank" class="t" >
+			帮抓游戏厅娃娃
+		</a>
+						<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												帮抓游戏厅的娃娃地点，风云再起200元，抓8个，4个指定，4个自选
+				(12-07)
+							<p class="seller">
+					r***5
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28302784715339' wltMark="0" param="28302784715339_25781081237510_0_commoninfo_94392415CCA85E3B36DE9616CE09EA2F"  data-j4fe="13851546156,康康" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28302784715339&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_29074723808003_26418279945542_0' infotag="26418279945542_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">美家美厨 : </b>
+				<a href='http://nj.58.com/qipais/26418279945542x.shtml?psid=182159203195306067580249189&entinfo=26418279945542_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_commoninfo_nj');" target="_blank" class="t" >
+			别墅轰趴套餐
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												聚餐宴请？团体聚会？只有场地没人买菜下厨？找美家美厨！全案中小型宴会私...
+				(06-20)
+							<p class="seller">
+					南京十一点三刻电子商务
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='26418279945542' wltMark="0" param="26418279945542_29074723808003_0_commoninfo_69E24D867C479383BEB28A180675ED3F"  data-j4fe="15851817117,美家美厨" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26418279945542&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_39544583042327_26101889199916_0' infotag="26101889199916_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">金猴电玩 : </b>
+				<a href='http://nj.58.com/qipais/26101889199916x.shtml?psid=182159203195306067580249189&entinfo=26101889199916_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_commoninfo_nj');" target="_blank" class="t" >
+			2016金猴电玩手掌上的游戏厅
+		</a>
+						<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												金猴电玩[微笑]休闲游戏[调皮]原装街机全新平台[鼓掌]十几款动感[...
+				(05-22)
+							<p class="seller">
+					1***x
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='26101889199916' wltMark="0" param="26101889199916_39544583042327_0_commoninfo_D0A052B45F5DBEB2099384A36D7E1CD1"  data-j4fe="15205234493,金猴电玩" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26101889199916&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_37879471539223_25876613401769_0' infotag="25876613401769_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">邵管家 : </b>
+				<a href='http://nj.58.com/qipais/25876613401769x.shtml?psid=182159203195306067580249189&entinfo=25876613401769_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_commoninfo_nj');" target="_blank" class="t" >
+			南京U派别墅派对！大in的别墅趴
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												我们每个主题房都有独立的KTV、台球、桌游、麻将、桌上足球、休闲卡座、...
+				(05-02)
+							<p class="seller">
+					U派国际青年派对中心
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='25876613401769' wltMark="0" param="25876613401769_37879471539223_0_commoninfo_FE17AF6903435FB460B56ED9931119F3"  data-j4fe="15850596721,邵管家" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25876613401769&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_6695056062726_25422251469497_0' infotag="25422251469497_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李夕科 : </b>
+				<a href='http://nj.58.com/qipais/25422251469497x.shtml?psid=182159203195306067580249189&entinfo=25422251469497_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_commoninfo_nj');" target="_blank" class="t" >
+			南京复古地面漆，仿古地面漆，艺术水泥地坪漆墙面漆
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												专业承接南京复古地面漆，仿古地面漆，艺术水泥地坪漆墙面漆，艺术压模地坪...
+				(03-22)
+							<p class="seller">
+					高轩建筑
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='25422251469497' wltMark="0" param="25422251469497_6695056062726_0_commoninfo_9FA309DD110994B561BED97498A142A6"  data-j4fe="15996315410,李夕科" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25422251469497&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_37879471539223_25665944033225_0' infotag="25665944033225_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">邵经理 : </b>
+				<a href='http://nj.58.com/qipais/25665944033225x.shtml?psid=182159203195306067580249189&entinfo=25665944033225_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_commoninfo_nj');" target="_blank" class="t" >
+			南京U派 一家主题别墅轰趴馆
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												班长，班长，聚会去哪里啊？南京大的主题派对一站式打造属于你的个性主题...
+				(04-13)
+							<p class="seller">
+					U派国际青年派对中心
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='25665944033225' wltMark="0" param="25665944033225_37879471539223_0_commoninfo_FE17AF6903435FB460B56ED9931119F3"  data-j4fe="15850596721,邵经理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25665944033225&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_37879471539223_25356410220461_0' infotag="25356410220461_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">邵管家 : </b>
+				<a href='http://nj.58.com/qipais/25356410220461x.shtml?psid=182159203195306067580249189&entinfo=25356410220461_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_commoninfo_nj');" target="_blank" class="t" >
+			春游城堡别墅趴嗨起来！
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												城堡我们的别墅是南京的一栋城堡建筑，也是我们U派国际青年派对中心的...
+				(03-16)
+							<p class="seller">
+					U派国际青年派对中心
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='25356410220461' wltMark="0" param="25356410220461_37879471539223_0_commoninfo_FE17AF6903435FB460B56ED9931119F3"  data-j4fe="15850596721,邵管家" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25356410220461&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_23909404403463_25204332589518_0' infotag="25204332589518_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王先生 : </b>
+				<a href='http://nj.58.com/qipais/25204332589518x.shtml?psid=182159203195306067580249189&entinfo=25204332589518_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_commoninfo_nj');" target="_blank" class="t" >
+			南京娱乐性强的轰趴馆 聚会曼派壹号主题轰趴
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												潮流聚会新玩法就来曼派开轰趴就曼派壹号了“班长聚会去哪啊”“我们就去曼...
+				(03-02)
+							<p class="seller">
+					曼派壹号主题轰趴馆
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='25204332589518' wltMark="0" param="25204332589518_23909404403463_0_commoninfo_729AC3F4AD4E9DF12CE692C4B7C578C3"  data-j4fe="13951789888,王先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25204332589518&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_6718786786823_24318304099515_0' infotag="24318304099515_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">任经理 : </b>
+				<a href='http://nj.58.com/qipais/24318304099515x.shtml?psid=182159203195306067580249189&entinfo=24318304099515_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_commoninfo_nj');" target="_blank" class="t" >
+			由你派别墅派对
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												由你派别墅派对，宫殿般的别墅，深藏锦绣花园，三面环山，一面环水，环境优...
+				(12-13)
+							<p class="seller">
+					枫**士
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='24318304099515' wltMark="0" param="24318304099515_6718786786823_0_commoninfo_976A75731CFCA4ED1C1551354EEEE52D"  data-j4fe="18351923826,任经理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24318304099515&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_26294691197191_23767692518583_0' infotag="23767692518583_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">俞超 : </b>
+				<a href='http://nj.58.com/qipais/23767692518583x.shtml?psid=182159203195306067580249189&entinfo=23767692518583_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_commoninfo_nj');" target="_blank" class="t" >
+			心情驿站公寓派对
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												心情驿站以大家获得朋友相聚的快乐,对生活有不同的认识,以幸福在心情驿站...
+				(10-24)
+							<p class="seller">
+					l***4
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='23767692518583' wltMark="0" param="23767692518583_26294691197191_0_commoninfo_0738A5AC085E8F69676A729C18533F02"  data-j4fe="15850733271,俞超" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23767692518583&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_33232743599366_23337636166431_0' infotag="23337636166431_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">大熊 : </b>
+				<a href='http://nj.58.com/qipais/23337636166431x.shtml?psid=182159203195306067580249189&entinfo=23337636166431_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_commoninfo_nj');" target="_blank" class="t" >
+			公司年会平时聚餐专业别墅聚会场所
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												南京派派爱别墅派对聚会踩点热线:13913991969微信订阅号:南京...
+				(09-15)
+							<p class="seller">
+					B***9
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='23337636166431' wltMark="0" param="23337636166431_33232743599366_0_commoninfo_9AAD345013B1B8F35D792CFFEA72FBEF"  data-j4fe="13913991969,大熊" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23337636166431&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_26982836_22878764730889_0' infotag="22878764730889_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张天辰 : </b>
+				<a href='http://nj.58.com/qipais/22878764730889x.shtml?psid=182159203195306067580249189&entinfo=22878764730889_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_commoninfo_nj');" target="_blank" class="t" >
+			小雪的客厅生活馆
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												小雪的客厅生活馆 包含了国内外各种桌游，环境优雅，附属项目包含2楼的鱼...
+				(08-05)
+							<p class="seller">
+					w***6
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='22878764730889' wltMark="0" param="22878764730889_26982836_0_commoninfo_0432DB67EAAC1EF21D2F369012238182"  data-j4fe="13770808792,张天辰" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22878764730889&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_32810785838602_22801141396898_0' infotag="22801141396898_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">杨帅 : </b>
+				<a href='http://nj.58.com/qipais/22801141396898x.shtml?psid=182159203195306067580249189&entinfo=22801141396898_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_commoninfo_nj');" target="_blank" class="t" >
+			【U派】生日、聚会、轰趴、派对,娱乐好去处
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												U派小二预约热线：400-025-3339微信公众号新浪：U派官网：w...
+				(07-29)
+							<p class="seller">
+					t***8
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='22801141396898' wltMark="0" param="22801141396898_32810785838602_0_commoninfo_D31BE38C49376719F620A34B5C79E221"  data-j4fe="18262293211,杨帅" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22801141396898&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_31849226016263_22254567558690_0' infotag="22254567558690_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王先生 : </b>
+				<a href='http://nj.58.com/qipais/22254567558690x.shtml?psid=182159203195306067580249189&entinfo=22254567558690_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_commoninfo_nj');" target="_blank" class="t" >
+			儿童娱乐机抓烟机
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												儿童火的机器，单人小鱼机，单人五星宏辉，单人龙机，节目众多欢迎致电1...
+				(06-09)
+							<p class="seller">
+					广州市番禺区东环神雷动漫产品开发部
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='22254567558690' wltMark="0" param="22254567558690_31849226016263_0_commoninfo_AC4287C60242F629258EDD696EA3E333"  data-j4fe="13409939450,王先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22254567558690&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_31818446206215_22238899775007_0' infotag="22238899775007_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李小姐 : </b>
+				<a href='http://nj.58.com/qipais/22238899775007x.shtml?psid=182159203195306067580249189&entinfo=22238899775007_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_commoninfo_nj');" target="_blank" class="t" >
+			ZOE`S COFFEE聚会一下
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												小伙伴们休息愉悦聊天去哪？ZOE`S COFFEE星泽家咖啡馆欢迎你的...
+				(06-08)
+							<p class="seller">
+					y***6
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='22238899775007' wltMark="0" param="22238899775007_31818446206215_0_commoninfo_AED685C5AF518DF30B6029E17B0B868C"  data-j4fe="13151523793,李小姐" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22238899775007&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_37879471539223_25280205378365_0' infotag="25280205378365_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">邵经理 : </b>
+				<a href='http://nj.58.com/qipais/25280205378365x.shtml?psid=182159203195306067580249189&entinfo=25280205378365_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_commoninfo_nj');" target="_blank" class="t" >
+			别墅创意主题房！一样的设备不一样的轰趴体验！
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												别墅轰趴就是home趴！相邀一群朋友在主题别墅k歌、电影、桌球、麻将、...
+				(03-09)
+							<p class="seller">
+					U派国际青年派对中心
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='25280205378365' wltMark="0" param="25280205378365_37879471539223_0_commoninfo_FE17AF6903435FB460B56ED9931119F3"  data-j4fe="15850596721,邵经理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25280205378365&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_40583144747797_26630744826153_0' infotag="26630744826153_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">潘先生 : </b>
+				<a href='http://nj.58.com/qipais/26630744826153x.shtml?psid=182159203195306067580249189&entinfo=26630744826153_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_commoninfo_nj');" target="_blank" class="t" >
+			VR虚拟眼镜，VR虚拟现实
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												跟着VR带你感受科技生活，感受不一样的生活！
+				(07-09)
+							<p class="seller">
+					创***8
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='26630744826153' wltMark="0" param="26630744826153_40583144747797_0_commoninfo_D11DAA209BAB4C1A3941971996B465E1"  data-j4fe="15090870188,潘先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26630744826153&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>													<tr>
+		<td class="dev" colspan="4">当前信息较少，我们为您推荐以下信息</td>
+	</tr>
+					<tr logr='b_1_22687200754951_28998838421178_11' infotag="28998838421178_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">唐先生 : </b>
+				<a href='http://nj.58.com/qipais/28998838421178x.shtml?psid=182159203195306067580249189&entinfo=28998838421178_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_second_additional_info_nj');" target="_blank" class="t" >
+			盈利棋牌室转让
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												因家庭原因，现将马群花港幸福城棋牌室转让，一个大厅和两个包间，
+				(02-08)
+							<p class="seller">
+					
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28998838421178' wltMark="0" param="28998838421178_22687200754951_0_second_additional_info_CBAAF92429790AFBB5FAF63C9347A656"  data-j4fe="13951724060,唐先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28998838421178&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>										<tr logr='b_1_18444066013447_28985349165774_11' infotag="28985349165774_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">韦总 : </b>
+				<a href='http://nj.58.com/qipais/28985349165774x.shtml?psid=182159203195306067580249189&entinfo=28985349165774_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_second_additional_info_nj');" target="_blank" class="t" >
+			义乌商品城对面棋牌包间招合作
+		</a>
+						<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												义乌商品城对面高端咖啡棋牌店，因老板生意繁忙，无暇管理，寻求合作或者承...
+				(02-07)
+							<p class="seller">
+					
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28985349165774' wltMark="0" param="28985349165774_18444066013447_0_second_additional_info_2E31F88F5713D5EB8CDD6E8E9963830E"  data-j4fe="18551665860,韦总" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28985349165774&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>										<tr logr='b_1_18501287671047_28818588897087_11' infotag="28818588897087_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">许慧 : </b>
+				<a href='http://nj.58.com/qipais/28818588897087x.shtml?psid=182159203195306067580249189&entinfo=28818588897087_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_second_additional_info_nj');" target="_blank" class="t" >
+			广陌便携式胰岛素冷藏盒
+		</a>
+						<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												生命在于运动，糖友们则应更加积极的参与些户外活动，但为了维持身体体能状...
+				(01-23)
+							<p class="seller">
+					
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28818588897087' wltMark="0" param="28818588897087_18501287671047_0_second_additional_info_EC05B5323B6E446C8B916FED52578D6F"  data-j4fe="15951115958,许慧" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28818588897087&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>										<tr logr='b_1_44738801486097_28700053659702_11' infotag="28700053659702_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小可 : </b>
+				<a href='http://nj.58.com/qipais/28700053659702x.shtml?psid=182159203195306067580249189&entinfo=28700053659702_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_second_additional_info_nj');" target="_blank" class="t" >
+			南京代充腾讯电脑手机欢乐斗牛金币，高价-金币，收售
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												南京长期-代充腾讯电脑手机欢乐斗牛金币，高价-金币，收售代理
+				(01-12)
+							<p class="seller">
+					
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28700053659702' wltMark="0" param="28700053659702_44738801486097_0_second_additional_info_8DF047E737ECFEDE345B2BF3F6B8274C"  data-j4fe="025-92017042,小可" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28700053659702&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>										<tr logr='b_1_44557827753237_28608526558785_11' infotag="28608526558785_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">陈先生 : </b>
+				<a href='http://nj.58.com/qipais/28608526558785x.shtml?psid=182159203195306067580249189&entinfo=28608526558785_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_second_additional_info_nj');" target="_blank" class="t" >
+			新街口盈利棋牌室旺铺转让
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												本棋牌室位于新街口核心地区，洪武路新华书店隔壁。因本人工作调动原因,现...
+				(01-04)
+							<p class="seller">
+					
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28608526558785' wltMark="0" param="28608526558785_44557827753237_0_second_additional_info_FF3522E14303ECB7E40763DF1D4D6F57"  data-j4fe="18913981591,陈先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28608526558785&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>										<tr logr='b_1_11268025455879_28564943690567_11' infotag="28564943690567_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">吴先生 : </b>
+				<a href='http://nj.58.com/qipais/28564943690567x.shtml?psid=182159203195306067580249189&entinfo=28564943690567_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_second_additional_info_nj');" target="_blank" class="t" >
+			南湖5年老棋牌室转让
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												盈利中棋牌室转让。 棋牌室有20张桌子（10台新的，10台8成新的）、...
+				(12-31)
+							<p class="seller">
+					
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28564943690567' wltMark="0" param="28564943690567_11268025455879_0_second_additional_info_3508320E7BB1E3EE1381A87C7EBBD839"  data-j4fe="13151562710,吴先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28564943690567&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>										<tr logr='b_1_43423284033046_28475834283978_11' infotag="28475834283978_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王经理 : </b>
+				<a href='http://nj.58.com/qipais/28475834283978x.shtml?psid=182159203195306067580249189&entinfo=28475834283978_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_second_additional_info_nj');" target="_blank" class="t" >
+			还为找客户烦恼吗 短信宣传帮你,发通知做宣传的平台
+		</a>
+						<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												【/】【】了解更多请拨178一5410一9876（王经理）各行业发通知...
+				(12-23)
+							<p class="seller">
+					
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28475834283978' wltMark="0" param="28475834283978_43423284033046_0_second_additional_info_D04984A596769DC2BBD574EE6F96CCE5"  data-j4fe="13047651025,王经理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28475834283978&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>										<tr logr='b_1_5170311787271_28198105876538_11' infotag="28198105876538_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">韩生 : </b>
+				<a href='http://nj.58.com/qipais/28198105876538x.shtml?psid=182159203195306067580249189&entinfo=28198105876538_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_second_additional_info_nj');" target="_blank" class="t" >
+			源头开发订制全国各地方微信登录麻将APP
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												源头开发订制全国各地方微信登录麻将闲来麻将系列，皮皮麻将系列熊猫四川麻...
+				(11-28)
+							<p class="seller">
+					
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28198105876538' wltMark="0" param="28198105876538_5170311787271_0_second_additional_info_758D0B6098F9B517B2D60826ECB828F5"  data-j4fe="13073035331,韩生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28198105876538&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>										<tr logr='b_1_40596825319190_27759223230922_11' infotag="27759223230922_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">黄女士 : </b>
+				<a href='http://nj.58.com/qipais/27759223230922x.shtml?psid=182159203195306067580249189&entinfo=27759223230922_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_second_additional_info_nj');" target="_blank" class="t" >
+			南京瑜讯手游专业定制开发
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												南京瑜讯信息科技有限公司专注于手机游戏的开发，接受客户的个性化定制需求...
+				(10-19)
+							<p class="seller">
+					
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27759223230922' wltMark="0" param="27759223230922_40596825319190_0_second_additional_info_4E58080D4D5EAFFDBBAB03809FA5711F"  data-j4fe="18795874557,黄女士" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27759223230922&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>										<tr logr='b_1_11268025455879_27584651633987_11' infotag="27584651633987_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">吴先生 : </b>
+				<a href='http://nj.58.com/qipais/27584651633987x.shtml?psid=182159203195306067580249189&entinfo=27584651633987_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_second_additional_info_nj');" target="_blank" class="t" >
+			7成新麻将机转让
+		</a>
+						<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												6台7成新麻将机。每台麻将机含4张椅子，2个茶几，2个垃圾桶，一盏吊灯...
+				(10-03)
+							<p class="seller">
+					
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27584651633987' wltMark="0" param="27584651633987_11268025455879_0_second_additional_info_3508320E7BB1E3EE1381A87C7EBBD839"  data-j4fe="13151562710,吴先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27584651633987&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>										<tr logr='b_1_42080152532502_27426839950779_11' infotag="27426839950779_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">丁玲 : </b>
+				<a href='http://nj.58.com/qipais/27426839950779x.shtml?psid=182159203195306067580249189&entinfo=27426839950779_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_second_additional_info_nj');" target="_blank" class="t" >
+			南京手机棋牌开发便宜的平台有哪些
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												南京手机版棋牌开发便宜的便宜的平台是哪个呢？南京苏弘科技有限公司为您...
+				(09-19)
+							<p class="seller">
+					
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27426839950779' wltMark="0" param="27426839950779_42080152532502_0_second_additional_info_37FBDA19F2E1A913771C89BD182E51A0"  data-j4fe="15380750171,丁玲" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27426839950779&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>										<tr logr='b_1_17493931_23986409544627_11' infotag="23986409544627_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">许阳 : </b>
+				<a href='http://nj.58.com/qipais/23986409544627x.shtml?psid=182159203195306067580249189&entinfo=23986409544627_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_second_additional_info_nj');" target="_blank" class="t" >
+			南京二手麻将机出售 维修 出租 以旧换新
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												南京地区当日送货，免费上门安装，调试。售后免费上门服务。麻将机餐桌一体...
+				(09-18)
+							<p class="seller">
+					
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='23986409544627' wltMark="0" param="23986409544627_17493931_0_second_additional_info_4CF7373B6A7B4C80D466B3A8A187A974"  data-j4fe="13645168993,许阳" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23986409544627&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>										<tr logr='b_1_31134857094409_27394161493568_11' infotag="27394161493568_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王经理 : </b>
+				<a href='http://nj.58.com/qipais/27394161493568x.shtml?psid=182159203195306067580249189&entinfo=27394161493568_0' onclick="clickLog('from=pc_list_zhuoyouba_xinxi_second_additional_info_nj');" target="_blank" class="t" >
+			大额急用钱、过桥、垫资、利息低
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1014' -->
+		    	        		<br />
+												....新报道：大额急用钱（10---15个点）、过桥、垫资（费用千...
+				(09-16)
+							<p class="seller">
+					
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27394161493568' wltMark="0" param="27394161493568_31134857094409_0_second_additional_info_2929BEA41A5539FCB7C54D7CD5B3567D"  data-j4fe="18914739862,王经理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27394161493568&entityType=0&psid=182159203195306067580249189")'>免费预约</a></span>
+	</div>
+</td></tr>	</table>								<!-- =E infolist -->
+					<div id="gjwb_bottom_jz_ad"></div>
+	<div id="bottom_google_ad"></div>
+<div class="pager" >
+	 <strong><span>1</span></strong>
+</div>
+<div id="infocont">
+	<!--当是健康答疑时，链接变为提问-->
+										<a target="_blank" rel="nofollow" href="http://post.58.com/172/26514/s5" onclick="clickLog('pc_list_zhuoyouba_bottom_fabu');" >马上发布一条桌游吧信息&raquo;</a>
+						</div>
+<!--医疗健康判断-->
+	<div id="direct_ad_bottom" onclick="clickLog('from=pc_list_zhuoyouba_bottom_zhineng1');"  ></div>
+	<div id="bottom_zhaoshangjiameng_ad" onclick="clickLog('from=pc_list_zhuoyouba_bottom_tuiguang2');"  ></div>
+
+			</div>
+			<div id="rightframe" class="cright">
+	
+
+			<div class="tuijian" id="ylad" style="display:none"></div>
+												<div class="brand_md_tit"><h3><i class="brand_md_tit_i1"></i>名店推荐<i class="brand_md_tit_i2"></i></h3></div>
+	<div id="brand_md"><div id="ad19"  style="display:none"></div></div>
+	<script>
+		$("#brand_md").bind("bindBrandEvent",function(){ 
+            if($('.brand_md200').length > 0){
+				$('.brand_md_tit').show();
+			}
+        }); 
+	</script>
+	</div>	    </section>
+		<div id="wangmeng_list_bottom_ditong" onclick="clickLog('from=pc_list_zhuoyouba_bottom_tuiguang3');"   ></div><section id="links">
+<i class="linksTopline"></i>
+	<!-- =S friendtips -->
+	<dl id="friendtips" class="linksItem friendtips"><dt class="b-left">南京桌游吧介绍：</dt>
+<dd class="b-right">58同城南京桌游吧频道是南京最大的桌游吧信息免费发布查询平台，免费提供桌游吧相关信息，感谢您选择<a href=http://www.58.com/zhuoyouba/ target=_blank>桌游吧</a>信息平台。有疑问请<a href=http://about.58.com/v5/  rel=nofollow  target=_blank >与客服对话</a>  
+-<a href=http://m.58.com/nj/zhuoyouba/ target=_blank>南京桌游吧</a>触屏版,<a href=http://wap.58.com/nj/zhuoyouba/ target=_blank>南京桌游吧</a>极速版。</dd>
+</dl>
+	<!-- =E friendtips -->
+	<!-- =S relate  -->
+			<dl class="linksItem relate" id="relate">
+	<dt class="b-left">南京桌游吧相关信息：</dt>
+	<dd class="b-right">
+		<ul class="b-ul">
+						    			        <li><a href="/xiuxianyl/jh_%E5%8D%97%E4%BA%AC%E5%9B%BD%E9%99%85%E4%BF%B1%E4%B9%90%E9%83%A8/">南京国际俱乐部</a></li>
+			    		    			    			        <li><a href="/xiuxianyl/jh_%E5%8D%97%E4%BA%AC%E6%A1%8C%E6%B8%B8%E4%BF%B1%E4%B9%90%E9%83%A8/">南京桌游俱乐部</a></li>
+			    		    			    			        <li><a href="/xiuxianyl/jh_%E5%8D%97%E4%BA%AC%E6%A1%8C%E9%9D%A2%E6%B8%B8%E6%88%8F/">南京桌面游戏</a></li>
+			    		    		</ul>
+	</dd>
+</dl>
+		<!-- =E relate -->
+	<!-- =S relatelink allshangquan-->
+			<dl class="linksItem relatelink" id="relatelink">
+		<dt class="b-left">南京桌游吧全部商圈：</dt>
+		<dd class="b-right">
+			<dl id="relateSelect" class="relateSelect"> 
+									<dt><span>A</span></dt>
+					<dd>
+																			<a href="/shuangzha/zhuoyouba/" target="_blank" >南京奥体桌游吧</a>        
+													<a href="/andemen/zhuoyouba/" target="_blank" >南京安德门桌游吧</a>        
+															<dt><span>B</span></dt>
+					<dd>
+																			<a href="/beijingdonglu/zhuoyouba/" target="_blank" >南京北京东路桌游吧</a>        
+													<a href="/njbinhu/zhuoyouba/" target="_blank" >南京滨湖桌游吧</a>        
+													<a href="/bailuhuayuan/zhuoyouba/" target="_blank" >南京白鹭花园桌游吧</a>        
+													<a href="/baixiaqu/zhuoyouba/" target="_blank" >南京白下周边桌游吧</a>        
+													<a href="/baotaqiao/zhuoyouba/" target="_blank" >南京宝塔桥桌游吧</a>        
+													<a href="/banqiao/zhuoyouba/" target="_blank" >南京板桥桌游吧</a>        
+													<a href="/baguazhou/zhuoyouba/" target="_blank" >南京八卦洲桌游吧</a>        
+													<a href="/binjiangkfq/zhuoyouba/" target="_blank" >南京滨江开发区桌游吧</a>        
+													<a href="/baimazhen/zhuoyouba/" target="_blank" >南京白马镇桌游吧</a>        
+															<dt><span>C</span></dt>
+					<dd>
+																			<a href="/shazhou/zhuoyouba/" target="_blank" >南京茶南桌游吧</a>        
+													<a href="/chaotiangong/zhuoyouba/" target="_blank" >南京朝天宫桌游吧</a>        
+													<a href="/changfujie/zhuoyouba/" target="_blank" >南京常府街桌游吧</a>        
+													<a href="/chunhua/zhuoyouba/" target="_blank" >南京淳化桌游吧</a>        
+													<a href="/chalukou/zhuoyouba/" target="_blank" >南京岔路口桌游吧</a>        
+													<a href="/chunchengzhen/zhuoyouba/" target="_blank" >南京淳城镇桌游吧</a>        
+													<a href="/chunxizhen/zhuoyouba/" target="_blank" >南京淳溪镇桌游吧</a>        
+															<dt><span>D</span></dt>
+					<dd>
+																			<a href="/danfengjie/zhuoyouba/" target="_blank" >南京丹凤街桌游吧</a>        
+													<a href="/daguanglu/zhuoyouba/" target="_blank" >南京大光路桌游吧</a>        
+													<a href="/daxinggong/zhuoyouba/" target="_blank" >南京大行宫桌游吧</a>        
+													<a href="/diaoyutai/zhuoyouba/" target="_blank" >南京钓鱼台桌游吧</a>        
+													<a href="/dingshan/zhuoyouba/" target="_blank" >南京顶山桌游吧</a>        
+													<a href="/njdongshan/zhuoyouba/" target="_blank" >南京东山桌游吧</a>        
+													<a href="/dongshanqiao/zhuoyouba/" target="_blank" >南京东善桥桌游吧</a>        
+													<a href="/dongbazhen/zhuoyouba/" target="_blank" >南京东坝镇桌游吧</a>        
+													<a href="/dingbuzhen/zhuoyouba/" target="_blank" >南京定埠镇桌游吧</a>        
+													<a href="/njdongpingzhen/zhuoyouba/" target="_blank" >南京东屏镇桌游吧</a>        
+															<dt><span>E</span></dt>
+					<dd>
+																					<dt><span>F</span></dt>
+					<dd>
+																			<a href="/fenghuangxijie/zhuoyouba/" target="_blank" >南京凤凰西街桌游吧</a>        
+													<a href="/fujianlu/zhuoyouba/" target="_blank" >南京福建路桌游吧</a>        
+													<a href="/fuzimiao/zhuoyouba/" target="_blank" >南京夫子庙桌游吧</a>        
+															<dt><span>G</span></dt>
+					<dd>
+																			<a href="/gulouqita/zhuoyouba/" target="_blank" >南京鼓楼周边桌游吧</a>        
+													<a href="/njguanghualu/zhuoyouba/" target="_blank" >南京光华路桌游吧</a>        
+													<a href="/njbxq/zhuoyouba/" target="_blank" >南京光华门桌游吧</a>        
+													<a href="/njgaoxin/zhuoyouba/" target="_blank" >南京高新桌游吧</a>        
+													<a href="/getang/zhuoyouba/" target="_blank" >南京葛塘桌游吧</a>        
+													<a href="/gubozhen/zhuoyouba/" target="_blank" >南京古柏镇桌游吧</a>        
+													<a href="/guchengzhen/zhuoyouba/" target="_blank" >南京固城镇桌游吧</a>        
+													<a href="/gaochunzhoubian/zhuoyouba/" target="_blank" >南京高淳周边桌游吧</a>        
+															<dt><span>H</span></dt>
+					<dd>
+																			<a href="/njhongshan/zhuoyouba/" target="_blank" >南京红山桌游吧</a>        
+													<a href="/houzaimen/zhuoyouba/" target="_blank" >南京后宰门桌游吧</a>        
+													<a href="/njhuaqiaolu/zhuoyouba/" target="_blank" >南京华侨路桌游吧</a>        
+													<a href="/shanxilu/zhuoyouba/" target="_blank" >南京湖南路桌游吧</a>        
+													<a href="/huxijie/zhuoyouba/" target="_blank" >南京湖西街桌游吧</a>        
+													<a href="/huaihailu/zhuoyouba/" target="_blank" >南京淮海路桌游吧</a>        
+													<a href="/hongwulu/zhuoyouba/" target="_blank" >南京洪武路桌游吧</a>        
+													<a href="/honghua/zhuoyouba/" target="_blank" >南京红花桌游吧</a>        
+													<a href="/hongjiayuan/zhuoyouba/" target="_blank" >南京洪家园桌游吧</a>        
+													<a href="/huiminqiao/zhuoyouba/" target="_blank" >南京惠民桥桌游吧</a>        
+													<a href="/njhs/zhuoyouba/" target="_blank" >南京湖熟桌游吧</a>        
+													<a href="/honglanzhen/zhuoyouba/" target="_blank" >南京洪蓝镇桌游吧</a>        
+													<a href="/hefengzhen/zhuoyouba/" target="_blank" >南京和凤镇桌游吧</a>        
+															<dt><span>I</span></dt>
+					<dd>
+																					<dt><span>J</span></dt>
+					<dd>
+																			<a href="/njjiangdong/zhuoyouba/" target="_blank" >南京江东桌游吧</a>        
+													<a href="/jianyequ/zhuoyouba/" target="_blank" >南京建邺周边桌游吧</a>        
+													<a href="/jiankanglu/zhuoyouba/" target="_blank" >南京建康路桌游吧</a>        
+													<a href="/jiqingmen/zhuoyouba/" target="_blank" >南京集庆门桌游吧</a>        
+													<a href="/jianninglu/zhuoyouba/" target="_blank" >南京建宁路桌游吧</a>        
+													<a href="/jinlingxiaoqu/zhuoyouba/" target="_blank" >南京金陵小区桌游吧</a>        
+													<a href="/njjiangpu/zhuoyouba/" target="_blank" >南京江浦桌游吧</a>        
+													<a href="/jiangjundadao/zhuoyouba/" target="_blank" >南京将军大道桌游吧</a>        
+													<a href="/jiangningzhen/zhuoyouba/" target="_blank" >南京江宁镇桌游吧</a>        
+													<a href="/jiangningqu/zhuoyouba/" target="_blank" >南京江宁周边桌游吧</a>        
+													<a href="/jinqiaozhen/zhuoyouba/" target="_blank" >南京晶桥镇桌游吧</a>        
+															<dt><span>K</span></dt>
+					<dd>
+																			<a href="/kexueyuan/zhuoyouba/" target="_blank" >南京科学园桌游吧</a>        
+													<a href="/njkaifaqu/zhuoyouba/" target="_blank" >南京开发区桌游吧</a>        
+															<dt><span>L</span></dt>
+					<dd>
+																			<a href="/lanyuan/zhuoyouba/" target="_blank" >南京兰园桌游吧</a>        
+													<a href="/njlongjiang/zhuoyouba/" target="_blank" >南京龙江桌游吧</a>        
+													<a href="/laifeng/zhuoyouba/" target="_blank" >南京来凤桌游吧</a>        
+													<a href="/njlongtan/zhuoyouba/" target="_blank" >南京龙潭桌游吧</a>        
+													<a href="/njlukou/zhuoyouba/" target="_blank" >南京禄口桌游吧</a>        
+													<a href="/longchi/zhuoyouba/" target="_blank" >南京龙池桌游吧</a>        
+													<a href="/liuhezhoubian/zhuoyouba/" target="_blank" >南京六合周边桌游吧</a>        
+													<a href="/lishuikaifaqu/zhuoyouba/" target="_blank" >南京溧水开发区桌游吧</a>        
+													<a href="/lishuixianlinchang/zhuoyouba/" target="_blank" >南京溧水县林场桌游吧</a>        
+													<a href="/lishuizhoubian/zhuoyouba/" target="_blank" >南京溧水周边桌游吧</a>        
+															<dt><span>M</span></dt>
+					<dd>
+																			<a href="/njmeiyuan/zhuoyouba/" target="_blank" >南京梅园桌游吧</a>        
+													<a href="/mochou/zhuoyouba/" target="_blank" >南京莫愁桌游吧</a>        
+													<a href="/muxuyuandajie/zhuoyouba/" target="_blank" >南京苜蓿园桌游吧</a>        
+													<a href="/mochoulu/zhuoyouba/" target="_blank" >南京莫愁路桌游吧</a>        
+													<a href="/mufushan/zhuoyouba/" target="_blank" >南京幕府山桌游吧</a>        
+													<a href="/njmeishan/zhuoyouba/" target="_blank" >南京梅山桌游吧</a>        
+													<a href="/maigaoqiao/zhuoyouba/" target="_blank" >南京迈皋桥桌游吧</a>        
+													<a href="/maqun/zhuoyouba/" target="_blank" >南京马群桌游吧</a>        
+													<a href="/moling/zhuoyouba/" target="_blank" >南京秣陵桌游吧</a>        
+															<dt><span>N</span></dt>
+					<dd>
+																			<a href="/ninghailu/zhuoyouba/" target="_blank" >南京宁海路桌游吧</a>        
+													<a href="/njnanhu/zhuoyouba/" target="_blank" >南京南湖桌游吧</a>        
+													<a href="/njnanyuan/zhuoyouba/" target="_blank" >南京南苑桌游吧</a>        
+													<a href="/ningnan/zhuoyouba/" target="_blank" >南京宁南桌游吧</a>        
+													<a href="/nengrenli/zhuoyouba/" target="_blank" >南京能仁里桌游吧</a>        
+															<dt><span>O</span></dt>
+					<dd>
+																					<dt><span>P</span></dt>
+					<dd>
+																			<a href="/pancheng/zhuoyouba/" target="_blank" >南京盘城桌游吧</a>        
+													<a href="/pukouzhoubian/zhuoyouba/" target="_blank" >南京浦口周边桌游吧</a>        
+															<dt><span>Q</span></dt>
+					<dd>
+																			<a href="/qinhong/zhuoyouba/" target="_blank" >南京秦虹桌游吧</a>        
+													<a href="/qinhuaiqu/zhuoyouba/" target="_blank" >南京秦淮周边桌游吧</a>        
+													<a href="/qiaobei/zhuoyouba/" target="_blank" >南京桥北桌游吧</a>        
+													<a href="/qiaolin/zhuoyouba/" target="_blank" >南京桥林桌游吧</a>        
+													<a href="/njqixia/zhuoyouba/" target="_blank" >南京栖霞桌游吧</a>        
+													<a href="/qixiaqita/zhuoyouba/" target="_blank" >南京栖霞周边桌游吧</a>        
+													<a href="/qilinmen/zhuoyouba/" target="_blank" >南京麒麟门桌游吧</a>        
+													<a href="/qiqiaozhen/zhuoyouba/" target="_blank" >南京漆桥镇桌游吧</a>        
+															<dt><span>R</span></dt>
+					<dd>
+																			<a href="/ruijinlu/zhuoyouba/" target="_blank" >南京瑞金路桌游吧</a>        
+													<a href="/rehenanlu/zhuoyouba/" target="_blank" >南京热河南路桌游吧</a>        
+															<dt><span>S</span></dt>
+					<dd>
+																			<a href="/suojincun/zhuoyouba/" target="_blank" >南京锁金村桌游吧</a>        
+													<a href="/njsanpailou/zhuoyouba/" target="_blank" >南京三牌楼桌游吧</a>        
+													<a href="/shuizuogang/zhuoyouba/" target="_blank" >南京水佐岗桌游吧</a>        
+													<a href="/jiangxinzhou/zhuoyouba/" target="_blank" >南京水西门桌游吧</a>        
+													<a href="/shengzhoulu/zhuoyouba/" target="_blank" >南京升州路桌游吧</a>        
+													<a href="/saihongqiao/zhuoyouba/" target="_blank" >南京赛虹桥桌游吧</a>        
+													<a href="/shangfang/zhuoyouba/" target="_blank" >南京上坊桌游吧</a>        
+													<a href="/shanpan/zhuoyouba/" target="_blank" >南京山潘桌游吧</a>        
+													<a href="/shiqiuzhen/zhuoyouba/" target="_blank" >南京石湫镇桌游吧</a>        
+															<dt><span>T</span></dt>
+					<dd>
+																			<a href="/tiexinqiao/zhuoyouba/" target="_blank" >南京铁心桥桌游吧</a>        
+													<a href="/njtaishan/zhuoyouba/" target="_blank" >南京泰山桌游吧</a>        
+													<a href="/tangquan/zhuoyouba/" target="_blank" >南京汤泉桌游吧</a>        
+													<a href="/njtangshan/zhuoyouba/" target="_blank" >南京汤山桌游吧</a>        
+															<dt><span>U</span></dt>
+					<dd>
+																					<dt><span>V</span></dt>
+					<dd>
+																					<dt><span>W</span></dt>
+					<dd>
+																			<a href="/weigang/zhuoyouba/" target="_blank" >南京卫岗桌游吧</a>        
+													<a href="/wutang/zhuoyouba/" target="_blank" >南京五塘桌游吧</a>        
+													<a href="/wanshou/zhuoyouba/" target="_blank" >南京万寿桌游吧</a>        
+															<dt><span>X</span></dt>
+					<dd>
+																			<a href="/njxuanwumen/zhuoyouba/" target="_blank" >南京玄武门桌游吧</a>        
+													<a href="/xiaolingwei/zhuoyouba/" target="_blank" >南京孝陵卫桌游吧</a>        
+													<a href="/xuanwuquqita/zhuoyouba/" target="_blank" >南京玄武周边桌游吧</a>        
+													<a href="/xufuxiang/zhuoyouba/" target="_blank" >南京许府巷桌游吧</a>        
+													<a href="/xinglong/zhuoyouba/" target="_blank" >南京兴隆桌游吧</a>        
+													<a href="/wulaocun/zhuoyouba/" target="_blank" >南京新街口桌游吧</a>        
+													<a href="/xiaoshi/zhuoyouba/" target="_blank" >南京小市桌游吧</a>        
+													<a href="/xiaguanqu/zhuoyouba/" target="_blank" >南京下关周边桌游吧</a>        
+													<a href="/xishanqiao/zhuoyouba/" target="_blank" >南京西善桥桌游吧</a>        
+													<a href="/xiaoxing/zhuoyouba/" target="_blank" >南京小行桌游吧</a>        
+													<a href="/xianlin/zhuoyouba/" target="_blank" >南京仙林桌游吧</a>        
+													<a href="/xiaozhuang/zhuoyouba/" target="_blank" >南京晓庄桌游吧</a>        
+													<a href="/xiongzhou/zhuoyouba/" target="_blank" >南京雄州桌游吧</a>        
+													<a href="/xichangmen/zhuoyouba/" target="_blank" >南京西厂门桌游吧</a>        
+													<a href="/xiejiadian/zhuoyouba/" target="_blank" >南京卸甲甸桌游吧</a>        
+															<dt><span>Y</span></dt>
+					<dd>
+																			<a href="/yue/zhuoyouba/" target="_blank" >南京月苑桌游吧</a>        
+													<a href="/yingtuohuayuan/zhuoyouba/" target="_blank" >南京樱驼花园桌游吧</a>        
+													<a href="/yijiangmen/zhuoyouba/" target="_blank" >南京挹江门桌游吧</a>        
+													<a href="/yingtianxilu/zhuoyouba/" target="_blank" >南京应天西路桌游吧</a>        
+													<a href="/yueyahu/zhuoyouba/" target="_blank" >南京月牙湖桌游吧</a>        
+													<a href="/yuejianglou/zhuoyouba/" target="_blank" >南京阅江楼桌游吧</a>        
+													<a href="/yuhuaxincun/zhuoyouba/" target="_blank" >南京雨花新村桌游吧</a>        
+													<a href="/yuhuataizb/zhuoyouba/" target="_blank" >南京雨花台周边桌游吧</a>        
+													<a href="/yanjiang/zhuoyouba/" target="_blank" >南京沿江桌游吧</a>        
+													<a href="/yaohua/zhuoyouba/" target="_blank" >南京尧化桌游吧</a>        
+													<a href="/yanziji/zhuoyouba/" target="_blank" >南京燕子矶桌游吧</a>        
+													<a href="/yangjiangzhen/zhuoyouba/" target="_blank" >南京阳江镇桌游吧</a>        
+													<a href="/yaxizhen/zhuoyouba/" target="_blank" >南京桠溪镇桌游吧</a>        
+													<a href="/yongyangzhen/zhuoyouba/" target="_blank" >南京永阳镇桌游吧</a>        
+															<dt><span>Z</span></dt>
+					<dd>
+																			<a href="/xinjiekou/zhuoyouba/" target="_blank" >南京长江路桌游吧</a>        
+													<a href="/xuanwuhu/zhuoyouba/" target="_blank" >南京珠江路桌游吧</a>        
+													<a href="/zhongyangmen/zhuoyouba/" target="_blank" >南京中央门桌游吧</a>        
+													<a href="/zhimaying/zhuoyouba/" target="_blank" >南京止马营桌游吧</a>        
+													<a href="/changbaijie/zhuoyouba/" target="_blank" >南京长白街桌游吧</a>        
+													<a href="/njzhongshanmen/zhuoyouba/" target="_blank" >南京中山门桌游吧</a>        
+													<a href="/shuangtang/zhuoyouba/" target="_blank" >南京长乐路桌游吧</a>        
+													<a href="/zhonghuamen/zhuoyouba/" target="_blank" >南京中华门桌游吧</a>        
+													<a href="/changlu/zhuoyouba/" target="_blank" >南京长芦桌游吧</a>        
+													<a href="/zhuanqiangzhen/zhuoyouba/" target="_blank" >南京砖墙镇桌游吧</a>        
+													<a href="/zhetangzhen/zhuoyouba/" target="_blank" >南京柘塘镇桌游吧</a>        
+														<dt><span>区域</span></dt>
+				<dd>	
+																	
+																		
+																		
+																		
+																													
+													<a href="/zhuoyouba/" target="_blank" >全南京桌游吧</a>                
+																		
+													<a href="/xuanwuqu/zhuoyouba/" target="_blank" >玄武桌游吧</a>                
+																		
+													<a href="/gulouqu/zhuoyouba/" target="_blank" >鼓楼桌游吧</a>                
+																		
+													<a href="/jianye/zhuoyouba/" target="_blank" >建邺桌游吧</a>                
+																		
+													<a href="/baixia/zhuoyouba/" target="_blank" >白下桌游吧</a>                
+																		
+													<a href="/qinhuai/zhuoyouba/" target="_blank" >秦淮桌游吧</a>                
+																		
+													<a href="/xiaguan/zhuoyouba/" target="_blank" >下关桌游吧</a>                
+																		
+													<a href="/yuhuatai/zhuoyouba/" target="_blank" >雨花台桌游吧</a>                
+																		
+													<a href="/pukouqu/zhuoyouba/" target="_blank" >浦口桌游吧</a>                
+																		
+													<a href="/qixiaqu/zhuoyouba/" target="_blank" >栖霞桌游吧</a>                
+																		
+													<a href="/jiangning/zhuoyouba/" target="_blank" >江宁桌游吧</a>                
+																		
+													<a href="/liuhequ/zhuoyouba/" target="_blank" >六合桌游吧</a>                
+																		
+													<a href="/gaochunxian/zhuoyouba/" target="_blank" >高淳桌游吧</a>                
+																		
+													<a href="/lishuixian/zhuoyouba/" target="_blank" >溧水桌游吧</a>                
+																		
+													<a href="/dachangqu/zhuoyouba/" target="_blank" >大厂桌游吧</a>                
+																		
+													<a href="/nanjing/zhuoyouba/" target="_blank" >南京周边桌游吧</a>                
+																					</dd> 
+        
+    		</dl>
+  		</dd>
+	</dl>
+	 	<!-- =E relatelink -->
+	<!-- =S bottomlink-->
+	    	<!-- =E bottomlink -->
+	<!-- =S hotcity-->
+	        <dl class="linksItem hotcity" id="hotcity">
+    	<dt class="b-left">南京桌游吧周边城市：</dt>
+    	<dd class="b-right">
+    		<ul class="b-ul">
+    			    			<li><a href="http://wx.58.com/zhuoyouba/">无锡桌游吧</a></li>
+    			    			<li><a href="http://xz.58.com/zhuoyouba/">徐州桌游吧</a></li>
+    			    			<li><a href="http://su.58.com/zhuoyouba/">苏州桌游吧</a></li>
+    			    			<li><a href="http://yz.58.com/zhuoyouba/">扬州桌游吧</a></li>
+    			    			<li><a href="http://cz.58.com/zhuoyouba/">常州桌游吧</a></li>
+    			    			<li><a href="http://nt.58.com/zhuoyouba/">南通桌游吧</a></li>
+    			    			<li><a href="http://lyg.58.com/zhuoyouba/">连云港桌游吧</a></li>
+    			    			<li><a href="http://ha.58.com/zhuoyouba/">淮安桌游吧</a></li>
+    			    			<li><a href="http://yancheng.58.com/zhuoyouba/">盐城桌游吧</a></li>
+    			    		</ul>
+    	</dd>
+    </dl>
+	<!-- =S hotcity -->
+            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+					桌游吧- 热门城市：
+					</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://bj.58.com/zhuoyouba/'>北京桌游吧</a></li>
+        		        		<li><a href='http://sh.58.com/zhuoyouba/'>上海桌游吧</a></li>
+        		        		<li><a href='http://gz.58.com/zhuoyouba/'>广州桌游吧</a></li>
+        		        		<li><a href='http://sz.58.com/zhuoyouba/'>深圳桌游吧</a></li>
+        		        		<li><a href='http://tj.58.com/zhuoyouba/'>天津桌游吧</a></li>
+        		        		<li><a href='http://hz.58.com/zhuoyouba/'>杭州桌游吧</a></li>
+        		        		<li><a href='http://wh.58.com/zhuoyouba/'>武汉桌游吧</a></li>
+        		        		<li><a href='http://xa.58.com/zhuoyouba/'>西安桌游吧</a></li>
+        		        		<li><a href='http://cd.58.com/zhuoyouba/'>成都桌游吧</a></li>
+        		        		<li><a href='http://zz.58.com/zhuoyouba/'>郑州桌游吧</a></li>
+        		        		<li><a href='http://cs.58.com/zhuoyouba/'>长沙桌游吧</a></li>
+        		        		<li><a href='http://su.58.com/zhuoyouba/'>苏州桌游吧</a></li>
+        		        		<li><a href='http://jn.58.com/zhuoyouba/'>济南桌游吧</a></li>
+        		        		<li><a href='http://sy.58.com/zhuoyouba/'>沈阳桌游吧</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+	<!-- =E hotcity --> 	<!-- =E hotcity -->
+	<!-- =S friendlink-->
+			<dl id="friendlink" class="linksItem friendlink">
+<dt class="b-left"> 友情链接：</dt>
+<dd class="b-right"><a href='http://kl.58.com/zhuoyouba/' target='_blank'>垦利桌游俱乐部</a>&nbsp;<a href='http://www.58.com/ppidyy7464/' target='_blank'>海棠湾万达影城影讯</a>&nbsp;<a href='http://m.58.com/w/ppijians89/' target='_blank'>刘勇健身会所</a>&nbsp;  <a href="/link.html" target="_blank">更多...</a></dd>
+</dl>
+		<!-- =E friendlink -->
+</section>
+<footer id="footer" class="footer">
+    <div id="upWrap"> <a target="_blank" href="http://about.58.com/help.html" rel="nofollow">常见问题</a><span>|</span> <a target="_blank" href="http://about.58.com/" rel="nofollow">帮助中心</a><span>|</span> <a target="_blank" href="http://about.58.com/feedback.html" rel="nofollow">意见反馈</a><span>|</span> <a target="_blank" href="http://about.58.com/home/" rel="nofollow">了解58同城</a><span>|</span> <a target="_blank" href="http://about.58.com/hr/" rel="nofollow">加入58同城</a><span>|</span> <a target="_blank" href="http://fanqizha.58.com/" rel="nofollow">反欺诈联盟</a><span>|</span> <a target="_blank" href="http://110.58.com" rel="nofollow">报案平台</a><span>|</span> <a target="_blank" href="http://e.58.com" rel="nofollow">推广服务</a><span>|</span> <a target="_blank" href="http://biz.58.com" rel="nofollow">渠道招商</a><span>|</span> <a target="_blank" href="http://baozhang.58.com" rel="nofollow">先行赔付</a><span>|</span> <a target="_blank" href="http://ir.58.com?PGTID=0d100000-0000-13da-8041-51f9a3a739fa&amp;ClickID=2" rel="nofollow">Investor Relations</a> </div>
+    <div id="downWrap"> <em>2005-2016 58.com版权所有</em><span>|</span> <em>京公网备案信息110105000809</em><span>|</span> <a target="_blank" href="http://www.miibeian.gov.cn/" rel="nofollow">京ICP证060405</a><span>|</span><em>乙测资字11018014</em><span>|</span> <a target="_blank" href="http://ir.58.com" rel="nofollow">Investor Relations</a><span>|</span><em>违法信息举报：4008135858&nbsp;&nbsp;jubao@58ganji.com</em> </div>
+    <div class="fotBtmIcon">
+        <a target="_blank" id="fotBm_1" href="http://fanqizha.58.com"></a>
+        <a target="_blank" id="fotBm_2" href="http://www.12377.cn/"></a>
+        <a target="_blank" id="fotBm_3" href="http://www.12377.cn/node_548446.htm"></a>
+        <a target="_blank" id="fotBm_4" href="https://credit.szfw.org/CX20120918001650001720.html"></a>
+        <a target="_blank" id="fotBm_5" href="http://img.58cdn.com.cn/ui6/index/qyxinyong.jpg?v=3"></a>
+        <a target="_blank" id="fotBm_6" href="http://about.58.com/fqz/index.html"></a>
+    </div>
+</footer>
+<script>
+	var currentDate = new Date();
+</script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfc_v20160418145051.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfcInit_v20161121150119.js'></script>
+<script>
+	var jingzhun_ads = [];
+	var jingzhun_ads_param = "";
+</script>
+
+				<script type="text/javascript" src='http://j1.58cdn.com.cn/js/5_1/comm_js/boot_listpage_version_v20170316181518.js'></script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170112123932.js'></script>
+<script type="text/javascript">
+document.domain = '58.com';
+var win = new GetToolTipWindow('tooltipdiv', 'keyword', '3','172','', true);win.setSearchButton('searchbtn');
+var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','172','');win1.setSearchButton('searchbtn1');
+var win2 = new GetToolTipWindow('tooltipdiv2', 'mudidi', '7', '172', '');win2.setSearchButton('searchbtn1');
+boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'nj');});
+</script>
+
+<script type="text/javascript" >
+// JavaScript Document
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	toggle(".p-help");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".small-tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+
+$("#shangmenfw a").each(function(){
+	if("到店服务"== $(this).text().trim()){
+		$(this).remove();
+	}
+});
+
+BAIDU_CLB_fillSlot("567863");
+
+var alldt = $("#relateSelect>dt");
+function showNear(dt){
+    alldt.each(function(){
+        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+        else {$(this).next("dd").hide();$(this).removeClass("select");}
+    });
+}
+alldt.each(function(){
+    $(this).click(function(){showNear(this);}).hover(function(){showNear(this);});
+});
+
+showNear(alldt[0]);
+
+  
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+$(".selector").each(function(){
+	$(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+});
+
+</script>
+
+<div style="display:none;">
+<script type="text/javascript">
+ var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3bb04d7a4ca3846dcc66a99c3e861511' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+</div>
+
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+
+
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/js/v8/boot/boot_huangye_v20170317163438.js'>
+	</script>
+	<script>
+		require(['_pkg/huangye/huangye_shenghuo_list_dom'],function(){});
+	</script>
+
+<script src="http://track.58.com/adsys/ggafs?rand=20170321"></script>
+<script>
+//统计埋点
+$(function(){
+	$('dl.secitem').each(function(){
+	    var idname = $(this).find("dd").eq(0).attr('id');
+		$(this).find('a').not('span a').each(function(){
+			$(this).click(function(){
+				clickLog('from=pc_list_zhuoyouba_shaixuan_'+idname+ '_nj');
+		    });		
+		});	
+    });	
+})
+</script>
+<script type="text/javascript">
+    $("#more_ObjectType").click(function(){
+    	console.log("ok");
+    	var showmoreBrand = document.getElementById("moreBrandct"),moreBrandbtn = document.getElementById("moreBrandbtn");
+	    showmoreBrand.style.display = (showmoreBrand.style.display=="block")?"none":"block";
+	    moreBrandbtn.className = (moreBrandbtn.className=="moreBrand")?"moreBrand hold":"moreBrand";
+    });
+    var pemorealldt = $("#moreBrandct dt");
+	function showpemorecon(dt){
+		pemorealldt.each(function(){
+		    if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+            else {$(this).next("dd").hide();$(this).removeClass("select");}
+        });
+    }
+    pemorealldt.each(function(){
+		$(this).click(function(){showpemorecon(this);}).hover(function(){showpemorecon(this);});
+    });
+    showpemorecon(pemorealldt[0]);
+</script>
+		<script type="text/javascript">
+function cpcget(url){
+	/*$.ajax({
+		url:url,
+		type:"get",
+		dataType:"jsonp",
+		success:function(data){
+		
+        }
+    });	*/
+}
+</script>					<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e15962162366a86a6229038443847be7";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div style="display:none">
+	<!--基本统计代码begin(26506,0)--by:zhanghao06-->
+<script type="text/javascript">
+____json4fe.supplycount = {sortid:'27394161493568'};
+var _gaq = _gaq || [],site_name = "58",post_count = "19",shop_count= "",page_type = "list";
+var _trackURL = "{'cate':'26506,26514,35133','area':'172','pagetype':'list','GA_pageview':'/nj/xiuxianyl/qipais/listversion/','version':'A','pagesize':'35','pagenum':'1','level1':'','level2':'','level3':'','level4':'','level5':'','level6':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/nj/xiuxianyl/qipais/listversion/']);
+$.getScript( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')  + '.google-analytics.com/ga.js');
+$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+<!--基本统计代码end-->
+</div>
+<script src="//wechat.58.com/google-analytics"></script> 				<!-- 抢单神器下线-->
+				<!-- 抢单神器下线-->
+		<!-- 装修搜索弹窗  S -->
+				<!-- 招标弹框start -->
+<link rel="stylesheet" href='http://c.58cdn.com.cn/ds/zhaobiao/pc_search_win/list_win_zb_v20161010135135.css' />
+<script src="http://j1.58cdn.com.cn/ds/zhaobiao/v1/js/fastpost/jquery.md5.js"></script>
+<script>
+ var cityid=172;
+</script>
+
+        <!-- 招标弹框end -->
+
+
+				<!-- 装修搜索弹窗  E -->
+		<!-- 前置登陆  s -->
+				<!-- 前置登陆  e -->
+	</body>
+</html>

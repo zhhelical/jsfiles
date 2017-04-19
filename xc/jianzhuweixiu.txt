@@ -1,0 +1,1368 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+												<!--  当前的类别归属ID--> 
+		<!--  当前的类别表现ID--> 
+		<!--  当前的类别listname (eg:banjia)--> 
+		<!--  当前的类别catename (eg:搬家)--> 
+		<!--  一级类别归属ID--> 
+		<!--  一级类别表现ID--> 
+		<!--  一级类别listname eg:jiazheng--> 
+		<!--  一级类别catename eg:家政--> 
+		<!--  二级类别归属ID [Ljava.lang.Integer;@5b5caef4 数字长度：2--> 
+			<!--  二级类别表现ID--> 
+				<!--  二级类别listname eg:jiazhuang--> 
+				<!--  二级类别catename eg:家装-->
+				<!-- 表现类别的全路径   eg:8512,96-->
+									
+						<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>【58同城】许昌建筑维修网_建筑维修_厂房建筑维修</title>
+	<meta name="description" content='58同城许昌建筑维修频道是最大的许昌建筑维修免费信息发布、查阅平台。58同城许昌建筑维修频道每天都有大量专业、真实的优秀商家提供许昌建筑维修,许昌厂房建筑维修,许昌建筑维修网信息供大家选择，查看更多许昌建筑维修信息,请关注58同城许昌建筑维修频道。-58.com'/>
+	<meta name="keywords" content='许昌建筑维修,许昌厂房建筑维修,许昌建筑维修网'/>
+	<meta http-equiv="X-UA-Compatible" content="edge" />
+		<meta name="location" content="province=河南;city=许昌;coord=113.835312,34.02674">
+				<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/xc/jianzhuweixiu/" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/xc/jianzhuweixiu/" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/xc/jianzhuweixiu/" />
+					<script type="text/javascript">
+		var ____loadCfg = ['huangye', 'shenghuo', 'listpage'];
+	</script>
+	<script src='http://j2.58cdn.com.cn/js/require_jquery_load.js'></script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">document.write('<scri'+'pt src="http://j1.58cdn.com.cn/ds/tgbrand/js/brand_listpage_v1.js?temp=' + Math.random() + '"></scri'+'pt>');</script> 
+<script type="text/javascript">
+	var xxfwConfig = {namespace:'huangyelistpc'};
+</script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/resource/xxzl/xxfw/xxfw.min_v20161021110430.js'></script>
+
+<script type="text/javascript">
+try{
+	var ____json4fe = {"catentry":[{"dispid":"8703","name":"商务服务","listname":"shangwu"},{"dispid":"34806","name":"建筑维修","listname":"jianzhuweixiu"}],"locallist":[{"dispid":"977","name":"许昌","listname":"xc"}],"start":(new Date()).getTime(),"modules":"list"};
+	____json4fe.version = 'A';
+	____json4fe.modules = 'listpage';
+	____json4fe.sid = '161586422195458966758933525';
+	____json4fe.sessionid = 'c26b3cc2-e602-4f20-8aff-8d477ff1adb1';
+	____json4fe.smsc = '3f2dd2de9529e633f79ac1dda9c0e2b8fcaa154af2af8f732e7736a4c50d28acb7439fe587aa74ab2a3105b89fe570f6c783a4bd86638c2767612244c3bddbed98c873bf160808fb391407d9f80efd5f7f87f1d4b314620683939ddc1afd31395e53f2b15c567c3e0dcff6d5ce7ad47cefaf5e2f6c3b395930caab4a106d79e1a1c343eedcd4355b363889c1d2f1ed1cf64d250cebaa4c3f';
+	____json4fe.newcateid='';
+	____json4fe.keyword='';
+	____json4fe.page='1';
+	____json4fe.param='';
+	}catch(e){};
+	(function(){
+var e = "header,nav,section,aside,article,footer".split(','),
+i=0,
+length=e.length;
+while(i<length){
+    document.createElement(e[i++])
+}
+})();
+	var ajax_param = '{"dispCateId":34806,"pageIndex":1,"platform":"pc","infoMethod":["renzheng","baojia","wltAge"],"dataParam":"29582411599693_37813493801743_0_commoninfo,29573964013868_27437186371335_0_commoninfo,29183524353225_32062169340170_0_commoninfo,15850352055558_13622329303558_0_commoninfo,29130846568234_32833933038091_0_commoninfo,29394862203308_33121855371276_0_commoninfo,28622219211471_37572966322190_0_commoninfo,28498246664520_35918498346001_0_commoninfo,28331132906432_43431814417427_0_commoninfo,27960638480196_39445678870797_0_commoninfo,23418029445664_22392872074247_0_commoninfo,27512703374027_32013727030791_0_commoninfo,26981520102955_37964160207888_0_commoninfo,26895006015672_39467469352977_0_commoninfo,23566160744078_34473169769740_0_commoninfo,26531710614083_38193030291470_0_commoninfo,26299619065798_37769786713623_0_commoninfo,26276248234566_36022763763223_0_commoninfo,26079234187459_39499084798228_0_commoninfo,25989771904684_34137691260684_0_commoninfo,25957720309567_22335758834438_0_commoninfo,25936821471021_39214517276692_0_commoninfo,25934455019699_30784843301642_0_commoninfo,25789546752571_38814101865751_0_commoninfo,25768029952944_38876776663314_0_commoninfo,25392981638581_27567542541319_0_commoninfo,27512704981045_32013727030791_0_commoninfo,27346596219338_37813493801743_0_commoninfo,26295320744269_38193030291470_0_commoninfo,25999723816110_36022763763223_0_commoninfo,27512695735995_32013727030791_0_commoninfo,25868123682123_36022763763223_0_commoninfo,25335358929713_38010733241617_0_commoninfo,27512703374027_32013727030791_0_promationinfo,27512704981045_32013727030791_0_promationinfo","dispCateName":"jianzhuweixiu","paramMap":null}';
+	var s_ajax_param = 's_contact_jianzhuweixiu_161586422195458966758933525_';
+</script>				<link href='http://c.58cdn.com.cn/ds/v1/base-v1_v0.css' rel="stylesheet" type="text/css">
+	<link href='http://c.58cdn.com.cn/ds/v1/common_list_v20170315183710.css' rel="stylesheet" type="text/css">
+<link href='http://c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20170331140927.css' rel="stylesheet" type="text/css">
+
+
+		<link href='http://c.58cdn.com.cn/ds/v1/list/defaultList_v20170220190119.css' rel="stylesheet" type="text/css">
+	<!-- <link rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv02_v0.css'> -->
+<link type="text/css" rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03_v20160727171301.css'>
+<!-- <link type="text/css" rel="stylesheet" href="http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03.css"> -->
+
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/dialog_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/release_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/retable_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/weixin/hy_freetel_v20161207184444.css">	
+    		</head>
+			<body class="">
+						<!-- =S top bar header -->
+			<div id="commonTopbar" class="commonTopbar">
+<script type="text/javascript">
+    var secId;
+        ____json4fe.catentry[1]? secId = ____json4fe.catentry[1].dispid : secId = ____json4fe.catentry.dispid;
+    var modules = ____json4fe.modules;
+    //搬家列表页(secId == "96" && modules=="listpage")宽度为1190px
+    if(secId == "96" && modules=="listpage"){
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'default' // default: 1190px, narrow: 1000px
+            });
+        };
+    }else{
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'narrow' // default: 1190px, narrow: 1000px
+            });
+        };
+    }    
+</script>
+</div>
+<!-- =S banner  div -->
+<div class="topbannerbar"><div id="brand_list_top_banner" onclick="clickLog('from=pc_list_jianzhuweixiu_top_banner');" ></div></div>
+<!-- =E banner  div--><header id="header">
+    <div class="header-inner">
+    <a class="logo float_l" href="/huangye/" target="_blank" onclick="clickLog('from=pc_list_logo_jianzhuweixiu');">58同城</a>
+            <a href='http://post.58.com/977/34806/s5' target="_blank" onclick="clickLog('from=pc_list_fabu_jianzhuweixiu');" class="postbtn float_r">免费发布</a>
+        		        <div class="header-search float_r">
+         <em class="ico-searchkey"></em>
+         <form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+         	            	<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();">
+                        <span onMouseOut="this.className='sbtn'" onMouseOver="this.className='sbtn hover'" class="sbtn">
+                			<input type="submit" value="搜服务" onclick="clickLog('from=pc_list_search_jianzhuweixiu');" class="but-bl" name="" id="searchbtn1" ></span>
+                		        		<div class="clear"></div>
+        		<span class="hotsearch">
+    						           		<a href="http://xc.58.com/jianzhuweixiu/?key=%E9%92%BB%E4%BA%95&final=1&searchtype=3&sourcetype=21" onclick="clickLog('from=pc_list_resouci_1_jianzhuweixiu');_gaq.push(['pageTracker._trackEvent', 'list', 'tag_click', '/huangye/hotkeywords/zz/jianzhuweixiu/']);">钻井</a>
+       		        		<a href="http://xc.58.com/jianzhuweixiu/?key=%E6%89%93%E4%BA%95&final=1&searchtype=3&sourcetype=21" onclick="clickLog('from=pc_list_resouci_2_jianzhuweixiu');_gaq.push(['pageTracker._trackEvent', 'list', 'tag_click', '/huangye/hotkeywords/zz/jianzhuweixiu/']);">打井</a>
+       			   
+	   </span>
+    		       	  </form>
+       	</div>
+		            	<div class="nav float_l" >
+	<a href="/">许昌58同城</a> &gt; <a href="/shangwu.shtml">许昌商务服务</a>
+				 &gt; <a href="/jianzhuweixiu/" itemprop="url">许昌建筑维修</a>
+	
+
+</div>
+	</div>
+</header>
+		<!-- =E top bar header -->
+	<!-- =S common_column_label-->
+			<!-- =E common_column_label-->
+	<!-- =S searchTip -->
+			<!-- =E searchTip  -->
+	<!-- =s cmcs -->
+							<section id="selection">
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">类别 ：</dt>
+		<dd id="ObjectType" >
+																    		    		    		    					<a href="/jianzhuweixiu/" class='select' >全部</a>
+								    		    		    		    					<a href="http://xc.58.com/dajing/"  >打井</a>
+								    		    		    		    					<a href="http://xc.58.com/gkff/"  >高空防腐</a>
+								    		    		    		    					<a href="http://xc.58.com/zyps/"  >专业破碎</a>
+								    		    		    		    					<a href="http://xc.58.com/kzjg/"  >抗震加固</a>
+								    		    		    		    					<a href="http://xc.58.com/jcgj/"  >基础灌浆</a>
+								    		    		    		    					<a href="http://xc.58.com/hxms/"  >化学锚栓</a>
+								    		    		    		    					<a href="http://xc.58.com/zjjg/"  >植筋加固</a>
+								    		    		    		    					<a href="http://xc.58.com/qljg/"  >桥梁加固</a>
+								    		    		    		    					<a href="http://xc.58.com/zychaichu/"  >专业拆除</a>
+								    		    		    		    					<a href="http://xc.58.com/txwjiagu/"  >碳纤维加固</a>
+								    		    		    		    					<a href="http://xc.58.com/bieshugz/"  >别墅改造加固</a>
+								    		    		    		    					<a href="http://xc.58.com/zhangangjg/"  >粘钢加固</a>
+								    		    		    		    					<a href="http://xc.58.com/baogangjg/"  >包钢加固</a>
+								    		    		    		    					<a href="http://xc.58.com/chuankoujg/"  >窗口加固</a>
+								    		    		    		    					<a href="http://xc.58.com/kmdjiagu/"  >开门洞加固</a>
+								    		    		    		    					<a href="http://xc.58.com/hntjg/"  >混凝土切割加固</a>
+															    					    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">服务区域  ：</dt>
+		<dd id="local" >
+																    		    		    		    					<a href="/jianzhuweixiu/" class='select' >全许昌</a>
+								    		    		    		    					<a href="/changgeshi/jianzhuweixiu/"  >长葛</a>
+								    		    		    		    					<a href="/weidou/jianzhuweixiu/"  >魏都</a>
+								    		    		    		    					<a href="/yuzhoushi/jianzhuweixiu/"  >禹州</a>
+								    		    		    		    					<a href="/xuchang/jianzhuweixiu/"  >许昌县</a>
+								    		    		    		    					<a href="/yanlingxian/jianzhuweixiu/"  >鄢陵</a>
+								    		    		    		    					<a href="/xiangchengxian/jianzhuweixiu/"  >襄城</a>
+								    		    		    		    					<a href="/xuchangshi/jianzhuweixiu/"  >其他</a>
+																									    	</dd>
+    </dl>
+	<div id="selected" class="bar"></div>
+	<i class="shadow"></i>
+</section>
+
+			<!-- =E cmcs -->
+		<div id="adtop_1" class="hc"><div class="mouter defa"><div class="inner"><div id="md3" class="mdul"></div><ul id="md1" class="mdul"></ul><ul id="md2" class="mdul"></ul><ul id="md4" class="mdul"></ul><ul id="md5" class="mdul"></ul><div class="clear"></div></div></div></div>
+<div class="tabsbar">
+    <div class="list-tabs">
+												<a href="/jianzhuweixiu/" onclick="clickLog('from=pc_list_jianzhuweixiu_list_tabs');" class="sel"><h1>许昌建筑维修</h1></a>
+											</div>
+	 	    	                	        
+
+		
+	
+				<span class="zhaobiao" >
+			<a href="http://bianmin.58.com/xc/?from=pc_list_bianmin_wzl"
+			   target="_blank" >学习办事经验，解决办证难题</a>
+		</span>
+		
+			
+
+
+</div>
+ 				<section id="mainlist" class="main clearfix pr">
+					<div class="filterbar h28">
+    <div class="filterbar-l">
+			<!-- <div class="filterup" id="filterup">
+				 <a class="m1" title="找班级" href="#" rel="nofollow" onclick=""><span>找班级<em></em></span></a>
+				 <a class="m1" title="找拼友" href="#" rel="nofollow" onclick=""><span>找拼友<em></em></span></a>
+			</div>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">全部</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示教育机构</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示个人教师</a></span> -->
+				<div class="filterup" id="filterup">
+			 <a class="m1 sel" title="默认" href="#" rel="nofollow" onclick="g2({sort:null}); clickLog('from=huangye_list_moren_jianzhuweixiu_xc&psid=161586422195458966758933525'); "><span>默认排序<em></em></span></a>
+											</div>
+														<span class="checkbox-ico" id="renzheng"><a href="javascript:void(0);" onclick="clickLog('from=List_sort_jianzhuweixiu__zhikanrenzheng');">只看认证</a></span>
+									
+									</div>  
+     <div class="filterbar-md">
+    	    	<!-- 加入医疗健康判断-->
+    	    		    		        		           		        		    	
+				   </div>        
+</div>
+					<div id="infolist" class="cleft" >
+				<!-- =S infolist -->
+									<div id="top_google_ad"></div>
+<table class="small-tbimg" cellspacing="0" cellpadding="0" >
+							<tr logr='j_2_32013727030791_27512703374027_3' infotag="27512703374027_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_promationinfo_tupian&entityId=27512703374027&entityType=0&psid=161586422195458966758933525');">
+		<div>
+			<a href='http://xc.58.com/jianzhuweixiu/27512703374027x.shtml?psid=161586422195458966758933525&entinfo=27512703374027_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic8.58cdn.com.cn/p1/tiny/n_v1bl2lwtnr27uvo4dwouva.jpg' alt='洛阳昊利建筑工程有限公司' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://xc.58.com/jianzhuweixiu/27512703374027x.shtml?psid=161586422195458966758933525&entinfo=27512703374027_0' target="_blank" class="t" >墙锯切割/植筋加固/水钻开门洞/建筑楼宇打孔/破碎</a>
+							<span class='tu'>[7图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		            				<br />
+									    		我公司植根于：结构改造、加固、拆除等建筑结构补强方面的粘钢、...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://lyhlgjhntqg.5858.com?psid=161586422195458966758933525&entinfo=27512703374027_0" onClick="clickLog('from=List_wangzhan&entityId=27512703374027&entityType=0&psid=161586422195458966758933525');" target='_blank' class='u' rel="nofollow">洛阳昊利建筑工程有限公司</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27512703374027' wltMark="2" param="27512703374027_32013727030791_0_promationinfo_5930308622E957D1A8C8DB61A2F2F54B" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27512703374027&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_32013727030791_27512704981045_3' infotag="27512704981045_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_promationinfo_tupian&entityId=27512704981045&entityType=0&psid=161586422195458966758933525');">
+		<div>
+			<a href='http://xc.58.com/jianzhuweixiu/27512704981045x.shtml?psid=161586422195458966758933525&entinfo=27512704981045_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic8.58cdn.com.cn/p1/tiny/n_v1bl2lwtnr27uvo4dwouva.jpg' alt='洛阳昊利建筑工程有限公司' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://xc.58.com/jianzhuweixiu/27512704981045x.shtml?psid=161586422195458966758933525&entinfo=27512704981045_0' target="_blank" class="t" >墙锯切割/植筋加固/水钻开门洞/建筑楼宇打孔/破碎</a>
+							<span class='tu'>[7图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		            				<br />
+									    		我公司植根于：结构改造、加固、拆除等建筑结构补强方面的粘钢、...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://lyhlgjhntqg.5858.com?psid=161586422195458966758933525&entinfo=27512704981045_0" onClick="clickLog('from=List_wangzhan&entityId=27512704981045&entityType=0&psid=161586422195458966758933525');" target='_blank' class='u' rel="nofollow">洛阳昊利建筑工程有限公司</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27512704981045' wltMark="2" param="27512704981045_32013727030791_0_promationinfo_5930308622E957D1A8C8DB61A2F2F54B" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27512704981045&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37813493801743_29582411599693_0' infotag="29582411599693_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张先生 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/29582411599693x.shtml?psid=161586422195458966758933525&entinfo=29582411599693_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			承接彩钢瓦，夹芯板，厂房大棚构建，各种钢结构隔层
+		</a>
+							<span class='tu'>[7图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												1 钢结构设计，制作，安装，钢构楼梯制作2 幕墙以及玻璃雨棚设计，制作...
+				(04-02)
+							<p class="seller">
+					承包防水工程招技工
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29582411599693' wltMark="0" param="29582411599693_37813493801743_0_commoninfo_CFCBF05F6C6ADB71A00CFA65A4E7B591"  data-j4fe="18837119932,张先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29582411599693&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_27437186371335_29573964013868_0' infotag="29573964013868_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">梁吉斌 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/29573964013868x.shtml?psid=161586422195458966758933525&entinfo=29573964013868_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			泰安锦程工程材料有限公司许昌办事处
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												泰安錦程工程材料有限公司專業生產土工格柵，土工布，排水板，三維植被網，...
+				(04-01)
+							<p class="seller">
+					土***3
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29573964013868' wltMark="0" param="29573964013868_27437186371335_0_commoninfo_31279A71F92412E7863B6EA36966F530"  data-j4fe="18605381185,梁吉斌" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29573964013868&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_32062169340170_29183524353225_0' infotag="29183524353225_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">杨经理 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/29183524353225x.shtml?psid=161586422195458966758933525&entinfo=29183524353225_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			许昌专业环保打井队干式降水护坡
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												许昌市环保新型打井机，干式打井，不用水，不用电，无泥浆。承接各种工程降...
+				(03-30)
+							<p class="seller">
+					许昌县鑫峻机械加工厂
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29183524353225' wltMark="0" param="29183524353225_32062169340170_0_commoninfo_B19CAC5E5996A96BBB693AC595CBBF6B"  data-j4fe="13569999903,杨经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29183524353225&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_13622329303558_15850352055558_0' infotag="15850352055558_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">党先生 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/15850352055558x.shtml?psid=161586422195458966758933525&entinfo=15850352055558_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			价格较低专打井大小井还可专业捞泵和井内杂物
+		</a>
+						<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												价格较低专打井大小井还可专业捞泵和井内杂物,我公司专业打口径36,42...
+				(03-23)
+							<p class="seller">
+					a***0
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='15850352055558' wltMark="0" param="15850352055558_13622329303558_0_commoninfo_E0B14C1759B3E51C9A028A1CFB186666"  data-j4fe="15090285300,党先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=15850352055558&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_32833933038091_29130846568234_0' infotag="29130846568234_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">贾经理 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/29130846568234x.shtml?psid=161586422195458966758933525&entinfo=29130846568234_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			许昌荣创工程咨询有限公司代理各类工程
+		</a>
+						<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												代理各类工程施工资料、商务标技术标、施工技术方案、预算决算等。价格合理...
+				(03-17)
+							<p class="seller">
+					平安普惠许昌分公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29130846568234' wltMark="0" param="29130846568234_32833933038091_0_commoninfo_267F2FB117647EE09BF4E6B77F99FA5D"  data-j4fe="15803745316,贾经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29130846568234&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_33121855371276_29394862203308_0' infotag="29394862203308_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">叶生 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/29394862203308x.shtml?psid=161586422195458966758933525&entinfo=29394862203308_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			许昌物流快递包裹行李安检机价格安检门多少钱
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												一、慧瀛安防主要生产1.安检门2.X光安检机3.手持金属探测器等4.防...
+				(03-16)
+							<p class="seller">
+					广州慧瀛
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29394862203308' wltMark="0" param="29394862203308_33121855371276_0_commoninfo_96FBE505C6A37EE531227B662E62F3AE"  data-j4fe="18124948872,叶生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29394862203308&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37572966322190_28622219211471_0' infotag="28622219211471_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">惠先生 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/28622219211471x.shtml?psid=161586422195458966758933525&entinfo=28622219211471_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			打井保水无水退款，欢迎咨询
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												从事钻探行业30余年，承接各类水井业务。 范围：建筑工地，厂矿，别墅花...
+				(03-09)
+							<p class="seller">
+					1***a
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28622219211471' wltMark="0" param="28622219211471_37572966322190_0_commoninfo_6B73BA3517F6D063FF2A6DDB22ADD2E2"  data-j4fe="18003750955,惠先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28622219211471&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_35918498346001_28498246664520_0' infotag="28498246664520_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">申豫 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/28498246664520x.shtml?psid=161586422195458966758933525&entinfo=28498246664520_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			别墅，普通住宅，四合院，精装
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												专业装修施工，确保装修质量稳固可靠。
+				(12-25)
+							<p class="seller">
+					1***o
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28498246664520' wltMark="0" param="28498246664520_35918498346001_0_commoninfo_C60372706A81B8ECC0B3BE7761B8E238"  data-j4fe="15290907813,申豫" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28498246664520&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_43431814417427_28331132906432_0' infotag="28331132906432_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">谭先生 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/28331132906432x.shtml?psid=161586422195458966758933525&entinfo=28331132906432_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			（个人转）淘宝网店商城天猫转让出售旗舰店天猫代入驻
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												连系方式：I3O828375621，店主直转，无中.介费。店铺公司无债...
+				(12-10)
+							<p class="seller">
+					天***心
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28331132906432' wltMark="0" param="28331132906432_43431814417427_0_commoninfo_D3194CA814224CCAF868546C56C565CA"  data-j4fe="13082837562,谭先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28331132906432&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39445678870797_27960638480196_0' infotag="27960638480196_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">蔡经理 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/27960638480196x.shtml?psid=161586422195458966758933525&entinfo=27960638480196_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			工地扬尘监测系统噪音PM2.5 10温湿度风速向等
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												工地扬尘在线监测系统 4006628910 网站 www.aizhui...
+				(11-06)
+							<p class="seller">
+					w***9
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27960638480196' wltMark="0" param="27960638480196_39445678870797_0_commoninfo_1511C232C41D01AD1D104B1ACAE94326"  data-j4fe="13170011265,蔡经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27960638480196&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_22392872074247_23418029445664_0' infotag="23418029445664_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">朱先生 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/23418029445664x.shtml?psid=161586422195458966758933525&entinfo=23418029445664_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			许昌专业洗井、打井(500米以内)
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												从事打井、洗井、掏井行业20余年技术可靠、设备先进！农用井、工程井、宾...
+				(11-04)
+							<p class="seller">
+					n***i
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='23418029445664' wltMark="0" param="23418029445664_22392872074247_0_commoninfo_D8DA919C7B5BEEB7731A81DB21C26F42"  data-j4fe="15893672838,朱先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23418029445664&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_2_32013727030791_27512703374027_0' infotag="27512703374027_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">吴小伟 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/27512703374027x.shtml?psid=161586422195458966758933525&entinfo=27512703374027_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			墙锯切割/植筋加固/水钻开门洞/建筑楼宇打孔/破碎
+		</a>
+							<span class='tu'>[7图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												我公司植根于：结构改造、加固、拆除等建筑结构补强方面的粘钢、粘碳、钢筋...
+				(09-27)
+							<p class="seller">
+			<a href="http://lyhlgjhntqg.5858.com?psid=161586422195458966758933525&entinfo=27512703374027_0" onClick="clickLog('from=List_wangzhan&entityId=27512703374027&entityType=0&psid=161586422195458966758933525');" target='_blank' class='u' rel="nofollow">洛阳昊利建筑工程有限公司</a>
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27512703374027' wltMark="2" param="27512703374027_32013727030791_0_commoninfo_5930308622E957D1A8C8DB61A2F2F54B" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27512703374027&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37964160207888_26981520102955_0' infotag="26981520102955_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刘经理 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/26981520102955x.shtml?psid=161586422195458966758933525&entinfo=26981520102955_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			供应许昌市地基注浆加固
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												本公司专业承接许昌市地基注浆加固
+				(08-12)
+							<p class="seller">
+					赵***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26981520102955' wltMark="0" param="26981520102955_37964160207888_0_commoninfo_32C573E3B8E19B773164AEECF3F604CA"  data-j4fe="15531171728,刘经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26981520102955&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39467469352977_26895006015672_0' infotag="26895006015672_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">陶先生 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/26895006015672x.shtml?psid=161586422195458966758933525&entinfo=26895006015672_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			许昌期货开户，较低手续费交易所加一毛
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												1.期货开户 股指期货开户 招期货居间代理商 2.期货开户+1毛 股指...
+				(08-02)
+							<p class="seller">
+					北京中衍期货有限公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26895006015672' wltMark="0" param="26895006015672_39467469352977_0_commoninfo_79C37B1E66C695346F98720CC55979A6"  data-j4fe="15727307347,陶先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26895006015672&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_34473169769740_23566160744078_0' infotag="23566160744078_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小杨 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/23566160744078x.shtml?psid=161586422195458966758933525&entinfo=23566160744078_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			打井洗井捞水泵联系处
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												专业打井，以质量求生存，以诚信求发展！
+				(07-14)
+							<p class="seller">
+					没***9
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='23566160744078' wltMark="0" param="23566160744078_34473169769740_0_commoninfo_059C8FD9E2A00D4B0EB9139FCF1FDDB2"  data-j4fe="15893712286,小杨" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23566160744078&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_38193030291470_26531710614083_0' infotag="26531710614083_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">魏经理 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/26531710614083x.shtml?psid=161586422195458966758933525&entinfo=26531710614083_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			许昌打温泉井**河南地源钻井工程有限公司
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												　　河南地源钻井工程有限公司成立于2006年，是一技技术力量雄厚、成井...
+				(06-30)
+							<p class="seller">
+					河南地源钻井
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26531710614083' wltMark="0" param="26531710614083_38193030291470_0_commoninfo_3BBD1D7E4722573A84A35DB82DB4DBA8"  data-j4fe="13223765600,魏经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26531710614083&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37769786713623_26299619065798_0' infotag="26299619065798_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张经理 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/26299619065798x.shtml?psid=161586422195458966758933525&entinfo=26299619065798_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			浇灌井,地源井,监测井,降水井
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												涌泉科技钻井：专业从事钻深井、打深井、地源热泵井、水源热泵井，工程降水...
+				(06-09)
+							<p class="seller">
+					涌泉科技钻井降水
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='26299619065798' wltMark="0" param="26299619065798_37769786713623_0_commoninfo_BD8E8F3AC2A95C8867847705FCDCEDDE" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26299619065798&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_36022763763223_26276248234566_0' infotag="26276248234566_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">田女士 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/26276248234566x.shtml?psid=161586422195458966758933525&entinfo=26276248234566_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			汽车烤漆房多少钱，蓝海老品牌汽车钣金喷漆烤漆房厂家
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												汽车烤漆房多少钱，蓝海老品牌汽车钣金喷漆烤漆房厂家烤漆房选购二手还是新...
+				(06-07)
+							<p class="seller">
+					邹平蓝海涂装
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26276248234566' wltMark="0" param="26276248234566_36022763763223_0_commoninfo_EF3B3927C4C2D2C5C29648DDAE99B52D"  data-j4fe="13061019932,田女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26276248234566&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39499084798228_26079234187459_0' infotag="26079234187459_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">裴先生 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/26079234187459x.shtml?psid=161586422195458966758933525&entinfo=26079234187459_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			专业打井，洗井，打桩
+		</a>
+						<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												从事打井、洗井、掏井行业20余年技术可靠、设备先进！农用井、工程井、宾...
+				(05-20)
+							<p class="seller">
+					1***a
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26079234187459' wltMark="0" param="26079234187459_39499084798228_0_commoninfo_E6C0BA02863B5C1FC2872D6F624047A9"  data-j4fe="15839599151,裴先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26079234187459&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_34137691260684_25989771904684_0' infotag="25989771904684_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王霖 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/25989771904684x.shtml?psid=161586422195458966758933525&entinfo=25989771904684_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			粘钢加固工程，碳纤维布供应商
+		</a>
+						<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												碳纤维布加固法是将抗拉强度极高的碳纤维用环氧树脂预浸成为复合增强材料；...
+				(05-12)
+							<p class="seller">
+					t***3
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25989771904684' wltMark="0" param="25989771904684_34137691260684_0_commoninfo_5A7CE60379E06D701E653D55FD6D7962"  data-j4fe="13585706990,王霖" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25989771904684&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_22335758834438_25957720309567_0' infotag="25957720309567_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小张上门服务 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/25957720309567x.shtml?psid=161586422195458966758933525&entinfo=25957720309567_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			拆除一切，回收一切旧物品
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												上门拆除钢结构、彩钢瓦、废厂房、房屋房间清理、回收一切旧物品。啥都收！
+				(05-09)
+							<p class="seller">
+					许昌高价回收
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25957720309567' wltMark="0" param="25957720309567_22335758834438_0_commoninfo_B3E77CBE0A8939BCE20EA057C06A21B4"  data-j4fe="13782300122,小张上门服务" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25957720309567&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39214517276692_25936821471021_0' infotag="25936821471021_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">陈经理 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/25936821471021x.shtml?psid=161586422195458966758933525&entinfo=25936821471021_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			承接工地 高架桥二次结构 植筋 加固等工程
+		</a>
+						<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												​本团队有多年的植筋工作经验，专门 针对 住宅楼， 厂房，框架钻孔、植...
+				(05-07)
+							<p class="seller">
+					1***q
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25936821471021' wltMark="0" param="25936821471021_39214517276692_0_commoninfo_20D4DC61DF9CE692339F6A5AD57AEFD9"  data-j4fe="18672465248,陈经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25936821471021&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_30784843301642_25934455019699_0' infotag="25934455019699_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">陈经理 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/25934455019699x.shtml?psid=161586422195458966758933525&entinfo=25934455019699_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			许昌碳纤维布加固_粘钢加固
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												我司是从事新型碳纤维建筑补强材料、航空航天碳纤维增强复核材料、高强高模...
+				(05-07)
+							<p class="seller">
+					w***0
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25934455019699' wltMark="0" param="25934455019699_30784843301642_0_commoninfo_224A931607C38F7A6CD9F311F6A1BDAD"  data-j4fe="15821139556,陈经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25934455019699&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_38814101865751_25789546752571_0' infotag="25789546752571_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">闫经理 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/25789546752571x.shtml?psid=161586422195458966758933525&entinfo=25789546752571_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			拆除塑胶跑道选台前永业
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												塑胶跑道铲除选台前永业，台前永业塑胶跑道回收站大量回收废旧塑胶跑道，主...
+				(04-24)
+							<p class="seller">
+					1***s
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25789546752571' wltMark="0" param="25789546752571_38814101865751_0_commoninfo_3155FB8F995748D78FD13A44D3291687"  data-j4fe="15239376188,闫经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25789546752571&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_38876776663314_25768029952944_0' infotag="25768029952944_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">万女士 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/25768029952944x.shtml?psid=161586422195458966758933525&entinfo=25768029952944_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			免费验房量房，按你的想法给你一个完美的家。
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												可提供你想要的关于家的想法，从验房到设计较后工人完工给你成品，全程无忧...
+				(04-22)
+							<p class="seller">
+					1***r
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25768029952944' wltMark="0" param="25768029952944_38876776663314_0_commoninfo_A3BB0AA6F48ACA3DF06AAD85A6CC6280"  data-j4fe="13213381735,万女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25768029952944&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_27567542541319_25392981638581_0' infotag="25392981638581_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">罗先生 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/25392981638581x.shtml?psid=161586422195458966758933525&entinfo=25392981638581_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			低低低低低价专业打各种型号水井，工地下水井
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												低低低低低价专业打各种型号水井，工地下水井，只要您有要求，我们一定做到...
+				(04-10)
+							<p class="seller">
+					三川汇通北京驻许昌办事处
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25392981638581' wltMark="0" param="25392981638581_27567542541319_0_commoninfo_BB2A12CCDB26B945EBD466006350DE8C"  data-j4fe="18503745255,罗先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25392981638581&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_2_32013727030791_27512704981045_0' infotag="27512704981045_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">吴小伟 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/27512704981045x.shtml?psid=161586422195458966758933525&entinfo=27512704981045_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			墙锯切割/植筋加固/水钻开门洞/建筑楼宇打孔/破碎
+		</a>
+							<span class='tu'>[7图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												我公司植根于：结构改造、加固、拆除等建筑结构补强方面的粘钢、粘碳、钢筋...
+				(09-27)
+							<p class="seller">
+			<a href="http://lyhlgjhntqg.5858.com?psid=161586422195458966758933525&entinfo=27512704981045_0" onClick="clickLog('from=List_wangzhan&entityId=27512704981045&entityType=0&psid=161586422195458966758933525');" target='_blank' class='u' rel="nofollow">洛阳昊利建筑工程有限公司</a>
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27512704981045' wltMark="2" param="27512704981045_32013727030791_0_commoninfo_5930308622E957D1A8C8DB61A2F2F54B" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27512704981045&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37813493801743_27346596219338_0' infotag="27346596219338_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张先生 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/27346596219338x.shtml?psid=161586422195458966758933525&entinfo=27346596219338_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			专业钢结构20年性价比高厂房雨棚车棚楼梯栏杆
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												承接项目1 钢结构设计，制作，安装，钢构楼梯制作2 幕墙以及玻璃雨棚设...
+				(09-12)
+							<p class="seller">
+					承包防水工程招技工
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27346596219338' wltMark="0" param="27346596219338_37813493801743_0_commoninfo_CFCBF05F6C6ADB71A00CFA65A4E7B591"  data-j4fe="18837119932,张先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27346596219338&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_38193030291470_26295320744269_0' infotag="26295320744269_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">魏经理 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/26295320744269x.shtml?psid=161586422195458966758933525&entinfo=26295320744269_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			打井，打温泉井，许昌打温泉井找河南地源钻井工程有限
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												　　河南地源钻井工程有限公司成立于2006年，是一技技术力量雄厚、成井...
+				(06-09)
+							<p class="seller">
+					河南地源钻井
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26295320744269' wltMark="0" param="26295320744269_38193030291470_0_commoninfo_3BBD1D7E4722573A84A35DB82DB4DBA8"  data-j4fe="13223765600,魏经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26295320744269&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_36022763763223_25999723816110_0' infotag="25999723816110_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小田 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/25999723816110x.shtml?psid=161586422195458966758933525&entinfo=25999723816110_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			许昌钣金喷漆专用汽车烤漆房，可定做各种异形烤漆房
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												许昌钣金喷漆专用汽车烤漆房，可定做各种异形烤漆房高温烘箱：一、产品用途...
+				(05-13)
+							<p class="seller">
+					邹平蓝海涂装
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25999723816110' wltMark="0" param="25999723816110_36022763763223_0_commoninfo_EF3B3927C4C2D2C5C29648DDAE99B52D"  data-j4fe="13061019932,小田" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25999723816110&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_2_32013727030791_27512695735995_0' infotag="27512695735995_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">吴小伟 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/27512695735995x.shtml?psid=161586422195458966758933525&entinfo=27512695735995_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			墙锯切割/植筋加固/水钻开门洞/建筑楼宇打孔/破碎
+		</a>
+							<span class='tu'>[7图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												我公司植根于：结构改造、加固、拆除等建筑结构补强方面的粘钢、粘碳、钢筋...
+				(09-27)
+							<p class="seller">
+			<a href="http://lyhlgjhntqg.5858.com?psid=161586422195458966758933525&entinfo=27512695735995_0" onClick="clickLog('from=List_wangzhan&entityId=27512695735995&entityType=0&psid=161586422195458966758933525');" target='_blank' class='u' rel="nofollow">洛阳昊利建筑工程有限公司</a>
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27512695735995' wltMark="2" param="27512695735995_32013727030791_0_commoninfo_5930308622E957D1A8C8DB61A2F2F54B" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27512695735995&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_36022763763223_25868123682123_0' infotag="25868123682123_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小田 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/25868123682123x.shtml?psid=161586422195458966758933525&entinfo=25868123682123_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			许昌异形可定制汽车烤漆房多少标准配置15000元
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												马鞍山异形可定制汽车烤漆房多少标准配置15000元汽车烤漆房炉体：采用...
+				(05-01)
+							<p class="seller">
+					邹平蓝海涂装
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25868123682123' wltMark="0" param="25868123682123_36022763763223_0_commoninfo_EF3B3927C4C2D2C5C29648DDAE99B52D"  data-j4fe="13061019932,小田" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25868123682123&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_38010733241617_25335358929713_0' infotag="25335358929713_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">古现廷 : </b>
+				<a href='http://xc.58.com/jianzhuweixiu/25335358929713x.shtml?psid=161586422195458966758933525&entinfo=25335358929713_0' onclick="clickLog('from=pc_list_jianzhuweixiu_xinxi_commoninfo_xc');" target="_blank" class="t" >
+			古桥打井队，打井，打桩
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='1819' -->
+		    	        		<br />
+												打井，打田地用井，家用井，厂里用井，
+				(03-14)
+							<p class="seller">
+					1***z
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25335358929713' wltMark="0" param="25335358929713_38010733241617_0_commoninfo_0BD05C78CFF44F3BD7168B6ACDB54DE7"  data-j4fe="13938770782,古现廷" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25335358929713&entityType=0&psid=161586422195458966758933525")'>免费预约</a></span>
+		</div>
+	
+</td></tr>	</table>								<!-- =E infolist -->
+					<div id="gjwb_bottom_jz_ad"></div>
+	<div id="bottom_google_ad"></div>
+<div class="pager" >
+	 <strong><span>1</span></strong><a href="/jianzhuweixiu/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>2</span></a><a class="next" href="/jianzhuweixiu/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>下一页</span></a>
+</div>
+<div id="infocont">
+	<!--当是健康答疑时，链接变为提问-->
+										<a target="_blank" rel="nofollow" href="http://post.58.com/977/34806/s5" onclick="clickLog('pc_list_jianzhuweixiu_bottom_fabu');" >马上发布一条建筑维修信息&raquo;</a>
+						</div>
+<!--医疗健康判断-->
+		<div id="direct_ad_bottom" onclick="clickLog('from=pc_list_jianzhuweixiu_bottom_zhineng1');"  ></div>
+	<div id="bottom_zhaoshangjiameng_ad" onclick="clickLog('from=pc_list_jianzhuweixiu_bottom_tuiguang2');"  ></div>
+
+			</div>
+			<div id="rightframe" class="cright">
+	
+
+			<div class="tuijian" id="ylad" style="display:none"></div>
+							<div id="developmentcontent">
+		
+	</div>
+							<div class="brand_md_tit"><h3><i class="brand_md_tit_i1"></i>名店推荐<i class="brand_md_tit_i2"></i></h3></div>
+	<div id="brand_md"><div id="ad19"  style="display:none"></div></div>
+	<script>
+		$("#brand_md").bind("bindBrandEvent",function(){ 
+            if($('.brand_md200').length > 0){
+				$('.brand_md_tit').show();
+			}
+        }); 
+	</script>
+	</div>	    </section>
+		<div id="wangmeng_list_bottom_ditong" onclick="clickLog('from=pc_list_jianzhuweixiu_bottom_tuiguang3');"   ></div><section id="links">
+<i class="linksTopline"></i>
+	<!-- =S friendtips -->
+	<dl id="friendtips" class="linksItem friendtips"><dt class="b-left">许昌建筑维修介绍：</dt>
+<dd class="b-right">58同城许昌建筑维修频道是许昌最大的建筑维修信息免费发布查询平台，免费提供多种类别的许昌建筑维修相关信息，感谢您选择<a href=http://www.58.com/hyzt/jianzhuweixiu/ target=_blank>建筑维修</a>信息平台。手机版请访问<a href=http://m.58.com/xc/jianzhuweixiu/>许昌建筑维修</a></dd>
+</dl>
+	<!-- =E friendtips -->
+	<!-- =S relate  -->
+					<!-- =E relate -->
+	<!-- =S relatelink allshangquan-->
+		 	<!-- =E relatelink -->
+	<!-- =S bottomlink-->
+	            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+				建筑维修- 相关类别：
+			</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://www.58.com/pprankbqgapv/changecity/'>全国橱柜厂家排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgapw/changecity/'>全国瓷砖厂家排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgapx/changecity/'>全国地板厂家排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgapy/changecity/'>全国房门厂家排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgapz/changecity/'>全国卫浴洁具厂家排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgaqa/changecity/'>全国移门壁柜厂家排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgaqb/changecity/'>全国涂料壁纸厂家排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgaqc/changecity/'>全国厨卫电器厂家排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgaqd/changecity/'>全国开关插座厂家排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgaqe/changecity/'>全国公共环卫设施厂家排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgaqf/changecity/'>全国灯具照明厂家排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgaqg/changecity/'>全国门窗厂家排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgaqh/changecity/'>全国水泥砂石厂家排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgaqi/changecity/'>全国五金工具厂家排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgaqj/changecity/'>全国龙头水槽厂家排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgaqk/changecity/'>全国吊顶浴霸排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgaql/changecity/'>全国暖气地暖排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgjzp/changecity/'>全国家政服务排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgalb/changecity/'>全国搬家公司排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgalc/changecity/'>全国保洁公司排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgald/changecity/'>全国家政服务公司排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgale/changecity/'>全国开锁公司排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgalf/changecity/'>全国配送中心排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgalg/changecity/'>全国养老院排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgarn/changecity/'>全国月嫂公司排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgaro/changecity/'>全国育婴师排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgarp/changecity/'>全国保姆公司排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgarq/changecity/'>全国钟点工排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgarr/changecity/'>全国催乳师排名</a></li>
+        		        		<li><a href='http://www.58.com/pprankbqgars/changecity/'>全国陪护排名</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+		<!-- =E bottomlink -->
+	<!-- =S hotcity-->
+	        <dl class="linksItem hotcity" id="hotcity">
+    	<dt class="b-left">许昌建筑维修周边城市：</dt>
+    	<dd class="b-right">
+    		<ul class="b-ul">
+    			    			<li><a href="http://zz.58.com/jianzhuweixiu/">郑州建筑维修</a></li>
+    			    			<li><a href="http://kaifeng.58.com/jianzhuweixiu/">开封建筑维修</a></li>
+    			    			<li><a href="http://luoyang.58.com/jianzhuweixiu/">洛阳建筑维修</a></li>
+    			    			<li><a href="http://pds.58.com/jianzhuweixiu/">平顶山建筑维修</a></li>
+    			    			<li><a href="http://ay.58.com/jianzhuweixiu/">安阳建筑维修</a></li>
+    			    			<li><a href="http://xx.58.com/jianzhuweixiu/">新乡建筑维修</a></li>
+    			    			<li><a href="http://jiaozuo.58.com/jianzhuweixiu/">焦作建筑维修</a></li>
+    			    			<li><a href="http://puyang.58.com/jianzhuweixiu/">濮阳建筑维修</a></li>
+    			    			<li><a href="http://xc.58.com/jianzhuweixiu/">许昌建筑维修</a></li>
+    			    			<li><a href="http://luohe.58.com/jianzhuweixiu/">漯河建筑维修</a></li>
+    			    		</ul>
+    	</dd>
+    </dl>
+	<!-- =S hotcity -->
+            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+					建筑维修- 热门城市：
+					</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://bj.58.com/jianzhuweixiu/'>北京建筑维修</a></li>
+        		        		<li><a href='http://sh.58.com/jianzhuweixiu/'>上海建筑维修</a></li>
+        		        		<li><a href='http://gz.58.com/jianzhuweixiu/'>广州建筑维修</a></li>
+        		        		<li><a href='http://sz.58.com/jianzhuweixiu/'>深圳建筑维修</a></li>
+        		        		<li><a href='http://tj.58.com/jianzhuweixiu/'>天津建筑维修</a></li>
+        		        		<li><a href='http://hz.58.com/jianzhuweixiu/'>杭州建筑维修</a></li>
+        		        		<li><a href='http://wh.58.com/jianzhuweixiu/'>武汉建筑维修</a></li>
+        		        		<li><a href='http://xa.58.com/jianzhuweixiu/'>西安建筑维修</a></li>
+        		        		<li><a href='http://cd.58.com/jianzhuweixiu/'>成都建筑维修</a></li>
+        		        		<li><a href='http://zz.58.com/jianzhuweixiu/'>郑州建筑维修</a></li>
+        		        		<li><a href='http://cs.58.com/jianzhuweixiu/'>长沙建筑维修</a></li>
+        		        		<li><a href='http://nj.58.com/jianzhuweixiu/'>南京建筑维修</a></li>
+        		        		<li><a href='http://hrb.58.com/jianzhuweixiu/'>哈尔滨建筑维修</a></li>
+        		        		<li><a href='http://sy.58.com/jianzhuweixiu/'>沈阳建筑维修</a></li>
+        		        		<li><a href='http://su.58.com/jianzhuweixiu/'>苏州建筑维修</a></li>
+        		        		<li><a href='http://sjz.58.com/jianzhuweixiu/'>石家庄建筑维修</a></li>
+        		        		<li><a href='http://dl.58.com/jianzhuweixiu/'>大连建筑维修</a></li>
+        		        		<li><a href='http://qd.58.com/jianzhuweixiu/'>青岛建筑维修</a></li>
+        		        		<li><a href='http://jn.58.com/jianzhuweixiu/'>济南建筑维修</a></li>
+        		        		<li><a href='http://cq.58.com/jianzhuweixiu/'>重庆建筑维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jianzhuweixiu/'>建筑维修</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+	<!-- =E hotcity --> 	<!-- =E hotcity -->
+	<!-- =S friendlink-->
+			<dl id="friendlink" class="linksItem friendlink">
+<dt class="b-left"> 友情链接：</dt>
+<dd class="b-right"><a href='http://dl.58.com/jiancai/' target='_blank'>大连建材市场</a>&nbsp;  <a href="/link.html" target="_blank">更多...</a></dd>
+</dl>
+		<!-- =E friendlink -->
+</section>
+	<footer id="footer" class="footer">
+	    <div id="upWrap"> <a target="_blank" href="http://about.58.com/help.html" rel="nofollow">常见问题</a><span>|</span> <a target="_blank" href="http://about.58.com/" rel="nofollow">帮助中心</a><span>|</span> <a target="_blank" href="http://about.58.com/feedback.html" rel="nofollow">意见反馈</a><span>|</span> <a target="_blank" href="http://about.58.com/home/" rel="nofollow">了解58同城</a><span>|</span> <a target="_blank" href="http://about.58.com/hr/" rel="nofollow">加入58同城</a><span>|</span> <a target="_blank" href="http://fanqizha.58.com/" rel="nofollow">反欺诈联盟</a><span>|</span> <a target="_blank" href="http://110.58.com" rel="nofollow">报案平台</a><span>|</span> <a target="_blank" href="http://e.58.com" rel="nofollow">推广服务</a><span>|</span> <a target="_blank" href="http://biz.58.com" rel="nofollow">渠道招商</a><span>|</span> <a target="_blank" href="http://baozhang.58.com" rel="nofollow">先行赔付</a><span>|</span> <a target="_blank" href="http://ir.58.com?PGTID=0d100000-0000-13da-8041-51f9a3a739fa&amp;ClickID=2" rel="nofollow">Investor Relations</a> </div>
+	    <div id="downWrap"> <em>2005-2016 58.com版权所有</em><span>|</span> <em>京公网备案信息110105000809</em><span>|</span> <a target="_blank" href="http://www.miibeian.gov.cn/" rel="nofollow">京ICP证060405</a><span>|</span><em>乙测资字11018014</em><span>|</span> <a target="_blank" href="http://ir.58.com" rel="nofollow">Investor Relations</a><span>|</span><em>违法信息举报：4008135858&nbsp;&nbsp;jubao@58ganji.com</em> </div>
+	    <div class="fotBtmIcon">
+	        <a target="_blank" id="fotBm_1" href="http://fanqizha.58.com"></a>
+	        <a target="_blank" id="fotBm_2" href="http://www.12377.cn/"></a>
+	        <a target="_blank" id="fotBm_3" href="http://www.12377.cn/node_548446.htm"></a>
+	        <a target="_blank" id="fotBm_4" href="https://credit.szfw.org/CX20120918001650001720.html"></a>
+	        <a target="_blank" id="fotBm_5" href="http://img.58cdn.com.cn/ui6/index/qyxinyong.jpg?v=3"></a>
+	        <a target="_blank" id="fotBm_6" href="http://about.58.com/fqz/index.html"></a>
+	    </div>
+	</footer>
+<script>
+	var currentDate = new Date();
+</script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfc_v20160418145051.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfcInit_v20161121150119.js'></script>
+<script>
+	var jingzhun_ads = [];
+	var jingzhun_ads_param = "";
+</script>
+
+				<script type="text/javascript" src='http://j1.58cdn.com.cn/js/5_1/comm_js/boot_listpage_version_v20170329165708.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript">
+document.domain = '58.com';
+var win = new GetToolTipWindow('tooltipdiv', 'keyword', '3','977','', true);win.setSearchButton('searchbtn');
+var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','977','');win1.setSearchButton('searchbtn1');
+var win2 = new GetToolTipWindow('tooltipdiv2', 'mudidi', '7', '977', '');win2.setSearchButton('searchbtn1');
+boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'xc');});
+</script>
+
+<script type="text/javascript" >
+// JavaScript Document
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	toggle(".p-help");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".small-tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+
+$("#shangmenfw a").each(function(){
+	if("到店服务"== $(this).text().trim()){
+		$(this).remove();
+	}
+});
+
+BAIDU_CLB_fillSlot("567863");
+
+var alldt = $("#relateSelect>dt");
+function showNear(dt){
+    alldt.each(function(){
+        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+        else {$(this).next("dd").hide();$(this).removeClass("select");}
+    });
+}
+alldt.each(function(){
+    $(this).click(function(){showNear(this);}).hover(function(){showNear(this);});
+});
+
+showNear(alldt[0]);
+
+  
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+$(".selector").each(function(){
+	$(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+});
+
+</script>
+
+<div style="display:none;">
+<script type="text/javascript">
+ var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3bb04d7a4ca3846dcc66a99c3e861511' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+</div>
+
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+
+
+			<script type="text/javascript" src='http://j1.58cdn.com.cn/js/v8/boot/boot_huangye_v20170329172410.js'>
+		</script>
+		<script>
+			require(['_pkg/huangye/huangye_shenghuo_list_dom'],function(){});
+		</script>
+	
+<script src="http://track.58.com/adsys/ggafs?rand=20170403"></script>
+<script>
+//统计埋点
+$(function(){
+	$('dl.secitem').each(function(){
+	    var idname = $(this).find("dd").eq(0).attr('id');
+		$(this).find('a').not('span a').each(function(){
+			$(this).click(function(){
+				clickLog('from=pc_list_jianzhuweixiu_shaixuan_'+idname+ '_xc');
+		    });		
+		});	
+    });	
+})
+</script>
+<script type="text/javascript">
+    $("#more_ObjectType").click(function(){
+    	console.log("ok");
+    	var showmoreBrand = document.getElementById("moreBrandct"),moreBrandbtn = document.getElementById("moreBrandbtn");
+	    showmoreBrand.style.display = (showmoreBrand.style.display=="block")?"none":"block";
+	    moreBrandbtn.className = (moreBrandbtn.className=="moreBrand")?"moreBrand hold":"moreBrand";
+    });
+    var pemorealldt = $("#moreBrandct dt");
+	function showpemorecon(dt){
+		pemorealldt.each(function(){
+		    if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+            else {$(this).next("dd").hide();$(this).removeClass("select");}
+        });
+    }
+    pemorealldt.each(function(){
+		$(this).click(function(){showpemorecon(this);}).hover(function(){showpemorecon(this);});
+    });
+    showpemorecon(pemorealldt[0]);
+</script>
+		<script type="text/javascript">
+function cpcget(url){
+	$.ajax({
+		url:url,
+		type:"get",
+		dataType:"jsonp",
+		success:function(data){
+		
+        }
+    });	
+}
+</script>					<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e15962162366a86a6229038443847be7";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div style="display:none">
+	<script type="text/javascript">
+____json4fe.supplycount = {sortid:'25335358929713'};
+var _gaq = _gaq || [],site_name = "58",post_count = "61",shop_count= "",page_type = "list";
+var _trackURL = "{'cate':'8703,34806','area':'977','pagetype':'list','GA_pageview':'/xc/shangwu/jianzhuweixiu/listversion/','version':'A','pagesize':'35','pagenum':'1','level1':'','level2':'','level3':'','level4':'','level5':'','level6':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/xc/shangwu/jianzhuweixiu/listversion/']);
+
+$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+
+</div>
+<script src="http://wechat.58.com/google-analytics"></script> 				<!-- 抢单神器下线-->
+				<!-- 抢单神器下线-->
+		<!-- 装修搜索弹窗  S -->
+				<!-- 招标弹框start -->
+<link rel="stylesheet" href='http://c.58cdn.com.cn/ds/zhaobiao/pc_search_win/list_win_zb_v20161010135135.css' />
+<script src="http://j1.58cdn.com.cn/ds/zhaobiao/v1/js/fastpost/jquery.md5.js"></script>
+<script>
+ var cityid=977;
+</script>
+
+        <!-- 招标弹框end -->
+
+
+				<!-- 装修搜索弹窗  E -->
+		<!-- 前置登陆  s -->
+				<!-- 前置登陆  e -->
+	</body>
+</html>

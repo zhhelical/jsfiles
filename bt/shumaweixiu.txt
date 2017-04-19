@@ -1,0 +1,1647 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+												<!--  当前的类别归属ID--> 
+		<!--  当前的类别表现ID--> 
+		<!--  当前的类别listname (eg:banjia)--> 
+		<!--  当前的类别catename (eg:搬家)--> 
+		<!--  一级类别归属ID--> 
+		<!--  一级类别表现ID--> 
+		<!--  一级类别listname eg:jiazheng--> 
+		<!--  一级类别catename eg:家政--> 
+		<!--  二级类别归属ID [Ljava.lang.Integer;@4d0dddeb 数字长度：2--> 
+			<!--  二级类别表现ID--> 
+				<!--  二级类别listname eg:jiazhuang--> 
+				<!--  二级类别catename eg:家装-->
+				<!-- 表现类别的全路径   eg:8512,96-->
+									
+						<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>【58同城】包头数码维修网_包头数码产品维修公司</title>
+	<meta name="description" content='58同城包头数码维修网频道免费提供给您大量真实有效的包头数码相机、数码摄像机、单反、游戏机等数码产品维修信息查询，同时您可以免费发布包头数码维修,包头数码产品维修,数码相机维修,数码维修信息。最好的包头数码维修信息就在58同城包头数码维修平台。-58.com'/>
+	<meta name="keywords" content='包头数码维修网，包头数码产品维修公司'/>
+	<meta http-equiv="X-UA-Compatible" content="edge" />
+		<meta name="location" content="province=内蒙古;city=包头;coord=109.846239,40.647119">
+				<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/bt/shumaweixiu/" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/bt/shumaweixiu/" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/bt/shumaweixiu/" />
+					<script type="text/javascript">
+		var ____loadCfg = ['huangye', 'shenghuo', 'listpage'];
+	</script>
+	<script src='http://j2.58cdn.com.cn/js/require_jquery_load.js'></script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">document.write('<scri'+'pt src="http://j1.58cdn.com.cn/ds/tgbrand/js/brand_listpage_v1.js?temp=' + Math.random() + '"></scri'+'pt>');</script> 
+<script type="text/javascript">
+	var xxfwConfig = {namespace:'huangyelistpc'};
+</script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/resource/xxzl/xxfw/xxfw.min_v20161021110430.js'></script>
+
+<script type="text/javascript">
+try{
+	var ____json4fe = {"catentry":[{"dispid":"8512","name":"家政服务","listname":"shenghuo"},{"dispid":"712","name":"数码维修","listname":"shumaweixiu"}],"locallist":[{"dispid":"801","name":"包头","listname":"bt"}],"start":(new Date()).getTime(),"modules":"list"};
+	____json4fe.version = 'A';
+	____json4fe.modules = 'listpage';
+	____json4fe.sid = '168942024195475180196653744';
+	____json4fe.sessionid = 'd32b8a6a-ec19-4cad-aab9-de24bda39bde';
+	____json4fe.smsc = '3f2dd2de9529e6331a83ccad49fddd050a7d3c286885c9eea61e3d4c269539bb80d594d5b1be136a520d1e1c7fba804c066bef8f4a8098d6cc64d99166554ffaa4e60145ec8204045cb47c60bd477475acbbefff161a4b36f1906ef5b4014d1726b21b9b9bc37c63af19f66ee2f6488d4eb57dbeaea99724979da35f2a2dca90ec7cf03e9a7ddc67f4ff15b00a05c7be9a8feff93056e029';
+	____json4fe.newcateid='';
+	____json4fe.keyword='';
+	____json4fe.page='1';
+	____json4fe.param='';
+	}catch(e){};
+	(function(){
+var e = "header,nav,section,aside,article,footer".split(','),
+i=0,
+length=e.length;
+while(i<length){
+    document.createElement(e[i++])
+}
+})();
+	var ajax_param = '{"platform":"pc","paramMap":null,"pageIndex":1,"dispCateId":712,"infoMethod":["renzheng","baojia","wltAge"],"dataParam":"29528263595318_57273005_0_commoninfo,29471985577651_37792999628561_0_commoninfo,29436851855566_6302342017798_0_commoninfo,29426059526603_25955510461702_0_commoninfo,20091691438083_22639340072710_0_commoninfo,28994343729230_43603331401485_0_commoninfo,28353289318322_5171957849862_0_commoninfo,28030352811571_25313158220038_0_commoninfo,28408896124994_14055144588550_0_commoninfo,26915559098953_32566584105996_0_commoninfo,27822896071104_11721792752390_0_commoninfo,27648251930291_54320023_0_commoninfo,27482173456682_18128655401734_0_commoninfo,27429219189190_41532482929942_0_commoninfo,27293048749111_30184516304908_0_commoninfo,27064800216910_13836365374215_0_commoninfo,26928164428600_40933977996559_0_commoninfo,26849323344442_5170311787271_0_commoninfo,26201542291528_38517069_0_commoninfo,26031644290604_30631877754630_0_commoninfo,25643220067252_25559909638663_0_commoninfo,25710802023105_28351729899014_0_commoninfo,27447771128874_18128655401734_0_commoninfo,25682237760188_13836365374215_0_commoninfo,23161610562057_26294446426119_0_commoninfo,25061455731656_37463815132183_0_commoninfo,25026555599158_30184516304908_0_commoninfo,23492918797092_28176706804743_0_commoninfo,23279480877473_22444611306759_0_commoninfo,23000736112291_3067638513159_0_commoninfo,22749582991140_25400783905031_0_commoninfo,22640025310622_25473380999686_0_commoninfo,22406328486051_32153243030278_0_commoninfo,21411634514063_30007213799947_0_commoninfo,21920990856862_29761447433992_0_commoninfo","dispCateName":"shumaweixiu"}';
+	var s_ajax_param = 's_contact_shumaweixiu_168942024195475180196653744_';
+</script>				<link href='http://c.58cdn.com.cn/ds/v1/base-v1_v0.css' rel="stylesheet" type="text/css">
+	<link href='http://c.58cdn.com.cn/ds/v1/common_list_v20170315183710.css' rel="stylesheet" type="text/css">
+<link href='http://c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20170331140927.css' rel="stylesheet" type="text/css">
+
+
+		<link href='http://c.58cdn.com.cn/ds/v1/list/defaultList_v20170220190119.css' rel="stylesheet" type="text/css">
+	<!-- <link rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv02_v0.css'> -->
+<link type="text/css" rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03_v20160727171301.css'>
+<!-- <link type="text/css" rel="stylesheet" href="http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03.css"> -->
+
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/dialog_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/release_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/retable_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/weixin/hy_freetel_v20161207184444.css">	
+    		</head>
+			<body class="">
+						<!-- =S top bar header -->
+			<div id="commonTopbar" class="commonTopbar">
+<script type="text/javascript">
+    var secId;
+        ____json4fe.catentry[1]? secId = ____json4fe.catentry[1].dispid : secId = ____json4fe.catentry.dispid;
+    var modules = ____json4fe.modules;
+    //搬家列表页(secId == "96" && modules=="listpage")宽度为1190px
+    if(secId == "96" && modules=="listpage"){
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'default' // default: 1190px, narrow: 1000px
+            });
+        };
+    }else{
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'narrow' // default: 1190px, narrow: 1000px
+            });
+        };
+    }    
+</script>
+</div>
+<!-- =S banner  div -->
+<div class="topbannerbar"><div id="brand_list_top_banner" onclick="clickLog('from=pc_list_shumaweixiu_top_banner');" ></div></div>
+<!-- =E banner  div--><header id="header">
+    <div class="header-inner">
+    <a class="logo float_l" href="/huangye/" target="_blank" onclick="clickLog('from=pc_list_logo_shumaweixiu');">58同城</a>
+            <a href='http://post.58.com/801/712/s5' target="_blank" onclick="clickLog('from=pc_list_fabu_shumaweixiu');" class="postbtn float_r">免费发布</a>
+        		        <div class="header-search float_r">
+         <em class="ico-searchkey"></em>
+         <form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+         	            	<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();">
+                        <span onMouseOut="this.className='sbtn'" onMouseOver="this.className='sbtn hover'" class="sbtn">
+                			<input type="submit" value="搜服务" onclick="clickLog('from=pc_list_search_shumaweixiu');" class="but-bl" name="" id="searchbtn1" ></span>
+                		        		<div class="clear"></div>
+        		<span class="hotsearch">
+    						           		<a href="http://bt.58.com/shumaweixiu/?key=%E4%B8%89%E6%98%9F&final=1&searchtype=3&sourcetype=21" onclick="clickLog('from=pc_list_resouci_1_shumaweixiu');_gaq.push(['pageTracker._trackEvent', 'list', 'tag_click', '/huangye/hotkeywords/zz/shumaweixiu/']);">三星</a>
+       			   
+	   </span>
+    		       	  </form>
+       	</div>
+		            	<div class="nav float_l" >
+	<a href="/">包头58同城</a> &gt; <a href="/shenghuo.shtml">包头家政服务</a>
+				 &gt; <a href="/shumaweixiu/" itemprop="url">包头数码维修</a>
+	
+
+</div>
+	</div>
+</header>
+		<!-- =E top bar header -->
+	<!-- =S common_column_label-->
+			<!-- =E common_column_label-->
+	<!-- =S searchTip -->
+			<!-- =E searchTip  -->
+	<!-- =s cmcs -->
+							<section id="selection">
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">类别 ：</dt>
+		<dd id="ObjectType" >
+																    		    		    		    					<a href="/shumaweixiu/" class='select' >全部</a>
+								    		    		    		    					<a href="http://bt.58.com/shumaxiangjiwx/"  >数码相机维修</a>
+								    		    		    		    					<a href="http://bt.58.com/shexiangjiwx/"  >摄像机维修</a>
+								    		    		    		    					<a href="http://bt.58.com/danfanwx/"  >单反相机/单反配件</a>
+								    		    		    		    					<a href="http://bt.58.com/dandianwx/"  >单电/微单相机</a>
+								    		    		    		    					<a href="http://bt.58.com/youxijiwx/"  >游戏机</a>
+								    		    		    		    					<a href="http://bt.58.com/smxkwx/"  >数码相框</a>
+								    		    		    		    					<a href="http://bt.58.com/lysbwxiu/"  >录音设备</a>
+								    		    		    		    					<a href="http://bt.58.com/daohangyiwx/"  >导航仪维修</a>
+															    					    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">地址 ：</dt>
+		<dd id="local" >
+																    		    		    		    					<a href="/shumaweixiu/" class='select' >全包头</a>
+								    		    		    		    					<a href="/kundoulun/shumaweixiu/"  >昆都仑区</a>
+								    		    		    		    					<a href="/qingshanqu/shumaweixiu/"  >青山</a>
+								    		    		    		    					<a href="/donghe/shumaweixiu/"  >东河</a>
+								    		    		    		    					<a href="/daerhanqi/shumaweixiu/"  >达尔罕茂明安联合旗</a>
+								    		    		    		    					<a href="/jiuyuan/shumaweixiu/"  >九原</a>
+								    		    		    		    					<a href="/baiyunkuang/shumaweixiu/"  >白云矿区</a>
+								    		    		    		    					<a href="/shiguai/shumaweixiu/"  >石拐</a>
+								    		    		    		    					<a href="/guy/shumaweixiu/"  >固阳</a>
+								    		    		    		    					<a href="/tmtyq/shumaweixiu/"  >土默特右旗</a>
+								    		    		    		    					<a href="/btbhx/shumaweixiu/"  >滨河新区</a>
+								    		    		    		    					<a href="/xitgxq/shumaweixiu/"  >稀土高新区</a>
+								    		    		    		    					<a href="/baotou/shumaweixiu/"  >包头周边</a>
+																									    	</dd>
+    </dl>
+	<div id="selected" class="bar"></div>
+	<i class="shadow"></i>
+</section>
+
+			<!-- =E cmcs -->
+		<div id="adtop_1" class="hc"><div class="mouter defa"><div class="inner"><div id="md3" class="mdul"></div><ul id="md1" class="mdul"></ul><ul id="md2" class="mdul"></ul><ul id="md4" class="mdul"></ul><ul id="md5" class="mdul"></ul><div class="clear"></div></div></div></div>
+<div class="tabsbar">
+    <div class="list-tabs">
+												<a href="/shumaweixiu/" onclick="clickLog('from=pc_list_shumaweixiu_list_tabs');" class="sel"><h1>包头数码维修</h1></a>
+											</div>
+	 	    	                	        
+
+		
+	
+				<span class="zhaobiao" >
+			<a href="http://bianmin.58.com/bt/?from=pc_list_bianmin_wzl"
+			   target="_blank" >学习办事经验，解决办证难题</a>
+		</span>
+		
+			
+
+
+</div>
+ 				<section id="mainlist" class="main clearfix pr">
+					<div class="filterbar h28">
+    <div class="filterbar-l">
+			<!-- <div class="filterup" id="filterup">
+				 <a class="m1" title="找班级" href="#" rel="nofollow" onclick=""><span>找班级<em></em></span></a>
+				 <a class="m1" title="找拼友" href="#" rel="nofollow" onclick=""><span>找拼友<em></em></span></a>
+			</div>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">全部</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示教育机构</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示个人教师</a></span> -->
+				<div class="filterup" id="filterup">
+			 <a class="m1 sel" title="默认" href="#" rel="nofollow" onclick="g2({sort:null}); clickLog('from=huangye_list_moren_shumaweixiu_bt&psid=168942024195475180196653744'); "><span>默认排序<em></em></span></a>
+											</div>
+														<span class="checkbox-ico" id="renzheng"><a href="javascript:void(0);" onclick="clickLog('from=List_sort_shumaweixiu__zhikanrenzheng');">只看认证</a></span>
+									
+									</div>  
+     <div class="filterbar-md">
+    	    	<!-- 加入医疗健康判断-->
+    	    		    		        		       <a class="mdtj" style="display:inline-block;" rel="nofollow" target="_blank" href="http://e.58.com/shenghuo.html" onClick="clickLog('from=huangye_zhaoshang&psid=168942024195475180196653744');">想提升接单效果，请致电4008107258</a>
+    		        		    	
+				   </div>        
+</div>
+					<div id="infolist" class="cleft" >
+				<!-- =S infolist -->
+									<div id="top_google_ad"></div>
+<table class="small-tbimg" cellspacing="0" cellpadding="0" >
+							<tr logr='p_1_57273005_29528263595318_0' infotag="29528263595318_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">党先生 : </b>
+				<a href='http://bt.58.com/shumaweixiu/29528263595318x.shtml?psid=168942024195475180196653744&entinfo=29528263595318_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			无人售货机纸币器升级
+		</a>
+						<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												无人售货机纸币器升级，防止拼接50元
+				(03-28)
+							<p class="seller">
+					x***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29528263595318' wltMark="0" param="29528263595318_57273005_0_commoninfo_252CDDF7DC9702CAF9A507D040256497"  data-j4fe="18919949825,党先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29528263595318&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37792999628561_29471985577651_0' infotag="29471985577651_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张工 : </b>
+				<a href='http://bt.58.com/shumaweixiu/29471985577651x.shtml?psid=168942024195475180196653744&entinfo=29471985577651_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			相机照片数据恢复
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												相机照片误删，相机损坏导致照片丢失等等，我公司能帮您把您需要的数据做出...
+				(03-23)
+							<p class="seller">
+					1***b
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29471985577651' wltMark="0" param="29471985577651_37792999628561_0_commoninfo_1DA11EF413C103DAAAF2C8DEADC9F6A4"  data-j4fe="15147153977,张工" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29471985577651&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_6302342017798_29436851855566_0' infotag="29436851855566_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">江南 : </b>
+				<a href='http://bt.58.com/shumaweixiu/29436851855566x.shtml?psid=168942024195475180196653744&entinfo=29436851855566_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			专业佳能 尼康 索尼单反相机镜头维修
+		</a>
+						<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												服务宗旨 经验丰富，质量保证，安全第一，客户舒心安心放心服务标准 以客...
+				(03-20)
+							<p class="seller">
+					f***2
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29436851855566' wltMark="0" param="29436851855566_6302342017798_0_commoninfo_2D7230D4632BD6355C9D4305D21E4C2D"  data-j4fe="15849488991,江南" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29436851855566&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_25955510461702_29426059526603_0' infotag="29426059526603_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">邓经理 : </b>
+				<a href='http://bt.58.com/shumaweixiu/29426059526603x.shtml?psid=168942024195475180196653744&entinfo=29426059526603_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			制作匹配蓝牙停车卡车库卡门禁卡ic停车卡会员卡
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												快速秒配蓝牙停车卡门禁卡车库卡
+				(03-19)
+							<p class="seller">
+					豫东智能
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='29426059526603' wltMark="0" param="29426059526603_25955510461702_0_commoninfo_AFD4A9E6F6B1C38FEB8401FB02814E9E" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29426059526603&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_22639340072710_20091691438083_0' infotag="20091691438083_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">杜先生 : </b>
+				<a href='http://bt.58.com/shumaweixiu/20091691438083x.shtml?psid=168942024195475180196653744&entinfo=20091691438083_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			较新版本各种汽车导航仪升级,地图更新,价格实惠
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												各种汽车导航仪升级,地图更新，凯立德，美行，道道通价格实惠 作为车联网...
+				(03-12)
+							<p class="seller">
+					w***7
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='20091691438083' wltMark="0" param="20091691438083_22639340072710_0_commoninfo_E9E1F290407D1B18F4F416D6C104509C"  data-j4fe="13948732920,杜先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=20091691438083&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_43603331401485_28994343729230_0' infotag="28994343729230_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">韩先生 : </b>
+				<a href='http://bt.58.com/shumaweixiu/28994343729230x.shtml?psid=168942024195475180196653744&entinfo=28994343729230_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			有线无线gps批发
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												价格全市较低 手续便捷 上门服务​‌‌ 东新弘泰给您较优质的服务谷米有...
+				(02-08)
+							<p class="seller">
+					东新弘泰
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28994343729230' wltMark="0" param="28994343729230_43603331401485_0_commoninfo_7D29C8882C232DB40062A517C80900AA"  data-j4fe="5267758-804,韩先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28994343729230&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_5171957849862_28353289318322_0' infotag="28353289318322_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">赵振欣 : </b>
+				<a href='http://bt.58.com/shumaweixiu/28353289318322x.shtml?psid=168942024195475180196653744&entinfo=28353289318322_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			专业安装卫星电视及维修
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												夲人从事卫星电视安装维修有十几年经历，质优价格合理，欢迎致电，高效！
+				(01-11)
+							<p class="seller">
+					r***1
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28353289318322' wltMark="0" param="28353289318322_5171957849862_0_commoninfo_B2B6D1B3FB053EBA8F99117E41100C30"  data-j4fe="13722126778,赵振欣" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28353289318322&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_25313158220038_28030352811571_0' infotag="28030352811571_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">郭师傅 : </b>
+				<a href='http://bt.58.com/shumaweixiu/28030352811571x.shtml?psid=168942024195475180196653744&entinfo=28030352811571_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			维修回收各种单反相机 佳能尼康回收
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												维修各种品牌照相机，单反相机，镜头，闪光灯，摄影器材， 高价回收，佳能...
+				(12-21)
+							<p class="seller">
+					恒信手机笔记本平板电脑回收
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='28030352811571' wltMark="0" param="28030352811571_25313158220038_0_commoninfo_525EB08FF87A6F036C2B8A01CD6249C8" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28030352811571&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_14055144588550_28408896124994_0' infotag="28408896124994_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">陆经理 : </b>
+				<a href='http://bt.58.com/shumaweixiu/28408896124994x.shtml?psid=168942024195475180196653744&entinfo=28408896124994_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			吉林市韩奥电锅公司全国招商加盟
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												电锅炉怎么样？电锅炉质量怎么样，电锅炉价格怎么样，带着这些问题小编采访...
+				(12-17)
+							<p class="seller">
+					宣宇经贸有限责任公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28408896124994' wltMark="0" param="28408896124994_14055144588550_0_commoninfo_D0E2FB0B6000FE2A1C3043EBF184350F"  data-j4fe="0432-66492165,陆经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28408896124994&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_32566584105996_26915559098953_0' infotag="26915559098953_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李经理 : </b>
+				<a href='http://bt.58.com/shumaweixiu/26915559098953x.shtml?psid=168942024195475180196653744&entinfo=26915559098953_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			数码相机摄像机微单反专业维修
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												厂家售后技师，技术保障 ，包头国美苏宁合作维修，信誉保障，数码相机全系...
+				(10-28)
+							<p class="seller">
+					1***w
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26915559098953' wltMark="0" param="26915559098953_32566584105996_0_commoninfo_FC428FDCBF58F6F49A9FABA0602698D2"  data-j4fe="13347189009,李经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26915559098953&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_11721792752390_27822896071104_0' infotag="27822896071104_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小徐 : </b>
+				<a href='http://bt.58.com/shumaweixiu/27822896071104x.shtml?psid=168942024195475180196653744&entinfo=27822896071104_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			上门维修电脑
+		</a>
+						<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												低价维修电脑,上门服务,本人刚上社会,不想长时间依赖父母,有正经工作,...
+				(10-25)
+							<p class="seller">
+					e***0
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27822896071104' wltMark="0" param="27822896071104_11721792752390_0_commoninfo_8C331DD68421D042563AA7A02C309165"  data-j4fe="13739989491,小徐" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27822896071104&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_54320023_27648251930291_0' infotag="27648251930291_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">徐经理 : </b>
+				<a href='http://bt.58.com/shumaweixiu/27648251930291x.shtml?psid=168942024195475180196653744&entinfo=27648251930291_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			维修监控、出方案
+		</a>
+						<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												专业维修监控，专业电工，专业设备，保质保量。具体电话联系。
+				(10-09)
+							<p class="seller">
+					远大学习服务部
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27648251930291' wltMark="0" param="27648251930291_54320023_0_commoninfo_BE911E8FA498BEC826F43D21F882FD8E"  data-j4fe="13664035977,徐经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27648251930291&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_18128655401734_27482173456682_0' infotag="27482173456682_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">徐师傅 : </b>
+				<a href='http://bt.58.com/shumaweixiu/27482173456682x.shtml?psid=168942024195475180196653744&entinfo=27482173456682_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			青山九星徐师傅相机维修，摄像机，单反相机维修
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												从事相机摄像机，单反相机维修20多年。判断故障准确，免费检测。收费合理...
+				(09-24)
+							<p class="seller">
+					s***7
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27482173456682' wltMark="0" param="27482173456682_18128655401734_0_commoninfo_91ADC3355C44D2B59CB17ECD8D499DB6"  data-j4fe="15847245672,徐师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27482173456682&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_41532482929942_27429219189190_0' infotag="27429219189190_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">辛经理 : </b>
+				<a href='http://bt.58.com/shumaweixiu/27429219189190x.shtml?psid=168942024195475180196653744&entinfo=27429219189190_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			乐刷扫码支付0.38秒到免费送
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												乐刷扫码支付0.38秒到免费送
+				(09-19)
+							<p class="seller">
+					r***z
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27429219189190' wltMark="0" param="27429219189190_41532482929942_0_commoninfo_B17F90C7B1E55C171C5BD2289E3FD63B"  data-j4fe="18686181556,辛经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27429219189190&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_30184516304908_27293048749111_0' infotag="27293048749111_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">姚经理 : </b>
+				<a href='http://bt.58.com/shumaweixiu/27293048749111x.shtml?psid=168942024195475180196653744&entinfo=27293048749111_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			能让你赚钱的项目，值得你信赖的品牌
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												同城贷承办各种个人贷款，企业贷款，代办银行中间业务，垫资，过桥等业务。...
+				(09-07)
+							<p class="seller">
+					l***6
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27293048749111' wltMark="0" param="27293048749111_30184516304908_0_commoninfo_E8F91A1CAF90009CF34121549C8E7091"  data-j4fe="18012771505,姚经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27293048749111&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_13836365374215_27064800216910_0' infotag="27064800216910_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小贾 : </b>
+				<a href='http://bt.58.com/shumaweixiu/27064800216910x.shtml?psid=168942024195475180196653744&entinfo=27064800216910_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			内蒙古包头利德华福、西门子高压变频器维修
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												北京傲云欣欣科技发展有限公司是高压变频器专业维修维护的综合服务商， 特...
+				(08-17)
+							<p class="seller">
+					俊康商贸
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27064800216910' wltMark="0" param="27064800216910_13836365374215_0_commoninfo_2D079930FABB94A6FC3F4A9EA2B7D6D0"  data-j4fe="13304725533,小贾" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27064800216910&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_40933977996559_26928164428600_0' infotag="26928164428600_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">afae : </b>
+				<a href='http://bt.58.com/shumaweixiu/26928164428600x.shtml?psid=168942024195475180196653744&entinfo=26928164428600_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			批发零售V2实名支付宝帐号，淘宝店铺，实名财付通
+		</a>
+						<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												批发零售V1V2实名支付宝帐号，淘宝店铺，财付通实名帐号，微信实名帐号...
+				(08-05)
+							<p class="seller">
+					1***t
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26928164428600' wltMark="0" param="26928164428600_40933977996559_0_commoninfo_5FE36A80C7827CBA684E4F86E5D0D848"  data-j4fe="13060529946,afae" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26928164428600&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_5170311787271_26849323344442_0' infotag="26849323344442_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">韩生 : </b>
+				<a href='http://bt.58.com/shumaweixiu/26849323344442x.shtml?psid=168942024195475180196653744&entinfo=26849323344442_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			专业回收游戏机，游戏机出售，游戏机维修
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												1.长期回收全国各地动漫城游戏设备2.维修机器3.出售各种机器10多年...
+				(07-29)
+							<p class="seller">
+					东莞市讯泰电子
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26849323344442' wltMark="0" param="26849323344442_5170311787271_0_commoninfo_758D0B6098F9B517B2D60826ECB828F5"  data-j4fe="13073035331,韩生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26849323344442&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_38517069_26201542291528_0' infotag="26201542291528_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">米果通讯 : </b>
+				<a href='http://bt.58.com/shumaweixiu/26201542291528x.shtml?psid=168942024195475180196653744&entinfo=26201542291528_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			米果通讯为手机单独换外屏
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												专业技术及设备，手机屏碎裂换屏可以保留原机液晶单独更换外屏，苹果6换屏...
+				(05-31)
+							<p class="seller">
+					包头市乐果信息科技有限责任公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26201542291528' wltMark="0" param="26201542291528_38517069_0_commoninfo_E995120C895974A8CAAA1220D4F7F0E5"  data-j4fe="13015159678,米果通讯" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26201542291528&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_30631877754630_26031644290604_0' infotag="26031644290604_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">孙先生 : </b>
+				<a href='http://bt.58.com/shumaweixiu/26031644290604x.shtml?psid=168942024195475180196653744&entinfo=26031644290604_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			电视网络机顶盒只要家里有网即可上门服务
+		</a>
+						<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												可收看2000直播频道较新电影电视剧
+				(05-16)
+							<p class="seller">
+					t***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26031644290604' wltMark="0" param="26031644290604_30631877754630_0_commoninfo_757C8827123651E5AA9DFB35AF886EC4"  data-j4fe="15598347040,孙先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26031644290604&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_25559909638663_25643220067252_0' infotag="25643220067252_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小强 : </b>
+				<a href='http://bt.58.com/shumaweixiu/25643220067252x.shtml?psid=168942024195475180196653744&entinfo=25643220067252_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			游乐场游艺设备维修维护保养
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												各种大型游艺设备，华立，世宇，尚盈，希利科技，IGS，枪机，车机，跳舞...
+				(05-01)
+							<p class="seller">
+					j***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25643220067252' wltMark="0" param="25643220067252_25559909638663_0_commoninfo_6B9321189F770C46BAB48BA5F4F8E9BA"  data-j4fe="13847277377,小强" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25643220067252&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_28351729899014_25710802023105_0' infotag="25710802023105_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">贾全喜 : </b>
+				<a href='http://bt.58.com/shumaweixiu/25710802023105x.shtml?psid=168942024195475180196653744&entinfo=25710802023105_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			测振仪显示屏坏了谁能修
+		</a>
+						<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												测振仪显示屏坏了 漏液了 只能显示部分字体
+				(04-17)
+							<p class="seller">
+					o***4
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25710802023105' wltMark="0" param="25710802023105_28351729899014_0_commoninfo_575C3FAEACB5C7C192514EF22B4C4796"  data-j4fe="13624842778,贾全喜" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25710802023105&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_18128655401734_27447771128874_0' infotag="27447771128874_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">徐师傅 : </b>
+				<a href='http://bt.58.com/shumaweixiu/27447771128874x.shtml?psid=168942024195475180196653744&entinfo=27447771128874_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			专业单反相机，专业摄像机维修
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												本人从事相机维修20多年，判断故障准确，收费合理。免费检测。专业维修佳...
+				(09-21)
+							<p class="seller">
+					s***7
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27447771128874' wltMark="0" param="27447771128874_18128655401734_0_commoninfo_91ADC3355C44D2B59CB17ECD8D499DB6"  data-j4fe="15847245672,徐师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27447771128874&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_13836365374215_25682237760188_0' infotag="25682237760188_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小贾 : </b>
+				<a href='http://bt.58.com/shumaweixiu/25682237760188x.shtml?psid=168942024195475180196653744&entinfo=25682237760188_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			包头进口/国产变频器维修
+		</a>
+						<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												公司主修化工机械设备维修,ABB高压变频器维修,罗克韦尔AB高压变频器...
+				(04-14)
+							<p class="seller">
+					俊康商贸
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25682237760188' wltMark="0" param="25682237760188_13836365374215_0_commoninfo_2D079930FABB94A6FC3F4A9EA2B7D6D0"  data-j4fe="13304725533,小贾" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25682237760188&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_26294446426119_23161610562057_0' infotag="23161610562057_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">石榴 : </b>
+				<a href='http://bt.58.com/shumaweixiu/23161610562057x.shtml?psid=168942024195475180196653744&entinfo=23161610562057_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			专业洗各种照片优质
+		</a>
+						<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												洗各种照片，价格优惠，6寸六毛，七寸八毛每张，距离近可以送货上门
+				(03-13)
+							<p class="seller">
+					拖***4
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='23161610562057' wltMark="0" param="23161610562057_26294446426119_0_commoninfo_B41B9EB0B0C21547D7319154432B0780"  data-j4fe="18686118945,石榴" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23161610562057&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37463815132183_25061455731656_0' infotag="25061455731656_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">武先生 : </b>
+				<a href='http://bt.58.com/shumaweixiu/25061455731656x.shtml?psid=168942024195475180196653744&entinfo=25061455731656_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			数码相机摄像机专业维修
+		</a>
+						<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												本人从事数码维修服务多年，在九星设立维修点已有七八年，技术过硬，收费合...
+				(02-18)
+							<p class="seller">
+					1***z
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25061455731656' wltMark="0" param="25061455731656_37463815132183_0_commoninfo_8CAF66A6A41AEA2B1AE35FD065496E71"  data-j4fe="15334722530,武先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25061455731656&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_30184516304908_25026555599158_0' infotag="25026555599158_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">姚经理 : </b>
+				<a href='http://bt.58.com/shumaweixiu/25026555599158x.shtml?psid=168942024195475180196653744&entinfo=25026555599158_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			创业要找好出路,理财要找好助手.同城贷火热招商
+		</a>
+							<span class='tu'>[7图]</span>
+				<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												对国家，我们增加了国家的税收。国家提倡“地下钱庄”阳光化，提倡民间金融...
+				(02-15)
+							<p class="seller">
+					l***6
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25026555599158' wltMark="0" param="25026555599158_30184516304908_0_commoninfo_E8F91A1CAF90009CF34121549C8E7091"  data-j4fe="18012771505,姚经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25026555599158&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_28176706804743_23492918797092_0' infotag="23492918797092_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">白娥 : </b>
+				<a href='http://bt.58.com/shumaweixiu/23492918797092x.shtml?psid=168942024195475180196653744&entinfo=23492918797092_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			98元能干什么 98元就能微信说话控制家电和灯光
+		</a>
+						<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												如果有一款能用微信控制你家的电视、灯光、空调、电饭锅、加湿器等，只需要...
+				(09-29)
+							<p class="seller">
+					b***4
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='23492918797092' wltMark="0" param="23492918797092_28176706804743_0_commoninfo_F93C586453B438F7F293E65E4847CF9B"  data-j4fe="15291602167,白娥" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23492918797092&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_22444611306759_23279480877473_0' infotag="23279480877473_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李智鹏 : </b>
+				<a href='http://bt.58.com/shumaweixiu/23279480877473x.shtml?psid=168942024195475180196653744&entinfo=23279480877473_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			专业维修iPad及各类平板电脑,13年信誉老店
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												金博士电脑公司是一家以电脑芯片级维修及配件销售为主的专业化服务机构，是...
+				(09-10)
+							<p class="seller">
+					金博士数码科技
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='23279480877473' wltMark="0" param="23279480877473_22444611306759_0_commoninfo_1D9DAA12B97A192F15058E156A1E5B40" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23279480877473&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_3067638513159_23000736112291_0' infotag="23000736112291_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小王 : </b>
+				<a href='http://bt.58.com/shumaweixiu/23000736112291x.shtml?psid=168942024195475180196653744&entinfo=23000736112291_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			无线摄像头…智能防盗
+		</a>
+						<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												无线智能摄像头，门窗防盗门磁，红外感应，烟雾感应器，煤气泄漏探测器，
+				(08-16)
+							<p class="seller">
+					个体经营
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='23000736112291' wltMark="0" param="23000736112291_3067638513159_0_commoninfo_A4E81C6AEB8C88992515A2A45A2340A4"  data-j4fe="13474993353,小王" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23000736112291&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_25400783905031_22749582991140_0' infotag="22749582991140_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">石师傅 : </b>
+				<a href='http://bt.58.com/shumaweixiu/22749582991140x.shtml?psid=168942024195475180196653744&entinfo=22749582991140_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			弱电系统施工与维修 第一次检测维修免费
+		</a>
+						<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												服务收费标准：上门维修收费：20-30元/次/台（市中心城区） 30-...
+				(07-24)
+							<p class="seller">
+					e***7
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='22749582991140' wltMark="0" param="22749582991140_25400783905031_0_commoninfo_C6C5852F08153FA405DC3C79B61BFCBB"  data-j4fe="15661361071,石师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22749582991140&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_25473380999686_22640025310622_0' infotag="22640025310622_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刘先生 : </b>
+				<a href='http://bt.58.com/shumaweixiu/22640025310622x.shtml?psid=168942024195475180196653744&entinfo=22640025310622_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			包头正信科技竭诚为您提供投影监控安装维修维护
+		</a>
+						<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												我公司是一家新型网络集成公司，致力于弱电网络集成多年，拥有业内专业技术...
+				(07-14)
+							<p class="seller">
+					z***6
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='22640025310622' wltMark="0" param="22640025310622_25473380999686_0_commoninfo_559BED32AFD4AC9431EDA32562EC6540"  data-j4fe="15604722409,刘先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22640025310622&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_32153243030278_22406328486051_0' infotag="22406328486051_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">华测 : </b>
+				<a href='http://bt.58.com/shumaweixiu/22406328486051x.shtml?psid=168942024195475180196653744&entinfo=22406328486051_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			测绘仪器设备维修
+		</a>
+						<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												测绘仪器维修 RTK GPS 水准仪等
+				(06-23)
+							<p class="seller">
+					工程测量
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='22406328486051' wltMark="0" param="22406328486051_32153243030278_0_commoninfo_656642C836FEB5B60C2B41A238DBF863"  data-j4fe="18686129875,华测" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22406328486051&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_30007213799947_21411634514063_0' infotag="21411634514063_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小张 : </b>
+				<a href='http://bt.58.com/shumaweixiu/21411634514063x.shtml?psid=168942024195475180196653744&entinfo=21411634514063_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			维修户户通，防干扰
+		</a>
+						<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												上门安装维修户户通，防干扰设备。解决干扰器，花台，卡台等问题。服务昆区...
+				(05-22)
+							<p class="seller">
+					贪***7
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='21411634514063' wltMark="0" param="21411634514063_30007213799947_0_commoninfo_ABB3A5E925B44228F4B9FD0C717B4C7C"  data-j4fe="15047240240,小张" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=21411634514063&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_29761447433992_21920990856862_0' infotag="21920990856862_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">薛帅 : </b>
+				<a href='http://bt.58.com/shumaweixiu/21920990856862x.shtml?psid=168942024195475180196653744&entinfo=21920990856862_0' onclick="clickLog('from=pc_list_shumaweixiu_xinxi_commoninfo_bt');" target="_blank" class="t" >
+			内蒙古奥北恒通信息通信公司
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='1817' -->
+		    	        		<br />
+												公司承接 各种家用 办公 公共场所所用摄像头 打印机 网络路由器 音响...
+				(05-10)
+							<p class="seller">
+					德家地产
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='21920990856862' wltMark="0" param="21920990856862_29761447433992_0_commoninfo_E1C70EC51CA3D3A06E49C85F29D22E40"  data-j4fe="18904783575,薛帅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=21920990856862&entityType=0&psid=168942024195475180196653744")'>免费预约</a></span>
+		</div>
+	
+</td></tr>	</table>								<!-- =E infolist -->
+					<div id="gjwb_bottom_jz_ad"></div>
+	<div id="bottom_google_ad"></div>
+<div class="pager" >
+	 <strong><span>1</span></strong><a href="/shumaweixiu/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>2</span></a><a href="/shumaweixiu/pn3/" onClick="clickLog('from=huangye_list_fanye_3');"><span>3</span></a><a class="next" href="/shumaweixiu/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>下一页</span></a>
+</div>
+<div id="infocont">
+	<!--当是健康答疑时，链接变为提问-->
+										<a target="_blank" rel="nofollow" href="http://post.58.com/801/712/s5" onclick="clickLog('pc_list_shumaweixiu_bottom_fabu');" >马上发布一条数码维修信息&raquo;</a>
+						</div>
+<!--医疗健康判断-->
+		<div id="direct_ad_bottom" onclick="clickLog('from=pc_list_shumaweixiu_bottom_zhineng1');"  ></div>
+	<div id="bottom_zhaoshangjiameng_ad" onclick="clickLog('from=pc_list_shumaweixiu_bottom_tuiguang2');"  ></div>
+
+			</div>
+			<div id="rightframe" class="cright">
+		<div class="r-banner-hot">
+	  	<p><i></i><a target="_blank" href="http://www.58.com/weixiudaquan/">维修大全</a><span class="r-banner-hotico"></span></p>
+		<p><i></i><a target="_blank" href="http://www.58.com/shumawx/">数码产品故障维修</a></p>
+		<p><i></i><a target="_blank" href="http://www.58.com/pingbanweixiu/">平板电脑故障专区</a></p>
+	</div>
+
+
+			<div class="tuijian" id="ylad" style="display:none"></div>
+												<div class="brand_md_tit"><h3><i class="brand_md_tit_i1"></i>名店推荐<i class="brand_md_tit_i2"></i></h3></div>
+	<div id="brand_md"><div id="ad19"  style="display:none"></div></div>
+	<script>
+		$("#brand_md").bind("bindBrandEvent",function(){ 
+            if($('.brand_md200').length > 0){
+				$('.brand_md_tit').show();
+			}
+        }); 
+	</script>
+	</div>	    </section>
+		<div id="wangmeng_list_bottom_ditong" onclick="clickLog('from=pc_list_shumaweixiu_bottom_tuiguang3');"   ></div><section id="links">
+<i class="linksTopline"></i>
+	<!-- =S friendtips -->
+	<dl id="friendtips" class="linksItem friendtips"><dt class="b-left">包头数码维修介绍：</dt>
+<dd class="b-right">58同城包头数码维修频道是包头最大的数码维修信息免费发布查询平台,免费提供三星、索尼、佳能、富士、松下、卡西欧、柯达、尼康、奥林巴斯等多种品牌的数码维修相关信息,感谢您选择<a href=http://www.58.com/hyzt/shumaweixiu/ target=_blank>包头数码维修</a>信息平台。有疑问请<a href=http://about.58.com/v5/ target=_blank rel=nofollow>与客服对话</a>，手机版请访问<a href=http://m.58.com/bt/shumaweixiu/>包头数码维修</a></dd>
+</dl>
+	<!-- =E friendtips -->
+	<!-- =S relate  -->
+					<!-- =E relate -->
+	<!-- =S relatelink allshangquan-->
+	    <dl class="linksItem relatelink" id="relatelink">
+					<dt class="b-left">包头数码维修全部商圈：</dt>
+		      <dd class="b-right">
+        <dl id="relateSelect" class="relateSelect"> 
+    	    		<dt><span>DC</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://bt.58.com/sonyxiangjiwx/" target="_blank">包头索尼数码相机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/nikonxiangjiwx/" target="_blank">包头尼康数码相机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/canonxjwx/" target="_blank">包头佳能数码相机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/casioxjwx/" target="_blank">包头卡西欧数码相机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/samsungxjwx/" target="_blank">包头三星数码相机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/songxiaxjwx/" target="_blank">包头松下数码相机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/fushiweixiu/" target="_blank">包头富士数码相机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/leicaxjwx/" target="_blank">包头徕卡数码相机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/olympusxjwx/" target="_blank">包头奥林巴斯数码相机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/pentaxxjwx/" target="_blank">包头宾得数码相机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/benqxjwx/" target="_blank">包头明基数码相机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/gexjwx/" target="_blank">包头通用数码相机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/aigoxjwx/" target="_blank">包头爱国者数码相机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/haierxjwx/" target="_blank">包头海尔数码相机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/lemoxjwx/" target="_blank">包头乐魔数码相机维修</a>        
+    	                			    		</dd>
+             		<dt><span>保洁</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://bt.58.com/jiatingbaojie/" target="_blank">包头家庭保洁</a>        
+    	                			    	                	                 <a href="http://bt.58.com/zhensi/" target="_blank">包头真丝地毯清洗</a>        
+    	                			    	                	                 <a href="http://bt.58.com/smdala/" target="_blank">包头实木地板打蜡</a>        
+    	                			    	                	                 <a href="http://bt.58.com/rmdala/" target="_blank">包头软木地板打蜡</a>        
+    	                			    	                	                 <a href="http://bt.58.com/pvcdala/" target="_blank">包头PVC地板打蜡</a>        
+    	                			    	                	                 <a href="http://bt.58.com/scfanxin/" target="_blank">包头石材翻新/养护</a>        
+    	                			    	                	                 <a href="http://bt.58.com/smsjiejing/" target="_blank">包头水磨石镜面处理</a>        
+    	                			    	                	                 <a href="http://bt.58.com/dlsjiejing/" target="_blank">包头石材结晶</a>        
+    	                			    	                	                 <a href="http://bt.58.com/dlspaoguang/" target="_blank">包头大理石抛光</a>        
+    	                			    	                	                 <a href="http://bt.58.com/scbingbian/" target="_blank">包头石材病变处理</a>        
+    	                			    	                	                 <a href="http://bt.58.com/scfanghua/" target="_blank">包头石材地面防滑</a>        
+    	                			    	                	                 <a href="http://bt.58.com/snqisha/" target="_blank">包头水泥地面起砂</a>        
+    	                			    	                	                 <a href="http://bt.58.com/xzlbaojie/" target="_blank">包头写字楼保洁</a>        
+    	                			    	                	                 <a href="http://bt.58.com/cfbaojie/" target="_blank">包头厂房保洁</a>        
+    	                			    	                	                 <a href="http://bt.58.com/yybaojie/" target="_blank">包头医院保洁</a>        
+    	                			    	                	                 <a href="http://bt.58.com/scbaojie/" target="_blank">包头商场保洁</a>        
+    	                			    	                	                 <a href="http://bt.58.com/zhbaojie/" target="_blank">包头展会保洁</a>        
+    	                			    	                	                 <a href="http://bt.58.com/xxbaojie/" target="_blank">包头学校保洁</a>        
+    	                			    	                	                 <a href="http://bt.58.com/xqbaojie/" target="_blank">包头小区保洁</a>        
+    	                			    		</dd>
+             		<dt><span>其他</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://www.58.com/ppgappmap1/" target="_blank">手机软件资讯</a>        
+    	                			    	                	                 <a href="http://www.58.com/ppgappmap2/" target="_blank">手机软件资讯</a>        
+    	                			    	                	                 <a href="http://www.58.com/ppgappmap3/" target="_blank">手机软件资讯</a>        
+    	                			    	                	                 <a href="http://www.58.com/ppgappmap4/" target="_blank">手机软件资讯</a>        
+    	                			    	                	                 <a href="http://www.58.com/ppgappmap5/" target="_blank">手机软件资讯</a>        
+    	                			    	                	                 <a href="http://www.58.com/ppgappmap6/" target="_blank">手机软件资讯</a>        
+    	                			    	                	                 <a href="http://www.58.com/ppgappmap7/" target="_blank">手机软件资讯</a>        
+    	                			    	                	                 <a href="http://www.58.com/ppgappmap8/" target="_blank">手机软件资讯</a>        
+    	                			    	                	                 <a href="http://www.58.com/ppgappmapxz1/" target="_blank">手机软件资讯</a>        
+    	                			    	                	                 <a href="http://www.58.com/ppgappmapxz2/" target="_blank">手机软件资讯</a>        
+    	                			    	                	                 <a href="http://www.58.com/ppgappmapxz3/" target="_blank">手机软件资讯</a>        
+    	                			    	                	                 <a href="http://www.58.com/ppgappmapxz4/" target="_blank">手机软件资讯</a>        
+    	                			    	                	                 <a href="http://www.58.com/ppgdaijiapinpai/" target="_blank">品牌代驾</a>        
+    	                			    	                	                 <a href="http://www.58.com/ppgdaijialeixing/" target="_blank">代驾类型</a>        
+    	                			    	                	                 <a href="http://www.58.com/ppgdaijiajiage/" target="_blank">代驾价格</a>        
+    	                			    	                	                 <a href="http://www.58.com/ppgcitydaijiajiage/" target="_blank">城市代驾价格</a>        
+    	                			    	                	                 <a href="http://www.58.com/ppgsisdiandq/" target="_blank">4S店大全</a>        
+    	                			    	                	                 <a href="http://www.58.com/ppgmczhuanmaidian/" target="_blank">4S专卖店</a>        
+    	                			    	                	                 <a href="http://www.58.com/ppgmczhuanmai/" target="_blank">4S专卖</a>        
+    	                			    	                	                 <a href="http://www.58.com/ppgmcsisdian/" target="_blank">4S店</a>        
+    	                			    		</dd>
+             		<dt><span>单反</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://bt.58.com/nikongdanfan/" target="_blank">包头尼康单反维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/canondanfan/" target="_blank">包头佳能单反维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/bindedanfan/" target="_blank">包头宾得单反维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/suonidanfan/" target="_blank">包头索尼单反维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/fushidanfan/" target="_blank">包头富士单反维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/sanxingweidan/" target="_blank">包头三星微单维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/suoniwd/" target="_blank">包头索尼微单维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/jianengwd/" target="_blank">包头佳能微单维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/fushiwd/" target="_blank">包头富士微单维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/songxiawd/" target="_blank">包头松下微单维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/kaxiouwd/" target="_blank">包头卡西欧微单维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/kedawd/" target="_blank">包头柯达微单维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/nikangwd/" target="_blank">包头尼康微单维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/aolinbasiwd/" target="_blank">包头奥林巴斯微单维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/aiguozhewd/" target="_blank">包头爱国者微单维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/jvcwd/" target="_blank">包头jvc微单维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/meinengdawd/" target="_blank">包头美能达微单维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/liguangwd/" target="_blank">包头理光微单维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/bindewd/" target="_blank">包头宾得微单维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/sanyangwd/" target="_blank">包头三洋微单维修</a>        
+    	                			    		</dd>
+             		<dt><span>厨房家电</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://bt.58.com/youyanjiweixiu/" target="_blank">包头抽油烟机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/zhaojuweixiu/" target="_blank">包头燃气灶维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/weiboluweixiu/" target="_blank">包头微波炉维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/youyanjiweixiu/" target="_blank">包头抽油烟机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/zhaojuweixiu/" target="_blank">包头燃气灶维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/yinshujiwx/" target="_blank">包头饮水机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/dianciluwx/" target="_blank">包头电磁炉维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/dianfanbaowx/" target="_blank">包头电饭煲维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/doujiangjiwx/" target="_blank">包头豆浆机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/zhazhijiwx/" target="_blank">包头榨汁机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/dianbingchengwx/" target="_blank">包头电饼铛维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/yaliguowx/" target="_blank">包头压力锅维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/kafeijiwx/" target="_blank">包头咖啡机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/xiaoduguiwx/" target="_blank">包头消毒柜维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/jingshuijiwx/" target="_blank">包头净水机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/xiwanjiwx/" target="_blank">包头洗碗机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/diankaoxiangwx/" target="_blank">包头电烤箱维修</a>        
+    	                			    		</dd>
+             		<dt><span>家具</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://bt.58.com/shafahuli/" target="_blank">包头沙发维修护理</a>        
+    	                			    	                	                 <a href="http://bt.58.com/jiasiweixiu/" target="_blank">包头桌椅柜维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/zhongbiaowx/" target="_blank">包头钟表维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/bgjjwx/" target="_blank">包头办公家具维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/dibanweixiu/" target="_blank">包头地板维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/menchweixiu/" target="_blank">包头门窗维修</a>        
+    	                			    		</dd>
+             		<dt><span>家电</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://bt.58.com/gongfangwx/" target="_blank">包头功放维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/yinxiangwx/" target="_blank">包头音响维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/yinxiangweixiu/" target="_blank">包头音箱维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/jiatingyingyuanweix/" target="_blank">包头家庭影院维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/languangbofangweix/" target="_blank">包头蓝光播放机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/qunuandianqi/" target="_blank">包头取暖电器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/jinghuaqiwx/" target="_blank">包头净化器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/jiashiqiwx/" target="_blank">包头加湿器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/xichenqiwx/" target="_blank">包头吸尘器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/ganyijiwx/" target="_blank">包头干衣机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/dianfengshanwx/" target="_blank">包头电风扇维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/yubapaifengshan/" target="_blank">包头浴霸维修</a>        
+    	                			    		</dd>
+             		<dt><span>平板电脑</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://bt.58.com/pingguoipadweix/" target="_blank">包头苹果iPad维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/lianxianglepadwx/" target="_blank">包头联想乐Pad维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/hshpadweix/" target="_blank">包头华硕Pad维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/acerpad/" target="_blank">包头宏碁平板电脑维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/dongzhipad/" target="_blank">包头东芝平板电脑维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/sanxingpadwx/" target="_blank">包头三星平板电脑维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/dellpad/" target="_blank">包头戴尔平板电脑维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/thinkpadtableweix/" target="_blank">包头ThinkPad Tablet</a>        
+    	                			    	                	                 <a href="http://bt.58.com/sonypad/" target="_blank">包头索尼平板电脑维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/wanlidapad/" target="_blank">包头万利达平板电脑维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/shenzhoupad/" target="_blank">包头神舟平板电脑维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/jijiapad/" target="_blank">包头技嘉平板电脑维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/huaweipad/" target="_blank">包头华为平板电脑维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/fushitongpad/" target="_blank">包头富士通平板电脑维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/niumanpad/" target="_blank">包头纽曼平板电脑维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/haixinpad/" target="_blank">包头海信平板电脑维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/haierpad/" target="_blank">包头海尔平板电脑维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/youpaipad/" target="_blank">包头优派平板电脑维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/aikeshipad/" target="_blank">包头爱可视平板电脑维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/zhikupad/" target="_blank">包头智酷平板电脑维修</a>        
+    	                			    		</dd>
+             		<dt><span>房屋</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://bt.58.com/matongwx/" target="_blank">包头马桶维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/linyuwx/" target="_blank">包头浴缸/淋浴设备维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/dengjuwx/" target="_blank">包头灯具维修/安装</a>        
+    	                			    	                	                 <a href="http://bt.58.com/fangshui/" target="_blank">包头防水补漏</a>        
+    	                			    	                	                 <a href="http://bt.58.com/dianlu/" target="_blank">包头电路维修/安装</a>        
+    	                			    	                	                 <a href="http://bt.58.com/weiyusg/" target="_blank">包头水管维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/shuilongtouwx/" target="_blank">包头水龙头维修/安装</a>        
+    	                			    	                	                 <a href="http://bt.58.com/nuanqiweixiu/" target="_blank">包头暖气水管维修/安装</a>        
+    	                			    	                	                 <a href="http://bt.58.com/dakong/" target="_blank">包头打孔</a>        
+    	                			    	                	                 <a href="http://bt.58.com/fangfu/" target="_blank">包头防腐</a>        
+    	                			    	                	                 <a href="http://bt.58.com/qmfenshua/" target="_blank">包头墙面粉刷</a>        
+    	                			    	                	                 <a href="http://bt.58.com/qmxiubu/" target="_blank">包头墙面修补</a>        
+    	                			    	                	                 <a href="http://bt.58.com/guanizi/" target="_blank">包头刮腻子</a>        
+    	                			    	                	                 <a href="http://bt.58.com/guadabai/" target="_blank">包头刮大白</a>        
+    	                			    		</dd>
+             		<dt><span>手机</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://bt.58.com/pgshj/" target="_blank">包头iphone维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/sxshj/" target="_blank">包头三星手机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/nokiashj/" target="_blank">包头诺基亚手机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/mtllshj/" target="_blank">包头摩托罗拉手机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/sashj/" target="_blank">包头索尼爱立信手机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/xpshj/" target="_blank">包头夏普手机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/lgshj/" target="_blank">包头lg手机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/dpdshj/" target="_blank">包头多普达手机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/lxshj/" target="_blank">包头联想手机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/htcwx/" target="_blank">包头HTC手机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/xiaomisjwx/" target="_blank">包头小米手机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/meizuwx/" target="_blank">包头魅族手机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/heimeiwx/" target="_blank">包头黑莓手机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/huaweiwx/" target="_blank">包头华为手机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/zhongxingwx/" target="_blank">包头中兴手机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/kupaiwx/" target="_blank">包头酷派手机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/tianyuwx/" target="_blank">包头天语手机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/jinliwx/" target="_blank">包头金立手机维修</a>        
+    	                			    		</dd>
+             		<dt><span>摄像机</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://bt.58.com/suoniwx/" target="_blank">包头索尼摄像机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/jianengwx/" target="_blank">包头佳能摄像机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/jvcwx/" target="_blank">包头JVC摄像机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/songxiawx/" target="_blank">包头松下摄像机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/sanxingwx/" target="_blank">包头三星摄像机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/aiguozhewx/" target="_blank">包头爱国者摄像机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/mingjiwx/" target="_blank">包头明基摄像机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/haierwx/" target="_blank">包头海尔摄像机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/oudawx/" target="_blank">包头欧达摄像机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/xiandaiwx/" target="_blank">包头AEE现代摄像机维修</a>        
+    	                			    		</dd>
+             		<dt><span>数据</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://bt.58.com/shangwangxf/" target="_blank">包头上网修复</a>        
+    	                			    	                	                 <a href="http://bt.58.com/luyouqiwx/" target="_blank">包头路由器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/jiaohuanjiwx/" target="_blank">包头交换机维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/wangkawx/" target="_blank">包头网卡维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/yingpanwx/" target="_blank">包头硬盘数据恢复</a>        
+    	                			    	                	                 <a href="http://bt.58.com/upanhuifu/" target="_blank">包头U盘数据恢复</a>        
+    	                			    	                	                 <a href="http://bt.58.com/wenjianhuifu/" target="_blank">包头文件恢复</a>        
+    	                			    		</dd>
+             		<dt><span>洗衣</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://bt.58.com/xiyiyanghu/" target="_blank">包头洗衣店</a>        
+    	                			    	                	                 <a href="http://bt.58.com/pijuyanghu/" target="_blank">包头皮具养护</a>        
+    	                			    	                	                 <a href="http://bt.58.com/yfyanghu/" target="_blank">包头衣服养护</a>        
+    	                			    	                	                 <a href="http://bt.58.com/xieyanghu/" target="_blank">包头鞋类养护</a>        
+    	                			    	                	                 <a href="http://bt.58.com/pibaoyanghu/" target="_blank">包头皮包养护</a>        
+    	                			    	                	                 <a href="http://bt.58.com/jiajuyanghu/" target="_blank">包头家居用品清洗养护</a>        
+    	                			    	                	                 <a href="http://bt.58.com/qczyyanghu/" target="_blank">包头汽车座椅清洗养护</a>        
+    	                			    	                	                 <a href="http://bt.58.com/yibaogaizhi/" target="_blank">包头衣物鞋包改制</a>        
+    	                			    	                	                 <a href="http://bt.58.com/yfgaizhi/" target="_blank">包头衣服改制</a>        
+    	                			    	                	                 <a href="http://bt.58.com/xiegaizhi/" target="_blank">包头鞋类改制</a>        
+    	                			    	                	                 <a href="http://bt.58.com/xiangbaogz/" target="_blank">包头箱包改制</a>        
+    	                			    		</dd>
+             		<dt><span>清洗</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://bt.58.com/dengjubaojie/" target="_blank">包头灯具清洗</a>        
+    	                			    	                	                 <a href="http://bt.58.com/gaokongqingxi/" target="_blank">包头高空清洗</a>        
+    	                			    	                	                 <a href="http://bt.58.com/blmuqiangqx/" target="_blank">包头玻璃幕墙</a>        
+    	                			    	                	                 <a href="http://bt.58.com/yancongqx/" target="_blank">包头烟囱清洗</a>        
+    	                			    	                	                 <a href="http://bt.58.com/chuchongchuyi/" target="_blank">包头除虫除蚁</a>        
+    	                			    	                	                 <a href="http://bt.58.com/mieshu/" target="_blank">包头灭鼠</a>        
+    	                			    	                	                 <a href="http://bt.58.com/miezl/" target="_blank">包头灭蟑螂</a>        
+    	                			    	                	                 <a href="http://bt.58.com/miewen/" target="_blank">包头灭蚊</a>        
+    	                			    	                	                 <a href="http://bt.58.com/miecy/" target="_blank">包头灭苍蝇</a>        
+    	                			    	                	                 <a href="http://bt.58.com/mieby/" target="_blank">包头灭白蚁</a>        
+    	                			    	                	                 <a href="http://bt.58.com/mietz/" target="_blank">包头灭跳蚤</a>        
+    	                			    	                	                 <a href="http://bt.58.com/miecc/" target="_blank">包头灭臭虫</a>        
+    	                			    	                	                 <a href="http://bt.58.com/kongqijinghua/" target="_blank">包头空气净化</a>        
+    	                			    	                	                 <a href="http://bt.58.com/shineikq/" target="_blank">包头室内空气净化</a>        
+    	                			    	                	                 <a href="http://bt.58.com/cheneikq/" target="_blank">包头车内空气净化</a>        
+    	                			    	                	                 <a href="http://bt.58.com/shineixd/" target="_blank">包头室内消毒</a>        
+    	                			    	                	                 <a href="http://bt.58.com/shiwaixd/" target="_blank">包头室外消毒</a>        
+    	                			    	                	                 <a href="http://bt.58.com/cheneixd/" target="_blank">包头车内消毒</a>        
+    	                			    		</dd>
+             		<dt><span>管道</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://bt.58.com/diloust/" target="_blank">包头地漏</a>        
+    	                			    	                	                 <a href="http://bt.58.com/mianpenst/" target="_blank">包头面盆</a>        
+    	                			    	                	                 <a href="http://bt.58.com/yugangst/" target="_blank">包头浴缸</a>        
+    	                			    	                	                 <a href="http://bt.58.com/caichist/" target="_blank">包头菜池</a>        
+    	                			    	                	                 <a href="http://bt.58.com/dunbuchi/" target="_blank">包头墩布池</a>        
+    	                			    	                	                 <a href="http://bt.58.com/hfcqingdi/" target="_blank">包头化粪池清底</a>        
+    	                			    	                	                 <a href="http://bt.58.com/wsjqingtao/" target="_blank">包头污水井清掏</a>        
+    	                			    	                	                 <a href="http://bt.58.com/shenghuachi/" target="_blank">包头生化池</a>        
+    	                			    	                	                 <a href="http://bt.58.com/dxspaiwu/" target="_blank">包头地下室排污</a>        
+    	                			    	                	                 <a href="http://bt.58.com/choufen/" target="_blank">包头抽粪</a>        
+    	                			    	                	                 <a href="http://bt.58.com/yaliguandao/" target="_blank">包头压力管道安装</a>        
+    	                			    	                	                 <a href="http://bt.58.com/meiqiguandao/" target="_blank">包头煤气管道安装</a>        
+    	                			    	                	                 <a href="http://bt.58.com/yushuigd/" target="_blank">包头雨水管道安装</a>        
+    	                			    	                	                 <a href="http://bt.58.com/kongtiaogd/" target="_blank">包头空调管道</a>        
+    	                			    	                	                 <a href="http://bt.58.com/gongshuigd/" target="_blank">包头供水管道</a>        
+    	                			    	                	                 <a href="http://bt.58.com/tianranqigd/" target="_blank">包头天然气管道</a>        
+    	                			    	                	                 <a href="http://bt.58.com/religd/" target="_blank">包头热力管道</a>        
+    	                			    	                	                 <a href="http://bt.58.com/gdshiya/" target="_blank">包头管道试压</a>        
+    	                			    	                	                 <a href="http://bt.58.com/gddakong/" target="_blank">包头管道打孔</a>        
+    	                			    	                	                 <a href="http://bt.58.com/gdgaizao/" target="_blank">包头管道改造</a>        
+    	                			    	                	                 <a href="http://bt.58.com/gdfangfu/" target="_blank">包头管道防腐</a>        
+    	                			    		</dd>
+             		<dt><span>网络</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://bt.58.com/fuwuqishuju/" target="_blank">包头服务器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/ibmfwqweix/" target="_blank">包头IBM服务器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/huipufwq/" target="_blank">包头惠普服务器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/dellfwq/" target="_blank">包头戴尔服务器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/sunfwq/" target="_blank">包头Sun服务器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/lianxiangfwq/" target="_blank">包头联想服务器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/langchaofwq/" target="_blank">包头浪潮服务器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/shuguangfwq/" target="_blank">包头曙光服务器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/huashuofwq/" target="_blank">包头华硕服务器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/tongfangfwq/" target="_blank">包头同方服务器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/baodefwq/" target="_blank">包头宝德服务器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/fangzhengfwq/" target="_blank">包头方正服务器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/ablenetfwq/" target="_blank">包头ABLENET服务器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/huaweifwq/" target="_blank">包头华为服务器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/jijiafwq/" target="_blank">包头技嘉服务器维修</a>        
+    	                			    	                	                 <a href="http://bt.58.com/pingguofwq/" target="_blank">包头苹果服务器维修</a>        
+    	                			    		</dd>
+                 </dl>
+      </dd>
+    </dl>
+ 	<!-- =E relatelink -->
+	<!-- =S bottomlink-->
+	            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+				数码维修- 相关类别：
+			</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://www.58.com/hyzt/banjia/'>搬家公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zhongdiangong/'>钟点工</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/baomu/'>家政公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/baojie/'>保洁公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/weixiu/'>电脑维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/dianqi/'>家电维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shoujiweixiu/'>手机维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/fangweixiu/'>房屋维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/songshui/'>跑腿配送</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/kaisuo/'>开锁公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiajuweixiu/'>家具维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/lipinxianhua/'>鲜花速递</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/yuesao/'>找月嫂</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shutong/'>管道疏通</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zhuangxiujc/'>装修建材</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiaoyu/'>教育培训</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/hunjiehunqing/'>婚庆摄影</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/qichefw/'>汽车服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shop/'>批发采购</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shenghuo/'>家政服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shangwu/'>商务服务</a></li>
+        		        		<li><a href='http://www.58.com/ppb58weixiu2/'>品牌家电维修大全</a></li>
+        		        		<li><a href='http://www.58.com/ppbhyzt1/'>黄页大全</a></li>
+        		        		<li><a href='http://www.58.com/pprmap5/'>家政地图</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+		<!-- =E bottomlink -->
+	<!-- =S hotcity-->
+	        <dl class="linksItem hotcity" id="hotcity">
+    	<dt class="b-left">包头数码维修周边城市：</dt>
+    	<dd class="b-right">
+    		<ul class="b-ul">
+    			    			<li><a href="http://hu.58.com/shumaweixiu/">呼和浩特数码维修</a></li>
+    			    			<li><a href="http://erds.58.com/shumaweixiu/">鄂尔多斯数码维修</a></li>
+    			    			<li><a href="http://hami.58.com/shumaweixiu/">哈密数码维修</a></li>
+    			    			<li><a href="http://xl.58.com/shumaweixiu/">锡林郭勒数码维修</a></li>
+    			    			<li><a href="http://chifeng.58.com/shumaweixiu/">赤峰数码维修</a></li>
+    			    		</ul>
+    	</dd>
+    </dl>
+	<!-- =S hotcity -->
+            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+					数码维修- 热门城市：
+					</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://bj.58.com/shumaweixiu/'>北京数码维修</a></li>
+        		        		<li><a href='http://sh.58.com/shumaweixiu/'>上海数码维修</a></li>
+        		        		<li><a href='http://gz.58.com/shumaweixiu/'>广州数码维修</a></li>
+        		        		<li><a href='http://sz.58.com/shumaweixiu/'>深圳数码维修</a></li>
+        		        		<li><a href='http://tj.58.com/shumaweixiu/'>天津数码维修</a></li>
+        		        		<li><a href='http://hz.58.com/shumaweixiu/'>杭州数码维修</a></li>
+        		        		<li><a href='http://wh.58.com/shumaweixiu/'>武汉数码维修</a></li>
+        		        		<li><a href='http://xa.58.com/shumaweixiu/'>西安数码维修</a></li>
+        		        		<li><a href='http://cd.58.com/shumaweixiu/'>成都数码维修</a></li>
+        		        		<li><a href='http://zz.58.com/shumaweixiu/'>郑州数码维修</a></li>
+        		        		<li><a href='http://cs.58.com/shumaweixiu/'>长沙数码维修</a></li>
+        		        		<li><a href='http://su.58.com/shumaweixiu/'>苏州数码维修</a></li>
+        		        		<li><a href='http://jn.58.com/shumaweixiu/'>济南数码维修</a></li>
+        		        		<li><a href='http://sy.58.com/shumaweixiu/'>沈阳数码维修</a></li>
+        		        		<li><a href='http://fx.58.com/shumaweixiu/'>阜新数码维修</a></li>
+        		        		<li><a href='http://yb.58.com/shumaweixiu/'>宜宾数码维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shumaweixiu/'>数码维修</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+	<!-- =E hotcity --> 	<!-- =E hotcity -->
+	<!-- =S friendlink-->
+			<dl id="friendlink" class="linksItem friendlink">
+<dt class="b-left"> 友情链接：</dt>
+<dd class="b-right"><a href='http://wen.58.com/c-147.html' target='_blank'>手机故障问答</a>&nbsp;<a href='http://bj.58.com/huaweiwx/' target='_blank'>北京华为手机维修点</a>&nbsp;<a href='http://bj.58.com/meizuwx/' target='_blank'>北京魅族手机维修点</a>&nbsp;  <a href="/link.html" target="_blank">更多...</a></dd>
+</dl>
+		<!-- =E friendlink -->
+</section>
+	<footer id="footer" class="footer">
+	    <div id="upWrap"> <a target="_blank" href="http://about.58.com/help.html" rel="nofollow">常见问题</a><span>|</span> <a target="_blank" href="http://about.58.com/" rel="nofollow">帮助中心</a><span>|</span> <a target="_blank" href="http://about.58.com/feedback.html" rel="nofollow">意见反馈</a><span>|</span> <a target="_blank" href="http://about.58.com/home/" rel="nofollow">了解58同城</a><span>|</span> <a target="_blank" href="http://about.58.com/hr/" rel="nofollow">加入58同城</a><span>|</span> <a target="_blank" href="http://fanqizha.58.com/" rel="nofollow">反欺诈联盟</a><span>|</span> <a target="_blank" href="http://110.58.com" rel="nofollow">报案平台</a><span>|</span> <a target="_blank" href="http://e.58.com" rel="nofollow">推广服务</a><span>|</span> <a target="_blank" href="http://biz.58.com" rel="nofollow">渠道招商</a><span>|</span> <a target="_blank" href="http://baozhang.58.com" rel="nofollow">先行赔付</a><span>|</span> <a target="_blank" href="http://ir.58.com?PGTID=0d100000-0000-13da-8041-51f9a3a739fa&amp;ClickID=2" rel="nofollow">Investor Relations</a> </div>
+	    <div id="downWrap"> <em>2005-2016 58.com版权所有</em><span>|</span> <em>京公网备案信息110105000809</em><span>|</span> <a target="_blank" href="http://www.miibeian.gov.cn/" rel="nofollow">京ICP证060405</a><span>|</span><em>乙测资字11018014</em><span>|</span> <a target="_blank" href="http://ir.58.com" rel="nofollow">Investor Relations</a><span>|</span><em>违法信息举报：4008135858&nbsp;&nbsp;jubao@58ganji.com</em> </div>
+	    <div class="fotBtmIcon">
+	        <a target="_blank" id="fotBm_1" href="http://fanqizha.58.com"></a>
+	        <a target="_blank" id="fotBm_2" href="http://www.12377.cn/"></a>
+	        <a target="_blank" id="fotBm_3" href="http://www.12377.cn/node_548446.htm"></a>
+	        <a target="_blank" id="fotBm_4" href="https://credit.szfw.org/CX20120918001650001720.html"></a>
+	        <a target="_blank" id="fotBm_5" href="http://img.58cdn.com.cn/ui6/index/qyxinyong.jpg?v=3"></a>
+	        <a target="_blank" id="fotBm_6" href="http://about.58.com/fqz/index.html"></a>
+	    </div>
+	</footer>
+<script>
+	var currentDate = new Date();
+</script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfc_v20160418145051.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfcInit_v20161121150119.js'></script>
+<script>
+	var jingzhun_ads = [];
+	var jingzhun_ads_param = "";
+</script>
+
+				<script type="text/javascript" src='http://j1.58cdn.com.cn/js/5_1/comm_js/boot_listpage_version_v20170329165708.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript">
+document.domain = '58.com';
+var win = new GetToolTipWindow('tooltipdiv', 'keyword', '3','801','', true);win.setSearchButton('searchbtn');
+var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','801','');win1.setSearchButton('searchbtn1');
+var win2 = new GetToolTipWindow('tooltipdiv2', 'mudidi', '7', '801', '');win2.setSearchButton('searchbtn1');
+boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'bt');});
+</script>
+
+<script type="text/javascript" >
+// JavaScript Document
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	toggle(".p-help");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".small-tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+
+$("#shangmenfw a").each(function(){
+	if("到店服务"== $(this).text().trim()){
+		$(this).remove();
+	}
+});
+
+BAIDU_CLB_fillSlot("567863");
+
+var alldt = $("#relateSelect>dt");
+function showNear(dt){
+    alldt.each(function(){
+        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+        else {$(this).next("dd").hide();$(this).removeClass("select");}
+    });
+}
+alldt.each(function(){
+    $(this).click(function(){showNear(this);}).hover(function(){showNear(this);});
+});
+
+showNear(alldt[0]);
+
+	boot.require('dom, anim.hover', function(Frame, dom, hover){
+	  var cc = dom.get('infolist'),
+	      trs = cc.getElementsByTagName('tr');
+	  Frame.each(trs, function(item){
+	    hover.bind(item, 'bg');
+	  });
+	});
+	$(".selector").each(function(){
+	  $(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+	});
+  
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+$(".selector").each(function(){
+	$(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+});
+
+</script>
+
+<div style="display:none;">
+<script type="text/javascript">
+ var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3bb04d7a4ca3846dcc66a99c3e861511' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+</div>
+
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+
+
+			<script type="text/javascript" src='http://j1.58cdn.com.cn/js/v8/boot/boot_huangye_v20170329172410.js'>
+		</script>
+		<script>
+			require(['_pkg/huangye/huangye_shenghuo_list_dom'],function(){});
+		</script>
+	
+<script src="http://track.58.com/adsys/ggafs?rand=20170405"></script>
+<script>
+//统计埋点
+$(function(){
+	$('dl.secitem').each(function(){
+	    var idname = $(this).find("dd").eq(0).attr('id');
+		$(this).find('a').not('span a').each(function(){
+			$(this).click(function(){
+				clickLog('from=pc_list_shumaweixiu_shaixuan_'+idname+ '_bt');
+		    });		
+		});	
+    });	
+})
+</script>
+<script type="text/javascript">
+    $("#more_ObjectType").click(function(){
+    	console.log("ok");
+    	var showmoreBrand = document.getElementById("moreBrandct"),moreBrandbtn = document.getElementById("moreBrandbtn");
+	    showmoreBrand.style.display = (showmoreBrand.style.display=="block")?"none":"block";
+	    moreBrandbtn.className = (moreBrandbtn.className=="moreBrand")?"moreBrand hold":"moreBrand";
+    });
+    var pemorealldt = $("#moreBrandct dt");
+	function showpemorecon(dt){
+		pemorealldt.each(function(){
+		    if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+            else {$(this).next("dd").hide();$(this).removeClass("select");}
+        });
+    }
+    pemorealldt.each(function(){
+		$(this).click(function(){showpemorecon(this);}).hover(function(){showpemorecon(this);});
+    });
+    showpemorecon(pemorealldt[0]);
+</script>
+		<script type="text/javascript">
+function cpcget(url){
+	$.ajax({
+		url:url,
+		type:"get",
+		dataType:"jsonp",
+		success:function(data){
+		
+        }
+    });	
+}
+</script>					<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e15962162366a86a6229038443847be7";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div style="display:none">
+	<!--基本统计代码begin(712,0)--by:zhanghao06-->
+<script type="text/javascript">
+____json4fe.supplycount = {sortid:'21920990856862'};
+var _gaq = _gaq || [],site_name = "58",post_count = "74",shop_count= "",page_type = "list";
+var _trackURL = "{'cate':'8512,712','area':'801','pagetype':'list','GA_pageview':'/bt/shenghuo/shumaweixiu/listversion/','version':'A','pagesize':'35','pagenum':'1','level1':'','level2':'','level3':'','level4':'','level5':'','level6':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/bt/shenghuo/shumaweixiu/listversion/']);
+
+$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+<!--基本统计代码end-->
+</div>
+<script src="http://wechat.58.com/google-analytics"></script> 				<!-- 抢单神器下线-->
+				<!-- 抢单神器下线-->
+		<!-- 装修搜索弹窗  S -->
+				<!-- 招标弹框start -->
+<link rel="stylesheet" href='http://c.58cdn.com.cn/ds/zhaobiao/pc_search_win/list_win_zb_v20161010135135.css' />
+<script src="http://j1.58cdn.com.cn/ds/zhaobiao/v1/js/fastpost/jquery.md5.js"></script>
+<script>
+ var cityid=801;
+</script>
+
+        <!-- 招标弹框end -->
+
+
+				<!-- 装修搜索弹窗  E -->
+		<!-- 前置登陆  s -->
+				<!-- 前置登陆  e -->
+	</body>
+</html>

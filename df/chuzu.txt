@@ -1,0 +1,1842 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <title>【东方出租房|东方出租房网|东方出租房信息】-东方58同城</title>
+    <meta name="keywords" content="东方出租房租房,东方出租房租房网,东方出租房租房信息"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="mobile-agent"
+          content="format=xhtml; url=http://m.58.com/df/zufang/">
+    <meta http-equiv="mobile-agent"
+          content="format=html5; url=http://m.58.com/df/zufang/">
+    <meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/df/zufang/">
+    <meta name="description" content="东方出租房租房网为您提供最新、最真实的东方出租房租房个人信息,东方出租房租房经纪人信息，欢迎您来到58同城东方出租房租房网。"
+    />
+    <link rel="stylesheet" href="http://c.58cdn.com.cn/ui8/house/list/css/houselist_v20170320182203.css">
+    <link rel="stylesheet" href="http://c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20170117143121.css">
+    <script type="text/javascript">
+        try {
+            var ____json4fe = {'catentry':[{'dispid':1,'name':'房产信息','listname':'house'},{'dispid':37031,'name':'出租','listname':'chuzu'}],'locallist':[{'dispid':'10250','name':'东方','listname':'df'},{'dispid':10250,'name':'东方','listname':'df'}],'start':'0.20277900 1490068068','modules':'list'};
+            ____json4fe.version = 'fangchan_list_pc_0004';
+            ____json4fe.smsc = "77894d978e40815050cd6df6468dfa2b8feffa8a806d14fdbd33d574035fdba26772ce12a29f662d9e6d64a8f6a78c43833ae2a96a6db36afb556e4f35dc59d75bce481fe7e911d1ab1d8adcf6a941823e8a715fd26b6fb5da9d5233e6a0e82c3f04ab43cf356dc1adfb124662d276f4";
+            ____json4fe.modules = 'listpage';
+            ____json4fe.isPersonal = "0";
+            ____json4fe.sid = "159625976195306201814994712";
+            ____json4fe.sessionid = '';
+            ____json4fe.pageIndex = 1;
+            ____json4fe.newSearch="1";
+            ____json4fe.searchUrl="http://df.58.com/chuzu/?newSearch=1&key=";
+        } catch (e) {
+        }
+        ;
+        var ____loadCfg = ['house', 'zufang_v2', 'list'];
+    </script>
+    <script type="text/javascript" src="http://pic2.58.com/js/require_jquery_load.js"></script>
+    <script type="text/javascript"
+            src="http://j1.58cdn.com.cn/js/v8/boot/boot_house_v20170320191317.js"></script>
+    <script type="text/javascript" src="http://j1.58cdn.com.cn/ds/tgbrand/js/brand_listpage_v20160905215059.js"></script>
+</head>
+
+<body>
+<!-- topbar -->
+<div id="commonTopbar" class="commonTopbar"></div>
+<script type="text/javascript">
+    window.wbAsyncInit = function wbAsyncInit( CL ){
+        CL.invoke('topbar', {
+            aroundCity: false,
+            weather: false,
+            appQR: true, // homepage QR
+            homepageLink: true,
+            size: 'default' // default: 1190px, narrow: 1000px
+        });
+    };
+</script>
+<script type="text/javascript" src="http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170112123932.js"></script>
+
+<!-- header sta-->
+<div class="header clearfix">
+    <div id="brand_list_top_banner"></div>
+    <div class="conwrap">
+        <a href="http://df.58.com/house.shtml"
+           onClick="clickLog('from=fcpc_list_df_58fclogo')" class="headerLogo" target="_blank">
+        </a>
+        <div class="search">
+            <div id="searchkey">
+                <em></em>
+                <span id="key"><input type="text" id="keyword1" placeName="请输入房源相关信息" class="keyword" name="b_q"
+                                      para="key" autocomplete="off"></span>
+            </div>
+            <ul class="hotkey"></ul>
+            <a class="searchbtn" href="javascript:;"
+               onClick="clickLog('from=fcpc_list_df_sousuo')">搜房源</a>
+        </div>
+        <a class="headerFabu" href="http://post.58.com/10250/8/s5" target="_blank"
+           onClick="clickLog('from=fcpc_list_df_fabu')">免费发布</a>
+    </div>
+</div>        <!--主要内容部分  sta-->
+<div class="mainbox">
+    <div class="main">
+        <div class="crumbs_navigation">
+            <a href="/">东方58同城 </a>
+            <span>></span><a href='/house.shtml'>东方房产信息</a>
+            <span>></span><a href='/chuzu/'>东方出租</a>
+                    </div>
+
+        <div class="search_nav">
+                            <a href="/chuzu/?pagetype=area"
+                   onClick="clickLog('from=fcpc_list_df_quyu')"><span
+                        class="select">区域</span>
+                    <em class="select"></em>
+                </a>
+                
+                <a href="http://df.58.com/xiaoqu/" target="_blank"
+                   onclick="clickLog('from=fcpc_list_df_xiaoqu');"><span>东方小区</span></a>
+        </div>
+
+        <!--筛选信息-->
+        <div class="search_bd">
+    <!--区域展示start-->
+            <dl class="secitem secitem_fist">
+            <dd>
+                                        <a href="/chuzu/"
+                                                            class='select'
+                                                           onClick="clickLog('from=fcpc_list_df_quyu_buxian')">不限</a>
+                                                <a href="/basuo/chuzu/"
+                                                       onClick="clickLog('from=fcpc_list_df_quyu_basuo')">八所镇</a>
+                                                <a href="/donghez/chuzu/"
+                                                       onClick="clickLog('from=fcpc_list_df_quyu_donghez')">东河镇</a>
+                                                <a href="/datian/chuzu/"
+                                                       onClick="clickLog('from=fcpc_list_df_quyu_datian')">大田镇</a>
+                                                <a href="/gancheng/chuzu/"
+                                                       onClick="clickLog('from=fcpc_list_df_quyu_gancheng')">感城镇</a>
+                                                <a href="/banqiaoz/chuzu/"
+                                                       onClick="clickLog('from=fcpc_list_df_quyu_banqiaoz')">板桥镇</a>
+                                                <a href="/sanjia/chuzu/"
+                                                       onClick="clickLog('from=fcpc_list_df_quyu_sanjia')">三家镇</a>
+                                                <a href="/sigeng/chuzu/"
+                                                       onClick="clickLog('from=fcpc_list_df_quyu_sigeng')">四更镇</a>
+                                                <a href="/xinlong/chuzu/"
+                                                       onClick="clickLog('from=fcpc_list_df_quyu_xinlong')">新龙镇</a>
+                                                <a href="/dongfangzb/chuzu/"
+                                                       onClick="clickLog('from=fcpc_list_df_quyu_dongfangzb')">东方周边</a>
+                                                    </dd>
+        </dl>
+        <!--区域展示end-->
+
+    <!--地铁展示start-->
+        <!--地铁展示end-->
+
+    <!-- 筛选条件 -->
+
+    <!-- 租金 -->
+    <dl id="secitem-rent" class="secitem">
+        <dt class="fl">租金：</dt>
+        <dd>
+                                <a href="/chuzu/"
+                       class='select'
+                                               onClick="clickLog('from=fcpc_list_df_Zujin_')">不限</a>
+                                        <a href="/chuzu/b1/"
+                                              onClick="clickLog('from=fcpc_list_df_Zujin_0_500')">500元以下</a>
+                                        <a href="/chuzu/b2/"
+                                              onClick="clickLog('from=fcpc_list_df_Zujin_500_1000')">500-1000元</a>
+                                        <a href="/chuzu/b3/"
+                                              onClick="clickLog('from=fcpc_list_df_Zujin_1000_1500')">1000-1500元</a>
+                                        <a href="/chuzu/b4/"
+                                              onClick="clickLog('from=fcpc_list_df_Zujin_1500_2000')">1500-2000元</a>
+                                        <a href="/chuzu/b5/"
+                                              onClick="clickLog('from=fcpc_list_df_Zujin_2000_3000')">2000-3000元</a>
+                                        <a href="/chuzu/b6/"
+                                              onClick="clickLog('from=fcpc_list_df_Zujin_3000_4500')">3000-4500元</a>
+                                        <a href="/chuzu/b7/"
+                                              onClick="clickLog('from=fcpc_list_df_Zujin_4500_9999999')">4500元以上</a>
+                                <span class="prifilter">
+                        <span class="text">
+                            <input type="text" para="minprice" muti="1" min="0" max="999999" name="b_q"
+                                   autocomplete="off">
+                        </span>
+                        <span class="dev"> - </span>
+                        <span class="text">
+                            <input type="text" para="minprice" muti="1" min="0" max="999999" name="b_q"
+                                   autocomplete="off">
+                        </span>
+                        <span class="dev">元</span>
+                        <span class="shaixuanbtn none">
+                            <a rel='nofollow' href="javascript:;"
+                               onClick="clickLog('from=fcpc_list_df_Zujin_shaixuan')">价格筛选</a>
+                        </span>
+                    </span>
+        </dd>
+    </dl>
+
+    <!-- 厅室 -->
+    <dl class="secitem">
+        <dt>厅室：</dt>
+        <dd id="secitem-room">
+                                <a rel='nofollow'
+                       href="/chuzu/"
+                       class='select'
+                                               onClick="clickLog('from=fcpc_list_df_Tingshi_')">不限</a>
+                                        <a rel='nofollow'
+                       href="/chuzu/j1/"
+                                              onClick="clickLog('from=fcpc_list_df_Tingshi_j1')">一室</a>
+                                        <a rel='nofollow'
+                       href="/chuzu/j2/"
+                                              onClick="clickLog('from=fcpc_list_df_Tingshi_j2')">两室</a>
+                                        <a rel='nofollow'
+                       href="/chuzu/j3/"
+                                              onClick="clickLog('from=fcpc_list_df_Tingshi_j3')">三室</a>
+                                        <a rel='nofollow'
+                       href="/chuzu/j4/"
+                                              onClick="clickLog('from=fcpc_list_df_Tingshi_j4')">四室</a>
+                                        <a rel='nofollow'
+                       href="/chuzu/j5/"
+                                              onClick="clickLog('from=fcpc_list_df_Tingshi_j5')">四室以上</a>
+                            </dd>
+    </dl>
+
+    <!-- 方式 -->
+    <dl class="secitem">
+                    <dt>方式：</dt>
+            <dd id="secitem-type">
+                                    <a rel='nofollow'
+                       href="/chuzu/"
+                       class='select'
+                                               onClick="clickLog('from=fcpc_list_df_Fangshi_')">不限</a>
+                                        <a rel='nofollow'
+                       href="/zufang/"
+                                              onClick="clickLog('from=fcpc_list_df_Fangshi_zhengzu')">整套出租</a>
+                                        <a rel='nofollow'
+                       href="/hezu/"
+                                              onClick="clickLog('from=fcpc_list_df_Fangshi_danjian')">单间出租</a>
+                                        <a rel='nofollow'
+                       href="/hezu/g2/"
+                                              onClick="clickLog('from=fcpc_list_df_Fangshi_chuangwei')">床位出租</a>
+                                </dd>
+            </dl>
+
+    <!-- 品牌 -->
+    <dl class="secitem">
+            </dl>
+
+    <!-- 品牌店 start-->
+    <dl id="secitem-brand-detail" class="secitem">
+            </dl>
+    <!-- 品牌店 end-->
+
+    <!-- 其他 -->
+    <dl class="secitem">
+        <dt>其他：</dt>
+        <dd id="secitem-other">
+            <div class="moniselectcon">
+                <div class="moniselect"><i></i> 朝向不限</div>
+                <div id="secitem-direction" class="moniselectList selectlist01">
+                    <a href="/chuzu/"
+                         class='select' >朝向不限</a>
+                                            <a href="/chuzu/d1/"
+                                                       onClick="clickLog('from=fcpc_list_df_Qita_toward_d1')">东                        </a>
+                                                <a href="/chuzu/d2/"
+                                                       onClick="clickLog('from=fcpc_list_df_Qita_toward_d2')">南                        </a>
+                                                <a href="/chuzu/d3/"
+                                                       onClick="clickLog('from=fcpc_list_df_Qita_toward_d3')">西                        </a>
+                                                <a href="/chuzu/d4/"
+                                                       onClick="clickLog('from=fcpc_list_df_Qita_toward_d4')">北                        </a>
+                                                <a href="/chuzu/d5/"
+                                                       onClick="clickLog('from=fcpc_list_df_Qita_toward_d5')">南北                        </a>
+                                                <a href="/chuzu/d6/"
+                                                       onClick="clickLog('from=fcpc_list_df_Qita_toward_d6')">东西                        </a>
+                                                <a href="/chuzu/d7/"
+                                                       onClick="clickLog('from=fcpc_list_df_Qita_toward_d7')">东南                        </a>
+                                                <a href="/chuzu/d8/"
+                                                       onClick="clickLog('from=fcpc_list_df_Qita_toward_d8')">西南                        </a>
+                                                <a href="/chuzu/d9/"
+                                                       onClick="clickLog('from=fcpc_list_df_Qita_toward_d9')">东北                        </a>
+                                                <a href="/chuzu/d10/"
+                                                       onClick="clickLog('from=fcpc_list_df_Qita_toward_d10')">西北                        </a>
+                                        </div>
+            </div><!-- moniselectcon -->
+            <div class="moniselectcon">
+                <div class="moniselect"><i></i> 装修不限</div>
+                <div id="secitem-decoration" class="moniselectList selectlist02">
+                    <a href="/chuzu/"
+                         class='select' >装修不限</a>
+                                            <a href="/chuzu/f1/"
+                                                       onClick="clickLog('from=fcpc_list_df_Qita_Zhuangxiu_f1')"><i></i>
+                            毛坯                        </a>
+                                            <a href="/chuzu/f2/"
+                                                       onClick="clickLog('from=fcpc_list_df_Qita_Zhuangxiu_f2')"><i></i>
+                            简单装修                        </a>
+                                            <a href="/chuzu/f3/"
+                                                       onClick="clickLog('from=fcpc_list_df_Qita_Zhuangxiu_f3')"><i></i>
+                            中等装修                        </a>
+                                            <a href="/chuzu/f4/"
+                                                       onClick="clickLog('from=fcpc_list_df_Qita_Zhuangxiu_f4')"><i></i>
+                            精装修                        </a>
+                                            <a href="/chuzu/f5/"
+                                                       onClick="clickLog('from=fcpc_list_df_Qita_Zhuangxiu_f5')"><i></i>
+                            豪华装修                        </a>
+                                    </div>
+            </div><!-- moniselectcon -->
+            <span id="secitem-has-pic" class="checkbox">
+                <a class="unchecked" href="javascript:;" name="" value="" id="ispic"
+                   onClick="clickLog('from=fcpc_list_df_Qita_youtu')">
+                    <label for="ispic">只看有图</label>
+                </a>
+            </span>
+            <span id="secitem-bangbang" class="checkbox smallIconOnline">
+                <a class="unchecked" href="javascript:;" id="isonline"
+                   onClick="clickLog('from=fcpc_list_df_Qita_bangbang')"
+                   title="58帮帮客户端在线用户">
+                    <label for="isonline" title="58帮帮客户端在线用户">帮帮在线</label>
+                </a>
+            </span>
+        </dd>
+    </dl>
+</div>
+        <!-- 已选的筛选条件(朝向、装修) sta-->
+        <div id="selected" class="bar">
+        </div>
+        <!-- 已选的筛选条件(朝向、装修) end-->
+
+        <!-- 列表展示 sta-->
+        <div class="content">
+            <div class="listTitle">
+                <a class="tuiguang" href="http://e.58.com/fangchan.html" target="_blank"
+                   onClick="clickLog('from=fcpc_list_df_fytg')">房源推广请拨打：4006401189</a>
+                <a href="/chuzu/"
+                   onClick="clickLog('from=fcpc_list_df_defaulttab')">
+                    <span id="tab-default"  class="select" >东方出租</span></a>
+                <a href="/chuzu/0/"
+                   onClick="clickLog('from=fcpc_list_df_persontab')">
+                    <span id="tab-customer" >个人房源</span></a>
+                <a href="/chuzu/1/"
+                   onClick="clickLog('from=fcpc_list_df_jingjirentab')">
+                    <span id="tab-middleman" >经纪人</span></a>
+                                            </div>
+            <div class="listBox">
+                <ul class="listUl">
+                    <!--房源列表信息-->
+                            <li logr="z_0_38217278836247_29430647832520_1_0_sortid:1489926974318"
+            sortid="1489926974318">
+            <div class="img_list">
+                <a href="http://short.58.com/zd_p/a7e3b5ff-82d9-45cd-958d-cd9cac8168c7/?target=ui-16-xgk_hvimob_32584950683134q-feykn&end=end" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic4.58cdn.com.cn/p1/small/n_v1bl2lwwm7phhfqksxgecq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">3 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://short.58.com/zd_p/a7e3b5ff-82d9-45cd-958d-cd9cac8168c7/?target=ui-16-xgk_hvimob_32584950683134q-feykn&end=end"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank"  rel="nofollow" >
+                        整租 | 八所镇铁路南工人新 2室1厅 40平米 简单装修 面                    </a>
+                                            <a class="dingico_a" title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html"
+                           rel="nofollow">
+                            <em class="dingico"></em>
+                        </a>
+                                    </h2>
+                <p class="room">2室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;40㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  铁路南工人新村                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>文金新                        <em class="bbonline" name="zaixian_38217278836247"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29430647832520&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    03-19                </div>
+                <div class="money">
+                    <b>900</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_32689496188171_29020302542895_0_0_sortid:1489523046000@ses:defaultrank^0"
+            sortid="1489523046000">
+            <div class="img_list">
+                <a href="http://df.58.com/hezu/29020302542895x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic5.58cdn.com.cn/mobile/small/n_v1bkuymcybmk4fqr2ps4fq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">10 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/hezu/29020302542895x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        单间 | 八所镇皇宁村城东农贸市场附近 1室1卫带厨房 22平                    </a>
+                                    </h2>
+                <p class="room">(1室)                    &nbsp;&nbsp;&nbsp;&nbsp;22㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  皇宁村                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>杨先生                        <em class="bbonline" name="zaixian_32689496188171"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29020302542895&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>500</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_29849068341516_25113410791592_0_0_sortid:1489826734000@ses:defaultrank^0"
+            sortid="1489826734000">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/25113410791592x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">0 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/25113410791592x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 东方市八所镇中行宿舍3室2厅1卫                    </a>
+                                    </h2>
+                <p class="room">3室2厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;95㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  市中行宿舍                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>周先生                        <em class="bbonline" name="zaixian_29849068341516"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=25113410791592&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1200</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_1_35930776856334_29375462542377_0_1_sortid:1489624213294@ses:defaultrank^0"
+            sortid="1489624213294">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/29375462542377x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic1.58cdn.com.cn/p1/small/n_v1bl2lwwor43dvq3ksgyka.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">5 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/29375462542377x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 东方汇园 1室1厅 65平米 简单装修 押一付三                    </a>
+                                    </h2>
+                <p class="room">1室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;65㎡</p>
+                <p class="add">
+                    <a href="/df/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">东方</a>
+                    &nbsp;&nbsp;
+                                                  东方汇园                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                <span class="listjjr">
+                                                            王静                                                        </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_35930776856334"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29375462542377&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1500</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_34843819781897_29240567805007_0_0_sortid:1488942867000@ses:defaultrank^0"
+            sortid="1488942867000">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/29240567805007x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic2.58cdn.com.cn/p2/small/n_v1bl2lwtna2g3vrxs2duga.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">4 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/29240567805007x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 八所镇海逸半岛2室2厅1卫1200元                    </a>
+                                    </h2>
+                <p class="room">2室2厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;64㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  海逸半岛                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>                        <em class="bbonline" name="zaixian_34843819781897"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29240567805007&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1200</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_8769980649734_28145266560940_0_0_sortid:1489636089728@ses:defaultrank^0"
+            sortid="1489636089728">
+            <div class="img_list">
+                <a href="http://df.58.com/hezu/28145266560940x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic3.58cdn.com.cn/mobile/small/n_v1bkuymc2yia2vrbjpybma.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">2 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/hezu/28145266560940x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        单间 | 二环南路凯撒皇宫后私宅单间出 1室1厅1卫 男女不限                    </a>
+                                    </h2>
+                <p class="room">主卧(1室)                    &nbsp;&nbsp;&nbsp;&nbsp;15㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  二环南路凯撒皇宫后私宅民房                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>谭小姐                        <em class="bbonline" name="zaixian_8769980649734"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=28145266560940&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>400</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_34679977837319_29402456977349_0_0_sortid:1489706901972@ses:defaultrank^0"
+            sortid="1489706901972">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/29402456977349x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">0 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/29402456977349x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 华人国际东侧 3室2厅1卫                     </a>
+                                    </h2>
+                <p class="room">3室2厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;120㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  华人国际东侧                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>符女士                        <em class="bbonline" name="zaixian_34679977837319"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29402456977349&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1500</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_46133788631315_29397161243322_0_0_sortid:1489665392329@ses:defaultrank^0"
+            sortid="1489665392329">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/29397161243322x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">0 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/29397161243322x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 左岸时光拎包入住                    </a>
+                                    </h2>
+                <p class="room">2室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  左岸时光                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>                        <em class="bbonline" name="zaixian_46133788631315"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29397161243322&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1500</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_29052585903109_29288177229881_0_0_sortid:1488813943592@ses:defaultrank^0"
+            sortid="1488813943592">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/29288177229881x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic6.58cdn.com.cn/p2/small/n_v1bkujjdyap66vqvfnsidq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">5 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/29288177229881x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 地税旁 天龙佳园大户型                    </a>
+                                    </h2>
+                <p class="room">3室1厅2卫                    &nbsp;&nbsp;&nbsp;&nbsp;</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  天龙佳园                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>                        <em class="bbonline" name="zaixian_29052585903109"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29288177229881&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1800</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_38326213915151_29384688426168_0_0_sortid:1489567960507@ses:defaultrank^0"
+            sortid="1489567960507">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/29384688426168x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic6.58cdn.com.cn/p2/small/n_v1bkuymc2377efrlz5tyrq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">3 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/29384688426168x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 八所镇永安西路北19巷2室2厅2卫1300元                    </a>
+                                    </h2>
+                <p class="room">2室2厅2卫                    &nbsp;&nbsp;&nbsp;&nbsp;</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  永安西路北19巷                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>                        <em class="bbonline" name="zaixian_38326213915151"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29384688426168&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1300</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_43748300493589_28203803299908_0_0_sortid:1489658756000@ses:defaultrank^0"
+            sortid="1489658756000">
+            <div class="img_list">
+                <a href="http://df.58.com/hezu/28203803299908x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic7.58cdn.com.cn/p1/small/n_v1bkuymc22hi6frrfvmfrq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">11 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/hezu/28203803299908x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        单间 | 八所镇政法路永安西 1室1厅 主卧 朝南 精装修                    </a>
+                                    </h2>
+                <p class="room">主卧(1室)                    &nbsp;&nbsp;&nbsp;&nbsp;40㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  政法路永安西                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>符先生                        <em class="bbonline" name="zaixian_43748300493589"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=28203803299908&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>面议</b>                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_44493257297936_28576463972936_0_0_sortid:1488808009000@ses:defaultrank^0"
+            sortid="1488808009000">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/28576463972936x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic6.58cdn.com.cn/p1/small/n_v1bl2lwxqruryfqw2f2vja.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">7 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/28576463972936x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 八所镇壹号公馆 1室1厅 55平米 简单装修 面议                    </a>
+                                    </h2>
+                <p class="room">1室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;55㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  壹号公馆                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>孟先生                        <em class="bbonline" name="zaixian_44493257297936"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=28576463972936&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>2000</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_34160712112140_23409905894814_0_0_sortid:1489133741000@ses:defaultrank^0"
+            sortid="1489133741000">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/23409905894814x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic4.58cdn.com.cn/mobile/small/n_v1bkujjd6xyeafnob445xa.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">1 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/23409905894814x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 八所港务港南生活区 3室1厅2卫                    </a>
+                                    </h2>
+                <p class="room">3室1厅2卫                    &nbsp;&nbsp;&nbsp;&nbsp;118㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  八所港务港南生活区                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>黄生                        <em class="bbonline" name="zaixian_34160712112140"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=23409905894814&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>2100</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_29133726_27847272005163_0_0_sortid:1488897489000@ses:defaultrank^0"
+            sortid="1488897489000">
+            <div class="img_list">
+                <a href="http://df.58.com/hezu/27847272005163x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic8.58cdn.com.cn/p1/small/n_v1bkuymcz6xiivrupmk5gq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">1 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/hezu/27847272005163x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        单间 | 海南海口东方市八所二环北路交岛西路西50米租房                    </a>
+                                    </h2>
+                <p class="room">                    &nbsp;&nbsp;&nbsp;&nbsp;22㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  海南海口东方市八所二环北路交岛西路西50米租房                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>卢先生                        <em class="bbonline" name="zaixian_29133726"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=27847272005163&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>500</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_45997963881495_29416800486579_0_0_sortid:1489818753740@ses:defaultrank^0"
+            sortid="1489818753740">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/29416800486579x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic7.58cdn.com.cn/p1/small/n_v1bl2lwxtx2tgfqc5bl5wq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">3 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/29416800486579x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 东方海郡 1室1厅 45平米 简单装修 押一付三                    </a>
+                                    </h2>
+                <p class="room">1室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;45㎡</p>
+                <p class="add">
+                    <a href="/df/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">东方</a>
+                    &nbsp;&nbsp;
+                                                  东方海郡                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>陈小姐                        <em class="bbonline" name="zaixian_45997963881495"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29416800486579&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>600</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_42922789972750_27924896256556_0_0_sortid:1489260428081@ses:defaultrank^0"
+            sortid="1489260428081">
+            <div class="img_list">
+                <a href="http://df.58.com/hezu/27924896256556x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic3.58cdn.com.cn/p1/small/n_v1bl2lwwj37infq5cx5zfq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">5 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/hezu/27924896256556x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        单间 | 八所镇东方中学 1室1厅 床位 简单装修                    </a>
+                                    </h2>
+                <p class="room">床位(1室)                    &nbsp;&nbsp;&nbsp;&nbsp;20㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  东方中学                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>杨小姐                        <em class="bbonline" name="zaixian_42922789972750"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=27924896256556&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>500</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_43980606720528_28322782066102_0_0_sortid:1489057217000@ses:defaultrank^0"
+            sortid="1489057217000">
+            <div class="img_list">
+                <a href="http://df.58.com/hezu/28322782066102x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic7.58cdn.com.cn/p1/small/n_v1bl2lwxqjnfffqlg6rida.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">9 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/hezu/28322782066102x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        单间 | 永安西路南十 1室0厅 主卧 朝西 精装修                    </a>
+                                    </h2>
+                <p class="room">主卧(1室)                    &nbsp;&nbsp;&nbsp;&nbsp;26㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  永安西路南十巷，三层独套件                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>文女士                        <em class="bbonline" name="zaixian_43980606720528"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=28322782066102&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>550</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_22845722798343_28930928842547_0_0_sortid:1489471760000@ses:defaultrank^0"
+            sortid="1489471760000">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/28930928842547x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic3.58cdn.com.cn/p1/small/n_v1bj3gzsa25cjfq4s2s5ea.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">3 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/28930928842547x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 自家房 3室1厅 100平米 简单装修 押一付一                    </a>
+                                    </h2>
+                <p class="room">3室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;100㎡</p>
+                <p class="add">
+                    <a href="/df/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">东方</a>
+                    &nbsp;&nbsp;
+                                                  自家房                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>杨兵                        <em class="bbonline" name="zaixian_22845722798343"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=28930928842547&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>2000</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_41169511054868_28732027343547_0_0_sortid:1489215524000@ses:defaultrank^0"
+            sortid="1489215524000">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/28732027343547x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic8.58cdn.com.cn/p2/small/n_v1bkujjd3bgj5vqrh4v5fa.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">8 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/28732027343547x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 八所镇天龙佳园3室2厅1卫2300元                    </a>
+                                    </h2>
+                <p class="room">3室2厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;91㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  天龙佳园                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>王小姐                        <em class="bbonline" name="zaixian_41169511054868"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=28732027343547&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>2300</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_29052585903109_29296071662032_0_0_sortid:1489684472000@ses:defaultrank^0"
+            sortid="1489684472000">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/29296071662032x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic8.58cdn.com.cn/p2/small/n_v1bl2lwto7n67fqcaq4ivq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">4 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/29296071662032x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 八所镇 独栋两层楼带院子                    </a>
+                                    </h2>
+                <p class="room">3室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  农行宿舍                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>                        <em class="bbonline" name="zaixian_29052585903109"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29296071662032&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1300</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_40188978362898_29274259313459_0_0_sortid:1488705268480@ses:defaultrank^0"
+            sortid="1488705268480">
+            <div class="img_list">
+                <a href="http://df.58.com/hezu/29274259313459x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic8.58cdn.com.cn/mobile/small/n_v1bl2lwxsm225vqkwcx47q.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">3 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/hezu/29274259313459x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        单间 | 吉祥康郡 2室1厅1卫 限女性合租                    </a>
+                                    </h2>
+                <p class="room">主卧(2室)                    &nbsp;&nbsp;&nbsp;&nbsp;85㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  吉祥康郡                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>周小姐                        <em class="bbonline" name="zaixian_40188978362898"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29274259313459&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>800</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_32355878095115_27603427449770_0_0_sortid:1489801822000@ses:defaultrank^0"
+            sortid="1489801822000">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/27603427449770x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic3.58cdn.com.cn/mobile/small/n_v1bkujjdyeu72fpl3yxqeq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">10 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/27603427449770x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 天源海景 2室1厅1厨1卫                    </a>
+                                    </h2>
+                <p class="room">2室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;73㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  天源海景                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>杨梨                        <em class="bbonline" name="zaixian_32355878095115"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=27603427449770&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1850</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_38853686263565_29320143370438_0_0_sortid:1489063694476@ses:defaultrank^0"
+            sortid="1489063694476">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/29320143370438x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">0 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/29320143370438x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 东方海岸假日 1室1厅 50平米 豪华装修 半年付                    </a>
+                                    </h2>
+                <p class="room">1室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;50㎡</p>
+                <p class="add">
+                    <a href="/df/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">东方</a>
+                    &nbsp;&nbsp;
+                                                  东方海岸假日A栋609                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>吕女士                        <em class="bbonline" name="zaixian_38853686263565"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29320143370438&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1200</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_35232902576391_24883170655924_0_0_sortid:1489023110000@ses:defaultrank^0"
+            sortid="1489023110000">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/24883170655924x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic6.58cdn.com.cn/p2/small/n_v1bl2lwkdumcyfnfhm6bna.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">3 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/24883170655924x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 八所镇自来水厂小区3室2厅1卫1800元                    </a>
+                                    </h2>
+                <p class="room">3室2厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  自来水厂小区                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>                        <em class="bbonline" name="zaixian_35232902576391"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=24883170655924&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1800</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_45870081470486_29305636005184_0_0_sortid:1488974248288@ses:defaultrank^0"
+            sortid="1488974248288">
+            <div class="img_list">
+                <a href="http://df.58.com/hezu/29305636005184x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic3.58cdn.com.cn/p1/small/n_v1bl2lwtlkso7vrmfjfjsa.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">9 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/hezu/29305636005184x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        单间 | 第三市场后面1室1卫 简单装修                    </a>
+                                    </h2>
+                <p class="room">主卧(1室)                    &nbsp;&nbsp;&nbsp;&nbsp;20㎡</p>
+                <p class="add">
+                    <a href="/df/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">东方</a>
+                    &nbsp;&nbsp;
+                                                  东方市东方大道一横街17号聚全楼                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>王先生                        <em class="bbonline" name="zaixian_45870081470486"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29305636005184&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>500</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_30189520233228_27629102928201_0_0_sortid:1489228197000@ses:defaultrank^0"
+            sortid="1489228197000">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/27629102928201x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic3.58cdn.com.cn/p2/small/n_v1bj3gzr75w73vopfs2bcq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">8 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/27629102928201x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 山海湾小区 1室1厅 35平米 精装修                    </a>
+                                    </h2>
+                <p class="room">1室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;35㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  山海湾小区                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>王先生                        <em class="bbonline" name="zaixian_30189520233228"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=27629102928201&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1100</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_1_41715302492437_29442005207237_0_1_sortid:1490015665542@ses:defaultrank^0"
+            sortid="1490015665542">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/29442005207237x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic6.58cdn.com.cn/mobile/small/n_v1bj3gzr7p2phvr6gxymua.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">13 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/29442005207237x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 吉祥康郡 2室1厅1卫                     </a>
+                                    </h2>
+                <p class="room">2室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;80㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  吉祥康郡                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                <span class="listjjr">
+                                                            潘女士                                                        </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_41715302492437"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29442005207237&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>2500</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_42040821770260_27350045730743_0_0_sortid:1489759874000@ses:defaultrank^0"
+            sortid="1489759874000">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/27350045730743x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic4.58cdn.com.cn/p1/small/n_v1bj3gzr5v6hrvo7mceesa.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">3 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/27350045730743x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 市委院内，万福隆旁，精装设全三房诚租中~                    </a>
+                                    </h2>
+                <p class="room">3室2厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;120㎡</p>
+                <p class="add">
+                    <a href="/df/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">东方</a>
+                    &nbsp;&nbsp;
+                                                  东方市市委大院                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>管先生                        <em class="bbonline" name="zaixian_42040821770260"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=27350045730743&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1900</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_1_9946218382342_29217500816448_0_1_sortid:1489458246000@ses:defaultrank^0"
+            sortid="1489458246000">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/29217500816448x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic3.58cdn.com.cn/mobile/small/n_v1bl2lwxugjg7vrxifcbaq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">12 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/29217500816448x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 海东方 1室1厅1卫家电全新出租                    </a>
+                                    </h2>
+                <p class="room">1室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;75㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  海东方                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                <span class="listjjr">
+                                                            沈先生                                                        </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_9946218382342"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29217500816448&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>3500</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_45649586041363_29154408827843_0_0_sortid:1489654554000@ses:defaultrank^0"
+            sortid="1489654554000">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/29154408827843x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">0 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/29154408827843x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 东方市山海湾 1室1厅 41平米 简单装修 押一付二                    </a>
+                                    </h2>
+                <p class="room">1室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;41㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  东方市山海湾小区                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>谢先生                        <em class="bbonline" name="zaixian_45649586041363"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29154408827843&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1500</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_20340997888774_29176398750524_0_0_sortid:1489837506000@ses:defaultrank^0"
+            sortid="1489837506000">
+            <div class="img_list">
+                <a href="http://df.58.com/hezu/29176398750524x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic2.58cdn.com.cn/p1/small/n_v1bkuymc5efoyfric6amwq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">7 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/hezu/29176398750524x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        单间 | 新房出租（民 1室1厅 主卧 朝南 精装修                    </a>
+                                    </h2>
+                <p class="room">主卧(1室)                    &nbsp;&nbsp;&nbsp;&nbsp;15㎡</p>
+                <p class="add">
+                    <a href="/df/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">东方</a>
+                    &nbsp;&nbsp;
+                                                  新房出租（民族学校附近）                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>符女士                        <em class="bbonline" name="zaixian_20340997888774"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29176398750524&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>面议</b>                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_1_40494555337999_29438003130058_0_1_sortid:1489984399374@ses:defaultrank^0"
+            sortid="1489984399374">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/29438003130058x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic4.58cdn.com.cn/p2/small/n_v1bkujjdyjlphvr4dfx57a.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">1 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/29438003130058x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 八所镇山海湾一室一厅拎包入住1室1厅1卫1000元                    </a>
+                                    </h2>
+                <p class="room">1室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  山海湾一室一厅拎包入住                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                <span class="listjjr">
+                                                                                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_40494555337999"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29438003130058&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1000</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_25031516531206_28255674626891_0_0_sortid:1488854293676@ses:defaultrank^0"
+            sortid="1488854293676">
+            <div class="img_list">
+                <a href="http://df.58.com/hezu/28255674626891x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic4.58cdn.com.cn/mobile/small/n_v1bkujjd2vnfbfre62kyha.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">1 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/hezu/28255674626891x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        单间 | 仅剩最后四间，400一间内含电视，沙发，茶几园林                    </a>
+                                    </h2>
+                <p class="room">主卧(1室)                    &nbsp;&nbsp;&nbsp;&nbsp;20㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  园林路69号 永继楼                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>郑小姐                        <em class="bbonline" name="zaixian_25031516531206"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=28255674626891&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>400</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_21090405763078_29271297089607_0_0_sortid:1489288806638@ses:defaultrank^0"
+            sortid="1489288806638">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/29271297089607x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic4.58cdn.com.cn/p1/small/n_v1bj3gzr2lpo5vq5oho4ra.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">4 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/29271297089607x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 东方市八所镇 2室1厅 81平米 精装修 年付                    </a>
+                                    </h2>
+                <p class="room">2室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;81㎡</p>
+                <p class="add">
+                    <a href="/df/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">东方</a>
+                    &nbsp;&nbsp;
+                                                  东方市八所镇天龙佳园小区                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>张小姐                        <em class="bbonline" name="zaixian_21090405763078"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29271297089607&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1800</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_42922789972750_29345403184077_0_0_sortid:1489260962314@ses:defaultrank^0"
+            sortid="1489260962314">
+            <div class="img_list">
+                <a href="http://df.58.com/hezu/29345403184077x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic3.58cdn.com.cn/mobile/small/n_v1bl2lwwklkhcfqjk3rz6q.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">5 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/hezu/29345403184077x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        单间 | 单间，一房一厅，全新房源出租                    </a>
+                                    </h2>
+                <p class="room">主卧(1室)                    &nbsp;&nbsp;&nbsp;&nbsp;25㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  福民南路东3巷                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>杨女士                        <em class="bbonline" name="zaixian_42922789972750"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29345403184077&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>500</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_1_40494555337999_29305111939392_0_1_sortid:1488946186923@ses:defaultrank^0"
+            sortid="1488946186923">
+            <div class="img_list">
+                <a href="http://df.58.com/zufang/29305111939392x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic3.58cdn.com.cn/p2/small/n_v1bj3gzsf7qo7vq3i4x5uq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">1 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://df.58.com/zufang/29305111939392x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 八所镇山海湾两室一厅拎包入住2室1厅1卫2000元                    </a>
+                                    </h2>
+                <p class="room">2室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;84㎡</p>
+                <p class="add">
+                    <a href="/basuo/chuzu/"
+                       onClick="clickLog('from=fcpc_list_df_biaoti_shangquan')">八所镇</a>
+                    &nbsp;&nbsp;
+                                                  山海湾两室一厅拎包入住                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                <span class="listjjr">
+                                                                                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_40494555337999"
+                            onClick="clickLog('from=fcpc_list_df_biaoti_bangbang&psid=159625976195306201814994712&entityId=29305111939392&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>2000</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+    
+                    <!--页码 -->
+                    <li id="bottom_ad_li">
+    <div id="bottom_google_ad"></div>
+    <!-- 分页 sta-->
+    <div class="pager">
+        <strong><span>1</span></strong><a href="http://df.58.com/chuzu/pn2/"><span>2</span></a><a href="http://df.58.com/chuzu/pn3/"><span>3</span></a><a href="http://df.58.com/chuzu/pn4/"><span>4</span></a><a href="http://df.58.com/chuzu/pn5/"><span>5</span></a><a href="http://df.58.com/chuzu/pn6/"><span>6</span></a><a href="http://df.58.com/chuzu/pn7/"><span>7</span></a><a  class="next" href="http://df.58.com/chuzu/pn2/"><span>下一页</span></a>    </div>
+    <!-- 分页 end-->
+    <div id="bottom_zhaoshangjiameng_ad"></div>
+</li>
+                </ul>
+
+
+                <!-- 右侧广告 sta-->
+                <div class="rightAd">
+                    <div id="brand_jpjjr"></div>
+                    <div id="brand_md">
+                        <div id="ad19"></div>
+                    </div>
+                    <div id="rightframe"></div>
+                </div>
+                <!-- 右侧广告 end-->
+            </div>
+
+        </div>
+        <!-- 列表展示 end-->
+
+        <!--底部广告 sta-->
+        <div id="bottomAd">
+            <!--诚信经纪人 sta-->
+            <div class="bottomcxAd">
+                <h3>优秀经纪人推荐</h3>
+                <ul id="listZufang">
+                                    </ul>
+                <p class="btn_rock"></p>
+            </div>
+            <!--诚信经纪人 end-->
+        </div>
+        <div id="wangmeng_list_bottom_ditong"></div>
+        <!--底部广告 end-->
+
+        <!--底部频道介绍-->
+        <!------------------------------频道页介绍------------------------------------------------>
+<div class="other_series_recommend">
+    <ul class="other_series_nav">
+        <!----------------------------- 相关推荐------------------------------>
+                    <li class="selected" name="1">相关推荐</li>
+                <!-- ---------------------------频道页介绍 -------------------------------->
+        <li name="2">东方出租频道介绍</li>
+        <!--------------------------热门小区----------------------------------------------------->
+                <!-----------------------------------沿线相关的部分------------------------------------------------------->
+        <li name="4"></li>
+        <!---------------------------------------商圈/站点等------------------------------------->
+        <li name="5">东方出租全部商圈</li>
+        <!-------------------------------------周边城市---------------------------------------------->
+        <li name="6">东方出租周边城市</li>
+    </ul>
+
+    <ul class="other_list_introduce">
+
+        <!----------------------------- 相关推荐------------------------------>
+        <li name="1"><a target="_blank"
+                        href='http://df.fang.anjuke.com/'>东方新房</a>
+        </li>
+        <li name="1"><a target="_blank"
+                        href='http://df.fang.anjuke.com/fangjia/'>东方                新房房价</a></li>
+        <li name="1"><a target="_blank"
+                        href='http://df.anjuke.com/'>东方房产网</a>
+        </li>
+        <li name="1"><a target="_blank"
+                        href='http://df.anjuke.com/sale/'>东方                二手房</a>
+        </li>
+        <li name="1"><a target="_blank"
+                        href='http://df.zu.anjuke.com/'>东方租房</a>
+        </li>
+        <li name="1"><a target="_blank"
+                        href='http://df.anjuke.com/market/'>东方                房价走势</a>
+        </li>
+
+        <!-- ---------------------------频道页介绍 -------------------------------->
+        <li name="2" class="none">58同城东方出租            频道为您提供最新东方出租信息，每天有几十万条东方            个人租房、经纪人租房信息更新，人工审核真实有效，欢迎您使用58同城东方出租频道。
+        </li>
+
+        <!--------------------------热门小区----------------------------------------------------->
+        
+        <!-----------------------------------沿线相关的部分------------------------------------------------------->
+        
+        <!---------------------------------------商圈/站点等------------------------------------->
+        <li name="5" class="none">
+            <dl id="hotarea" class="hotarea">
+                            </dl>
+        </li>
+        <!-------------------------------------周边城市---------------------------------------------->
+            </ul>
+
+    <!-------------------------------------友情链接---------------------------------------------->
+    </div>    </div>
+    <div class="rightFix">
+        <div class="gotop none">
+            <a class="gotop_pic" href="javascript:;"
+               onClick="clickLog('from=fcpc_list_df_gensui_fanhui')"></a>
+        </div>
+        <div class="suggest">
+            <a class="suggest_pic" href="http://about.58.com/feedback.html" target="_blank"
+               onClick="clickLog('from=fcpc_list_df_gensui_fankui')"></a>
+        </div>
+    </div>
+</div>
+
+<!-- 主要内容部分 end-->
+<div id="footer" class="footer"></div>
+<script src="http://track.58.com/adsys/ggafs?rand=20161017"></script>
+
+
+<div style="display:none">
+    <!--基本统计代码begin(8,0)--by:zhanghao06-->
+    <script type="text/javascript">
+        ____json4fe.supplycount = {level1: '', level2: '', level3: '', level4: '', sortid: ''};
+        var site_name = "58", post_count = "226", page_type = "list";
+        var _trackURL = "{'cate':'1,37031','area':'10250','pagetype':'list','pagesize':35,'pagenum':1,'jiage':'','is_real':false,'is_biz':false,'GA_pageview':'/house/chuzu/list/'}";
+    </script>
+    <script src="http://tracklog.58.com/referrer4.js"></script>
+    <!--基本统计代码end-->
+</div>
+<script>
+    require(['house/commonFooter']);
+    require(['house/listInit']);
+</script>
+<script type="text/javascript">
+    var xxfwConfig = { namespace:'chuzulistphp'};
+</script>
+<script type="text/javascript" src="http://j1.58cdn.com.cn/resource/xxzl/xxfw/xxfw.min.js"></script>
+</body>
+</html>

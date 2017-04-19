@@ -1,0 +1,1682 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+												<!--  当前的类别归属ID--> 
+		<!--  当前的类别表现ID--> 
+		<!--  当前的类别listname (eg:banjia)--> 
+		<!--  当前的类别catename (eg:搬家)--> 
+		<!--  一级类别归属ID--> 
+		<!--  一级类别表现ID--> 
+		<!--  一级类别listname eg:jiazheng--> 
+		<!--  一级类别catename eg:家政--> 
+		<!--  二级类别归属ID [Ljava.lang.Integer;@4246f313 数字长度：2--> 
+			<!--  二级类别表现ID--> 
+				<!--  二级类别listname eg:jiazhuang--> 
+				<!--  二级类别catename eg:家装-->
+				<!-- 表现类别的全路径   eg:8512,96-->
+									
+						<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>【58同城】鹤岗电脑维修_鹤岗电脑维修店_鹤岗电脑维修网</title>
+	<meta name="description" content='58同城鹤岗电脑维修频道是最大的鹤岗电脑维修免费信息发布、查阅平台。58同城鹤岗电脑维修频道每天都有大量专业、真实的优秀商家提供鹤岗电脑维修中心,鹤岗电脑维修网,鹤岗电脑上门维修信息，同时您可以免费发布鹤岗电脑维修信息。-58.com'/>
+	<meta name="keywords" content='鹤岗电脑维修,鹤岗电脑维修中心,鹤岗电脑维修网'/>
+	<meta http-equiv="X-UA-Compatible" content="edge" />
+		<meta name="location" content="province=黑龙江;city=鹤岗;coord=130.292472,47.338666">
+				<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/hegang/weixiu/" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/hegang/weixiu/" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/hegang/weixiu/" />
+					<script type="text/javascript">
+		var ____loadCfg = ['huangye', 'shenghuo', 'listpage'];
+	</script>
+	<script src='http://j2.58cdn.com.cn/js/require_jquery_load.js'></script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">document.write('<scri'+'pt src="http://j1.58cdn.com.cn/ds/tgbrand/js/brand_listpage_v1.js?temp=' + Math.random() + '"></scri'+'pt>');</script> 
+<script type="text/javascript">
+	var xxfwConfig = {namespace:'huangyelistpc'};
+</script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/resource/xxzl/xxfw/xxfw.min_v20161021110430.js'></script>
+
+<script type="text/javascript">
+try{
+	var ____json4fe = {"catentry":[{"dispid":"8512","name":"家政服务","listname":"shenghuo"},{"dispid":"111","name":"电脑维修","listname":"weixiu"}],"locallist":[{"dispid":"9061","name":"鹤岗","listname":"hegang"}],"start":(new Date()).getTime(),"modules":"list"};
+	____json4fe.version = 'A';
+	____json4fe.modules = 'listpage';
+	____json4fe.sid = '167066888195469152970317507';
+	____json4fe.sessionid = '0f4e7c19-ad1d-4aa3-a954-e64eb31f30f5';
+	____json4fe.smsc = '3f2dd2de9529e6336d8f29ac6766225f26415f240602ebe21ce94698a323de5cf57807577c7dc9d17c8bd5514f8d62513dd28852712951c95c68327d6871ed111c97e23db544d3d5c130b484e4605f1050796c9d296a7e56579d7b9926cf891fac942f893f6069cf6f2ef3ee06aa17c51429f99018391fe514405d3b1bd967eedb6313e3d629cda4196f8a770bae04b17537604c10aacb8b';
+	____json4fe.newcateid='';
+	____json4fe.keyword='';
+	____json4fe.page='1';
+	____json4fe.param='';
+	}catch(e){};
+	(function(){
+var e = "header,nav,section,aside,article,footer".split(','),
+i=0,
+length=e.length;
+while(i<length){
+    document.createElement(e[i++])
+}
+})();
+	var ajax_param = '{"dispCateId":111,"pageIndex":1,"platform":"pc","infoMethod":["renzheng","baojia","wltAge"],"dataParam":"27879889996218_26008226418950_0_commoninfo,29176318046136_33673493614860_0_commoninfo,24863268152635_32887004527111_0_commoninfo,27706123944390_39181420295959_0_commoninfo,25655843705670_33181631121161_0_commoninfo,26618947745835_40577266124821_0_commoninfo,25635526415927_29834749568007_0_commoninfo,19538620821633_26417775329543_0_commoninfo,27978891256652_21841891587078_0_commoninfo,19400529525514_23877725673734_0_commoninfo,23702202921788_25532905435655_0_commoninfo,29588148367683_46502750688020_0_commoninfo,23696696731059_18114990634502_0_commoninfo,24870479710911_37081553674510_0_commoninfo,17193637321985_21176946851847_0_commoninfo,29516289120302_28412965552135_0_commoninfo,26031345276586_21873001307910_0_commoninfo,17935802209413_23212415575559_0_commoninfo,21511598249886_26816478575367_0_commoninfo,23784726168885_20442362_0_commoninfo,28971111565621_13108387307015_0_commoninfo,29261043847738_37852775638030_0_commoninfo,23124802890400_9839714806534_0_commoninfo,17606580807685_18786686376455_0_commoninfo,27070152636090_49231928_0_commoninfo,28828340428203_44997436035857_0_commoninfo,29196973158475_33702073200395_0_commoninfo,27706123944390_39181420295959_0_promationinfo,29175900012095_33673493614860_0_promationinfo,25435900571983_32887004527111_0_promationinfo,25666001406925_26008226418950_0_promationinfo,29176318046136_33673493614860_0_promationinfo,24863268152635_32887004527111_0_promationinfo,25637707148220_26008226418950_0_promationinfo,27706129477164_39181420295959_0_promationinfo","dispCateName":"weixiu","paramMap":null}';
+	var s_ajax_param = 's_contact_weixiu_167066888195469152970317507_';
+</script>				<link href='http://c.58cdn.com.cn/ds/v1/base-v1_v0.css' rel="stylesheet" type="text/css">
+	<link href='http://c.58cdn.com.cn/ds/v1/common_list_v20170315183710.css' rel="stylesheet" type="text/css">
+<link href='http://c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20170331140927.css' rel="stylesheet" type="text/css">
+
+
+		<link href='http://c.58cdn.com.cn/ds/v1/list/defaultList_v20170220190119.css' rel="stylesheet" type="text/css">
+	<!-- <link rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv02_v0.css'> -->
+<link type="text/css" rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03_v20160727171301.css'>
+<!-- <link type="text/css" rel="stylesheet" href="http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03.css"> -->
+
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/dialog_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/release_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/retable_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/weixin/hy_freetel_v20161207184444.css">	
+    		</head>
+			<body class="">
+						<!-- =S top bar header -->
+			<div id="commonTopbar" class="commonTopbar">
+<script type="text/javascript">
+    var secId;
+        ____json4fe.catentry[1]? secId = ____json4fe.catentry[1].dispid : secId = ____json4fe.catentry.dispid;
+    var modules = ____json4fe.modules;
+    //搬家列表页(secId == "96" && modules=="listpage")宽度为1190px
+    if(secId == "96" && modules=="listpage"){
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'default' // default: 1190px, narrow: 1000px
+            });
+        };
+    }else{
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'narrow' // default: 1190px, narrow: 1000px
+            });
+        };
+    }    
+</script>
+</div>
+<!-- =S banner  div -->
+<div class="topbannerbar"><div id="brand_list_top_banner" onclick="clickLog('from=pc_list_weixiu_top_banner');" ></div></div>
+<!-- =E banner  div--><header id="header">
+    <div class="header-inner">
+    <a class="logo float_l" href="/huangye/" target="_blank" onclick="clickLog('from=pc_list_logo_weixiu');">58同城</a>
+            <a href='http://post.58.com/9061/111/s5' target="_blank" onclick="clickLog('from=pc_list_fabu_weixiu');" class="postbtn float_r">免费发布</a>
+        		        <div class="header-search float_r">
+         <em class="ico-searchkey"></em>
+         <form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+         	            	<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();">
+                        <span onMouseOut="this.className='sbtn'" onMouseOver="this.className='sbtn hover'" class="sbtn">
+                			<input type="submit" value="搜服务" onclick="clickLog('from=pc_list_search_weixiu');" class="but-bl" name="" id="searchbtn1" ></span>
+                		        		<div class="clear"></div>
+        		<span class="hotsearch">
+    						           		<a href="http://hegang.58.com/weixiu/?key=%E7%94%B5%E8%84%91%E7%BB%B4%E4%BF%AE&final=1&searchtype=3&sourcetype=21" onclick="clickLog('from=pc_list_resouci_1_weixiu');_gaq.push(['pageTracker._trackEvent', 'list', 'tag_click', '/huangye/hotkeywords/zz/weixiu/']);">电脑维修</a>
+       			   
+	   </span>
+    		       	  </form>
+       	</div>
+		            	<div class="nav float_l" >
+	<a href="/">鹤岗58同城</a> &gt; <a href="/shenghuo.shtml">鹤岗家政服务</a>
+				 &gt; <a href="/weixiu/" itemprop="url">鹤岗电脑维修</a>
+	
+
+</div>
+	</div>
+</header>
+		<!-- =E top bar header -->
+	<!-- =S common_column_label-->
+			<!-- =E common_column_label-->
+	<!-- =S searchTip -->
+			<!-- =E searchTip  -->
+	<!-- =s cmcs -->
+							<section id="selection">
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">类别 ：</dt>
+		<dd id="ObjectType" >
+																    		    		    		    					<a href="/weixiu/" class='select' >全部</a>
+								    		    		    		    					<a href="http://hegang.58.com/taishidiannao/"  >台式电脑</a>
+								    		    		    		    					<a href="http://hegang.58.com/bijibenweixiu/"  >笔记本维修</a>
+								    		    		    		    					<a href="http://hegang.58.com/ipadpingbanweixiu/"  >ipad/平板电脑维修</a>
+								    		    		    		    					<a href="http://hegang.58.com/wangluoweixiu/"  >网络维修</a>
+								    		    		    		    					<a href="http://hegang.58.com/shujuhuifu/"  >数据恢复</a>
+								    		    		    		    					<a href="http://hegang.58.com/fuwuqiweixiu/"  >服务器维修</a>
+															    					    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">是否上门 ：</dt>
+		<dd id="shangmenfw" >
+																    		    		    		    					<a href="/weixiu/" class='select' >全部</a>
+								    		    		    		    					<a href="http://hegang.58.com/weixiu/pve_9121_657335/"  >上门服务</a>
+								    		    		    		    					<a href="http://hegang.58.com/weixiu/pve_9121_657336/"  >到店服务</a>
+																				    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">服务区域  ：</dt>
+		<dd id="local" >
+																    		    		    		    					<a href="/weixiu/" class='select' >全鹤岗</a>
+								    		    		    		    					<a href="/gongnongqu/weixiu/"  >工农</a>
+								    		    		    		    					<a href="/xiangyangquq/weixiu/"  >向阳</a>
+								    		    		    		    					<a href="/nanshanquq/weixiu/"  >南山</a>
+								    		    		    		    					<a href="/dongshanqu/weixiu/"  >东山</a>
+								    		    		    		    					<a href="/xingshanqu/weixiu/"  >兴山</a>
+								    		    		    		    					<a href="/xinganqu/weixiu/"  >兴安</a>
+								    		    		    		    					<a href="/suibinxian/weixiu/"  >绥滨</a>
+								    		    		    		    					<a href="/luobeixian/weixiu/"  >萝北</a>
+																									    	</dd>
+    </dl>
+	<div id="selected" class="bar"></div>
+	<i class="shadow"></i>
+</section>
+
+			<!-- =E cmcs -->
+		<div id="adtop_1" class="hc"><div class="mouter defa"><div class="inner"><div id="md3" class="mdul"></div><ul id="md1" class="mdul"></ul><ul id="md2" class="mdul"></ul><ul id="md4" class="mdul"></ul><ul id="md5" class="mdul"></ul><div class="clear"></div></div></div></div>
+<div class="tabsbar">
+    <div class="list-tabs">
+												<a href="/weixiu/" onclick="clickLog('from=pc_list_weixiu_list_tabs');" class="sel"><h1>鹤岗电脑维修</h1></a>
+											</div>
+	 	    	                	        
+
+		
+	
+				<span class="zhaobiao" >
+			<a href="http://bianmin.58.com/hegang/?from=pc_list_bianmin_wzl"
+			   target="_blank" >学习办事经验，解决办证难题</a>
+		</span>
+		
+			
+
+
+</div>
+ 				<section id="mainlist" class="main clearfix pr">
+					<div class="filterbar h28">
+    <div class="filterbar-l">
+			<!-- <div class="filterup" id="filterup">
+				 <a class="m1" title="找班级" href="#" rel="nofollow" onclick=""><span>找班级<em></em></span></a>
+				 <a class="m1" title="找拼友" href="#" rel="nofollow" onclick=""><span>找拼友<em></em></span></a>
+			</div>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">全部</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示教育机构</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示个人教师</a></span> -->
+				<div class="filterup" id="filterup">
+			 <a class="m1 sel" title="默认" href="#" rel="nofollow" onclick="g2({sort:null}); clickLog('from=huangye_list_moren_weixiu_hegang&psid=167066888195469152970317507'); "><span>默认排序<em></em></span></a>
+											</div>
+														<span class="checkbox-ico" id="renzheng"><a href="javascript:void(0);" onclick="clickLog('from=List_sort_weixiu__zhikanrenzheng');">只看认证</a></span>
+									
+									</div>  
+     <div class="filterbar-md">
+    	    	<!-- 加入医疗健康判断-->
+    	    		    		        		       <a class="mdtj" style="display:inline-block;" rel="nofollow" target="_blank" href="http://e.58.com/shenghuo.html" onClick="clickLog('from=huangye_zhaoshang&psid=167066888195469152970317507');">想提升接单效果，请致电4008107258</a>
+    		        		    	
+				   </div>        
+</div>
+					<div id="infolist" class="cleft" >
+				<!-- =S infolist -->
+									<div id="top_google_ad"></div>
+<table class="small-tbimg" cellspacing="0" cellpadding="0" >
+							<tr logr='j_2_39181420295959_27706123944390_3' infotag="27706123944390_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_weixiu_xinxi_promationinfo_tupian&entityId=27706123944390&entityType=0&psid=167066888195469152970317507');">
+		<div>
+			<a href='http://hegang.58.com/weixiu/27706123944390x.shtml?psid=167066888195469152970317507&entinfo=27706123944390_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic4.58cdn.com.cn/p2/tiny/n_v1bj3gzsgi4yafqfzicfxa.jpg' alt='小红帽电脑快修' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://hegang.58.com/weixiu/27706123944390x.shtml?psid=167066888195469152970317507&entinfo=27706123944390_0' target="_blank" class="t" >真正良心维修,不欺不骗,快速上门,保证全市较低价</a>
+							<span class='tu'>[1图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='111' -->
+		            				<br />
+									    		快速上门、随叫随到、台式机、笔记本维修、数据恢复、打印机、监...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5839185111246855.5858.com?psid=167066888195469152970317507&entinfo=27706123944390_0" onClick="clickLog('from=List_wangzhan&entityId=27706123944390&entityType=0&psid=167066888195469152970317507');" target='_blank' class='u' rel="nofollow">小红帽电脑快修</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27706123944390' wltMark="2" param="27706123944390_39181420295959_0_promationinfo_5D129E1525B82D3E2C9759016A3F3DE0" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27706123944390&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_33673493614860_29175900012095_3' infotag="29175900012095_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_weixiu_xinxi_promationinfo_tupian&entityId=29175900012095&entityType=0&psid=167066888195469152970317507');">
+		<div>
+			<a href='http://hegang.58.com/weixiu/29175900012095x.shtml?psid=167066888195469152970317507&entinfo=29175900012095_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic5.58cdn.com.cn/p1/tiny/n_v1bj3gzscedsyfqsphln7a.jpg' alt='三六零上门维修' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://hegang.58.com/weixiu/29175900012095x.shtml?psid=167066888195469152970317507&entinfo=29175900012095_0' target="_blank" class="t" >鹤岗市区内,无上门费,随叫随到不等待,不满意不收费</a>
+							<span class='tu'>[1图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='111' -->
+		            				<br />
+									    		800万注册资金,实力雄厚,全国连锁,多年专注,全市区均可平...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5833679156758051.5858.com?psid=167066888195469152970317507&entinfo=29175900012095_0" onClick="clickLog('from=List_wangzhan&entityId=29175900012095&entityType=0&psid=167066888195469152970317507');" target='_blank' class='u' rel="nofollow">三六零上门维修</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='29175900012095' wltMark="2" param="29175900012095_33673493614860_0_promationinfo_FC0D21140BE4CE52022982049607686D" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29175900012095&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_32887004527111_25435900571983_3' infotag="25435900571983_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_weixiu_xinxi_promationinfo_tupian&entityId=25435900571983&entityType=0&psid=167066888195469152970317507');">
+		<div>
+			<a href='http://hegang.58.com/weixiu/25435900571983x.shtml?psid=167066888195469152970317507&entinfo=25435900571983_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic8.58cdn.com.cn/p2/tiny/n_v1bkuymcyvixzfmrvdmfma.jpg' alt='365快修连锁提供全市区快速上门服务' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://hegang.58.com/weixiu/25435900571983x.shtml?psid=167066888195469152970317507&entinfo=25435900571983_0' target="_blank" class="t" >鹤岗低价快速上门修电脑,已交保证金维修无任何风险</a>
+							<span class='tu'>[2图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='111' -->
+		            				<br />
+									    		装系统,网络,监控,台式机,笔记本维修,组装电脑,显示器维修...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://hongsheng365.5858.com?psid=167066888195469152970317507&entinfo=25435900571983_0" onClick="clickLog('from=List_wangzhan&entityId=25435900571983&entityType=0&psid=167066888195469152970317507');" target='_blank' class='u' rel="nofollow">365快修连锁提供全市区快速上门服务</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='25435900571983' wltMark="2" param="25435900571983_32887004527111_0_promationinfo_C01914E5270CEAF81ACC8C5BE5DFE2B1" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25435900571983&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_26008226418950_25666001406925_3' infotag="25666001406925_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_weixiu_xinxi_promationinfo_tupian&entityId=25666001406925&entityType=0&psid=167066888195469152970317507');">
+		<div>
+			<a href='http://hegang.58.com/weixiu/25666001406925x.shtml?psid=167066888195469152970317507&entinfo=25666001406925_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic8.58cdn.com.cn/p1/tiny/n_v1bj3gzsduk3bfqnpyknfq.jpg' alt='迅雷电脑维修连锁' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://hegang.58.com/weixiu/25666001406925x.shtml?psid=167066888195469152970317507&entinfo=25666001406925_0' target="_blank" class="t" >免收上门费,平价快速上门维修各种电脑,网络,打印机</a>
+							<span class='tu'>[4图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='111' -->
+		            				<br />
+									    		企事业单位个人电脑,打印机,监控等IT外包专业维修公司,有保...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://hnxunlei.5858.com?psid=167066888195469152970317507&entinfo=25666001406925_0" onClick="clickLog('from=List_wangzhan&entityId=25666001406925&entityType=0&psid=167066888195469152970317507');" target='_blank' class='u' rel="nofollow">迅雷电脑维修连锁</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='25666001406925' wltMark="2" param="25666001406925_26008226418950_0_promationinfo_AF77D1A7E946F4C56C868CFAAB3D358A" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25666001406925&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_33673493614860_29176318046136_3' infotag="29176318046136_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_weixiu_xinxi_promationinfo_tupian&entityId=29176318046136&entityType=0&psid=167066888195469152970317507');">
+		<div>
+			<a href='http://hegang.58.com/weixiu/29176318046136x.shtml?psid=167066888195469152970317507&entinfo=29176318046136_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic4.58cdn.com.cn/p1/tiny/n_v1bl2lwxvjfgyfqyclcjpq.jpg' alt='三六零上门维修' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://hegang.58.com/weixiu/29176318046136x.shtml?psid=167066888195469152970317507&entinfo=29176318046136_0' target="_blank" class="t" >鹤岗市低价快速上门修电脑,打印机,网络,数据恢复</a>
+							<span class='tu'>[1图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='111' -->
+		            				<br />
+									    		公司级商家，多店连锁，全市区均可快​‌‌速上门，免收上门费，...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5833679156758051.5858.com?psid=167066888195469152970317507&entinfo=29176318046136_0" onClick="clickLog('from=List_wangzhan&entityId=29176318046136&entityType=0&psid=167066888195469152970317507');" target='_blank' class='u' rel="nofollow">三六零上门维修</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='29176318046136' wltMark="2" param="29176318046136_33673493614860_0_promationinfo_FC0D21140BE4CE52022982049607686D" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29176318046136&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_32887004527111_24863268152635_3' infotag="24863268152635_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_weixiu_xinxi_promationinfo_tupian&entityId=24863268152635&entityType=0&psid=167066888195469152970317507');">
+		<div>
+			<a href='http://hegang.58.com/weixiu/24863268152635x.shtml?psid=167066888195469152970317507&entinfo=24863268152635_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic4.58cdn.com.cn/p2/tiny/n_v1bkujjd5ragxfnptewyfa.jpg' alt='365快修连锁提供全市区快速上门服务' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://hegang.58.com/weixiu/24863268152635x.shtml?psid=167066888195469152970317507&entinfo=24863268152635_0' target="_blank" class="t" >鹤岗市,免上门费,1分钟响应,随叫随到,保证低价</a>
+							<span class='tu'>[2图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='111' -->
+		            				<br />
+									    		专业维修笔记本,台式机,一体机,打印机,网络,数据恢复；笔记...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://hongsheng365.5858.com?psid=167066888195469152970317507&entinfo=24863268152635_0" onClick="clickLog('from=List_wangzhan&entityId=24863268152635&entityType=0&psid=167066888195469152970317507');" target='_blank' class='u' rel="nofollow">365快修连锁提供全市区快速上门服务</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='24863268152635' wltMark="2" param="24863268152635_32887004527111_0_promationinfo_C01914E5270CEAF81ACC8C5BE5DFE2B1" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24863268152635&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_26008226418950_25637707148220_3' infotag="25637707148220_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_weixiu_xinxi_promationinfo_tupian&entityId=25637707148220&entityType=0&psid=167066888195469152970317507');">
+		<div>
+			<a href='http://hegang.58.com/weixiu/25637707148220x.shtml?psid=167066888195469152970317507&entinfo=25637707148220_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic7.58cdn.com.cn/p1/tiny/n_v1bl2lwxq3yxofqkbsxvpq.jpg' alt='迅雷电脑维修连锁' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://hegang.58.com/weixiu/25637707148220x.shtml?psid=167066888195469152970317507&entinfo=25637707148220_0' target="_blank" class="t" >全市快速上门修电脑,网络,打印机,监控,数据恢复等</a>
+							<span class='tu'>[4图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='111' -->
+		            				<br />
+									    		台式机,笔记本,一体机,打印机,网络,修显示器,装系统,清灰...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://hnxunlei.5858.com?psid=167066888195469152970317507&entinfo=25637707148220_0" onClick="clickLog('from=List_wangzhan&entityId=25637707148220&entityType=0&psid=167066888195469152970317507');" target='_blank' class='u' rel="nofollow">迅雷电脑维修连锁</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='25637707148220' wltMark="2" param="25637707148220_26008226418950_0_promationinfo_AF77D1A7E946F4C56C868CFAAB3D358A" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25637707148220&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_39181420295959_27706129477164_3' infotag="27706129477164_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_weixiu_xinxi_promationinfo_tupian&entityId=27706129477164&entityType=0&psid=167066888195469152970317507');">
+		<div>
+			<a href='http://hegang.58.com/weixiu/27706129477164x.shtml?psid=167066888195469152970317507&entinfo=27706129477164_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic7.58cdn.com.cn/p2/tiny/n_v1bkujjd7i4yafq3s7tnsa.jpg' alt='小红帽电脑快修' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://hegang.58.com/weixiu/27706129477164x.shtml?psid=167066888195469152970317507&entinfo=27706129477164_0' target="_blank" class="t" >鹤岗市电脑、打印机、快速维修、修不好不收费</a>
+							<span class='tu'>[1图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='111' -->
+		            				<br />
+									    		快速上门、随叫随到、台式机、笔记本维修、数据恢复、打印机、监...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5839185111246855.5858.com?psid=167066888195469152970317507&entinfo=27706129477164_0" onClick="clickLog('from=List_wangzhan&entityId=27706129477164&entityType=0&psid=167066888195469152970317507');" target='_blank' class='u' rel="nofollow">小红帽电脑快修</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27706129477164' wltMark="2" param="27706129477164_39181420295959_0_promationinfo_5D129E1525B82D3E2C9759016A3F3DE0" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27706129477164&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_2_26008226418950_27879889996218_0' infotag="27879889996218_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">迅雷快修 : </b>
+				<a href='http://hegang.58.com/weixiu/27879889996218x.shtml?psid=167066888195469152970317507&entinfo=27879889996218_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			平价快速上门维修电脑/打印机/数据恢复有店面可保修
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												台式机,笔记本,一体机,打印机,网络,修显示屏,装系统,清灰,装路由器...
+				(11小时)
+							<p class="seller">
+			<a href="http://hnxunlei.5858.com?psid=167066888195469152970317507&entinfo=27879889996218_0" onClick="clickLog('from=List_wangzhan&entityId=27879889996218&entityType=0&psid=167066888195469152970317507');" target='_blank' class='u' rel="nofollow">迅雷电脑维修连锁</a>
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27879889996218' wltMark="2" param="27879889996218_26008226418950_0_commoninfo_AF77D1A7E946F4C56C868CFAAB3D358A" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27879889996218&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_2_33673493614860_29176318046136_0' infotag="29176318046136_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">三六零电脑 : </b>
+				<a href='http://hegang.58.com/weixiu/29176318046136x.shtml?psid=167066888195469152970317507&entinfo=29176318046136_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			鹤岗市低价快速上门修电脑,打印机,网络,数据恢复
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												公司级商家，多店连锁，全市区均可快​‌‌速上门，免收上门费，仅收修理费...
+				(02-24)
+							<p class="seller">
+			<a href="http://t5833679156758051.5858.com?psid=167066888195469152970317507&entinfo=29176318046136_0" onClick="clickLog('from=List_wangzhan&entityId=29176318046136&entityType=0&psid=167066888195469152970317507');" target='_blank' class='u' rel="nofollow">三六零上门维修</a>
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='29176318046136' wltMark="2" param="29176318046136_33673493614860_0_commoninfo_FC0D21140BE4CE52022982049607686D" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29176318046136&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_2_32887004527111_24863268152635_0' infotag="24863268152635_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">三六五快修 : </b>
+				<a href='http://hegang.58.com/weixiu/24863268152635x.shtml?psid=167066888195469152970317507&entinfo=24863268152635_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			鹤岗市,免上门费,1分钟响应,随叫随到,保证低价
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												专业维修笔记本,台式机,一体机,打印机,网络,数据恢复；笔记本换屏,换...
+				(02-04)
+							<p class="seller">
+			<a href="http://hongsheng365.5858.com?psid=167066888195469152970317507&entinfo=24863268152635_0" onClick="clickLog('from=List_wangzhan&entityId=24863268152635&entityType=0&psid=167066888195469152970317507');" target='_blank' class='u' rel="nofollow">365快修连锁提供全市区快速上门服务</a>
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='24863268152635' wltMark="2" param="24863268152635_32887004527111_0_commoninfo_C01914E5270CEAF81ACC8C5BE5DFE2B1" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24863268152635&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_2_39181420295959_27706123944390_0' infotag="27706123944390_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小红帽快修 : </b>
+				<a href='http://hegang.58.com/weixiu/27706123944390x.shtml?psid=167066888195469152970317507&entinfo=27706123944390_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			真正良心维修,不欺不骗,快速上门,保证全市较低价
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												快速上门、随叫随到、台式机、笔记本维修、数据恢复、打印机、监控安防、网...
+				(10-14)
+							<p class="seller">
+			<a href="http://t5839185111246855.5858.com?psid=167066888195469152970317507&entinfo=27706123944390_0" onClick="clickLog('from=List_wangzhan&entityId=27706123944390&entityType=0&psid=167066888195469152970317507');" target='_blank' class='u' rel="nofollow">小红帽电脑快修</a>
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27706123944390' wltMark="2" param="27706123944390_39181420295959_0_commoninfo_5D129E1525B82D3E2C9759016A3F3DE0" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27706123944390&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_33181631121161_25655843705670_0' infotag="25655843705670_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">芦先生 : </b>
+				<a href='http://hegang.58.com/weixiu/25655843705670x.shtml?psid=167066888195469152970317507&entinfo=25655843705670_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			【宏昇科技】上门修电脑2017新系统30元
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												1、鹤岗本地电脑维修，快速上门服务，包含台式机、笔‌‌记本、一体机维修...
+				(3小时)
+							<p class="seller">
+					低***3
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25655843705670' wltMark="0" param="25655843705670_33181631121161_0_commoninfo_A354FF7284C85E9526A12037303E5E30"  data-j4fe="15604688100,芦先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25655843705670&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_40577266124821_26618947745835_0' infotag="26618947745835_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">青春 : </b>
+				<a href='http://hegang.58.com/weixiu/26618947745835x.shtml?psid=167066888195469152970317507&entinfo=26618947745835_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			承接各种电脑上门做系统，调试无线路由器，机顶盒等
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												市里上门做系统，较新深度技术，纯净版2016，调试无线路由器，网络机顶...
+				(7小时)
+							<p class="seller">
+					青***听
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26618947745835' wltMark="0" param="26618947745835_40577266124821_0_commoninfo_4BDEE5CA697BC39AD2086ACE1E2F0E9F"  data-j4fe="18646877937,青春" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26618947745835&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_29834749568007_25635526415927_0' infotag="25635526415927_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">芦先生 : </b>
+				<a href='http://hegang.58.com/weixiu/25635526415927x.shtml?psid=167066888195469152970317507&entinfo=25635526415927_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			【鹤岗电脑维修】2017新系统上门服务30元
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												1、鹤岗市上门修电脑，由从事电脑行业10年技术人员上门维修，包含台式机...
+				(9小时)
+							<p class="seller">
+					继友电脑维修服务部
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25635526415927' wltMark="0" param="25635526415927_29834749568007_0_commoninfo_A354FF7284C85E9526A12037303E5E30"  data-j4fe="15604688100,芦先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25635526415927&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_26417775329543_19538620821633_0' infotag="19538620821633_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">玉龙 : </b>
+				<a href='http://hegang.58.com/weixiu/19538620821633x.shtml?psid=167066888195469152970317507&entinfo=19538620821633_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			上门做电脑系统安路由器20元
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												专业设置无线路由器安装 电脑重做系统20元！安装网络机顶盒 无线路由器...
+				(11小时)
+							<p class="seller">
+					神州家政服务
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='19538620821633' wltMark="0" param="19538620821633_26417775329543_0_commoninfo_AD11FA3A7D958FF213C3F832F3D12A66"  data-j4fe="13258562658,玉龙" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=19538620821633&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_21841891587078_27978891256652_0' infotag="27978891256652_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">曲技术 : </b>
+				<a href='http://hegang.58.com/weixiu/27978891256652x.shtml?psid=167066888195469152970317507&entinfo=27978891256652_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			联讯360 电脑维修 做系统 上门服务
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												《1》各种品牌或组装机专业快速上门维修电脑，XP WINDOS7较新系...
+				(11小时)
+							<p class="seller">
+					仁宝集团
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27978891256652' wltMark="0" param="27978891256652_21841891587078_0_commoninfo_8516E332A4BA23306BB0BF6646295674"  data-j4fe="04683335333,曲技术" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27978891256652&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_23877725673734_19400529525514_0' infotag="19400529525514_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">兴安电脑维修 : </b>
+				<a href='http://hegang.58.com/weixiu/19400529525514x.shtml?psid=167066888195469152970317507&entinfo=19400529525514_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			兴安区上门做电脑系统30元《长期有效》
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												鹤岗市兴安区上门做电脑系统30元，解决您抱着机箱到处跑的烦恼《长期有效...
+				(13小时)
+							<p class="seller">
+					b***0
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='19400529525514' wltMark="0" param="19400529525514_23877725673734_0_commoninfo_B55A7B3F8CE09BE411C469563CCB691B"  data-j4fe="13069958785,兴安电脑维修" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=19400529525514&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_25532905435655_23702202921788_0' infotag="23702202921788_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">杨先生 : </b>
+				<a href='http://hegang.58.com/weixiu/23702202921788x.shtml?psid=167066888195469152970317507&entinfo=23702202921788_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			上门修电脑,做较新U盘系统,设置安装路由器
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												电脑软件，硬件的修理，硬盘U盘数据的恢复。较新U盘系统。
+				(04-03)
+							<p class="seller">
+					j***1
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='23702202921788' wltMark="0" param="23702202921788_25532905435655_0_commoninfo_35DEC6D066798404E982283F0C0C1056"  data-j4fe="13114685851,杨先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23702202921788&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_46502750688020_29588148367683_0' infotag="29588148367683_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">滴滴 : </b>
+				<a href='http://hegang.58.com/weixiu/29588148367683x.shtml?psid=167066888195469152970317507&entinfo=29588148367683_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			专业代办 滴滴注册 滴滴司机 解决各种问题50-5
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												专业代办 滴滴注册 滴滴司机 解决各种问题50-500 不等，驾龄不够...
+				(04-03)
+							<p class="seller">
+					n***z
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29588148367683' wltMark="0" param="29588148367683_46502750688020_0_commoninfo_20944912B953FD8C1256333AD17B83B0"  data-j4fe="18345922763,滴滴" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29588148367683&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_18114990634502_23696696731059_0' infotag="23696696731059_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王师傅 : </b>
+				<a href='http://hegang.58.com/weixiu/23696696731059x.shtml?psid=167066888195469152970317507&entinfo=23696696731059_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			兴安台上门修电脑做系统安装陆游器
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												组装电脑，二手电脑，上门维修
+				(04-02)
+							<p class="seller">
+					l***0
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='23696696731059' wltMark="0" param="23696696731059_18114990634502_0_commoninfo_FFEEFFD2C3305361448E7442463D7D1B"  data-j4fe="15845463324,王师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23696696731059&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37081553674510_24870479710911_0' infotag="24870479710911_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">嘉师傅 : </b>
+				<a href='http://hegang.58.com/weixiu/24870479710911x.shtml?psid=167066888195469152970317507&entinfo=24870479710911_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			上门修电脑 安网络机顶盒
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												做系统 按路由器 电脑配件安装
+				(04-02)
+							<p class="seller">
+					知***1
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='24870479710911' wltMark="0" param="24870479710911_37081553674510_0_commoninfo_548FDAA59B478F97172A48F8FAFACBC8"  data-j4fe="15636775218,嘉师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24870479710911&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_21176946851847_17193637321985_0' infotag="17193637321985_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">宋技术 : </b>
+				<a href='http://hegang.58.com/weixiu/17193637321985x.shtml?psid=167066888195469152970317507&entinfo=17193637321985_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			鹤岗专业电脑医生24小时为您服务
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												维修项目： 1，电脑软，硬件故障的上门维护，维修（电脑杀毒，软件安装，...
+				(03-30)
+							<p class="seller">
+					联讯通信器材
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='17193637321985' wltMark="0" param="17193637321985_21176946851847_0_commoninfo_C01914E5270CEAF81ACC8C5BE5DFE2B1"  data-j4fe="15545917771,宋技术" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=17193637321985&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_28412965552135_29516289120302_0' infotag="29516289120302_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">聂师傅 : </b>
+				<a href='http://hegang.58.com/weixiu/29516289120302x.shtml?psid=167066888195469152970317507&entinfo=29516289120302_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			液晶维修，笔记本维修，主板维修，平板电脑维修
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												哈尔滨风云数码维修成立16年，业务范围黑龙江全省，吉林，内蒙古呼伦贝尔...
+				(03-27)
+							<p class="seller">
+					哈尔滨市南岗区风云教育经销部
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29516289120302' wltMark="0" param="29516289120302_28412965552135_0_commoninfo_2FA0AA51B859EAFA723930174C9FA19B"  data-j4fe="18249515477,聂师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29516289120302&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_21873001307910_26031345276586_0' infotag="26031345276586_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刘先生 : </b>
+				<a href='http://hegang.58.com/weixiu/26031345276586x.shtml?psid=167066888195469152970317507&entinfo=26031345276586_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			专业 台式电脑 笔记本维修
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												安装监控， 网络机顶盒红，无线路由 ，有线路由安装调试,、系统崩溃、运...
+				(03-24)
+							<p class="seller">
+					a***5
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26031345276586' wltMark="0" param="26031345276586_21873001307910_0_commoninfo_66E08013FB6461D00AF5484F0C32592E"  data-j4fe="15145860264,刘先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26031345276586&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_23212415575559_17935802209413_0' infotag="17935802209413_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">嘉师傅 : </b>
+				<a href='http://hegang.58.com/weixiu/17935802209413x.shtml?psid=167066888195469152970317507&entinfo=17935802209413_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			鹤岗上门维修电脑,安网络电视盒,路由器安装调试
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												上门服务，做系统 安网络机顶盒 路由器!台式电脑和笔记本 系统安装（ ...
+				(03-19)
+							<p class="seller">
+					r***1
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='17935802209413' wltMark="0" param="17935802209413_23212415575559_0_commoninfo_548FDAA59B478F97172A48F8FAFACBC8"  data-j4fe="15636775218,嘉师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=17935802209413&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_26816478575367_21511598249886_0' infotag="21511598249886_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小吴 : </b>
+				<a href='http://hegang.58.com/weixiu/21511598249886x.shtml?psid=167066888195469152970317507&entinfo=21511598249886_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			鹤岗腾龙电脑维修
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												主营：台式机维修。包括：系统安装，硬件检测，硬件维修；笔记本维修：包括...
+				(03-14)
+							<p class="seller">
+					一航教育
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='21511598249886' wltMark="0" param="21511598249886_26816478575367_0_commoninfo_2B2B4F8D13997D020002A928A371916C"  data-j4fe="15636777569,小吴" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=21511598249886&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_20442362_23784726168885_0' infotag="23784726168885_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王先生 : </b>
+				<a href='http://hegang.58.com/weixiu/23784726168885x.shtml?psid=167066888195469152970317507&entinfo=23784726168885_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			上门维修电脑做系统,安装路由器,光纤熔接
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												上门维修电脑。设置WiFi路由器。光纤熔接，数字高清监控 手机远程监控...
+				(03-13)
+							<p class="seller">
+					鹤岗市旭升计算机销售有限公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='23784726168885' wltMark="0" param="23784726168885_20442362_0_commoninfo_F0C24963E35048216D457034F1B48F2D"  data-j4fe="18904688491,王先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23784726168885&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_13108387307015_28971111565621_0' infotag="28971111565621_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李先生 : </b>
+				<a href='http://hegang.58.com/weixiu/28971111565621x.shtml?psid=167066888195469152970317507&entinfo=28971111565621_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			鹤岗上门做系统2017，电脑维修，特价电脑，品牌机
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												电脑维修打印机维修笔记本维修，（长期有效）成立十余年电脑公司维修电脑打...
+				(03-10)
+							<p class="seller">
+					l***7
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28971111565621' wltMark="0" param="28971111565621_13108387307015_0_commoninfo_580604C46BC81E91407C3187DED70E59"  data-j4fe="13846890257,李先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28971111565621&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37852775638030_29261043847738_0' infotag="29261043847738_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小苑 : </b>
+				<a href='http://hegang.58.com/weixiu/29261043847738x.shtml?psid=167066888195469152970317507&entinfo=29261043847738_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			上门做系统20$
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												全市范围内上门做系统20$，17新版win7.winXP.WIN8。台...
+				(03-07)
+							<p class="seller">
+					1***o
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29261043847738' wltMark="0" param="29261043847738_37852775638030_0_commoninfo_48A09623B0C1D2D7776A709314346ABF"  data-j4fe="18346892845,小苑" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29261043847738&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_9839714806534_23124802890400_0' infotag="23124802890400_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李先生 : </b>
+				<a href='http://hegang.58.com/weixiu/23124802890400x.shtml?psid=167066888195469152970317507&entinfo=23124802890400_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			上门电脑维修 笔记本维修 网络维修
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												一、台式机维修项目：1：开不开机、开机无反应、开机黑屏、开机出错、开机...
+				(03-06)
+							<p class="seller">
+					药店
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='23124802890400' wltMark="0" param="23124802890400_9839714806534_0_commoninfo_F62D7E3E5DD3741763071AB9AFACF74B"  data-j4fe="15945294406,李先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23124802890400&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_18786686376455_17606580807685_0' infotag="17606580807685_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">赵先生 : </b>
+				<a href='http://hegang.58.com/weixiu/17606580807685x.shtml?psid=167066888195469152970317507&entinfo=17606580807685_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			电脑维修做系统
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												专业提供上门维修电脑修不好 不收任何费用！ 安装WIN7系统请选择套餐...
+				(03-03)
+							<p class="seller">
+					泰山网络
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='17606580807685' wltMark="0" param="17606580807685_18786686376455_0_commoninfo_F22E6E4E5308D66C5613574B33343EBD"  data-j4fe="15094507295,赵先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=17606580807685&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_49231928_27070152636090_0' infotag="27070152636090_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张大师 : </b>
+				<a href='http://hegang.58.com/weixiu/27070152636090x.shtml?psid=167066888195469152970317507&entinfo=27070152636090_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			2017较新电脑维修做系统安装路由器
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												重装电脑系统，优化提速，电脑清灰降温。Windows7系统为2017年...
+				(02-28)
+							<p class="seller">
+					格兰云天爱车广场
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27070152636090' wltMark="0" param="27070152636090_49231928_0_commoninfo_A366C3AF20DC1BA2966479D541BFFFFD"  data-j4fe="18846808771,张大师" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27070152636090&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_44997436035857_28828340428203_0' infotag="28828340428203_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">鹤岗容达电脑 : </b>
+				<a href='http://hegang.58.com/weixiu/28828340428203x.shtml?psid=167066888195469152970317507&entinfo=28828340428203_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			专业做电脑系统 安路由器 安网络机顶盒
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												专业上门做系统 电脑公司xp系统20元 电脑公司win7系统30元 电...
+				(02-27)
+							<p class="seller">
+					7***v
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28828340428203' wltMark="0" param="28828340428203_44997436035857_0_commoninfo_C2C55E894E904806763638D144999030"  data-j4fe="13846837873,鹤岗容达电脑" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28828340428203&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_33702073200395_29196973158475_0' infotag="29196973158475_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张先生 : </b>
+				<a href='http://hegang.58.com/weixiu/29196973158475x.shtml?psid=167066888195469152970317507&entinfo=29196973158475_0' onclick="clickLog('from=pc_list_weixiu_xinxi_commoninfo_hegang');" target="_blank" class="t" >
+			（只限周末）上门做电脑系统
+		</a>
+						<!-- cxsjstate='false',dispCateID='111' -->
+		    	        		<br />
+												上门做电脑系统xp 30 win7 50 Win8 70 win10 ...
+				(02-26)
+							<p class="seller">
+					1***x
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29196973158475' wltMark="0" param="29196973158475_33702073200395_0_commoninfo_3DE211E90256662A0F64644CA7225380"  data-j4fe="18210620556,张先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29196973158475&entityType=0&psid=167066888195469152970317507")'>免费预约</a></span>
+		</div>
+	
+</td></tr>	</table>								<!-- =E infolist -->
+					<div id="gjwb_bottom_jz_ad"></div>
+	<div id="bottom_google_ad"></div>
+<div class="pager" >
+	 <strong><span>1</span></strong><a href="/weixiu/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>2</span></a><a href="/weixiu/pn3/" onClick="clickLog('from=huangye_list_fanye_3');"><span>3</span></a><a href="/weixiu/pn4/" onClick="clickLog('from=huangye_list_fanye_4');"><span>4</span></a><a href="/weixiu/pn5/" onClick="clickLog('from=huangye_list_fanye_5');"><span>5</span></a><a href="/weixiu/pn6/" onClick="clickLog('from=huangye_list_fanye_6');"><span>6</span></a><a href="/weixiu/pn7/" onClick="clickLog('from=huangye_list_fanye_7');"><span>7</span></a><a class="next" href="/weixiu/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>下一页</span></a>
+</div>
+<div id="infocont">
+	<!--当是健康答疑时，链接变为提问-->
+										<a target="_blank" rel="nofollow" href="http://post.58.com/9061/111/s5" onclick="clickLog('pc_list_weixiu_bottom_fabu');" >马上发布一条电脑维修信息&raquo;</a>
+						</div>
+<!--医疗健康判断-->
+		<div id="direct_ad_bottom" onclick="clickLog('from=pc_list_weixiu_bottom_zhineng1');"  ></div>
+	<div id="bottom_zhaoshangjiameng_ad" onclick="clickLog('from=pc_list_weixiu_bottom_tuiguang2');"  ></div>
+
+			</div>
+			<div id="rightframe" class="cright">
+		<div style="margin-bottom:10px">
+		<a href='http://c.58cdn.com.cn/ui7/help/pf_xx_v1.html' target="_blank">
+			<img src="http://img.58cdn.com.cn/ds/other/bannerz_03.png">
+		</a>
+	</div>
+	<div class="r-banner-hot">
+	  	<p><i></i><a target="_blank" href="http://www.58.com/weixiudaquan/">维修教程</a><span class="r-banner-hotico"></span></p>
+		<p><i></i><a target="_blank" href="http://www.58.com/jiadianweixiu/">电脑维修教程</a></p>
+		<p><i></i><a target="_blank" href="http://www.58.com/diannaoyingjian/">电脑硬件故障维修</a></p>
+	</div>
+
+
+			<div class="tuijian" id="ylad" style="display:none"></div>
+												<div class="brand_md_tit"><h3><i class="brand_md_tit_i1"></i>名店推荐<i class="brand_md_tit_i2"></i></h3></div>
+	<div id="brand_md"><div id="ad19"  style="display:none"></div></div>
+	<script>
+		$("#brand_md").bind("bindBrandEvent",function(){ 
+            if($('.brand_md200').length > 0){
+				$('.brand_md_tit').show();
+			}
+        }); 
+	</script>
+	</div>	    </section>
+		<div id="wangmeng_list_bottom_ditong" onclick="clickLog('from=pc_list_weixiu_bottom_tuiguang3');"   ></div><section id="links">
+<i class="linksTopline"></i>
+	<!-- =S friendtips -->
+	<dl id="friendtips" class="linksItem friendtips"><dt class="b-left">鹤岗电脑维修介绍：</dt>
+<dd class="b-right">58同城鹤岗电脑维修点频道是鹤岗最大的电脑维修信息免费发布查询平台，免费提供台式电脑维修、笔记本维修、服务器维修、硬盘维修等多种类别的鹤岗电脑维修相关信息，感谢您选择<a href=http://www.58.com/hyzt/weixiu/ target=_blank>电脑维修</a>信息平台。手机版请访问<a href=http://m.58.com/hegang/weixiu/  target=_blank >鹤岗电脑维修</a></dd>
+</dl>
+	<!-- =E friendtips -->
+	<!-- =S relate  -->
+			<dl class="linksItem relate" id="relate">
+	<dt class="b-left">鹤岗电脑维修相关信息：</dt>
+	<dd class="b-right">
+		<ul class="b-ul">
+						    			        <li><a href="/weixiu/jh_%E9%B9%A4%E5%B2%97%E4%B8%8A%E9%97%A8%E4%BF%AE%E7%94%B5%E8%84%91%E7%94%B5%E8%AF%9D/?utm_source=58un&spm=m-32995106791431-pe-f-802.pbqy_700_150">鹤岗上门修电脑电话</a></li>
+			    		    			    			        <li><a href="/weixiu/jh_%E5%81%9A%E7%B3%BB%E7%BB%9F/?utm_source=58un&spm=m-32995106791431-pe-f-802.pbqy_700_150">做系统</a></li>
+			    		    			    			        <li><a href="/weixiu/jh_%E4%B8%8A%E9%97%A8%E5%81%9A%E7%B3%BB%E7%BB%9F/?utm_source=58un&spm=m-32995106791431-pe-f-802.pbqy_700_150">上门做系统</a></li>
+			    		    		</ul>
+	</dd>
+</dl>
+		<!-- =E relate -->
+	<!-- =S relatelink allshangquan-->
+	    <dl class="linksItem relatelink" id="relatelink">
+					<dt class="b-left">鹤岗电脑维修全部商圈：</dt>
+		      <dd class="b-right">
+        <dl id="relateSelect" class="relateSelect"> 
+    	    		<dt><span>DC</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://hegang.58.com/sonyxiangjiwx/" target="_blank">鹤岗索尼数码相机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/nikonxiangjiwx/" target="_blank">鹤岗尼康数码相机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/canonxjwx/" target="_blank">鹤岗佳能数码相机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/casioxjwx/" target="_blank">鹤岗卡西欧数码相机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/samsungxjwx/" target="_blank">鹤岗三星数码相机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/songxiaxjwx/" target="_blank">鹤岗松下数码相机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/fushiweixiu/" target="_blank">鹤岗富士数码相机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/leicaxjwx/" target="_blank">鹤岗徕卡数码相机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/olympusxjwx/" target="_blank">鹤岗奥林巴斯数码相机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/pentaxxjwx/" target="_blank">鹤岗宾得数码相机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/benqxjwx/" target="_blank">鹤岗明基数码相机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/gexjwx/" target="_blank">鹤岗通用数码相机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/aigoxjwx/" target="_blank">鹤岗爱国者数码相机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/haierxjwx/" target="_blank">鹤岗海尔数码相机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/lemoxjwx/" target="_blank">鹤岗乐魔数码相机维修</a>        
+    	                			    		</dd>
+             		<dt><span>保洁</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://hegang.58.com/jiatingbaojie/" target="_blank">鹤岗家庭保洁</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/zhensi/" target="_blank">鹤岗真丝地毯清洗</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/smdala/" target="_blank">鹤岗实木地板打蜡</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/rmdala/" target="_blank">鹤岗软木地板打蜡</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/pvcdala/" target="_blank">鹤岗PVC地板打蜡</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/scfanxin/" target="_blank">鹤岗石材翻新/养护</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/smsjiejing/" target="_blank">鹤岗水磨石镜面处理</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/dlsjiejing/" target="_blank">鹤岗石材结晶</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/dlspaoguang/" target="_blank">鹤岗大理石抛光</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/scbingbian/" target="_blank">鹤岗石材病变处理</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/scfanghua/" target="_blank">鹤岗石材地面防滑</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/snqisha/" target="_blank">鹤岗水泥地面起砂</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/xzlbaojie/" target="_blank">鹤岗写字楼保洁</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/cfbaojie/" target="_blank">鹤岗厂房保洁</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/yybaojie/" target="_blank">鹤岗医院保洁</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/scbaojie/" target="_blank">鹤岗商场保洁</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/zhbaojie/" target="_blank">鹤岗展会保洁</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/xxbaojie/" target="_blank">鹤岗学校保洁</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/xqbaojie/" target="_blank">鹤岗小区保洁</a>        
+    	                			    		</dd>
+             		<dt><span>单反</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://hegang.58.com/nikongdanfan/" target="_blank">鹤岗尼康单反维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/canondanfan/" target="_blank">鹤岗佳能单反维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/bindedanfan/" target="_blank">鹤岗宾得单反维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/suonidanfan/" target="_blank">鹤岗索尼单反维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/fushidanfan/" target="_blank">鹤岗富士单反维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/sanxingweidan/" target="_blank">鹤岗三星微单维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/suoniwd/" target="_blank">鹤岗索尼微单维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/jianengwd/" target="_blank">鹤岗佳能微单维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/fushiwd/" target="_blank">鹤岗富士微单维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/songxiawd/" target="_blank">鹤岗松下微单维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/kaxiouwd/" target="_blank">鹤岗卡西欧微单维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/kedawd/" target="_blank">鹤岗柯达微单维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/nikangwd/" target="_blank">鹤岗尼康微单维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/aolinbasiwd/" target="_blank">鹤岗奥林巴斯微单维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/aiguozhewd/" target="_blank">鹤岗爱国者微单维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/jvcwd/" target="_blank">鹤岗jvc微单维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/meinengdawd/" target="_blank">鹤岗美能达微单维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/liguangwd/" target="_blank">鹤岗理光微单维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/bindewd/" target="_blank">鹤岗宾得微单维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/sanyangwd/" target="_blank">鹤岗三洋微单维修</a>        
+    	                			    		</dd>
+             		<dt><span>厨房家电</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://hegang.58.com/youyanjiweixiu/" target="_blank">鹤岗抽油烟机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/zhaojuweixiu/" target="_blank">鹤岗燃气灶维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/weiboluweixiu/" target="_blank">鹤岗微波炉维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/youyanjiweixiu/" target="_blank">鹤岗抽油烟机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/zhaojuweixiu/" target="_blank">鹤岗燃气灶维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/yinshujiwx/" target="_blank">鹤岗饮水机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/dianciluwx/" target="_blank">鹤岗电磁炉维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/dianfanbaowx/" target="_blank">鹤岗电饭煲维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/doujiangjiwx/" target="_blank">鹤岗豆浆机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/zhazhijiwx/" target="_blank">鹤岗榨汁机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/dianbingchengwx/" target="_blank">鹤岗电饼铛维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/yaliguowx/" target="_blank">鹤岗压力锅维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/kafeijiwx/" target="_blank">鹤岗咖啡机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/xiaoduguiwx/" target="_blank">鹤岗消毒柜维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/jingshuijiwx/" target="_blank">鹤岗净水机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/xiwanjiwx/" target="_blank">鹤岗洗碗机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/diankaoxiangwx/" target="_blank">鹤岗电烤箱维修</a>        
+    	                			    		</dd>
+             		<dt><span>家具</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://hegang.58.com/shafahuli/" target="_blank">鹤岗沙发维修护理</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/jiasiweixiu/" target="_blank">鹤岗桌椅柜维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/zhongbiaowx/" target="_blank">鹤岗钟表维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/bgjjwx/" target="_blank">鹤岗办公家具维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/dibanweixiu/" target="_blank">鹤岗地板维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/menchweixiu/" target="_blank">鹤岗门窗维修</a>        
+    	                			    		</dd>
+             		<dt><span>家电</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://hegang.58.com/gongfangwx/" target="_blank">鹤岗功放维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/yinxiangwx/" target="_blank">鹤岗音响维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/yinxiangweixiu/" target="_blank">鹤岗音箱维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/jiatingyingyuanweix/" target="_blank">鹤岗家庭影院维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/languangbofangweix/" target="_blank">鹤岗蓝光播放机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/qunuandianqi/" target="_blank">鹤岗取暖电器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/jinghuaqiwx/" target="_blank">鹤岗净化器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/jiashiqiwx/" target="_blank">鹤岗加湿器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/xichenqiwx/" target="_blank">鹤岗吸尘器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/ganyijiwx/" target="_blank">鹤岗干衣机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/dianfengshanwx/" target="_blank">鹤岗电风扇维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/yubapaifengshan/" target="_blank">鹤岗浴霸维修</a>        
+    	                			    		</dd>
+             		<dt><span>平板电脑</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://hegang.58.com/pingguoipadweix/" target="_blank">鹤岗苹果iPad维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/lianxianglepadwx/" target="_blank">鹤岗联想乐Pad维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/hshpadweix/" target="_blank">鹤岗华硕Pad维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/acerpad/" target="_blank">鹤岗宏碁平板电脑维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/dongzhipad/" target="_blank">鹤岗东芝平板电脑维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/sanxingpadwx/" target="_blank">鹤岗三星平板电脑维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/dellpad/" target="_blank">鹤岗戴尔平板电脑维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/thinkpadtableweix/" target="_blank">鹤岗ThinkPad Tablet</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/sonypad/" target="_blank">鹤岗索尼平板电脑维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/wanlidapad/" target="_blank">鹤岗万利达平板电脑维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/shenzhoupad/" target="_blank">鹤岗神舟平板电脑维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/jijiapad/" target="_blank">鹤岗技嘉平板电脑维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/huaweipad/" target="_blank">鹤岗华为平板电脑维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/fushitongpad/" target="_blank">鹤岗富士通平板电脑维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/niumanpad/" target="_blank">鹤岗纽曼平板电脑维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/haixinpad/" target="_blank">鹤岗海信平板电脑维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/haierpad/" target="_blank">鹤岗海尔平板电脑维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/youpaipad/" target="_blank">鹤岗优派平板电脑维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/aikeshipad/" target="_blank">鹤岗爱可视平板电脑维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/zhikupad/" target="_blank">鹤岗智酷平板电脑维修</a>        
+    	                			    		</dd>
+             		<dt><span>房屋</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://hegang.58.com/matongwx/" target="_blank">鹤岗马桶维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/linyuwx/" target="_blank">鹤岗浴缸/淋浴设备维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/dengjuwx/" target="_blank">鹤岗灯具维修/安装</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/fangshui/" target="_blank">鹤岗防水补漏</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/dianlu/" target="_blank">鹤岗电路维修/安装</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/weiyusg/" target="_blank">鹤岗水管维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/shuilongtouwx/" target="_blank">鹤岗水龙头维修/安装</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/nuanqiweixiu/" target="_blank">鹤岗暖气水管维修/安装</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/dakong/" target="_blank">鹤岗打孔</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/fangfu/" target="_blank">鹤岗防腐</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/qmfenshua/" target="_blank">鹤岗墙面粉刷</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/qmxiubu/" target="_blank">鹤岗墙面修补</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/guanizi/" target="_blank">鹤岗刮腻子</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/guadabai/" target="_blank">鹤岗刮大白</a>        
+    	                			    		</dd>
+             		<dt><span>手机</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://hegang.58.com/pgshj/" target="_blank">鹤岗iphone维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/sxshj/" target="_blank">鹤岗三星手机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/nokiashj/" target="_blank">鹤岗诺基亚手机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/mtllshj/" target="_blank">鹤岗摩托罗拉手机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/sashj/" target="_blank">鹤岗索尼爱立信手机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/xpshj/" target="_blank">鹤岗夏普手机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/lgshj/" target="_blank">鹤岗lg手机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/dpdshj/" target="_blank">鹤岗多普达手机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/lxshj/" target="_blank">鹤岗联想手机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/htcwx/" target="_blank">鹤岗HTC手机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/xiaomisjwx/" target="_blank">鹤岗小米手机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/meizuwx/" target="_blank">鹤岗魅族手机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/heimeiwx/" target="_blank">鹤岗黑莓手机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/huaweiwx/" target="_blank">鹤岗华为手机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/zhongxingwx/" target="_blank">鹤岗中兴手机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/kupaiwx/" target="_blank">鹤岗酷派手机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/tianyuwx/" target="_blank">鹤岗天语手机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/jinliwx/" target="_blank">鹤岗金立手机维修</a>        
+    	                			    		</dd>
+             		<dt><span>摄像机</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://hegang.58.com/suoniwx/" target="_blank">鹤岗索尼摄像机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/jianengwx/" target="_blank">鹤岗佳能摄像机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/jvcwx/" target="_blank">鹤岗JVC摄像机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/songxiawx/" target="_blank">鹤岗松下摄像机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/sanxingwx/" target="_blank">鹤岗三星摄像机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/aiguozhewx/" target="_blank">鹤岗爱国者摄像机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/mingjiwx/" target="_blank">鹤岗明基摄像机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/haierwx/" target="_blank">鹤岗海尔摄像机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/oudawx/" target="_blank">鹤岗欧达摄像机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/xiandaiwx/" target="_blank">鹤岗AEE现代摄像机维修</a>        
+    	                			    		</dd>
+             		<dt><span>数据</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://hegang.58.com/shangwangxf/" target="_blank">鹤岗上网修复</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/luyouqiwx/" target="_blank">鹤岗路由器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/jiaohuanjiwx/" target="_blank">鹤岗交换机维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/wangkawx/" target="_blank">鹤岗网卡维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/yingpanwx/" target="_blank">鹤岗硬盘数据恢复</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/upanhuifu/" target="_blank">鹤岗U盘数据恢复</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/wenjianhuifu/" target="_blank">鹤岗文件恢复</a>        
+    	                			    		</dd>
+             		<dt><span>洗衣</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://hegang.58.com/xiyiyanghu/" target="_blank">鹤岗洗衣店</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/pijuyanghu/" target="_blank">鹤岗皮具养护</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/yfyanghu/" target="_blank">鹤岗衣服养护</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/xieyanghu/" target="_blank">鹤岗鞋类养护</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/pibaoyanghu/" target="_blank">鹤岗皮包养护</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/jiajuyanghu/" target="_blank">鹤岗家居用品清洗养护</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/qczyyanghu/" target="_blank">鹤岗汽车座椅清洗养护</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/yibaogaizhi/" target="_blank">鹤岗衣物鞋包改制</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/yfgaizhi/" target="_blank">鹤岗衣服改制</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/xiegaizhi/" target="_blank">鹤岗鞋类改制</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/xiangbaogz/" target="_blank">鹤岗箱包改制</a>        
+    	                			    		</dd>
+             		<dt><span>清洗</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://hegang.58.com/dengjubaojie/" target="_blank">鹤岗灯具清洗</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/gaokongqingxi/" target="_blank">鹤岗高空清洗</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/blmuqiangqx/" target="_blank">鹤岗玻璃幕墙</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/yancongqx/" target="_blank">鹤岗烟囱清洗</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/chuchongchuyi/" target="_blank">鹤岗除虫除蚁</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/mieshu/" target="_blank">鹤岗灭鼠</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/miezl/" target="_blank">鹤岗灭蟑螂</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/miewen/" target="_blank">鹤岗灭蚊</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/miecy/" target="_blank">鹤岗灭苍蝇</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/mieby/" target="_blank">鹤岗灭白蚁</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/mietz/" target="_blank">鹤岗灭跳蚤</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/miecc/" target="_blank">鹤岗灭臭虫</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/kongqijinghua/" target="_blank">鹤岗空气净化</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/shineikq/" target="_blank">鹤岗室内空气净化</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/cheneikq/" target="_blank">鹤岗车内空气净化</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/shineixd/" target="_blank">鹤岗室内消毒</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/shiwaixd/" target="_blank">鹤岗室外消毒</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/cheneixd/" target="_blank">鹤岗车内消毒</a>        
+    	                			    		</dd>
+             		<dt><span>管道</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://hegang.58.com/diloust/" target="_blank">鹤岗地漏</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/mianpenst/" target="_blank">鹤岗面盆</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/yugangst/" target="_blank">鹤岗浴缸</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/caichist/" target="_blank">鹤岗菜池</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/dunbuchi/" target="_blank">鹤岗墩布池</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/hfcqingdi/" target="_blank">鹤岗化粪池清底</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/wsjqingtao/" target="_blank">鹤岗污水井清掏</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/shenghuachi/" target="_blank">鹤岗生化池</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/dxspaiwu/" target="_blank">鹤岗地下室排污</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/choufen/" target="_blank">鹤岗抽粪</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/yaliguandao/" target="_blank">鹤岗压力管道安装</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/meiqiguandao/" target="_blank">鹤岗煤气管道安装</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/yushuigd/" target="_blank">鹤岗雨水管道安装</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/kongtiaogd/" target="_blank">鹤岗空调管道</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/gongshuigd/" target="_blank">鹤岗供水管道</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/tianranqigd/" target="_blank">鹤岗天然气管道</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/religd/" target="_blank">鹤岗热力管道</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/gdshiya/" target="_blank">鹤岗管道试压</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/gddakong/" target="_blank">鹤岗管道打孔</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/gdgaizao/" target="_blank">鹤岗管道改造</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/gdfangfu/" target="_blank">鹤岗管道防腐</a>        
+    	                			    		</dd>
+             		<dt><span>网络</span></dt>
+    		<dd>
+    	            			    	                	                 <a href="http://hegang.58.com/fuwuqishuju/" target="_blank">鹤岗服务器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/ibmfwqweix/" target="_blank">鹤岗IBM服务器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/huipufwq/" target="_blank">鹤岗惠普服务器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/dellfwq/" target="_blank">鹤岗戴尔服务器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/sunfwq/" target="_blank">鹤岗Sun服务器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/lianxiangfwq/" target="_blank">鹤岗联想服务器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/langchaofwq/" target="_blank">鹤岗浪潮服务器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/shuguangfwq/" target="_blank">鹤岗曙光服务器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/huashuofwq/" target="_blank">鹤岗华硕服务器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/tongfangfwq/" target="_blank">鹤岗同方服务器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/baodefwq/" target="_blank">鹤岗宝德服务器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/fangzhengfwq/" target="_blank">鹤岗方正服务器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/ablenetfwq/" target="_blank">鹤岗ABLENET服务器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/huaweifwq/" target="_blank">鹤岗华为服务器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/jijiafwq/" target="_blank">鹤岗技嘉服务器维修</a>        
+    	                			    	                	                 <a href="http://hegang.58.com/pingguofwq/" target="_blank">鹤岗苹果服务器维修</a>        
+    	                			    		</dd>
+                 </dl>
+      </dd>
+    </dl>
+ 	<!-- =E relatelink -->
+	<!-- =S bottomlink-->
+	            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+				电脑维修- 相关类别：
+			</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://www.58.com/hyzt/dianqi/'>家电维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/dianshiweixiu/'>电视维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/bingxiangweixiu/'>冰箱维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/kongtiao/'>空调维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/reshuiqiweixiu/'>热水器维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/xiyijiweixiu/'>洗衣机维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shoujiweixiu/'>手机维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/fangweixiu/'>房屋维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/weixiu/'>电脑维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/bijibenweixiu/'>笔记本维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiajuweixiu/'>家具维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/chufangwx/'>厨房家电维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/wangluoweixiu/'>网络维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shumaxiangjiwx/'>数码维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zhuangxiujc/'>装修建材</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiaoyu/'>教育培训</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/hunjiehunqing/'>婚庆摄影</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/qichefw/'>汽车服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shop/'>批发采购</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shenghuo/'>家政服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shangwu/'>商务服务</a></li>
+        		        		<li><a href='http://www.58.com/ppb58weixiu2/'>品牌家电维修大全</a></li>
+        		        		<li><a href='http://www.58.com/ppbhyzt1/'>黄页大全</a></li>
+        		        		<li><a href='http://www.58.com/pprmap5/'>家政地图</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+		<!-- =E bottomlink -->
+	<!-- =S hotcity-->
+	        <dl class="linksItem hotcity" id="hotcity">
+    	<dt class="b-left">鹤岗电脑维修周边城市：</dt>
+    	<dd class="b-right">
+    		<ul class="b-ul">
+    			    			<li><a href="http://hrb.58.com/weixiu/">哈尔滨电脑维修</a></li>
+    			    			<li><a href="http://qqhr.58.com/weixiu/">齐齐哈尔电脑维修</a></li>
+    			    			<li><a href="http://mdj.58.com/weixiu/">牡丹江电脑维修</a></li>
+    			    			<li><a href="http://jms.58.com/weixiu/">佳木斯电脑维修</a></li>
+    			    			<li><a href="http://dq.58.com/weixiu/">大庆电脑维修</a></li>
+    			    			<li><a href="http://jixi.58.com/weixiu/">鸡西电脑维修</a></li>
+    			    			<li><a href="http://suihua.58.com/weixiu/">绥化电脑维修</a></li>
+    			    		</ul>
+    	</dd>
+    </dl>
+	<!-- =S hotcity -->
+            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+					电脑维修- 热门城市：
+					</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://bj.58.com/weixiu/'>北京电脑维修</a></li>
+        		        		<li><a href='http://sh.58.com/weixiu/'>上海电脑维修</a></li>
+        		        		<li><a href='http://gz.58.com/weixiu/'>广州电脑维修</a></li>
+        		        		<li><a href='http://sz.58.com/weixiu/'>深圳电脑维修</a></li>
+        		        		<li><a href='http://tj.58.com/weixiu/'>天津电脑维修</a></li>
+        		        		<li><a href='http://hz.58.com/weixiu/'>杭州电脑维修</a></li>
+        		        		<li><a href='http://wh.58.com/weixiu/'>武汉电脑维修</a></li>
+        		        		<li><a href='http://xa.58.com/weixiu/'>西安电脑维修</a></li>
+        		        		<li><a href='http://cd.58.com/weixiu/'>成都电脑维修</a></li>
+        		        		<li><a href='http://zz.58.com/weixiu/'>郑州电脑维修</a></li>
+        		        		<li><a href='http://cs.58.com/weixiu/'>长沙电脑维修</a></li>
+        		        		<li><a href='http://nj.58.com/weixiu/'>南京电脑维修</a></li>
+        		        		<li><a href='http://hrb.58.com/weixiu/'>哈尔滨电脑维修</a></li>
+        		        		<li><a href='http://sy.58.com/weixiu/'>沈阳电脑维修</a></li>
+        		        		<li><a href='http://su.58.com/weixiu/'>苏州电脑维修</a></li>
+        		        		<li><a href='http://sjz.58.com/weixiu/'>石家庄电脑维修</a></li>
+        		        		<li><a href='http://dl.58.com/weixiu/'>大连电脑维修</a></li>
+        		        		<li><a href='http://qd.58.com/weixiu/'>青岛电脑维修</a></li>
+        		        		<li><a href='http://jn.58.com/weixiu/'>济南电脑维修</a></li>
+        		        		<li><a href='http://cq.58.com/weixiu/'>重庆电脑维修</a></li>
+        		        		<li><a href='http://fx.58.com/weixiu/'>阜新电脑维修</a></li>
+        		        		<li><a href='http://yb.58.com/weixiu/'>宜宾电脑维修</a></li>
+        		        		<li><a href='http://cy.58.com/weixiu/'>朝阳电脑维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/weixiu/'>电脑维修</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+	<!-- =E hotcity --> 	<!-- =E hotcity -->
+	<!-- =S friendlink-->
+			<dl id="friendlink" class="linksItem friendlink">
+<dt class="b-left"> 友情链接：</dt>
+<dd class="b-right"><a href='http://gz.58.com/weixiu/' target='_blank'>广州电脑维修</a>&nbsp;<a href='http://sh.58.com/weixiu/' target='_blank'>上海电脑维修</a>&nbsp;  <a href="/link.html" target="_blank">更多...</a></dd>
+</dl>
+		<!-- =E friendlink -->
+</section>
+	<footer id="footer" class="footer">
+	    <div id="upWrap"> <a target="_blank" href="http://about.58.com/help.html" rel="nofollow">常见问题</a><span>|</span> <a target="_blank" href="http://about.58.com/" rel="nofollow">帮助中心</a><span>|</span> <a target="_blank" href="http://about.58.com/feedback.html" rel="nofollow">意见反馈</a><span>|</span> <a target="_blank" href="http://about.58.com/home/" rel="nofollow">了解58同城</a><span>|</span> <a target="_blank" href="http://about.58.com/hr/" rel="nofollow">加入58同城</a><span>|</span> <a target="_blank" href="http://fanqizha.58.com/" rel="nofollow">反欺诈联盟</a><span>|</span> <a target="_blank" href="http://110.58.com" rel="nofollow">报案平台</a><span>|</span> <a target="_blank" href="http://e.58.com" rel="nofollow">推广服务</a><span>|</span> <a target="_blank" href="http://biz.58.com" rel="nofollow">渠道招商</a><span>|</span> <a target="_blank" href="http://baozhang.58.com" rel="nofollow">先行赔付</a><span>|</span> <a target="_blank" href="http://ir.58.com?PGTID=0d100000-0000-13da-8041-51f9a3a739fa&amp;ClickID=2" rel="nofollow">Investor Relations</a> </div>
+	    <div id="downWrap"> <em>2005-2016 58.com版权所有</em><span>|</span> <em>京公网备案信息110105000809</em><span>|</span> <a target="_blank" href="http://www.miibeian.gov.cn/" rel="nofollow">京ICP证060405</a><span>|</span><em>乙测资字11018014</em><span>|</span> <a target="_blank" href="http://ir.58.com" rel="nofollow">Investor Relations</a><span>|</span><em>违法信息举报：4008135858&nbsp;&nbsp;jubao@58ganji.com</em> </div>
+	    <div class="fotBtmIcon">
+	        <a target="_blank" id="fotBm_1" href="http://fanqizha.58.com"></a>
+	        <a target="_blank" id="fotBm_2" href="http://www.12377.cn/"></a>
+	        <a target="_blank" id="fotBm_3" href="http://www.12377.cn/node_548446.htm"></a>
+	        <a target="_blank" id="fotBm_4" href="https://credit.szfw.org/CX20120918001650001720.html"></a>
+	        <a target="_blank" id="fotBm_5" href="http://img.58cdn.com.cn/ui6/index/qyxinyong.jpg?v=3"></a>
+	        <a target="_blank" id="fotBm_6" href="http://about.58.com/fqz/index.html"></a>
+	    </div>
+	</footer>
+<script>
+	var currentDate = new Date();
+</script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfc_v20160418145051.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfcInit_v20161121150119.js'></script>
+<script>
+	var jingzhun_ads = [];
+	var jingzhun_ads_param = "";
+</script>
+
+				<script type="text/javascript" src='http://j1.58cdn.com.cn/js/5_1/comm_js/boot_listpage_version_v20170329165708.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript">
+document.domain = '58.com';
+var win = new GetToolTipWindow('tooltipdiv', 'keyword', '3','9061','', true);win.setSearchButton('searchbtn');
+var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','9061','');win1.setSearchButton('searchbtn1');
+var win2 = new GetToolTipWindow('tooltipdiv2', 'mudidi', '7', '9061', '');win2.setSearchButton('searchbtn1');
+boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'hegang');});
+</script>
+
+<script type="text/javascript" >
+// JavaScript Document
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	toggle(".p-help");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".small-tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+
+$("#shangmenfw a").each(function(){
+	if("到店服务"== $(this).text().trim()){
+		$(this).remove();
+	}
+});
+
+BAIDU_CLB_fillSlot("567863");
+
+var alldt = $("#relateSelect>dt");
+function showNear(dt){
+    alldt.each(function(){
+        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+        else {$(this).next("dd").hide();$(this).removeClass("select");}
+    });
+}
+alldt.each(function(){
+    $(this).click(function(){showNear(this);}).hover(function(){showNear(this);});
+});
+
+showNear(alldt[0]);
+
+	boot.require('dom, anim.hover', function(Frame, dom, hover){
+	  var cc = dom.get('infolist'),
+	      trs = cc.getElementsByTagName('tr');
+	  Frame.each(trs, function(item){
+	    hover.bind(item, 'bg');
+	  });
+	});
+	$(".selector").each(function(){
+	  $(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+	});
+  
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+$(".selector").each(function(){
+	$(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+});
+
+</script>
+
+<div style="display:none;">
+<script type="text/javascript">
+ var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3bb04d7a4ca3846dcc66a99c3e861511' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+</div>
+
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+
+
+			<script type="text/javascript" src='http://j1.58cdn.com.cn/js/v8/boot/boot_huangye_v20170329172410.js'>
+		</script>
+		<script>
+			require(['_pkg/huangye/huangye_shenghuo_list_dom'],function(){});
+		</script>
+	
+<script src="http://track.58.com/adsys/ggafs?rand=20170404"></script>
+<script>
+//统计埋点
+$(function(){
+	$('dl.secitem').each(function(){
+	    var idname = $(this).find("dd").eq(0).attr('id');
+		$(this).find('a').not('span a').each(function(){
+			$(this).click(function(){
+				clickLog('from=pc_list_weixiu_shaixuan_'+idname+ '_hegang');
+		    });		
+		});	
+    });	
+})
+</script>
+<script type="text/javascript">
+    $("#more_ObjectType").click(function(){
+    	console.log("ok");
+    	var showmoreBrand = document.getElementById("moreBrandct"),moreBrandbtn = document.getElementById("moreBrandbtn");
+	    showmoreBrand.style.display = (showmoreBrand.style.display=="block")?"none":"block";
+	    moreBrandbtn.className = (moreBrandbtn.className=="moreBrand")?"moreBrand hold":"moreBrand";
+    });
+    var pemorealldt = $("#moreBrandct dt");
+	function showpemorecon(dt){
+		pemorealldt.each(function(){
+		    if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+            else {$(this).next("dd").hide();$(this).removeClass("select");}
+        });
+    }
+    pemorealldt.each(function(){
+		$(this).click(function(){showpemorecon(this);}).hover(function(){showpemorecon(this);});
+    });
+    showpemorecon(pemorealldt[0]);
+</script>
+		<script type="text/javascript">
+function cpcget(url){
+	$.ajax({
+		url:url,
+		type:"get",
+		dataType:"jsonp",
+		success:function(data){
+		
+        }
+    });	
+}
+</script>					<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e15962162366a86a6229038443847be7";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div style="display:none">
+	<!--基本统计代码begin(8512,0)--by:zhanghao06-->
+<script type="text/javascript">
+____json4fe.supplycount = {sortid:'29196973158475'};
+var _gaq = _gaq || [],site_name = "58",post_count = "236",shop_count= "",page_type = "list";
+var _trackURL = "{'cate':'8512,111','area':'9061','pagetype':'list','GA_pageview':'/hegang/shenghuo/weixiu/listversion/','version':'A','pagesize':'35','pagenum':'1','level1':'','level2':'','level3':'','level4':'','level5':'','level6':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/hegang/shenghuo/weixiu/listversion/']);
+
+$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+<!--基本统计代码end-->
+</div>
+<script src="http://wechat.58.com/google-analytics"></script> 				<!-- 抢单神器下线-->
+				<!-- 抢单神器下线-->
+		<!-- 装修搜索弹窗  S -->
+				<!-- 招标弹框start -->
+<link rel="stylesheet" href='http://c.58cdn.com.cn/ds/zhaobiao/pc_search_win/list_win_zb_v20161010135135.css' />
+<script src="http://j1.58cdn.com.cn/ds/zhaobiao/v1/js/fastpost/jquery.md5.js"></script>
+<script>
+ var cityid=9061;
+</script>
+
+        <!-- 招标弹框end -->
+
+
+				<!-- 装修搜索弹窗  E -->
+		<!-- 前置登陆  s -->
+				<!-- 前置登陆  e -->
+	</body>
+</html>

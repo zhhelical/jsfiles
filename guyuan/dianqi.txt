@@ -1,0 +1,1409 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+												<!--  当前的类别归属ID--> 
+		<!--  当前的类别表现ID--> 
+		<!--  当前的类别listname (eg:banjia)--> 
+		<!--  当前的类别catename (eg:搬家)--> 
+		<!--  一级类别归属ID--> 
+		<!--  一级类别表现ID--> 
+		<!--  一级类别listname eg:jiazheng--> 
+		<!--  一级类别catename eg:家政--> 
+		<!--  二级类别归属ID [Ljava.lang.Integer;@325a0775 数字长度：2--> 
+			<!--  二级类别表现ID--> 
+				<!--  二级类别listname eg:jiazhuang--> 
+				<!--  二级类别catename eg:家装-->
+				<!-- 表现类别的全路径   eg:8512,96-->
+									
+						<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>【58同城】固原家电维修_电器维修_固原家电维修网</title>
+	<meta name="description" content='58同城固原家电维修频道是最大的固原家电维修免费信息发布、查阅平台。每天都有大量专业、真实的优秀商家提供固原家电维修电话、价格信息供大家选择，品牌家电维修就来58同城固原家电维修频道.'/>
+	<meta name="keywords" content='固原家电维修,固原家电维修网,固原电器维修'/>
+	<meta http-equiv="X-UA-Compatible" content="edge" />
+		<meta name="location" content="province=宁夏;city=固原;coord=106.285268,36.021523">
+				<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/guyuan/dianqi/" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/guyuan/dianqi/" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/guyuan/dianqi/" />
+					<script type="text/javascript">
+		var ____loadCfg = ['huangye', 'shenghuo', 'listpage'];
+	</script>
+	<script src='http://j2.58cdn.com.cn/js/require_jquery_load.js'></script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">document.write('<scri'+'pt src="http://j1.58cdn.com.cn/ds/tgbrand/js/brand_listpage_v1.js?temp=' + Math.random() + '"></scri'+'pt>');</script> 
+<script type="text/javascript">
+	var xxfwConfig = {namespace:'huangyelistpc'};
+</script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/resource/xxzl/xxfw/xxfw.min_v20161021110430.js'></script>
+
+<script type="text/javascript">
+try{
+	var ____json4fe = {"catentry":[{"dispid":"8512","name":"家政服务","listname":"shenghuo"},{"dispid":"203","name":"家电维修","listname":"dianqi"}],"locallist":[{"dispid":"2421","name":"固原","listname":"guyuan"}],"start":(new Date()).getTime(),"modules":"list"};
+	____json4fe.version = 'A';
+	____json4fe.modules = 'listpage';
+	____json4fe.sid = '176593901195328794554548792';
+	____json4fe.sessionid = 'ea50b42d-02a6-4110-aa60-8886c91c8fea';
+	____json4fe.smsc = 'acdc831ba4f5495a8c351e9df00139eb070dce68943cd23ae8c7ea57d8639d80e3ec3b192be1f1cd288c91b7f65a2002be33f3c59bb9873613f9282b0f200ba36a18e76b1a0e7cd7fe8d5cb67ebb5183aa3b2a9fb1b534a6fad214ad972e17b8116ed129cff49bc5302423888c8ceb99dda5982a767b39421dffcda877b6c21b9b007d3cbc14bc4dfad5357663a7c4e93ab1d28f80e801d7';
+	____json4fe.newcateid='';
+	____json4fe.keyword='';
+	____json4fe.page='1';
+	____json4fe.param='';
+	}catch(e){};
+	(function(){
+var e = "header,nav,section,aside,article,footer".split(','),
+i=0,
+length=e.length;
+while(i<length){
+    document.createElement(e[i++])
+}
+})();
+	var ajax_param = '{"pageIndex":1,"infoMethod":["renzheng","baojia","wltAge"],"platform":"pc","paramMap":null,"dispCateId":203,"dataParam":"27847884259913_41998106682639_0_commoninfo,29331815065146_38793662869261_0_commoninfo,25620055889592_36193061487374_0_commoninfo,28441791694413_43970379945999_0_commoninfo,25203374685387_34289993578247_0_commoninfo,29394624901060_46129121130256_0_commoninfo,18732827463555_21872939895047_0_commoninfo,29241832680507_45823987565079_0_commoninfo,29040273849166_43627105649429_0_commoninfo,29007449857850_45355508412693_0_commoninfo,26156141588046_9242584446727_0_commoninfo,27567504933194_41613920403221_0_commoninfo,27001694142794_40749169617940_0_commoninfo,28402564903868_41417311810578_0_commoninfo,27238062050348_34835123592967_0_commoninfo,28355382256822_43914134537742_0_commoninfo,26506723588783_23565981639174_0_commoninfo,28181157091919_35324130871566_0_commoninfo,28049305623627_35166256627990_0_commoninfo,27811193773903_42963289739795_0_commoninfo,27728697610414_12155219633415_0_commoninfo,27705379280686_42751325144079_0_commoninfo,27662693843405_32147077195783_0_commoninfo,23458708351263_33716728923398_0_commoninfo,27076285613892_12401501428487_0_commoninfo,27038625824428_38216637076751_0_commoninfo,24021895294526_18478517995271_0_commoninfo,23643893212704_34493878894860_0_commoninfo,26354379088823_39961122434582_0_commoninfo,26007891534386_39356338167827_0_commoninfo,25848267446832_33882387320073_0_commoninfo,23864750006460_35070378971147_0_commoninfo,22457964946078_26087709419527_0_commoninfo,27427927151666_41998106682639_0_promationinfo,27847884259913_41998106682639_0_promationinfo","dispCateName":"dianqi"}';
+	var s_ajax_param = 's_contact_dianqi_176593901195328794554548792_';
+</script>				<link href='http://c.58cdn.com.cn/ds/v1/base-v1_v0.css' rel="stylesheet" type="text/css">
+<link href='http://c.58cdn.com.cn/ds/v1/common_list_v20170315183710.css' rel="stylesheet" type="text/css">
+
+<link href='http://c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20170117143121.css' rel="stylesheet" type="text/css">
+
+
+		<link href='http://c.58cdn.com.cn/ds/v1/list/defaultList_v20170220190119.css' rel="stylesheet" type="text/css">
+	<!-- <link rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv02_v0.css'> -->
+<link type="text/css" rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03_v20160727171301.css'>
+<!-- <link type="text/css" rel="stylesheet" href="http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03.css"> -->
+
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/dialog_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/release_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/retable_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/weixin/hy_freetel_v20161207184444.css">	
+    		<script type='text/javascript'>
+      var _vds = _vds || [];
+      window._vds = _vds;
+      (function(){
+        _vds.push(['setAccountId', '9391e9a613c08987']);
+        _vds.push(['setImp', false]);
+        (function() {
+          var vds = document.createElement('script');
+          vds.type='text/javascript';
+          vds.async = true;
+          vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(vds, s);
+        })();
+      })();
+    </script>
+    	</head>
+			<body class="">
+						<!-- =S top bar header -->
+		<div id="commonTopbar" class="commonTopbar">
+<script type="text/javascript">
+    var secId;
+        ____json4fe.catentry[1]? secId = ____json4fe.catentry[1].dispid : secId = ____json4fe.catentry.dispid;
+    var modules = ____json4fe.modules;
+    //搬家列表页(secId == "96" && modules=="listpage")宽度为1190px
+    if(secId == "96" && modules=="listpage"){
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'default' // default: 1190px, narrow: 1000px
+            });
+        };
+    }else{
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'narrow' // default: 1190px, narrow: 1000px
+            });
+        };
+    }    
+</script>
+</div>
+<!-- =S banner  div -->
+<div class="topbannerbar"><div id="brand_list_top_banner" onclick="clickLog('from=pc_list_dianqi_top_banner');" ></div></div>
+<!-- =E banner  div--><header id="header">
+    <div class="header-inner">
+    <a class="logo float_l" href="/huangye/" target="_blank" onclick="clickLog('from=pc_list_logo_dianqi');">58同城</a>
+            <a href='http://post.58.com/2421/203/s5' target="_blank" onclick="clickLog('from=pc_list_fabu_dianqi');" class="postbtn float_r">免费发布</a>
+        		        <div class="header-search float_r">
+         <em class="ico-searchkey"></em>
+         <form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+         	            	<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();" onclick="clickLog('from=list_dqsrk_a&psid=176593901195328794554548792');">
+                                    <span onMouseOut="this.className='sbtn'" onMouseOver="this.className='sbtn hover'" class="sbtn">
+                        	<input type="submit" value="搜服务" onClick="clickLog('from=list_dqsbl_a&psid=176593901195328794554548792');" class="but-bl" name="" id="searchbtn1"></span>
+                		        		<div class="clear"></div>
+        		<span class="hotsearch">
+               <a href="http://guyuan.58.com/dianqi/?key=%E5%87%80%E6%B0%B4%E6%9C%BA&final=1&searchtype=3&sourcetype=21" onclick="clickLog('from=pc_list_resouci_1_dianqi');_gaq.push(['pageTracker._trackEvent', 'list', 'tag_click', '/huangye/hotkeywords/zz/dianqi/']);">净水机</a>
+       		
+			   </span>
+    		       	  </form>
+       	</div>
+		            <div class="nav float_l" >
+<a href="/">固原58同城</a> &gt; <a href="/shenghuo.shtml">固原家政服务</a>
+		 &gt; <a href="/dianqi/" itemprop="url">固原家电维修</a>
+
+</div>
+	</div>
+</header>
+	<!-- =E top bar header -->
+	<!-- =S common_column_label-->
+			<!-- =E common_column_label-->
+	<!-- =S searchTip -->
+			<!-- =E searchTip  -->
+	<!-- =s cmcs -->
+							<section id="selection">
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">类别 ：</dt>
+		<dd id="ObjectType" >
+																    		    		    		    					<a href="/dianqi/" class='select' >全部</a>
+								    		    		    		    					<a href="http://guyuan.58.com/bingxiangweixiu/"  >冰箱维修</a>
+								    		    		    		    					<a href="http://guyuan.58.com/dianshiweixiu/"  >电视维修</a>
+								    		    		    		    					<a href="http://guyuan.58.com/reshuiqiweixiu/"  >热水器维修</a>
+								    		    		    		    					<a href="http://guyuan.58.com/kongtiao/"  >空调维修/移机</a>
+								    		    		    		    					<a href="http://guyuan.58.com/xiyijiweixiu/"  >洗衣机维修</a>
+								    		    		    		    					<a href="http://guyuan.58.com/chufangwx/"  >厨房家电维修</a>
+								    		    		    		    					<a href="http://guyuan.58.com/yixiangwx/"  >影音家电维修</a>
+								    		    		    		    					<a href="http://guyuan.58.com/xiaojiadianwx/"  >小家电维修</a>
+															    					    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">是否上门 ：</dt>
+		<dd id="shangmenfw" >
+																    		    		    		    					<a href="/dianqi/" class='select' >全部</a>
+								    		    		    		    					<a href="http://guyuan.58.com/dianqi/pve_9164_657337/"  >上门服务</a>
+								    		    		    		    					<a href="http://guyuan.58.com/dianqi/pve_9164_657338/"  >到店服务</a>
+																				    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">服务区域  ：</dt>
+		<dd id="local" >
+																    		    		    		    					<a href="/dianqi/" class='select' >全固原</a>
+								    		    		    		    					<a href="/guyuanshi/dianqi/"  >固原</a>
+								    		    		    		    					<a href="/yuanzhouqu/dianqi/"  >原州</a>
+								    		    		    		    					<a href="/xijixian/dianqi/"  >西吉</a>
+								    		    		    		    					<a href="/longdexian/dianqi/"  >隆德</a>
+								    		    		    		    					<a href="/pengyangxian/dianqi/"  >彭阳</a>
+								    		    		    		    					<a href="/jingyuanxian/dianqi/"  >泾源</a>
+								    		    		    		    					<a href="/haiyuanxian/dianqi/"  >海原</a>
+								    		    		    		    					<a href="/jingjikaifa/dianqi/"  >经济开发区</a>
+																									    	</dd>
+    </dl>
+	<div id="selected" class="bar"></div>
+	<i class="shadow"></i>
+</section>
+
+			<!-- =E cmcs -->
+		<div id="adtop_1" class="hc"><div class="mouter defa"><div class="inner"><div id="md3" class="mdul"></div><ul id="md1" class="mdul"></ul><ul id="md2" class="mdul"></ul><ul id="md4" class="mdul"></ul><ul id="md5" class="mdul"></ul><div class="clear"></div></div></div></div>
+<div class="tabsbar">
+    <div class="list-tabs">
+												<a href="/dianqi/" onclick="clickLog('from=pc_list_dianqi_list_tabs');" class="sel"><h1>固原家电维修</h1></a>
+											</div>
+ 	    	                	        
+
+		
+	
+		<span class="zhaobiao" >
+		<a href="http://bianmin.58.com/guyuan/?from=pc_list_bianmin_wzl"
+		   target="_blank" >学习办事经验，解决办证难题</a>
+	</span>
+	
+			
+
+</div>
+ 				<section id="mainlist" class="main clearfix pr">
+					<div class="filterbar h28">
+    <div class="filterbar-l">
+			<!-- <div class="filterup" id="filterup">
+				 <a class="m1" title="找班级" href="#" rel="nofollow" onclick=""><span>找班级<em></em></span></a>
+				 <a class="m1" title="找拼友" href="#" rel="nofollow" onclick=""><span>找拼友<em></em></span></a>
+			</div>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">全部</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示教育机构</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示个人教师</a></span> -->
+				<div class="filterup" id="filterup">
+			 <a class="m1 sel" title="默认" href="#" rel="nofollow" onclick="g2({sort:null}); clickLog('from=huangye_list_moren_dianqi_guyuan&psid=176593901195328794554548792'); "><span>默认排序<em></em></span></a>
+								</div>
+												<span class="checkbox-ico" id="renzheng"><a href="javascript:void(0);" onclick="clickLog('from=List_sort_dianqi__zhikanrenzheng');">只看认证</a></span>
+									
+									</div>  
+     <div class="filterbar-md">
+    	    	<!-- 加入医疗健康判断-->
+    	    		    		        		       <a class="mdtj" style="display:inline-block;" rel="nofollow" target="_blank" href="http://e.58.com/shenghuo.html" onClick="clickLog('from=huangye_zhaoshang&psid=176593901195328794554548792');">想提升接单效果，请致电4008107258</a>
+    		        		    	
+				   </div>        
+</div>
+					<div id="infolist" class="cleft" >
+				<!-- =S infolist -->
+									<div id="top_google_ad"></div>
+<table class="small-tbimg" cellspacing="0" cellpadding="0" >
+							<tr logr='j_2_41998106682639_27427927151666_3' infotag="27427927151666_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_dianqi_xinxi_promationinfo_tupian&entityId=27427927151666&entityType=0&psid=176593901195328794554548792');">
+		<div>
+			<a href='http://guyuan.58.com/dianqi/27427927151666x.shtml?psid=176593901195328794554548792&entinfo=27427927151666_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic1.58cdn.com.cn/p2/tiny/n_v1bl2lwkb7ftrvputsbf4q.png' alt='宁夏快易修电器服务有限公司' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://guyuan.58.com/dianqi/27427927151666x.shtml?psid=176593901195328794554548792&entinfo=27427927151666_0' target="_blank" class="t" >专业维修空调、冰箱、电视、洗衣机、热水器、燃气灶</a>
+							<span class='tu'>[2图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='203' -->
+		            				<br />
+									    		一、维修项目包括：1.空调：安装、维修、移机、加氟、保养2....
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5842166886849799.5858.com?psid=176593901195328794554548792&entinfo=27427927151666_0" onClick="clickLog('from=List_wangzhan&entityId=27427927151666&entityType=0&psid=176593901195328794554548792');" target='_blank' class='u' rel="nofollow">宁夏快易修电器服务有限公司</a>
+
+		</p>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop " data-id='27427927151666' wltMark="2" param="27427927151666_41998106682639_0_promationinfo_5ADE563DC13298465C9B3F8E9DCE8E10" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27427927151666&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='j_2_41998106682639_27847884259913_3' infotag="27847884259913_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_dianqi_xinxi_promationinfo_tupian&entityId=27847884259913&entityType=0&psid=176593901195328794554548792');">
+		<div>
+			<a href='http://guyuan.58.com/dianqi/27847884259913x.shtml?psid=176593901195328794554548792&entinfo=27847884259913_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic5.58cdn.com.cn/p2/tiny/n_v1bkuyfvpyzqivrzfknnpq.png' alt='宁夏快易修电器服务有限公司' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://guyuan.58.com/dianqi/27847884259913x.shtml?psid=176593901195328794554548792&entinfo=27847884259913_0' target="_blank" class="t" >专业维修空调、冰箱、电视、洗衣机、热水器、油烟机</a>
+							<span class='tu'>[1图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='203' -->
+		            				<br />
+									    		一、维修项目包括：1.空调：安装、维修、移机、加氟、保养2....
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5842166886849799.5858.com?psid=176593901195328794554548792&entinfo=27847884259913_0" onClick="clickLog('from=List_wangzhan&entityId=27847884259913&entityType=0&psid=176593901195328794554548792');" target='_blank' class='u' rel="nofollow">宁夏快易修电器服务有限公司</a>
+
+		</p>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop " data-id='27847884259913' wltMark="2" param="27847884259913_41998106682639_0_promationinfo_C73765C2DB1D0FB908D4D8BE05A66650" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27847884259913&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_2_41998106682639_27847884259913_0' infotag="27847884259913_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李师傅 : </b>
+				<a href='http://guyuan.58.com/dianqi/27847884259913x.shtml?psid=176593901195328794554548792&entinfo=27847884259913_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			专业维修空调、冰箱、电视、洗衣机、热水器、油烟机
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												一、维修项目包括：1.空调：安装、维修、移机、加氟、保养2.冰箱、冷柜...
+				(12-02)
+							<p class="seller">
+			<a href="http://t5842166886849799.5858.com?psid=176593901195328794554548792&entinfo=27847884259913_0" onClick="clickLog('from=List_wangzhan&entityId=27847884259913&entityType=0&psid=176593901195328794554548792');" target='_blank' class='u' rel="nofollow">宁夏快易修电器服务有限公司</a>
+
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop " data-id='27847884259913' wltMark="2" param="27847884259913_41998106682639_0_commoninfo_C73765C2DB1D0FB908D4D8BE05A66650" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27847884259913&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_38793662869261_29331815065146_0' infotag="29331815065146_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王云贵 : </b>
+				<a href='http://guyuan.58.com/dianqi/29331815065146x.shtml?psid=176593901195328794554548792&entinfo=29331815065146_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			专业改水电的联系
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												旧楼改造，下水安装，地暖，新房子改暗水，做防水，太阳能，维修各种地沟管...
+				(2小时)
+							<p class="seller">
+					我被骗了
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='29331815065146' wltMark="0" param="29331815065146_38793662869261_0_commoninfo_20E6FAA515EDB477343F8F373F1BB3B8"  data-j4fe="18195425941,王云贵" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29331815065146&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_36193061487374_25620055889592_0' infotag="25620055889592_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">高师 : </b>
+				<a href='http://guyuan.58.com/dianqi/25620055889592x.shtml?psid=176593901195328794554548792&entinfo=25620055889592_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			固原友谊家电维修
+		</a>
+						<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												精修冰箱，洗衣机，电视机，热水器，微波炉，电磁炉，油烟机，灶头等各种家...
+				(03-22)
+							<p class="seller">
+					宇***3
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='25620055889592' wltMark="0" param="25620055889592_36193061487374_0_commoninfo_5FD29BF663CD693F757EB56FE1D9AA95"  data-j4fe="13649562373,高师" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25620055889592&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_43970379945999_28441791694413_0' infotag="28441791694413_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">冯彦俊 : </b>
+				<a href='http://guyuan.58.com/dianqi/28441791694413x.shtml?psid=176593901195328794554548792&entinfo=28441791694413_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			维修冰箱，洗衣机，电视等
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												近自己大的能力把机器俢好
+				(03-21)
+							<p class="seller">
+					y***s
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28441791694413' wltMark="0" param="28441791694413_43970379945999_0_commoninfo_CD7780E33621E9A0553B3CF5380A535C"  data-j4fe="15309590108,冯彦俊" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28441791694413&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_34289993578247_25203374685387_0' infotag="25203374685387_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王虎 : </b>
+				<a href='http://guyuan.58.com/dianqi/25203374685387x.shtml?psid=176593901195328794554548792&entinfo=25203374685387_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			上门维修洗衣机电磁炉微波炉等各种电器。
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												上门维修，随叫随到。
+				(03-19)
+							<p class="seller">
+					人***4
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='25203374685387' wltMark="0" param="25203374685387_34289993578247_0_commoninfo_A4029C33BB8ADF80D5BB1ABB4D01F62E"  data-j4fe="15309591657,王虎" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25203374685387&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_46129121130256_29394624901060_0' infotag="29394624901060_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张师傅 : </b>
+				<a href='http://guyuan.58.com/dianqi/29394624901060x.shtml?psid=176593901195328794554548792&entinfo=29394624901060_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			专业改水电，您放心的选择
+		</a>
+						<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												家装水电改造，家庭电路维修，安装开关插座，专业灯具安装，飞利浦开关插座...
+				(03-16)
+							<p class="seller">
+					j***f
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='29394624901060' wltMark="0" param="29394624901060_46129121130256_0_commoninfo_B0293B7981C1517AB0D08EECFC98D26F"  data-j4fe="17795446086,张师傅" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29394624901060&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_21872939895047_18732827463555_0' infotag="18732827463555_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">牛刚 : </b>
+				<a href='http://guyuan.58.com/dianqi/18732827463555x.shtml?psid=176593901195328794554548792&entinfo=18732827463555_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			挚诚家电安装维修中心
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												电热水器系列，空气能热水器系列，油烟机系列，净水机系列，燃气灶系列等安...
+				(03-06)
+							<p class="seller">
+					挚诚
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='18732827463555' wltMark="0" param="18732827463555_21872939895047_0_commoninfo_BCD7CE9A6BE96FBAE19072E85C98907D"  data-j4fe="13995142701,牛刚" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=18732827463555&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_45823987565079_29241832680507_0' infotag="29241832680507_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张先生 : </b>
+				<a href='http://guyuan.58.com/dianqi/29241832680507x.shtml?psid=176593901195328794554548792&entinfo=29241832680507_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			安防监控，楼宇对讲，水电暖改造，货车配货
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												专业安防监控、楼宇对讲、安装及维修，综合布线，水电暖改造，货车配货等！...
+				(03-02)
+							<p class="seller">
+					p***j
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='29241832680507' wltMark="0" param="29241832680507_45823987565079_0_commoninfo_A3F11DED67FB36603BA673C5CEAE04DF"  data-j4fe="15769642228,张先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29241832680507&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_43627105649429_29040273849166_0' infotag="29040273849166_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">吕峰 : </b>
+				<a href='http://guyuan.58.com/dianqi/29040273849166x.shtml?psid=176593901195328794554548792&entinfo=29040273849166_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			宁夏恒瑞鑫宇商贸有限公司
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												固原恒瑞鑫宇制冷设备有限公司:承接中央空调，家用空调，大型冷库，低温库...
+				(02-12)
+							<p class="seller">
+					q***q
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='29040273849166' wltMark="0" param="29040273849166_43627105649429_0_commoninfo_D4A02C425849F8292DD5EBDC7750EEA4"  data-j4fe="13299540090,吕峰" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29040273849166&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_45355508412693_29007449857850_0' infotag="29007449857850_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李季华 : </b>
+				<a href='http://guyuan.58.com/dianqi/29007449857850x.shtml?psid=176593901195328794554548792&entinfo=29007449857850_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			华通制冷家电维修，配件
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												液晶电视维修，制冷维修，各类家用电器维修，电子设备维修，动力照明线路安...
+				(02-09)
+							<p class="seller">
+					e***6
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='29007449857850' wltMark="0" param="29007449857850_45355508412693_0_commoninfo_D26CA4F3A3208C5E6FC902F122E8C613"  data-j4fe="13709541931,李季华" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29007449857850&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_9242584446727_26156141588046_0' infotag="26156141588046_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张SIR : </b>
+				<a href='http://guyuan.58.com/dianqi/26156141588046x.shtml?psid=176593901195328794554548792&entinfo=26156141588046_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			全城低价电视信号锅安装调试
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												全城低价安装：18995441136上门调试
+				(01-25)
+							<p class="seller">
+					3***y
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='26156141588046' wltMark="0" param="26156141588046_9242584446727_0_commoninfo_FB59609F58DFED36DD1CA113FA5207F1"  data-j4fe="18995441136,张SIR" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26156141588046&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_41613920403221_27567504933194_0' infotag="27567504933194_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">段先生 : </b>
+				<a href='http://guyuan.58.com/dianqi/27567504933194x.shtml?psid=176593901195328794554548792&entinfo=27567504933194_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			专业清洗家电，上门服务
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												洁当家全屋健康家阵是全国十大家政加盟连锁品牌，授权资质齐全，主要倡导全...
+				(01-21)
+							<p class="seller">
+					如意公司
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27567504933194' wltMark="0" param="27567504933194_41613920403221_0_commoninfo_B93E26A5260317ABEC16234FA6053EF2"  data-j4fe="13139540968,段先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27567504933194&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_40749169617940_27001694142794_0' infotag="27001694142794_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">受经理 : </b>
+				<a href='http://guyuan.58.com/dianqi/27001694142794x.shtml?psid=176593901195328794554548792&entinfo=27001694142794_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			洁当家_专业家电清洗，油烟机清洗专家
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												洁当家全屋健康家政是全国十大家政加盟连锁品牌，主要倡导全屋健康保洁。清...
+				(12-18)
+							<p class="seller">
+					洁当家全屋健康家政服务中心
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27001694142794' wltMark="0" param="27001694142794_40749169617940_0_commoninfo_6E0F80806FA45D8EDCA6A2F3A11F220F"  data-j4fe="18695441800,受经理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27001694142794&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_41417311810578_28402564903868_0' infotag="28402564903868_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">高铎 : </b>
+				<a href='http://guyuan.58.com/dianqi/28402564903868x.shtml?psid=176593901195328794554548792&entinfo=28402564903868_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			鑫源冷库机电制冷设备工程
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												承接 中低温冷库安装 维修 加氟 空调 冰箱 宾馆热水 空气能机组
+				(12-16)
+							<p class="seller">
+					鑫***程
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28402564903868' wltMark="0" param="28402564903868_41417311810578_0_commoninfo_518F922CD63A19041B133F966FA4AEA1"  data-j4fe="15379660067,高铎" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28402564903868&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_34835123592967_27238062050348_0' infotag="27238062050348_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">杨旭 : </b>
+				<a href='http://guyuan.58.com/dianqi/27238062050348x.shtml?psid=176593901195328794554548792&entinfo=27238062050348_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			固原远大制冷设备经营有限公司
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												固原远大制冷冷设备经营有限公司是设计、销售、安装，维修一条龙服务企业。...
+				(12-16)
+							<p class="seller">
+					e***5
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27238062050348' wltMark="0" param="27238062050348_34835123592967_0_commoninfo_95E2073B72489BF191444285EB326A37"  data-j4fe="13649527454,杨旭" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27238062050348&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_43914134537742_28355382256822_0' infotag="28355382256822_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">穆师 : </b>
+				<a href='http://guyuan.58.com/dianqi/28355382256822x.shtml?psid=176593901195328794554548792&entinfo=28355382256822_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			疏通下水，打扫卫生，
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												改水暖电，维修太阳能，扎墙
+				(12-12)
+							<p class="seller">
+					w***6
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28355382256822' wltMark="0" param="28355382256822_43914134537742_0_commoninfo_71B7348186A40379A574A2F0775A3D09"  data-j4fe="18195498946,穆师" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28355382256822&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_23565981639174_26506723588783_0' infotag="26506723588783_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刘经理 : </b>
+				<a href='http://guyuan.58.com/dianqi/26506723588783x.shtml?psid=176593901195328794554548792&entinfo=26506723588783_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			固原彭阳县西吉县泾源县净水器安装
+		</a>
+						<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												净水器安装维修保养，主要负责安装
+				(12-07)
+							<p class="seller">
+					水电功服务
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='26506723588783' wltMark="0" param="26506723588783_23565981639174_0_commoninfo_A1DEF59217EF18DF29A19B93CC89256F"  data-j4fe="15109500295,刘经理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26506723588783&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_35324130871566_28181157091919_0' infotag="28181157091919_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">吕峰 : </b>
+				<a href='http://guyuan.58.com/dianqi/28181157091919x.shtml?psid=176593901195328794554548792&entinfo=28181157091919_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			宁夏恒瑞鑫宇商贸有限公司
+		</a>
+						<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												宁夏恒瑞鑫宇商贸有限公司是一家销售，安装，维修，保养，拆移机等制冷设备...
+				(11-30)
+							<p class="seller">
+					1***i
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28181157091919' wltMark="0" param="28181157091919_35324130871566_0_commoninfo_D4A02C425849F8292DD5EBDC7750EEA4"  data-j4fe="13299540090,吕峰" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28181157091919&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_35166256627990_28049305623627_0' infotag="28049305623627_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">杜师傅 : </b>
+				<a href='http://guyuan.58.com/dianqi/28049305623627x.shtml?psid=176593901195328794554548792&entinfo=28049305623627_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			东方家政，承接维修家用，农用各种电器和疏通上下水马
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												东方家政服务为您维修水，暖，家电，农用机械及电焊，切割，制作改造等等！...
+				(11-14)
+							<p class="seller">
+					阿***3
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28049305623627' wltMark="0" param="28049305623627_35166256627990_0_commoninfo_7B86CA8A0BA92A61B9E37DB9C528E764"  data-j4fe="15209572922,杜师傅" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28049305623627&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_42963289739795_27811193773903_0' infotag="27811193773903_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+				<a href='http://guyuan.58.com/dianqi/27811193773903x.shtml?psid=176593901195328794554548792&entinfo=27811193773903_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			懂安装维修家电灯具厨电
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												招安装工 18-45岁，有经验者优先 工资面议 刘洋
+				(10-24)
+							<p class="seller">
+					i***4
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27811193773903' wltMark="0" param="27811193773903_42963289739795_0_commoninfo_37F2C1AAC8660F756A631B09B38DA937"  data-j4fe="18384926899," >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27811193773903&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_12155219633415_27728697610414_0' infotag="27728697610414_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张生 : </b>
+				<a href='http://guyuan.58.com/dianqi/27728697610414x.shtml?psid=176593901195328794554548792&entinfo=27728697610414_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			专业净水机安装与维修
+		</a>
+						<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												净水机销售，安装与维修，净水机耗材！
+				(10-16)
+							<p class="seller">
+					a***1
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27728697610414' wltMark="0" param="27728697610414_12155219633415_0_commoninfo_0CBA45EEE75A9A8EEE27C48BA1544413"  data-j4fe="13639542696,张生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27728697610414&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_42751325144079_27705379280686_0' infotag="27705379280686_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">翟先生 : </b>
+				<a href='http://guyuan.58.com/dianqi/27705379280686x.shtml?psid=176593901195328794554548792&entinfo=27705379280686_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			专业清洗油烟机，专业维修家电
+		</a>
+						<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												专业清洗油烟机，家电，维俢
+				(10-14)
+							<p class="seller">
+					9***n
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27705379280686' wltMark="0" param="27705379280686_42751325144079_0_commoninfo_F1AABD2E765F09662C0EE82C2E2B62BD"  data-j4fe="13909546670,翟先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27705379280686&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_32147077195783_27662693843405_0' infotag="27662693843405_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">车师傅 : </b>
+				<a href='http://guyuan.58.com/dianqi/27662693843405x.shtml?psid=176593901195328794554548792&entinfo=27662693843405_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			水电暖安装改造维修
+		</a>
+						<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												家庭水电暖维修改造维修，灯具安装维修
+				(10-10)
+							<p class="seller">
+					1***z
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27662693843405' wltMark="0" param="27662693843405_32147077195783_0_commoninfo_08A98F180F93EBBAC38321DBB8475ECB"  data-j4fe="13409544009,车师傅" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27662693843405&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_33716728923398_23458708351263_0' infotag="23458708351263_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">翟成虎 : </b>
+				<a href='http://guyuan.58.com/dianqi/23458708351263x.shtml?psid=176593901195328794554548792&entinfo=23458708351263_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			上门服务各种电器精修
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												清洗各种油烟机精修各类家电
+				(10-07)
+							<p class="seller">
+					w***7
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='23458708351263' wltMark="0" param="23458708351263_33716728923398_0_commoninfo_F1AABD2E765F09662C0EE82C2E2B62BD"  data-j4fe="13909546670,翟成虎" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23458708351263&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_12401501428487_27076285613892_0' infotag="27076285613892_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+				<a href='http://guyuan.58.com/dianqi/27076285613892x.shtml?psid=176593901195328794554548792&entinfo=27076285613892_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			固原市及周边，电动门，停车场管理系统安装维修
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												小区，单位，学校电动大门.停车场管理系统，道闸，安装维修，配制遥控器，...
+				(08-18)
+							<p class="seller">
+					李***3
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27076285613892' wltMark="0" param="27076285613892_12401501428487_0_commoninfo_24EBCCD28CE159ECFFC50E78B32643E5"  data-j4fe="18209697627," >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27076285613892&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_38216637076751_27038625824428_0' infotag="27038625824428_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">高进 : </b>
+				<a href='http://guyuan.58.com/dianqi/27038625824428x.shtml?psid=176593901195328794554548792&entinfo=27038625824428_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			固原鑫源冷库设备工程
+		</a>
+						<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												承接 大小型冷库安装 维修 加氟 空调 冰箱 洗衣机 热水器 超市风幕...
+				(08-15)
+							<p class="seller">
+					1***x
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27038625824428' wltMark="0" param="27038625824428_38216637076751_0_commoninfo_11B88D152617D511C9578D50CAE12BD9"  data-j4fe="15709542062,高进" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27038625824428&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_18478517995271_24021895294526_0' infotag="24021895294526_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王先生 : </b>
+				<a href='http://guyuan.58.com/dianqi/24021895294526x.shtml?psid=176593901195328794554548792&entinfo=24021895294526_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			净水机安装维护，吸油烟机、坐便器安装。
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												承接网购产品安装维护
+				(08-14)
+							<p class="seller">
+					守***人
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='24021895294526' wltMark="0" param="24021895294526_18478517995271_0_commoninfo_92230B68C96A6ED17F810D365763F396"  data-j4fe="15809644954,王先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24021895294526&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_34493878894860_23643893212704_0' infotag="23643893212704_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">翟成虎 : </b>
+				<a href='http://guyuan.58.com/dianqi/23643893212704x.shtml?psid=176593901195328794554548792&entinfo=23643893212704_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			上门服务手机家电维修，专业清洗油烟机
+		</a>
+						<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												专业技术，诚信服务，贴心家政
+				(08-08)
+							<p class="seller">
+					翟*虎
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='23643893212704' wltMark="0" param="23643893212704_34493878894860_0_commoninfo_F1AABD2E765F09662C0EE82C2E2B62BD"  data-j4fe="13909546670,翟成虎" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23643893212704&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_39961122434582_26354379088823_0' infotag="26354379088823_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小张 : </b>
+				<a href='http://guyuan.58.com/dianqi/26354379088823x.shtml?psid=176593901195328794554548792&entinfo=26354379088823_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			洗衣机精修，户户通专业户
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												精修快些各类洗衣机，电视冰箱冰柜及家用电器，户户通专业安装调试
+				(06-14)
+							<p class="seller">
+					r***5
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='26354379088823' wltMark="0" param="26354379088823_39961122434582_0_commoninfo_41A91421383312E407142EE44882DA43"  data-j4fe="17795448023,小张" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26354379088823&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_39356338167827_26007891534386_0' infotag="26007891534386_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">马师修理 : </b>
+				<a href='http://guyuan.58.com/dianqi/26007891534386x.shtml?psid=176593901195328794554548792&entinfo=26007891534386_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			专修校园广播，打铃仪，功放
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												技术过硬，价格公道！
+				(05-14)
+							<p class="seller">
+					六**梦
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='26007891534386' wltMark="0" param="26007891534386_39356338167827_0_commoninfo_539E0904111561F43856814FCC7E5F85"  data-j4fe="15209648979,马师修理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26007891534386&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_33882387320073_25848267446832_0' infotag="25848267446832_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+				<a href='http://guyuan.58.com/dianqi/25848267446832x.shtml?psid=176593901195328794554548792&entinfo=25848267446832_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			小马水暖电维修
+		</a>
+						<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												锅炉维修，水暖维修，电路维修。机械维修。工程监理。
+				(04-29)
+							<p class="seller">
+					u***8
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='25848267446832' wltMark="0" param="25848267446832_33882387320073_0_commoninfo_93EAD31CB06A0BFDBBCE07E52BF3966D"  data-j4fe="15809542377," >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25848267446832&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_35070378971147_23864750006460_0' infotag="23864750006460_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刘师傅 : </b>
+				<a href='http://guyuan.58.com/dianqi/23864750006460x.shtml?psid=176593901195328794554548792&entinfo=23864750006460_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			洗衣机精修服务
+		</a>
+						<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												价格合理，服务周到，上门服务，快捷方便
+				(04-23)
+							<p class="seller">
+					1***u
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='23864750006460' wltMark="0" param="23864750006460_35070378971147_0_commoninfo_EF20FAC5408CF5201D9E1CF95B5EBDBA"  data-j4fe="15109596963,刘师傅" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23864750006460&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_26087709419527_22457964946078_0' infotag="22457964946078_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">高师 : </b>
+				<a href='http://guyuan.58.com/dianqi/22457964946078x.shtml?psid=176593901195328794554548792&entinfo=22457964946078_0' onclick="clickLog('from=pc_list_dianqi_xinxi_commoninfo_guyuan');" target="_blank" class="t" >
+			承接各种电气售后.
+		</a>
+						<!-- cxsjstate='false',dispCateID='203' -->
+		    	        		<br />
+												精修各种电气，专业生产兆欧表，专业清洗、维修、安装油烟机.检修各种建筑...
+				(04-02)
+							<p class="seller">
+					友***4
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='22457964946078' wltMark="0" param="22457964946078_26087709419527_0_commoninfo_7371EFEB2215A42C160A73B951C37BE5"  data-j4fe="14795049237,高师" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22457964946078&entityType=0&psid=176593901195328794554548792")'>免费预约</a></span>
+	</div>
+</td></tr>	</table>								<!-- =E infolist -->
+					<div id="gjwb_bottom_jz_ad"></div>
+	<div id="bottom_google_ad"></div>
+<div class="pager" >
+	 <strong><span>1</span></strong><a href="/dianqi/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>2</span></a><a href="/dianqi/pn3/" onClick="clickLog('from=huangye_list_fanye_3');"><span>3</span></a><a class="next" href="/dianqi/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>下一页</span></a>
+</div>
+<div id="infocont">
+	<!--当是健康答疑时，链接变为提问-->
+										<a target="_blank" rel="nofollow" href="http://post.58.com/2421/203/s5" onclick="clickLog('pc_list_dianqi_bottom_fabu');" >马上发布一条家电维修信息&raquo;</a>
+						</div>
+<!--医疗健康判断-->
+	<div id="direct_ad_bottom" onclick="clickLog('from=pc_list_dianqi_bottom_zhineng1');"  ></div>
+	<div id="bottom_zhaoshangjiameng_ad" onclick="clickLog('from=pc_list_dianqi_bottom_tuiguang2');"  ></div>
+
+			</div>
+			<div id="rightframe" class="cright">
+		<div style="margin-bottom:10px">
+		<a href='http://c.58cdn.com.cn/ui7/help/pf_xx_v1.html' target="_blank">
+			<img src="http://img.58cdn.com.cn/ds/other/bannerz_03.png">
+		</a>
+	</div>
+	<div class="r-banner-hot">
+	  	<p><i></i><a target="_blank" href="http://www.58.com/weixiudaquan/">维修大全</a><span class="r-banner-hotico"></span></p>
+		<p><i></i><a target="_blank" href="http://www.58.com/jiadianweixiu/">家电维修教程</a></p>
+		<p><i></i><a target="_blank" href="http://www.58.com/bingxiangwx/">冰箱故障维修教程</a></p>
+	</div>
+
+
+			<div class="tuijian" id="ylad" style="display:none"></div>
+												<div class="brand_md_tit"><h3><i class="brand_md_tit_i1"></i>名店推荐<i class="brand_md_tit_i2"></i></h3></div>
+	<div id="brand_md"><div id="ad19"  style="display:none"></div></div>
+	<script>
+		$("#brand_md").bind("bindBrandEvent",function(){ 
+            if($('.brand_md200').length > 0){
+				$('.brand_md_tit').show();
+			}
+        }); 
+	</script>
+	</div>	    </section>
+		<div id="wangmeng_list_bottom_ditong" onclick="clickLog('from=pc_list_dianqi_bottom_tuiguang3');"   ></div><section id="links">
+<i class="linksTopline"></i>
+	<!-- =S friendtips -->
+	<dl id="friendtips" class="linksItem friendtips"><dt class="b-left">固原家电维修介绍：</dt>
+<dd class="b-right">58同城固原家电维修频道是固原最大的家电维修信息免费发布查询平台，免费提供空调维修、冰箱维修、热水器维修、电视维修、洗衣机维修、抽油烟机维修等多种类别的固原家电维修相关信息，感谢您选择<a href=http://www.58.com/hyzt/dianqi/ target=_blank>家电维修</a>信息平台。手机版请访问<a href=http://m.58.com/guyuan/dianqi/>固原家电维修</a></dd>
+</dl>
+	<!-- =E friendtips -->
+	<!-- =S relate  -->
+			<dl class="linksItem relate" id="relate">
+	<dt class="b-left">固原家电维修相关信息：</dt>
+	<dd class="b-right">
+		<ul class="b-ul">
+						    			        <li><a href="/dianqi/jh_%E5%9B%BA%E5%8E%9F%E9%AB%98%E5%8E%8B%E7%94%B5%E6%9C%BA%E7%BB%B4%E4%BF%AE/">固原高压电机维修</a></li>
+			    		    		</ul>
+	</dd>
+</dl>
+		<!-- =E relate -->
+	<!-- =S relatelink allshangquan-->
+		 	<!-- =E relatelink -->
+	<!-- =S bottomlink-->
+	            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+				家电维修- 相关类别：
+			</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://www.58.com/hyzt/dianqi/'>家电维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/dianshiweixiu/'>电视维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/bingxiangweixiu/'>冰箱维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/kongtiao/'>空调维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/reshuiqiweixiu/'>热水器维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/xiyijiweixiu/'>洗衣机维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shoujiweixiu/'>手机维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/fangweixiu/'>房屋维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/weixiu/'>电脑维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/bijibenweixiu/'>笔记本维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiajuweixiu/'>家具维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/chufangwx/'>厨房家电维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/wangluoweixiu/'>网络维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shumaxiangjiwx/'>数码维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zhuangxiujc/'>装修建材</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiaoyu/'>教育培训</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/hunjiehunqing/'>婚庆摄影</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/qichefw/'>汽车服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shop/'>批发采购</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shenghuo/'>家政服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shangwu/'>商务服务</a></li>
+        		        		<li><a href='http://www.58.com/ppb58weixiu2/'>品牌家电维修大全</a></li>
+        		        		<li><a href='http://www.58.com/ppbhyzt1/'>黄页大全</a></li>
+        		        		<li><a href='http://www.58.com/pprmap5/'>家政地图</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+		<!-- =E bottomlink -->
+	<!-- =S hotcity-->
+	        <dl class="linksItem hotcity" id="hotcity">
+    	<dt class="b-left">固原家电维修周边城市：</dt>
+    	<dd class="b-right">
+    		<ul class="b-ul">
+    			    			<li><a href="http://yinchuan.58.com/dianqi/">银川家电维修</a></li>
+    			    		</ul>
+    	</dd>
+    </dl>
+	<!-- =S hotcity -->
+            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+					家电维修- 热门城市：
+					</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://bj.58.com/dianqi/'>北京家电维修</a></li>
+        		        		<li><a href='http://sh.58.com/dianqi/'>上海家电维修</a></li>
+        		        		<li><a href='http://gz.58.com/dianqi/'>广州家电维修</a></li>
+        		        		<li><a href='http://sz.58.com/dianqi/'>深圳家电维修</a></li>
+        		        		<li><a href='http://tj.58.com/dianqi/'>天津家电维修</a></li>
+        		        		<li><a href='http://hz.58.com/dianqi/'>杭州家电维修</a></li>
+        		        		<li><a href='http://wh.58.com/dianqi/'>武汉家电维修</a></li>
+        		        		<li><a href='http://xa.58.com/dianqi/'>西安家电维修</a></li>
+        		        		<li><a href='http://cd.58.com/dianqi/'>成都家电维修</a></li>
+        		        		<li><a href='http://zz.58.com/dianqi/'>郑州家电维修</a></li>
+        		        		<li><a href='http://cs.58.com/dianqi/'>长沙家电维修</a></li>
+        		        		<li><a href='http://nj.58.com/dianqi/'>南京家电维修</a></li>
+        		        		<li><a href='http://hrb.58.com/dianqi/'>哈尔滨家电维修</a></li>
+        		        		<li><a href='http://sy.58.com/dianqi/'>沈阳家电维修</a></li>
+        		        		<li><a href='http://su.58.com/dianqi/'>苏州家电维修</a></li>
+        		        		<li><a href='http://sjz.58.com/dianqi/'>石家庄家电维修</a></li>
+        		        		<li><a href='http://dl.58.com/dianqi/'>大连家电维修</a></li>
+        		        		<li><a href='http://qd.58.com/dianqi/'>青岛家电维修</a></li>
+        		        		<li><a href='http://jn.58.com/dianqi/'>济南家电维修</a></li>
+        		        		<li><a href='http://cq.58.com/dianqi/'>重庆家电维修</a></li>
+        		        		<li><a href='http://cc.58.com/dianqi/'>长春家电维修</a></li>
+        		        		<li><a href='http://cy.58.com/dianqi/'>朝阳家电维修</a></li>
+        		        		<li><a href='http://fx.58.com/dianqi/'>阜新家电维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/dianqi/'>家电维修</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+	<!-- =E hotcity --> 	<!-- =E hotcity -->
+	<!-- =S friendlink-->
+					<!-- =E friendlink -->
+</section>
+<footer id="footer" class="footer">
+    <div id="upWrap"> <a target="_blank" href="http://about.58.com/help.html" rel="nofollow">常见问题</a><span>|</span> <a target="_blank" href="http://about.58.com/" rel="nofollow">帮助中心</a><span>|</span> <a target="_blank" href="http://about.58.com/feedback.html" rel="nofollow">意见反馈</a><span>|</span> <a target="_blank" href="http://about.58.com/home/" rel="nofollow">了解58同城</a><span>|</span> <a target="_blank" href="http://about.58.com/hr/" rel="nofollow">加入58同城</a><span>|</span> <a target="_blank" href="http://fanqizha.58.com/" rel="nofollow">反欺诈联盟</a><span>|</span> <a target="_blank" href="http://110.58.com" rel="nofollow">报案平台</a><span>|</span> <a target="_blank" href="http://e.58.com" rel="nofollow">推广服务</a><span>|</span> <a target="_blank" href="http://biz.58.com" rel="nofollow">渠道招商</a><span>|</span> <a target="_blank" href="http://baozhang.58.com" rel="nofollow">先行赔付</a><span>|</span> <a target="_blank" href="http://ir.58.com?PGTID=0d100000-0000-13da-8041-51f9a3a739fa&amp;ClickID=2" rel="nofollow">Investor Relations</a> </div>
+    <div id="downWrap"> <em>2005-2016 58.com版权所有</em><span>|</span> <em>京公网备案信息110105000809</em><span>|</span> <a target="_blank" href="http://www.miibeian.gov.cn/" rel="nofollow">京ICP证060405</a><span>|</span><em>乙测资字11018014</em><span>|</span> <a target="_blank" href="http://ir.58.com" rel="nofollow">Investor Relations</a><span>|</span><em>违法信息举报：4008135858&nbsp;&nbsp;jubao@58ganji.com</em> </div>
+    <div class="fotBtmIcon">
+        <a target="_blank" id="fotBm_1" href="http://fanqizha.58.com"></a>
+        <a target="_blank" id="fotBm_2" href="http://www.12377.cn/"></a>
+        <a target="_blank" id="fotBm_3" href="http://www.12377.cn/node_548446.htm"></a>
+        <a target="_blank" id="fotBm_4" href="https://credit.szfw.org/CX20120918001650001720.html"></a>
+        <a target="_blank" id="fotBm_5" href="http://img.58cdn.com.cn/ui6/index/qyxinyong.jpg?v=3"></a>
+        <a target="_blank" id="fotBm_6" href="http://about.58.com/fqz/index.html"></a>
+    </div>
+</footer>
+<script>
+	var currentDate = new Date();
+</script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfc_v20160418145051.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfcInit_v20161121150119.js'></script>
+<script>
+	var jingzhun_ads = [];
+	var jingzhun_ads_param = "";
+</script>
+
+				<script type="text/javascript" src='http://j1.58cdn.com.cn/js/5_1/comm_js/boot_listpage_version_v20170316181518.js'></script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170112123932.js'></script>
+<script type="text/javascript">
+document.domain = '58.com';
+var win = new GetToolTipWindow('tooltipdiv', 'keyword', '3','2421','', true);win.setSearchButton('searchbtn');
+var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','2421','');win1.setSearchButton('searchbtn1');
+var win2 = new GetToolTipWindow('tooltipdiv2', 'mudidi', '7', '2421', '');win2.setSearchButton('searchbtn1');
+boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'guyuan');});
+</script>
+
+<script type="text/javascript" >
+// JavaScript Document
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	toggle(".p-help");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".small-tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+
+$("#shangmenfw a").each(function(){
+	if("到店服务"== $(this).text().trim()){
+		$(this).remove();
+	}
+});
+
+BAIDU_CLB_fillSlot("567863");
+
+var alldt = $("#relateSelect>dt");
+function showNear(dt){
+    alldt.each(function(){
+        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+        else {$(this).next("dd").hide();$(this).removeClass("select");}
+    });
+}
+alldt.each(function(){
+    $(this).click(function(){showNear(this);}).hover(function(){showNear(this);});
+});
+
+showNear(alldt[0]);
+
+  
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+$(".selector").each(function(){
+	$(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+});
+
+</script>
+
+<div style="display:none;">
+<script type="text/javascript">
+ var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3bb04d7a4ca3846dcc66a99c3e861511' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+</div>
+
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+
+
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/js/v8/boot/boot_huangye_v20170321150613.js'>
+	</script>
+	<script>
+		require(['_pkg/huangye/huangye_shenghuo_list_dom'],function(){});
+	</script>
+
+<script src="http://track.58.com/adsys/ggafs?rand=20170323"></script>
+<script>
+//统计埋点
+$(function(){
+	$('dl.secitem').each(function(){
+	    var idname = $(this).find("dd").eq(0).attr('id');
+		$(this).find('a').not('span a').each(function(){
+			$(this).click(function(){
+				clickLog('from=pc_list_dianqi_shaixuan_'+idname+ '_guyuan');
+		    });		
+		});	
+    });	
+})
+</script>
+<script type="text/javascript">
+    $("#more_ObjectType").click(function(){
+    	console.log("ok");
+    	var showmoreBrand = document.getElementById("moreBrandct"),moreBrandbtn = document.getElementById("moreBrandbtn");
+	    showmoreBrand.style.display = (showmoreBrand.style.display=="block")?"none":"block";
+	    moreBrandbtn.className = (moreBrandbtn.className=="moreBrand")?"moreBrand hold":"moreBrand";
+    });
+    var pemorealldt = $("#moreBrandct dt");
+	function showpemorecon(dt){
+		pemorealldt.each(function(){
+		    if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+            else {$(this).next("dd").hide();$(this).removeClass("select");}
+        });
+    }
+    pemorealldt.each(function(){
+		$(this).click(function(){showpemorecon(this);}).hover(function(){showpemorecon(this);});
+    });
+    showpemorecon(pemorealldt[0]);
+</script>
+		<script type="text/javascript">
+function cpcget(url){
+	/*$.ajax({
+		url:url,
+		type:"get",
+		dataType:"jsonp",
+		success:function(data){
+		
+        }
+    });	*/
+}
+</script>					<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e15962162366a86a6229038443847be7";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div style="display:none">
+	<!--基本统计代码begin(8512,0)--by:zhanghao06-->
+<script type="text/javascript">
+____json4fe.supplycount = {sortid:'22457964946078'};
+var _gaq = _gaq || [],site_name = "58",post_count = "92",shop_count= "",page_type = "list";
+var _trackURL = "{'cate':'8512,203','area':'2421','pagetype':'list','GA_pageview':'/guyuan/shenghuo/dianqi/listversion/','version':'A','pagesize':'35','pagenum':'1','level1':'','level2':'','level3':'','level4':'','level5':'','level6':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/guyuan/shenghuo/dianqi/listversion/']);
+
+$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+<!--基本统计代码end-->
+</div>
+<script src="//wechat.58.com/google-analytics"></script> 				<!-- 抢单神器下线-->
+				<!-- 抢单神器下线-->
+		<!-- 装修搜索弹窗  S -->
+				<!-- 招标弹框start -->
+<link rel="stylesheet" href='http://c.58cdn.com.cn/ds/zhaobiao/pc_search_win/list_win_zb_v20161010135135.css' />
+<script src="http://j1.58cdn.com.cn/ds/zhaobiao/v1/js/fastpost/jquery.md5.js"></script>
+<script>
+ var cityid=2421;
+</script>
+
+        <!-- 招标弹框end -->
+
+
+				<!-- 装修搜索弹窗  E -->
+		<!-- 前置登陆  s -->
+				<!-- 前置登陆  e -->
+	</body>
+</html>

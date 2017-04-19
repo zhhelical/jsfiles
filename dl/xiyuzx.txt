@@ -1,0 +1,1675 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+												<!--  当前的类别归属ID--> 
+		<!--  当前的类别表现ID--> 
+		<!--  当前的类别listname (eg:banjia)--> 
+		<!--  当前的类别catename (eg:搬家)--> 
+		<!--  一级类别归属ID--> 
+		<!--  一级类别表现ID--> 
+		<!--  一级类别listname eg:jiazheng--> 
+		<!--  一级类别catename eg:家政--> 
+		<!--  二级类别归属ID [Ljava.lang.Integer;@2f06763d 数字长度：2--> 
+			<!--  二级类别表现ID--> 
+				<!--  二级类别listname eg:jiazhuang--> 
+				<!--  二级类别catename eg:家装-->
+				<!-- 表现类别的全路径   eg:8512,96-->
+									
+						<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>【58同城】大连洗浴_大连洗浴会所_大连温泉酒店</title>
+	<meta name="description" content='58同城大连洗浴温泉频道汇集了大连各大商圈附近热门的温泉酒店和洗浴中心，为你提供休闲按摩,桑拿洗浴,推油保健一条龙服务，解除您身心的疲惫，让您感觉到温馨、轻松与舒适。
+'/>
+	<meta name="keywords" content='大连洗浴中心,大连温泉度假村，大连温泉酒店
+'/>
+	<meta http-equiv="X-UA-Compatible" content="edge" />
+		<meta name="location" content="province=辽宁;city=大连;coord=121.593478,38.94871">
+				<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/dl/xiyuzx/" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/dl/xiyuzx/" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/dl/xiyuzx/" />
+					<script type="text/javascript">
+		var ____loadCfg = ['huangye', 'shenghuo', 'listpage'];
+	</script>
+	<script src='http://j2.58cdn.com.cn/js/require_jquery_load.js'></script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">document.write('<scri'+'pt src="http://j1.58cdn.com.cn/ds/tgbrand/js/brand_listpage_v1.js?temp=' + Math.random() + '"></scri'+'pt>');</script> 
+<script type="text/javascript">
+	var xxfwConfig = {namespace:'huangyelistpc'};
+</script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/resource/xxzl/xxfw/xxfw.min_v20161021110430.js'></script>
+
+<script type="text/javascript">
+try{
+	var ____json4fe = {"catentry":[{"dispid":"26506","name":"休闲娱乐","listname":"xiuxianyl"},{"dispid":"26513","name":"洗浴/温泉","listname":"xiyuzx"}],"locallist":[{"dispid":"147","name":"大连","listname":"dl"}],"start":(new Date()).getTime(),"modules":"list"};
+	____json4fe.version = 'A';
+	____json4fe.modules = 'listpage';
+	____json4fe.sid = '122840383195478353635603948';
+	____json4fe.sessionid = '4419316f-f301-468e-b83c-a22822f88f00';
+	____json4fe.smsc = '3f2dd2de9529e63390c15c561ede7e32ecad9b75d0a70ade74cea9a2ab098537e04e273078865b4d9fc084ed3eb669a6e1bc712873f22eef6e4e2730cf3e76e93363b54594bf796fb2359ac36ca4761ddc7f5b5853ffee9644edd0e3d95ad35dfcebb471cb335304f31ffb13f1aca1cd119625defa23051047e4fe0cfc7cf3eebc9d08e5907f9966da14ea87d0dec2f4f2cf835b49013804';
+	____json4fe.newcateid='';
+	____json4fe.keyword='';
+	____json4fe.page='1';
+	____json4fe.param='';
+	}catch(e){};
+	(function(){
+var e = "header,nav,section,aside,article,footer".split(','),
+i=0,
+length=e.length;
+while(i<length){
+    document.createElement(e[i++])
+}
+})();
+	var ajax_param = '{"platform":"pc","paramMap":null,"pageIndex":1,"dispCateId":26513,"infoMethod":["renzheng","baojia","wltAge"],"dataParam":"25743363605037_37830404110864_0_commoninfo,29359753052233_35685656541207_0_commoninfo,28695629222211_22140352_0_commoninfo,28644521661762_44566492273679_0_commoninfo,28221620326722_43195521910551_0_commoninfo,27429496035792_18079617307398_0_commoninfo,28069984407369_10696208732934_0_commoninfo,27113581365046_31727332_0_commoninfo,27623794006844_24941171634951_0_commoninfo,27512193350732_23322648322310_0_commoninfo,27426703510577_40866827438100_0_commoninfo,27268790802873_40982356109329_0_commoninfo,27251200901702_20734685209351_0_commoninfo,27227383641280_41068889589775_0_commoninfo,27192633015350_6761778346247_0_commoninfo,25371532986809_10714821693702_0_commoninfo,26970183408564_37632977651470_0_commoninfo,26732276896080_17115394776839_0_commoninfo,26655998614719_38763518_0_commoninfo,26596545246157_12330193305095_0_commoninfo,26573179233352_40486326834703_0_commoninfo,26444413927215_32375846020620_0_commoninfo,26356206697935_40053309557262_0_commoninfo,26130682037453_39253921737746_0_commoninfo,26110809737806_39562517847571_0_commoninfo,26099449070796_18239640483078_0_commoninfo,26087840161094_28766638457858_0_commoninfo,25684538566987_28667278614275_0_commoninfo,28042947429314_10696208732934_0_commoninfo,27536544378411_37830404110864_0_commoninfo,27700210094145_35685656541207_0_commoninfo,27535731661240_31727332_0_commoninfo,27169318897871_6761778346247_0_commoninfo,25647139431113_10714821693702_0_commoninfo,28031889529153_10696208732934_0_commoninfo","dispCateName":"xiyuzx"}';
+	var s_ajax_param = 's_contact_xiyuzx_122840383195478353635603948_';
+</script>				<link href='http://c.58cdn.com.cn/ds/v1/base-v1_v0.css' rel="stylesheet" type="text/css">
+	<link href='http://c.58cdn.com.cn/ds/v1/common_list_v20170315183710.css' rel="stylesheet" type="text/css">
+<link href='http://c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20170331140927.css' rel="stylesheet" type="text/css">
+
+
+		<link href='http://c.58cdn.com.cn/ds/v1/list/defaultList_v20170220190119.css' rel="stylesheet" type="text/css">
+	<!-- <link rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv02_v0.css'> -->
+<link type="text/css" rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03_v20160727171301.css'>
+<!-- <link type="text/css" rel="stylesheet" href="http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03.css"> -->
+
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/dialog_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/release_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/retable_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/weixin/hy_freetel_v20161207184444.css">	
+    		</head>
+			<body class="">
+						<!-- =S top bar header -->
+			<div id="commonTopbar" class="commonTopbar">
+<script type="text/javascript">
+    var secId;
+        ____json4fe.catentry[1]? secId = ____json4fe.catentry[1].dispid : secId = ____json4fe.catentry.dispid;
+    var modules = ____json4fe.modules;
+    //搬家列表页(secId == "96" && modules=="listpage")宽度为1190px
+    if(secId == "96" && modules=="listpage"){
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'default' // default: 1190px, narrow: 1000px
+            });
+        };
+    }else{
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'narrow' // default: 1190px, narrow: 1000px
+            });
+        };
+    }    
+</script>
+</div>
+<!-- =S banner  div -->
+<div class="topbannerbar"><div id="brand_list_top_banner" onclick="clickLog('from=pc_list_xiyuzx_top_banner');" ></div></div>
+<!-- =E banner  div--><header id="header">
+    <div class="header-inner">
+    <a class="logo float_l" href="/huangye/" target="_blank" onclick="clickLog('from=pc_list_logo_xiyuzx');">58同城</a>
+            <a href='http://post.58.com/147/26513/s5' target="_blank" onclick="clickLog('from=pc_list_fabu_xiyuzx');" class="postbtn float_r">免费发布</a>
+        		        <div class="header-search float_r">
+         <em class="ico-searchkey"></em>
+         <form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+         	            	<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();">
+                        <span onMouseOut="this.className='sbtn'" onMouseOver="this.className='sbtn hover'" class="sbtn">
+                			<input type="submit" value="搜服务" onclick="clickLog('from=pc_list_search_xiyuzx');" class="but-bl" name="" id="searchbtn1" ></span>
+                		        		<div class="clear"></div>
+        		<span class="hotsearch">
+    						           		<a href="http://dl.58.com/xiyuzx/?key=%E6%B4%97%E6%B5%B4&final=1&searchtype=3&sourcetype=21" onclick="clickLog('from=pc_list_resouci_1_xiyuzx');_gaq.push(['pageTracker._trackEvent', 'list', 'tag_click', '/huangye/hotkeywords/zz/xiyuzx/']);">洗浴</a>
+       		        		<a href="http://dl.58.com/xiyuzx/?key=%E6%8C%89%E6%91%A9&final=1&searchtype=3&sourcetype=21" onclick="clickLog('from=pc_list_resouci_2_xiyuzx');_gaq.push(['pageTracker._trackEvent', 'list', 'tag_click', '/huangye/hotkeywords/zz/xiyuzx/']);">按摩</a>
+       			   
+	    		   	   </span>
+    		       	  </form>
+       	</div>
+		            	<div class="nav float_l" >
+	<a href="/">大连58同城</a> &gt; <a href="/xiuxianyl.shtml">大连休闲娱乐</a>
+				 &gt; <a href="/xiyuzx/" itemprop="url">大连洗浴/温泉</a>
+	
+
+</div>
+	</div>
+</header>
+		<!-- =E top bar header -->
+	<!-- =S common_column_label-->
+			<!-- =E common_column_label-->
+	<!-- =S searchTip -->
+			<!-- =E searchTip  -->
+	<!-- =s cmcs -->
+							<section id="selection">
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">类别 ：</dt>
+		<dd id="ObjectType" >
+																    		    		    		    					<a href="/xiyuzx/" class='select' >全部</a>
+								    		    		    		    					<a href="http://dl.58.com/xiyu/"  >洗浴中心</a>
+								    		    		    		    					<a href="http://dl.58.com/wenquandjc/"  >温泉度假村</a>
+															    					    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">地址 ：</dt>
+		<dd id="local" >
+																    		    		    		    					<a href="/xiyuzx/" class='select' >全大连</a>
+								    		    		    		    					<a href="/xigang/xiyuzx/"  >西岗</a>
+								    		    		    		    					<a href="/zhongshanqu/xiyuzx/"  >中山</a>
+								    		    		    		    					<a href="/shahekou/xiyuzx/"  >沙河口</a>
+								    		    		    		    					<a href="/ganjingziqu/xiyuzx/"  >甘井子</a>
+								    		    		    		    					<a href="/gaoxinyuanqu/xiyuzx/"  >高新园</a>
+								    		    		    		    					<a href="/lvshunkou/xiyuzx/"  >旅顺</a>
+								    		    		    		    					<a href="/jinzhouqu/xiyuzx/"  >金州</a>
+								    		    		    		    					<a href="/daliankfq/xiyuzx/"  >开发区</a>
+								    		    		    		    					<a href="/wafangdian/xiyuzx/"  >瓦房店</a>
+								    		    		    		    					<a href="/dlpulandian/xiyuzx/"  >普兰店</a>
+								    		    		    		    					<a href="/zhuanghe/xiyuzx/"  >庄河</a>
+								    		    		    		    					<a href="/dalian/xiyuzx/"  >大连周边</a>
+																									    	</dd>
+    </dl>
+	<div id="selected" class="bar"></div>
+	<i class="shadow"></i>
+</section>
+
+			<!-- =E cmcs -->
+		<div id="adtop_1" class="hc"><div class="mouter defa"><div class="inner"><div id="md3" class="mdul"></div><ul id="md1" class="mdul"></ul><ul id="md2" class="mdul"></ul><ul id="md4" class="mdul"></ul><ul id="md5" class="mdul"></ul><div class="clear"></div></div></div></div>
+<div class="tabsbar">
+    <div class="list-tabs">
+												<a href="/xiyuzx/" onclick="clickLog('from=pc_list_xiyuzx_list_tabs');" class="sel"><h1>大连洗浴/温泉</h1></a>
+											</div>
+	 	    	                	        
+
+		
+	
+				<span class="zhaobiao" >
+			<a href="http://bianmin.58.com/dl/?from=pc_list_bianmin_wzl"
+			   target="_blank" >学习办事经验，解决办证难题</a>
+		</span>
+		
+			
+
+
+</div>
+ 				<section id="mainlist" class="main clearfix pr">
+					<div class="filterbar h28">
+    <div class="filterbar-l">
+			<!-- <div class="filterup" id="filterup">
+				 <a class="m1" title="找班级" href="#" rel="nofollow" onclick=""><span>找班级<em></em></span></a>
+				 <a class="m1" title="找拼友" href="#" rel="nofollow" onclick=""><span>找拼友<em></em></span></a>
+			</div>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">全部</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示教育机构</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示个人教师</a></span> -->
+				<div class="filterup" id="filterup">
+			 <a class="m1 sel" title="默认" href="#" rel="nofollow" onclick="g2({sort:null}); clickLog('from=huangye_list_moren_xiyuzx_dl&psid=122840383195478353635603948'); "><span>默认排序<em></em></span></a>
+											</div>
+												
+									</div>  
+     <div class="filterbar-md">
+    	    	<!-- 加入医疗健康判断-->
+    	    		    		        		       <a class="mdtj" style="display:inline-block;" rel="nofollow" target="_blank" href="http://e.58.com/shenghuo.html" onClick="clickLog('from=huangye_zhaoshang&psid=122840383195478353635603948');">想提升接单效果，请致电4008107258</a>
+    		        		    	
+				   </div>        
+</div>
+					<div id="infolist" class="cleft" >
+				<!-- =S infolist -->
+									<div id="top_google_ad"></div>
+<table class="small-tbimg" cellspacing="0" cellpadding="0" >
+							<tr logr='p_1_37830404110864_25743363605037_0' infotag="25743363605037_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">崔女士 : </b>
+				<a href='http://dl.58.com/xiyuzx/25743363605037x.shtml?psid=122840383195478353635603948&entinfo=25743363605037_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			厂家直销洗浴用品
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												厂家直销洗浴白毛巾，50克～100克，
+				(04-03)
+							<p class="seller">
+					白***家
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25743363605037' wltMark="0" param="25743363605037_37830404110864_0_commoninfo_8950B4A7556DAD594CE900E14FF5DD55"  data-j4fe="13483459885,崔女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25743363605037&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_35685656541207_29359753052233_0' infotag="29359753052233_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">众磊大连 : </b>
+				<a href='http://dl.58.com/xiyuzx/29359753052233x.shtml?psid=122840383195478353635603948&entinfo=29359753052233_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			大连沙滩活动 大连夏季沙滩活动 大连本地沙滩活动
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												《动感超能力》—我爱团文化我们都曾向往像风一样的自由穿梭生命是奔跑，是...
+				(03-13)
+							<p class="seller">
+					大***育
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29359753052233' wltMark="0" param="29359753052233_35685656541207_0_commoninfo_D9D685639A9D4BF91370BE2BA7F29700"  data-j4fe="13147873008,众磊大连" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29359753052233&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_22140352_28695629222211_0' infotag="28695629222211_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">罗先生 : </b>
+				<a href='http://dl.58.com/xiyuzx/28695629222211x.shtml?psid=122840383195478353635603948&entinfo=28695629222211_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			韩式托马琳汗蒸优惠200元30次
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												韩式托马琳汗蒸优惠200元30次，属于次卡可带人按次刷卡
+				(01-12)
+							<p class="seller">
+					盛康养生汗蒸馆
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28695629222211' wltMark="0" param="28695629222211_22140352_0_commoninfo_D29ACA59D192F3224FC8E1528C8BFDBE"  data-j4fe="13029495561,罗先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28695629222211&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_44566492273679_28644521661762_0' infotag="28644521661762_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王总 : </b>
+				<a href='http://dl.58.com/xiyuzx/28644521661762x.shtml?psid=122840383195478353635603948&entinfo=28644521661762_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			大连红玫瑰大酒店
+		</a>
+						<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												娱乐休闲好去处.人间仙境红玫瑰.红玫瑰酒店是一家餐饮.桑拿.客房为一体...
+				(01-07)
+							<p class="seller">
+					大连红玫瑰大酒店
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28644521661762' wltMark="0" param="28644521661762_44566492273679_0_commoninfo_B73205B8A374B7E17C3C458454A92E02"  data-j4fe="18642869567,王总" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28644521661762&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_43195521910551_28221620326722_0' infotag="28221620326722_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王磊 : </b>
+				<a href='http://dl.58.com/xiyuzx/28221620326722x.shtml?psid=122840383195478353635603948&entinfo=28221620326722_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			男中医spa按摩师
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												本人形象好，手法专业，精油足底按摩，刮痧，拔罐，走罐，足底走罐，精油开...
+				(11-30)
+							<p class="seller">
+					3***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28221620326722' wltMark="0" param="28221620326722_43195521910551_0_commoninfo_744684A0876DD700E46F202364708042"  data-j4fe="15142400553,王磊" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28221620326722&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_18079617307398_27429496035792_0' infotag="27429496035792_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刘女士 : </b>
+				<a href='http://dl.58.com/xiyuzx/27429496035792x.shtml?psid=122840383195478353635603948&entinfo=27429496035792_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			5张票，只售50元
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												​10-2000个字，不能填写电话、QQ、微信、邮箱等联系方式或特殊符...
+				(11-24)
+							<p class="seller">
+					c***1
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27429496035792' wltMark="0" param="27429496035792_18079617307398_0_commoninfo_FF9D3ECD5AD5E5B58D5C33F6AEB0AC8F"  data-j4fe="13840966200,刘女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27429496035792&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_10696208732934_28069984407369_0' infotag="28069984407369_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">苏经理 : </b>
+				<a href='http://dl.58.com/xiyuzx/28069984407369x.shtml?psid=122840383195478353635603948&entinfo=28069984407369_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			大连,芙蓉水尚温泉酒店,休闲度假好去处
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												大连芙蓉水尚温泉酒店地处大连市甘井子区山东路，周边交通便利，多条公交可...
+				(11-16)
+							<p class="seller">
+					大连芙蓉水尚温泉酒店有限公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28069984407369' wltMark="0" param="28069984407369_10696208732934_0_commoninfo_26384F8BFEC32D9467D131C0FD53A75B"  data-j4fe="13940911570,苏经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28069984407369&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_31727332_27113581365046_0' infotag="27113581365046_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">星星 : </b>
+				<a href='http://dl.58.com/xiyuzx/27113581365046x.shtml?psid=122840383195478353635603948&entinfo=27113581365046_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			大连香洲旅游度假区 香洲温泉公园 特价票 套票
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												大连香洲旅游度假区 香洲温泉公园 特价票 套票香洲优惠票：全天130元...
+				(11-16)
+							<p class="seller">
+					冰块的店
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27113581365046' wltMark="0" param="27113581365046_31727332_0_commoninfo_0BBCC3FE15E4D42B47F2EF156009EB17"  data-j4fe="15542539570,星星" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27113581365046&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_24941171634951_27623794006844_0' infotag="27623794006844_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刁大夫 : </b>
+				<a href='http://dl.58.com/xiyuzx/27623794006844x.shtml?psid=122840383195478353635603948&entinfo=27623794006844_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			大连旅顺刁氏按摩
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												刁氏按摩治疗范围 ​医保划卡1、骨伤病症：颈椎病、腰椎间盘突出症、颈、...
+				(10-07)
+							<p class="seller">
+					大连旅顺刁氏按摩
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27623794006844' wltMark="0" param="27623794006844_24941171634951_0_commoninfo_7E7361764D8A500D23C9CE4211CA4B9C"  data-j4fe="15542350292,刁大夫" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27623794006844&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_23322648322310_27512193350732_0' infotag="27512193350732_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">宋先生 : </b>
+				<a href='http://dl.58.com/xiyuzx/27512193350732x.shtml?psid=122840383195478353635603948&entinfo=27512193350732_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			营业中大众洗浴出兑
+		</a>
+						<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												现有营业中大众洗浴，位于居民区，客流稳定，现在已经进入高峰期，因家有别...
+				(09-27)
+							<p class="seller">
+					大连阳光生态农业产业园
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27512193350732' wltMark="0" param="27512193350732_23322648322310_0_commoninfo_FE3932BB4392BD87E773FC73E275A452"  data-j4fe="13604949982,宋先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27512193350732&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_40866827438100_27426703510577_0' infotag="27426703510577_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">晓影 : </b>
+				<a href='http://dl.58.com/xiyuzx/27426703510577x.shtml?psid=122840383195478353635603948&entinfo=27426703510577_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			洗浴桑拿足疗保健
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												全身按摩，保健，spa，精油推拿，肩颈调理，肾保养等，陪你度过休闲时光...
+				(09-19)
+							<p class="seller">
+					1***c
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27426703510577' wltMark="0" param="27426703510577_40866827438100_0_commoninfo_962FC751EFE13421353BAD37B16F1084"  data-j4fe="13591702071,晓影" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27426703510577&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_40982356109329_27268790802873_0' infotag="27268790802873_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">慕可 : </b>
+				<a href='http://dl.58.com/xiyuzx/27268790802873x.shtml?psid=122840383195478353635603948&entinfo=27268790802873_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			大连米兰花洗浴门票15元
+		</a>
+						<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												6张2016年10月4日到期29元门票，现价15元每张，只有6张！
+				(09-08)
+							<p class="seller">
+					t***w
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27268790802873' wltMark="0" param="27268790802873_40982356109329_0_commoninfo_8042D1F2C67269E94D73231B6E083104"  data-j4fe="13795130819,慕可" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27268790802873&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_20734685209351_27251200901702_0' infotag="27251200901702_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李女士 : </b>
+				<a href='http://dl.58.com/xiyuzx/27251200901702x.shtml?psid=122840383195478353635603948&entinfo=27251200901702_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			大众浴池急租
+		</a>
+						<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												本人现营业的大众浴池，家有急事，现出租，二层楼，500余平，联系电话1...
+				(09-03)
+							<p class="seller">
+					h***1
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27251200901702' wltMark="0" param="27251200901702_20734685209351_0_commoninfo_C76C860EB4067981C82CE56558CF5611"  data-j4fe="13700098102,李女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27251200901702&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_41068889589775_27227383641280_0' infotag="27227383641280_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">孙伟 : </b>
+				<a href='http://dl.58.com/xiyuzx/27227383641280x.shtml?psid=122840383195478353635603948&entinfo=27227383641280_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			桑拿会馆111111
+		</a>
+						<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												​以前在温泉城干过11
+				(09-01)
+							<p class="seller">
+					v***2
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27227383641280' wltMark="0" param="27227383641280_41068889589775_0_commoninfo_89CC07BB156DEEBAA00E4F8BAFF44445"  data-j4fe="18842805491,孙伟" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27227383641280&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_6761778346247_27192633015350_0' infotag="27192633015350_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">徐经理 : </b>
+				<a href='http://dl.58.com/xiyuzx/27192633015350x.shtml?psid=122840383195478353635603948&entinfo=27192633015350_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			专为服务行业制作微信开发
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												大连仟源科技有限公司是一家专注互联网策划开发与运营的科技企业，国家双软...
+				(08-29)
+							<p class="seller">
+					j***g
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27192633015350' wltMark="0" param="27192633015350_6761778346247_0_commoninfo_AA39D2B8FBF52274EA5235C223138327"  data-j4fe="18642651820,徐经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27192633015350&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_10714821693702_25371532986809_0' infotag="25371532986809_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">尹女士 : </b>
+				<a href='http://dl.58.com/xiyuzx/25371532986809x.shtml?psid=122840383195478353635603948&entinfo=25371532986809_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			洗浴营业执照出售
+		</a>
+						<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												本人现有一套完整的洗浴执照出售 有诚意者联系我、非诚勿扰 谢谢
+				(08-28)
+							<p class="seller">
+					大连市金州新区华兴美浴中心
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25371532986809' wltMark="0" param="25371532986809_10714821693702_0_commoninfo_C9A43C645C31C373B6581575508528A4"  data-j4fe="13998579700,尹女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25371532986809&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37632977651470_26970183408564_0' infotag="26970183408564_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">众磊体育 : </b>
+				<a href='http://dl.58.com/xiyuzx/26970183408564x.shtml?psid=122840383195478353635603948&entinfo=26970183408564_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			大连水上活动 大连水上运动会 大连夏季水上活动
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												炎炎夏日，是否早已酷热难耐，为何不来一场精彩的泳池派对，让我们“Hig...
+				(08-09)
+							<p class="seller">
+					巴***6
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26970183408564' wltMark="0" param="26970183408564_37632977651470_0_commoninfo_D9D685639A9D4BF91370BE2BA7F29700"  data-j4fe="13147873008,众磊体育" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26970183408564&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_17115394776839_26732276896080_0' infotag="26732276896080_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">方先生 : </b>
+				<a href='http://dl.58.com/xiyuzx/26732276896080x.shtml?psid=122840383195478353635603948&entinfo=26732276896080_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			庄河漂流特价售票处,步云山温泉特价
+		</a>
+						<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												出售庄河步云山温泉团队票，散客也可以。提前0.5小时预订就可以。60元...
+				(07-18)
+							<p class="seller">
+					大庄国旅
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26732276896080' wltMark="0" param="26732276896080_17115394776839_0_commoninfo_78CB0853962C04D97DF3A957FC8A5F6F"  data-j4fe="15898135915,方先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26732276896080&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_38763518_26655998614719_0' infotag="26655998614719_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">孙先生 : </b>
+				<a href='http://dl.58.com/xiyuzx/26655998614719x.shtml?psid=122840383195478353635603948&entinfo=26655998614719_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			大连香洲旅游度假区消费卡，5折出售
+		</a>
+						<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												大连香洲旅游渡假区消费卡，5折出售，所有消费都可以用此卡消费
+				(07-11)
+							<p class="seller">
+					大连黄海医院
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26655998614719' wltMark="0" param="26655998614719_38763518_0_commoninfo_B0F8BDF54ECBE5968903D2E79E7F5803"  data-j4fe="15998535311,孙先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26655998614719&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_12330193305095_26596545246157_0' infotag="26596545246157_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">孔先生 : </b>
+				<a href='http://dl.58.com/xiyuzx/26596545246157x.shtml?psid=122840383195478353635603948&entinfo=26596545246157_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			大连开发区唐风温泉门票
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												现有大批顶账来的唐风温泉门票，原价门票147，网上团购120。在我这里...
+				(07-06)
+							<p class="seller">
+					东城食府
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26596545246157' wltMark="0" param="26596545246157_12330193305095_0_commoninfo_A18842FCB441B600D4BA8E39C77D0A41"  data-j4fe="13614287666,孔先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26596545246157&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_40486326834703_26573179233352_0' infotag="26573179233352_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">徐飞 : </b>
+				<a href='http://dl.58.com/xiyuzx/26573179233352x.shtml?psid=122840383195478353635603948&entinfo=26573179233352_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			139元温泉烤全羊大促销
+		</a>
+							<span class='tu'>[7图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												安波美丽时光温泉度假山庄，全新设备设施，为筹备新客户，推出特惠活动：1...
+				(07-04)
+							<p class="seller">
+					m***5
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26573179233352' wltMark="0" param="26573179233352_40486326834703_0_commoninfo_B943BE1F72F5A40CFA1A921C932F42BD"  data-j4fe="18042641188,徐飞" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26573179233352&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_32375846020620_26444413927215_0' infotag="26444413927215_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">于女士 : </b>
+				<a href='http://dl.58.com/xiyuzx/26444413927215x.shtml?psid=122840383195478353635603948&entinfo=26444413927215_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			大连葫中天温泉门票
+		</a>
+						<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												大连葫中天温泉门票，90元/成人，不限周末节假日，现场支付与给票，需提...
+				(06-22)
+							<p class="seller">
+					于***7
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26444413927215' wltMark="0" param="26444413927215_32375846020620_0_commoninfo_5C93AB1E2087F005FAEC7827359AB4BC"  data-j4fe="18640908577,于女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26444413927215&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_40053309557262_26356206697935_0' infotag="26356206697935_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张扬 : </b>
+				<a href='http://dl.58.com/xiyuzx/26356206697935x.shtml?psid=122840383195478353635603948&entinfo=26356206697935_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			付家庄海滨浴场
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												大连付家庄海滨浴场：出租帐篷 凉棚 太阳伞 躺椅 游泳圈 (包括提供烧...
+				(06-14)
+							<p class="seller">
+					1***o
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26356206697935' wltMark="0" param="26356206697935_40053309557262_0_commoninfo_A342A830AB353F5B9484EF7CA49427C6"  data-j4fe="13604259492,张扬" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26356206697935&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39253921737746_26130682037453_0' infotag="26130682037453_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">韦琪 : </b>
+				<a href='http://dl.58.com/xiyuzx/26130682037453x.shtml?psid=122840383195478353635603948&entinfo=26130682037453_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			大连足疗按摩,休闲保健,经络按摩,休闲娱乐
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												大连休闲足疗，这里可以在工作之余享受生活，解除疲劳，**的服务与品质！...
+				(05-25)
+							<p class="seller">
+					1***v
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26130682037453' wltMark="0" param="26130682037453_39253921737746_0_commoninfo_84094EAC56F0B81B866C11B636168411"  data-j4fe="15566678994,韦琪" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26130682037453&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39562517847571_26110809737806_0' infotag="26110809737806_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">红霞 : </b>
+				<a href='http://dl.58.com/xiyuzx/26110809737806x.shtml?psid=122840383195478353635603948&entinfo=26110809737806_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			诚聘有经验女搓澡工
+		</a>
+						<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												工资日结，有经验者优先，多劳多得，绝不拖欠
+				(05-23)
+							<p class="seller">
+					開***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26110809737806' wltMark="0" param="26110809737806_39562517847571_0_commoninfo_7A5E6588ABA2DF484F29B95BF4A141EE"  data-j4fe="13624287081,红霞" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26110809737806&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_18239640483078_26099449070796_0' infotag="26099449070796_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">水立坊洗浴会 : </b>
+				<a href='http://dl.58.com/xiyuzx/26099449070796x.shtml?psid=122840383195478353635603948&entinfo=26099449070796_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			水立坊洗浴会馆
+		</a>
+						<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												较新推出优惠套票；门票+搓澡+足疗=89元，网定团购：门票+醋搓=59...
+				(05-22)
+							<p class="seller">
+					众益家政
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26099449070796' wltMark="0" param="26099449070796_18239640483078_0_commoninfo_BEA6342A7FA63E8D0E5E3004C63618C2"  data-j4fe="62906076,水立坊洗浴会" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26099449070796&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_28766638457858_26087840161094_0' infotag="26087840161094_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刘主管 : </b>
+				<a href='http://dl.58.com/xiyuzx/26087840161094x.shtml?psid=122840383195478353635603948&entinfo=26087840161094_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			急招洗浴服务人员
+		</a>
+						<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												工作时间：上24休24，晚上十二点以后闭店方可睡觉工作有责任心，我耐心...
+				(05-21)
+							<p class="seller">
+					新慧源洗浴
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26087840161094' wltMark="0" param="26087840161094_28766638457858_0_commoninfo_5F4F075F1C774AC7E6A885A4A9E8EEDA"  data-j4fe="15042422234,刘主管" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26087840161094&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_28667278614275_25684538566987_0' infotag="25684538566987_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王洪 : </b>
+				<a href='http://dl.58.com/xiyuzx/25684538566987x.shtml?psid=122840383195478353635603948&entinfo=25684538566987_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			香洲温泉度假村贵宾卡
+		</a>
+						<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												现金卡五千元6折，三千元就行。
+				(04-15)
+							<p class="seller">
+					会***1
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25684538566987' wltMark="0" param="25684538566987_28667278614275_0_commoninfo_3E267D7942DC9370DFFD8169FE16B827"  data-j4fe="18941125012,王洪" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25684538566987&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_10696208732934_28042947429314_0' infotag="28042947429314_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">苏经理 : </b>
+				<a href='http://dl.58.com/xiyuzx/28042947429314x.shtml?psid=122840383195478353635603948&entinfo=28042947429314_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			大连,芙蓉水尚温泉酒店,休闲度假好去处
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												大连芙蓉水尚温泉酒店地处大连市甘井子区山东路，周边交通便利，多条公交可...
+				(11-14)
+							<p class="seller">
+					大连芙蓉水尚温泉酒店有限公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28042947429314' wltMark="0" param="28042947429314_10696208732934_0_commoninfo_26384F8BFEC32D9467D131C0FD53A75B"  data-j4fe="13940911570,苏经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28042947429314&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37830404110864_27536544378411_0' infotag="27536544378411_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">崔女士 : </b>
+				<a href='http://dl.58.com/xiyuzx/27536544378411x.shtml?psid=122840383195478353635603948&entinfo=27536544378411_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			厂家直销宾馆，洗浴用品
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												厂家直销洗浴白毛巾35克～150克，浴巾500克600克800克100...
+				(10-26)
+							<p class="seller">
+					白***家
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27536544378411' wltMark="0" param="27536544378411_37830404110864_0_commoninfo_8950B4A7556DAD594CE900E14FF5DD55"  data-j4fe="13483459885,崔女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27536544378411&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_35685656541207_27700210094145_0' infotag="27700210094145_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">于先生 : </b>
+				<a href='http://dl.58.com/xiyuzx/27700210094145x.shtml?psid=122840383195478353635603948&entinfo=27700210094145_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			大连水上运动会 大连水上趣味运动会 大连特色年会
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												您是不是正为筹备充满创意的年会而烦恼？ 是不是已经厌倦仅仅吃饭、抽奖的...
+				(10-14)
+							<p class="seller">
+					大***育
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27700210094145' wltMark="0" param="27700210094145_35685656541207_0_commoninfo_D9D685639A9D4BF91370BE2BA7F29700"  data-j4fe="13147873008,于先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27700210094145&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_31727332_27535731661240_0' infotag="27535731661240_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">星星 : </b>
+				<a href='http://dl.58.com/xiyuzx/27535731661240x.shtml?psid=122840383195478353635603948&entinfo=27535731661240_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			大连香洲旅游度假区 香洲温泉公园 特价票 套票
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												大连香洲旅游度假区 香洲温泉公园 特价票 套票香洲优惠票：全天场 75...
+				(09-29)
+							<p class="seller">
+					冰块的店
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27535731661240' wltMark="0" param="27535731661240_31727332_0_commoninfo_0BBCC3FE15E4D42B47F2EF156009EB17"  data-j4fe="15542539570,星星" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27535731661240&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_6761778346247_27169318897871_0' infotag="27169318897871_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">徐经理 : </b>
+				<a href='http://dl.58.com/xiyuzx/27169318897871x.shtml?psid=122840383195478353635603948&entinfo=27169318897871_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			手机app开发 微信开发 众筹 电商网贷 网站建设
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												​10-2000个字，不能填写电话大连仟源科技有限公司是一家专注互联网...
+				(08-27)
+							<p class="seller">
+					j***g
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27169318897871' wltMark="0" param="27169318897871_6761778346247_0_commoninfo_AA39D2B8FBF52274EA5235C223138327"  data-j4fe="18642651820,徐经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27169318897871&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_10714821693702_25647139431113_0' infotag="25647139431113_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">尹女士 : </b>
+				<a href='http://dl.58.com/xiyuzx/25647139431113x.shtml?psid=122840383195478353635603948&entinfo=25647139431113_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			洗浴中心营业执照出售
+		</a>
+						<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												​本人有一套洗浴中心营业执照出售、有意者电话联系、非诚勿扰、谢谢
+				(08-06)
+							<p class="seller">
+					大连市金州新区华兴美浴中心
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25647139431113' wltMark="0" param="25647139431113_10714821693702_0_commoninfo_C9A43C645C31C373B6581575508528A4"  data-j4fe="13998579700,尹女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25647139431113&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_10696208732934_28031889529153_0' infotag="28031889529153_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">苏经理 : </b>
+				<a href='http://dl.58.com/xiyuzx/28031889529153x.shtml?psid=122840383195478353635603948&entinfo=28031889529153_0' onclick="clickLog('from=pc_list_xiyuzx_xinxi_commoninfo_dl');" target="_blank" class="t" >
+			大连,芙蓉水尚温泉酒店,休闲度假好去处
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='1013' -->
+		    	        		<br />
+												大连芙蓉水尚温泉酒店地处大连市甘井子区山东路，周边交通便利，多条公交可...
+				(11-13)
+							<p class="seller">
+					大连芙蓉水尚温泉酒店有限公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28031889529153' wltMark="0" param="28031889529153_10696208732934_0_commoninfo_26384F8BFEC32D9467D131C0FD53A75B"  data-j4fe="13940911570,苏经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28031889529153&entityType=0&psid=122840383195478353635603948")'>免费预约</a></span>
+		</div>
+	
+</td></tr>	</table>								<!-- =E infolist -->
+					<div id="gjwb_bottom_jz_ad"></div>
+	<div id="bottom_google_ad"></div>
+<div class="pager" >
+	 <strong><span>1</span></strong><a href="/xiyuzx/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>2</span></a><a href="/xiyuzx/pn3/" onClick="clickLog('from=huangye_list_fanye_3');"><span>3</span></a><a href="/xiyuzx/pn4/" onClick="clickLog('from=huangye_list_fanye_4');"><span>4</span></a><a href="/xiyuzx/pn5/" onClick="clickLog('from=huangye_list_fanye_5');"><span>5</span></a><a href="/xiyuzx/pn6/" onClick="clickLog('from=huangye_list_fanye_6');"><span>6</span></a><a href="/xiyuzx/pn7/" onClick="clickLog('from=huangye_list_fanye_7');"><span>7</span></a><a href="/xiyuzx/pn8/" onClick="clickLog('from=huangye_list_fanye_8');"><span>8</span></a><a href="/xiyuzx/pn9/" onClick="clickLog('from=huangye_list_fanye_9');"><span>9</span></a><a href="/xiyuzx/pn10/" onClick="clickLog('from=huangye_list_fanye_10');"><span>10</span></a><a href="/xiyuzx/pn11/" onClick="clickLog('from=huangye_list_fanye_11');"><span>11</span></a><a class="next" href="/xiyuzx/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>下一页</span></a>
+</div>
+<div id="infocont">
+	<!--当是健康答疑时，链接变为提问-->
+										<a target="_blank" rel="nofollow" href="http://post.58.com/147/26513/s5" onclick="clickLog('pc_list_xiyuzx_bottom_fabu');" >马上发布一条洗浴/温泉信息&raquo;</a>
+						</div>
+<!--医疗健康判断-->
+		<div id="direct_ad_bottom" onclick="clickLog('from=pc_list_xiyuzx_bottom_zhineng1');"  ></div>
+	<div id="bottom_zhaoshangjiameng_ad" onclick="clickLog('from=pc_list_xiyuzx_bottom_tuiguang2');"  ></div>
+
+			</div>
+			<div id="rightframe" class="cright">
+	
+
+			<div class="tuijian" id="ylad" style="display:none"></div>
+												<div class="brand_md_tit"><h3><i class="brand_md_tit_i1"></i>名店推荐<i class="brand_md_tit_i2"></i></h3></div>
+	<div id="brand_md"><div id="ad19"  style="display:none"></div></div>
+	<script>
+		$("#brand_md").bind("bindBrandEvent",function(){ 
+            if($('.brand_md200').length > 0){
+				$('.brand_md_tit').show();
+			}
+        }); 
+	</script>
+	</div>	    </section>
+		<div id="wangmeng_list_bottom_ditong" onclick="clickLog('from=pc_list_xiyuzx_bottom_tuiguang3');"   ></div><section id="links">
+<i class="linksTopline"></i>
+	<!-- =S friendtips -->
+	<dl id="friendtips" class="linksItem friendtips"><dt class="b-left">大连洗浴/温泉介绍：</dt>
+<dd class="b-right">58同城大连洗浴/温泉频道是大连最大的洗浴/温泉信息免费发布查询平台，免费提供洗浴/温泉相关信息，感谢您选择<a href=http://www.58.com/xiyuzx/ target=_blank>洗浴/温泉</a>信息平台。有疑问请<a href=http://about.58.com/v5/  rel=nofollow  target=_blank >与客服对话</a>  
+-<a href=http://m.58.com/dl/xiyuzx/ target=_blank>大连洗浴/温泉</a>触屏版,<a href=http://wap.58.com/dl/xiyuzx/ target=_blank>大连洗浴/温泉</a>极速版。</dd>
+</dl>
+	<!-- =E friendtips -->
+	<!-- =S relate  -->
+			<dl class="linksItem relate" id="relate">
+	<dt class="b-left">大连洗浴/温泉相关信息：</dt>
+	<dd class="b-right">
+		<ul class="b-ul">
+						    			        <li><a href="/xiyuzx/jh_%E5%A4%A7%E8%BF%9E%E5%93%AA%E9%87%8C%E6%9C%89%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83/?utm_source=link&spm=u-LgVk7R_2J9tMcKG.psy_99jiazhuang">大连哪里有洗浴中心</a></li>
+			    		    			    			        <li><a href="/xiyuzx/jh_%E5%A4%A7%E8%BF%9E%E6%B4%97%E6%B5%B4%E6%9C%89%E5%93%AA%E4%BA%9B%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/?utm_source=link&spm=u-LgVk7R_2J9tMcKG.psy_99jiazhuang">大连洗浴有哪些注意事项</a></li>
+			    		    			    			        <li><a href="/xiyuzx/jh_%E5%A4%A7%E8%BF%9E%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%A1%B9%E7%9B%AE/?utm_source=link&spm=u-LgVk7R_2J9tMcKG.psy_99jiazhuang">大连洗浴中心都有哪些项</a></li>
+			    		    			    			        <li><a href="/xiyuzx/jh_%E5%A4%A7%E8%BF%9E%E5%93%AA%E9%87%8C%E5%8F%AF%E4%BB%A5%E6%B4%97%E6%B5%B4/?utm_source=link&spm=u-LgVk7R_2J9tMcKG.psy_99jiazhuang">大连哪里可以洗浴</a></li>
+			    		    			    			        <li><a href="/xiyuzx/jh_%E5%A4%A7%E8%BF%9E%E5%93%AA%E9%87%8C%E6%9C%89%E7%89%B9%E8%89%B2%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83/?utm_source=link&spm=u-LgVk7R_2J9tMcKG.psy_99jiazhuang">大连哪里有特色洗浴中心</a></li>
+			    		    			    			        <li><a href="/xiyuzx/jh_%E5%A4%A7%E8%BF%9E%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E5%93%AA%E5%AE%B6%E5%81%9A%E5%A5%BD/?utm_source=link&spm=u-LgVk7R_2J9tMcKG.psy_99jiazhuang">大连洗浴中心哪家做好</a></li>
+			    		    			    			        <li><a href="/xiyuzx/jh_%E5%A4%A7%E8%BF%9E%E5%BC%80%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E8%A6%81%E5%A4%9A%E5%B0%91%E9%92%B1/?utm_source=link&spm=u-LgVk7R_2J9tMcKG.psy_99jiazhuang">大连开洗浴中心要多少钱</a></li>
+			    		    			    			        <li><a href="/xiyuzx/jh_%E5%A4%A7%E8%BF%9E%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E6%94%B6%E8%B4%B9%E6%A0%87%E5%87%86/?utm_source=link&spm=u-LgVk7R_2J9tMcKG.psy_99jiazhuang">大连洗浴中心收费标准</a></li>
+			    		    			    			        <li><a href="/xiyuzx/jh_%E5%A4%A7%E8%BF%9E%E6%B4%97%E6%B5%B4%E6%8C%89%E6%91%A9%E4%B8%80%E6%9D%A1%E9%BE%99%E5%93%AA%E5%AE%B6%E5%A5%BD/?utm_source=link&spm=u-LgVk7R_2J9tMcKG.psy_99jiazhuang">大连洗浴按摩一条龙哪家</a></li>
+			    		    			     			        			        				    <li><a href='/xiyuzx/daohang_大连洗浴温泉/' target="_blank">更多>></a></li>
+			    		    		</ul>
+	</dd>
+</dl>
+		<!-- =E relate -->
+	<!-- =S relatelink allshangquan-->
+			<dl class="linksItem relatelink" id="relatelink">
+		<dt class="b-left">大连洗浴/温泉全部商圈：</dt>
+		<dd class="b-right">
+			<dl id="relateSelect" class="relateSelect"> 
+									<dt><span>A</span></dt>
+					<dd>
+																			<a href="/anshanlu/xiyuzx/" target="_blank" >大连鞍山路洗浴/温泉</a>        
+													<a href="/aolinpikegcdl/xiyuzx/" target="_blank" >大连奥林匹克广场洗浴/温泉</a>        
+													<a href="/aolinyuan/xiyuzx/" target="_blank" >大连奥林园洗浴/温泉</a>        
+													<a href="/dlas/xiyuzx/" target="_blank" >大连安盛洗浴/温泉</a>        
+															<dt><span>B</span></dt>
+					<dd>
+																			<a href="/bayiludl/xiyuzx/" target="_blank" >大连八一路洗浴/温泉</a>        
+													<a href="/beigangqiao/xiyuzx/" target="_blank" >大连北岗桥洗浴/温泉</a>        
+													<a href="/beijingjie/xiyuzx/" target="_blank" >大连北京街洗浴/温泉</a>        
+													<a href="/beihaiguangc/xiyuzx/" target="_blank" >大连北海广场洗浴/温泉</a>        
+													<a href="/baishanlu/xiyuzx/" target="_blank" >大连白山路洗浴/温泉</a>        
+													<a href="/lijiajie/xiyuzx/" target="_blank" >大连白云新村洗浴/温泉</a>        
+													<a href="/baihsz/xiyuzx/" target="_blank" >大连百合山庄洗浴/温泉</a>        
+													<a href="/shuangdaowan/xiyuzx/" target="_blank" >大连白玉山洗浴/温泉</a>        
+													<a href="/beihaidl/xiyuzx/" target="_blank" >大连北海洗浴/温泉</a>        
+													<a href="/donganlu/xiyuzx/" target="_blank" >大连滨港路洗浴/温泉</a>        
+													<a href="/bayiludljz/xiyuzx/" target="_blank" >大连八一路洗浴/温泉</a>        
+													<a href="/beishanlu/xiyuzx/" target="_blank" >大连北山路洗浴/温泉</a>        
+													<a href="/binhailudl/xiyuzx/" target="_blank" >大连滨海路洗浴/温泉</a>        
+													<a href="/baoshuiqudl/xiyuzx/" target="_blank" >大连保税区洗浴/温泉</a>        
+													<a href="/beilan/xiyuzx/" target="_blank" >大连孛兰洗浴/温泉</a>        
+													<a href="/beile/xiyuzx/" target="_blank" >大连北乐洗浴/温泉</a>        
+													<a href="/beicq/xiyuzx/" target="_blank" >大连北城区洗浴/温泉</a>        
+															<dt><span>C</span></dt>
+					<dd>
+																			<a href="/chunliu/xiyuzx/" target="_blank" >大连春柳洗浴/温泉</a>        
+													<a href="/chejiacun/xiyuzx/" target="_blank" >大连车家村洗浴/温泉</a>        
+													<a href="/cujinlu/xiyuzx/" target="_blank" >大连促进路洗浴/温泉</a>        
+													<a href="/caishijie/xiyuzx/" target="_blank" >大连菜市街洗浴/温泉</a>        
+													<a href="/chengshixueyuan/xiyuzx/" target="_blank" >大连城市学院洗浴/温泉</a>        
+													<a href="/cuizhudl/xiyuzx/" target="_blank" >大连翠竹洗浴/温泉</a>        
+													<a href="/chifengjie/xiyuzx/" target="_blank" >大连赤峰街洗浴/温泉</a>        
+															<dt><span>D</span></dt>
+					<dd>
+																			<a href="/dongguanjie/xiyuzx/" target="_blank" >大连东关街洗浴/温泉</a>        
+													<a href="/dacaishidl/xiyuzx/" target="_blank" >大连大菜市洗浴/温泉</a>        
+													<a href="/dagongjiedl/xiyuzx/" target="_blank" >大连大工街洗浴/温泉</a>        
+													<a href="/donggangdl/xiyuzx/" target="_blank" >大连东港洗浴/温泉</a>        
+													<a href="/dawai/xiyuzx/" target="_blank" >大连大外洗浴/温泉</a>        
+													<a href="/dalianwan/xiyuzx/" target="_blank" >大连大连湾洗浴/温泉</a>        
+													<a href="/dongbeilu/xiyuzx/" target="_blank" >大连东北路洗浴/温泉</a>        
+													<a href="/shenyanglu/xiyuzx/" target="_blank" >大连大纺洗浴/温泉</a>        
+													<a href="/dongcai/xiyuzx/" target="_blank" >大连东财洗浴/温泉</a>        
+													<a href="/dongruan/xiyuzx/" target="_blank" >大连东软洗浴/温泉</a>        
+													<a href="/dayty/xiyuzx/" target="_blank" >大连大有恬园洗浴/温泉</a>        
+													<a href="/dagushan/xiyuzx/" target="_blank" >大连大孤山洗浴/温泉</a>        
+													<a href="/dongshanludl/xiyuzx/" target="_blank" >大连东山路洗浴/温泉</a>        
+													<a href="/dengshahe/xiyuzx/" target="_blank" >大连登沙河洗浴/温泉</a>        
+													<a href="/daweijia/xiyuzx/" target="_blank" >大连大魏家洗浴/温泉</a>        
+													<a href="/lddctx/xiyuzx/" target="_blank" >大连东城天下洗浴/温泉</a>        
+													<a href="/dongshandl/xiyuzx/" target="_blank" >大连东山洗浴/温泉</a>        
+													<a href="/dagushandl/xiyuzx/" target="_blank" >大连大孤山洗浴/温泉</a>        
+													<a href="/dongbeidajie/xiyuzx/" target="_blank" >大连东北大街洗浴/温泉</a>        
+													<a href="/daliandaxue/xiyuzx/" target="_blank" >大连大连大学洗浴/温泉</a>        
+													<a href="/dayaowan/xiyuzx/" target="_blank" >大连大窑湾洗浴/温泉</a>        
+															<dt><span>E</span></dt>
+					<dd>
+																			<a href="/erqiguangchang/xiyuzx/" target="_blank" >大连二七广场洗浴/温泉</a>        
+													<a href="/ershilibu/xiyuzx/" target="_blank" >大连二十里堡洗浴/温泉</a>        
+															<dt><span>F</span></dt>
+					<dd>
+																			<a href="/fujiazhuang/xiyuzx/" target="_blank" >大连付家庄洗浴/温泉</a>        
+													<a href="/fengrong/xiyuzx/" target="_blank" >大连丰荣洗浴/温泉</a>        
+															<dt><span>G</span></dt>
+					<dd>
+																			<a href="/gaoerjilu/xiyuzx/" target="_blank" >大连高尔基路洗浴/温泉</a>        
+													<a href="/gongrencundl/xiyuzx/" target="_blank" >大连工人村洗浴/温泉</a>        
+													<a href="/gangwangc/xiyuzx/" target="_blank" >大连港湾广场洗浴/温泉</a>        
+													<a href="/gaizhoujie/xiyuzx/" target="_blank" >大连盖州街洗浴/温泉</a>        
+													<a href="/ganquwandaguangchang/xiyuzx/" target="_blank" >大连甘区万达广场洗浴/温泉</a>        
+													<a href="/ganquzhengfu/xiyuzx/" target="_blank" >大连甘区政府洗浴/温泉</a>        
+													<a href="/gezhenbao/xiyuzx/" target="_blank" >大连革镇堡洗浴/温泉</a>        
+													<a href="/ganjingzi/xiyuzx/" target="_blank" >大连甘井子洗浴/温泉</a>        
+													<a href="/ganjingziqita/xiyuzx/" target="_blank" >大连甘井子周边洗浴/温泉</a>        
+													<a href="/gugeli/xiyuzx/" target="_blank" >大连谷歌里洗浴/温泉</a>        
+													<a href="/guangxianlu/xiyuzx/" target="_blank" >大连广贤路洗浴/温泉</a>        
+													<a href="/dlgxwdgc/xiyuzx/" target="_blank" >大连高新万达广场洗浴/温泉</a>        
+													<a href="/kaifaqud/xiyuzx/" target="_blank" >大连高新园周边洗浴/温泉</a>        
+													<a href="/longtou/xiyuzx/" target="_blank" >大连港湾街洗浴/温泉</a>        
+													<a href="/guangmingdl/xiyuzx/" target="_blank" >大连光明洗浴/温泉</a>        
+													<a href="/guchengdl/xiyuzx/" target="_blank" >大连古城洗浴/温泉</a>        
+													<a href="/dlgcs/xiyuzx/" target="_blank" >大连高城山洗浴/温泉</a>        
+													<a href="/dlgx/xiyuzx/" target="_blank" >大连港西洗浴/温泉</a>        
+															<dt><span>H</span></dt>
+					<dd>
+																			<a href="/hongqigongshe/xiyuzx/" target="_blank" >大连红旗公社洗浴/温泉</a>        
+													<a href="/huanghel/xiyuzx/" target="_blank" >大连黄河路洗浴/温泉</a>        
+													<a href="/haijunguangc/xiyuzx/" target="_blank" >大连海军广场洗浴/温泉</a>        
+													<a href="/huochezhandl/xiyuzx/" target="_blank" >大连火车站洗浴/温泉</a>        
+													<a href="/hualeguangc/xiyuzx/" target="_blank" >大连华乐广场洗浴/温泉</a>        
+													<a href="/heishijiao/xiyuzx/" target="_blank" >大连黑石礁洗浴/温泉</a>        
+													<a href="/hongqizhen/xiyuzx/" target="_blank" >大连红旗镇洗浴/温泉</a>        
+													<a href="/huanghelushahekou/xiyuzx/" target="_blank" >大连黄河路洗浴/温泉</a>        
+													<a href="/houjiagou/xiyuzx/" target="_blank" >大连侯家沟洗浴/温泉</a>        
+													<a href="/dacaishi/xiyuzx/" target="_blank" >大连华北路洗浴/温泉</a>        
+													<a href="/hepingguangc/xiyuzx/" target="_blank" >大连和平广场洗浴/温泉</a>        
+													<a href="/xinghua/xiyuzx/" target="_blank" >大连华南洗浴/温泉</a>        
+													<a href="/huaxixiaoqu/xiyuzx/" target="_blank" >大连华西小区洗浴/温泉</a>        
+													<a href="/hongqizhonglu/xiyuzx/" target="_blank" >大连红旗中路洗浴/温泉</a>        
+													<a href="/huabeilu/xiyuzx/" target="_blank" >大连华北路洗浴/温泉</a>        
+													<a href="/tiyuchangsh/xiyuzx/" target="_blank" >大连后盐洗浴/温泉</a>        
+													<a href="/wusilud/xiyuzx/" target="_blank" >大连华东路洗浴/温泉</a>        
+													<a href="/haishi/xiyuzx/" target="_blank" >大连海事洗浴/温泉</a>        
+													<a href="/hekoudl/xiyuzx/" target="_blank" >大连河口洗浴/温泉</a>        
+													<a href="/honglingxiaoqu/xiyuzx/" target="_blank" >大连红凌小区洗浴/温泉</a>        
+													<a href="/huangpulu/xiyuzx/" target="_blank" >大连黄浦路洗浴/温泉</a>        
+															<dt><span>I</span></dt>
+					<dd>
+																					<dt><span>J</span></dt>
+					<dd>
+																			<a href="/qingniwaqiao/xiyuzx/" target="_blank" >大连解放路洗浴/温泉</a>        
+													<a href="/jiuzhongxuequ/xiyuzx/" target="_blank" >大连九中学区洗浴/温泉</a>        
+													<a href="/jingshanxiaoqu/xiyuzx/" target="_blank" >大连景山小区洗浴/温泉</a>        
+													<a href="/jingshansc/xiyuzx/" target="_blank" >大连景山市场洗浴/温泉</a>        
+													<a href="/jiaoda/xiyuzx/" target="_blank" >大连交大洗浴/温泉</a>        
+													<a href="/jinxiu/xiyuzx/" target="_blank" >大连锦绣洗浴/温泉</a>        
+													<a href="/jinshanjiao/xiyuzx/" target="_blank" >大连金三角洗浴/温泉</a>        
+													<a href="/jiaofang/xiyuzx/" target="_blank" >大连椒房洗浴/温泉</a>        
+													<a href="/jinerxiaoxue/xiyuzx/" target="_blank" >大连金二小学洗浴/温泉</a>        
+													<a href="/jinquanyuan/xiyuzx/" target="_blank" >大连锦泉园洗浴/温泉</a>        
+													<a href="/jichangqian/xiyuzx/" target="_blank" >大连机场前洗浴/温泉</a>        
+													<a href="/jichang/xiyuzx/" target="_blank" >大连机场洗浴/温泉</a>        
+													<a href="/dljjj/xiyuzx/" target="_blank" >大连金家街洗浴/温泉</a>        
+													<a href="/jiangxidl/xiyuzx/" target="_blank" >大连江西洗浴/温泉</a>        
+													<a href="/jiusanlu/xiyuzx/" target="_blank" >大连九三路洗浴/温泉</a>        
+													<a href="/jiguanshanlu/xiyuzx/" target="_blank" >大连鸡冠山路洗浴/温泉</a>        
+													<a href="/jinfang/xiyuzx/" target="_blank" >大连金纺洗浴/温泉</a>        
+													<a href="/jiefangludl/xiyuzx/" target="_blank" >大连解放路洗浴/温泉</a>        
+													<a href="/jinshitan/xiyuzx/" target="_blank" >大连金石滩洗浴/温泉</a>        
+													<a href="/jinzhouquqita/xiyuzx/" target="_blank" >大连金州周边洗浴/温泉</a>        
+													<a href="/dljy/xiyuzx/" target="_blank" >大连金源洗浴/温泉</a>        
+															<dt><span>K</span></dt>
+					<dd>
+																			<a href="/kunmingjie/xiyuzx/" target="_blank" >大连昆明街洗浴/温泉</a>        
+													<a href="/kuiyingjie/xiyuzx/" target="_blank" >大连葵英街洗浴/温泉</a>        
+													<a href="/kuaigjml/xiyuzx/" target="_blank" >大连快轨金马路洗浴/温泉</a>        
+													<a href="/kuaigkfq/xiyuzx/" target="_blank" >大连快轨开发区洗浴/温泉</a>        
+													<a href="/kuaigjst/xiyuzx/" target="_blank" >大连快轨金石滩洗浴/温泉</a>        
+															<dt><span>L</span></dt>
+					<dd>
+																			<a href="/hutanjie/xiyuzx/" target="_blank" >大连老虎滩洗浴/温泉</a>        
+													<a href="/luxunlu/xiyuzx/" target="_blank" >大连鲁迅路洗浴/温泉</a>        
+													<a href="/liaoshi/xiyuzx/" target="_blank" >大连辽师洗浴/温泉</a>        
+													<a href="/lvbo/xiyuzx/" target="_blank" >大连绿波洗浴/温泉</a>        
+													<a href="/datongjie/xiyuzx/" target="_blank" >大连刘家桥洗浴/温泉</a>        
+													<a href="/longpanjinquan/xiyuzx/" target="_blank" >大连龙畔金泉洗浴/温泉</a>        
+													<a href="/shengliqb/xiyuzx/" target="_blank" >大连凌水洗浴/温泉</a>        
+													<a href="/lingshuizhen/xiyuzx/" target="_blank" >大连凌水镇洗浴/温泉</a>        
+													<a href="/longwangtang/xiyuzx/" target="_blank" >大连龙王塘洗浴/温泉</a>        
+													<a href="/lvshunnanlu/xiyuzx/" target="_blank" >大连旅顺南路洗浴/温泉</a>        
+													<a href="/lingnanlu/xiyuzx/" target="_blank" >大连岭南路洗浴/温泉</a>        
+													<a href="/laotieshan/xiyuzx/" target="_blank" >大连老铁山洗浴/温泉</a>        
+													<a href="/lvshunkouzb/xiyuzx/" target="_blank" >大连旅顺周边洗浴/温泉</a>        
+													<a href="/desheng/xiyuzx/" target="_blank" >大连亮甲店洗浴/温泉</a>        
+															<dt><span>M</span></dt>
+					<dd>
+																			<a href="/minzhuguangchang/xiyuzx/" target="_blank" >大连民主广场洗浴/温泉</a>        
+													<a href="/malan/xiyuzx/" target="_blank" >大连马栏广场洗浴/温泉</a>        
+													<a href="/minquandl/xiyuzx/" target="_blank" >大连民权洗浴/温泉</a>        
+													<a href="/meilinyuan/xiyuzx/" target="_blank" >大连美林园洗浴/温泉</a>        
+													<a href="/mingzhugognyuan/xiyuzx/" target="_blank" >大连明珠公园洗浴/温泉</a>        
+													<a href="/meiyushengjing/xiyuzx/" target="_blank" >大连美域盛景洗浴/温泉</a>        
+													<a href="/hongqigs/xiyuzx/" target="_blank" >大连庙岭洗浴/温泉</a>        
+													<a href="/miaoling/xiyuzx/" target="_blank" >大连庙岭洗浴/温泉</a>        
+													<a href="/mozhujie/xiyuzx/" target="_blank" >大连模珠街洗浴/温泉</a>        
+													<a href="/maqiaozi/xiyuzx/" target="_blank" >大连马桥子洗浴/温泉</a>        
+															<dt><span>N</span></dt>
+					<dd>
+																			<a href="/nansha/xiyuzx/" target="_blank" >大连南沙洗浴/温泉</a>        
+													<a href="/wuyigc/xiyuzx/" target="_blank" >大连宁夏路洗浴/温泉</a>        
+													<a href="/nanguanling/xiyuzx/" target="_blank" >大连南关岭洗浴/温泉</a>        
+													<a href="/nantuozi/xiyuzx/" target="_blank" >大连南坨子洗浴/温泉</a>        
+													<a href="/nancq/xiyuzx/" target="_blank" >大连南城区洗浴/温泉</a>        
+															<dt><span>O</span></dt>
+					<dd>
+																					<dt><span>P</span></dt>
+					<dd>
+																			<a href="/paoyazi/xiyuzx/" target="_blank" >大连泡崖子洗浴/温泉</a>        
+													<a href="/penghuixinshiji/xiyuzx/" target="_blank" >大连鹏辉新世纪洗浴/温泉</a>        
+													<a href="/paoyashichang/xiyuzx/" target="_blank" >大连泡崖市场洗浴/温泉</a>        
+													<a href="/paoyabaqu/xiyuzx/" target="_blank" >大连泡崖八区洗浴/温泉</a>        
+													<a href="/paoyaxincun/xiyuzx/" target="_blank" >大连泡崖新村洗浴/温泉</a>        
+													<a href="/paotaishangognyuan/xiyuzx/" target="_blank" >大连炮台山公园洗浴/温泉</a>        
+															<dt><span>Q</span></dt>
+					<dd>
+																			<a href="/qingyunjie/xiyuzx/" target="_blank" >大连青云街洗浴/温泉</a>        
+													<a href="/guilinjie/xiyuzx/" target="_blank" >大连七七街洗浴/温泉</a>        
+													<a href="/qingniguiqiao/xiyuzx/" target="_blank" >大连青泥洼桥洗浴/温泉</a>        
+													<a href="/quanyong/xiyuzx/" target="_blank" >大连泉涌洗浴/温泉</a>        
+													<a href="/quanshui/xiyuzx/" target="_blank" >大连泉水洗浴/温泉</a>        
+													<a href="/zhonghualu/xiyuzx/" target="_blank" >大连千山路洗浴/温泉</a>        
+													<a href="/qingxiulanwan/xiyuzx/" target="_blank" >大连青秀蓝湾洗浴/温泉</a>        
+													<a href="/aolinpikegc/xiyuzx/" target="_blank" >大连七贤岭洗浴/温泉</a>        
+													<a href="/qixianling/xiyuzx/" target="_blank" >大连七贤岭洗浴/温泉</a>        
+													<a href="/qixinjie/xiyuzx/" target="_blank" >大连启新街洗浴/温泉</a>        
+													<a href="/dlqs/xiyuzx/" target="_blank" >大连青松洗浴/温泉</a>        
+													<a href="/dalianshi/xiyuzx/" target="_blank" >大连其它洗浴/温泉</a>        
+															<dt><span>R</span></dt>
+					<dd>
+																			<a href="/renminguangchangdl/xiyuzx/" target="_blank" >大连人民广场洗浴/温泉</a>        
+													<a href="/renminlu/xiyuzx/" target="_blank" >大连人民路洗浴/温泉</a>        
+													<a href="/ruanjianyuan/xiyuzx/" target="_blank" >大连软件园洗浴/温泉</a>        
+															<dt><span>S</span></dt>
+					<dd>
+																			<a href="/shidaojie/xiyuzx/" target="_blank" >大连石道街洗浴/温泉</a>        
+													<a href="/shengliludl/xiyuzx/" target="_blank" >大连胜利路洗浴/温泉</a>        
+													<a href="/shikuilu/xiyuzx/" target="_blank" >大连石葵路洗浴/温泉</a>        
+													<a href="/shengliqiaobei/xiyuzx/" target="_blank" >大连胜利桥北洗浴/温泉</a>        
+													<a href="/shenyangludl/xiyuzx/" target="_blank" >大连沈阳路洗浴/温泉</a>        
+													<a href="/shiyanxiaoxue/xiyuzx/" target="_blank" >大连实验小学洗浴/温泉</a>        
+													<a href="/siergou/xiyuzx/" target="_blank" >大连寺儿沟洗浴/温泉</a>        
+													<a href="/sanbaguangchang/xiyuzx/" target="_blank" >大连三八广场洗浴/温泉</a>        
+													<a href="/shengliqiao/xiyuzx/" target="_blank" >大连胜利桥洗浴/温泉</a>        
+													<a href="/sunjiagou/xiyuzx/" target="_blank" >大连孙家沟洗浴/温泉</a>        
+													<a href="/shahekouqu/xiyuzx/" target="_blank" >大连沙河口周边洗浴/温泉</a>        
+													<a href="/shandonglu/xiyuzx/" target="_blank" >大连山东路洗浴/温泉</a>        
+													<a href="/sansizhong/xiyuzx/" target="_blank" >大连松江路洗浴/温泉</a>        
+													<a href="/shumalu/xiyuzx/" target="_blank" >大连数码路洗浴/温泉</a>        
+													<a href="/shuishiying/xiyuzx/" target="_blank" >大连水师营洗浴/温泉</a>        
+													<a href="/sanjianbao/xiyuzx/" target="_blank" >大连三涧堡洗浴/温泉</a>        
+													<a href="/shidaguangchang/xiyuzx/" target="_blank" >大连世达广场洗浴/温泉</a>        
+													<a href="/hepinggongyuandl/xiyuzx/" target="_blank" >大连世界和平公园洗浴/温泉</a>        
+													<a href="/sidalinlu/xiyuzx/" target="_blank" >大连斯大林路洗浴/温泉</a>        
+													<a href="/shuangshenglu/xiyuzx/" target="_blank" >大连双盛路洗浴/温泉</a>        
+													<a href="/sanshilibao/xiyuzx/" target="_blank" >大连三十里堡洗浴/温泉</a>        
+															<dt><span>T</span></dt>
+					<dd>
+																			<a href="/tiyuchangdl/xiyuzx/" target="_blank" >大连体育场洗浴/温泉</a>        
+													<a href="/taoyuanjie/xiyuzx/" target="_blank" >大连桃源街洗浴/温泉</a>        
+													<a href="/tianjinjie/xiyuzx/" target="_blank" >大连天津街洗浴/温泉</a>        
+													<a href="/taiyuanjiedl/xiyuzx/" target="_blank" >大连太原街洗浴/温泉</a>        
+													<a href="/dagongjie/xiyuzx/" target="_blank" >大连台山洗浴/温泉</a>        
+													<a href="/taoyuandl/xiyuzx/" target="_blank" >大连桃园洗浴/温泉</a>        
+													<a href="/tiyuchangdlpld/xiyuzx/" target="_blank" >大连体育场洗浴/温泉</a>        
+															<dt><span>U</span></dt>
+					<dd>
+																					<dt><span>V</span></dt>
+					<dd>
+																					<dt><span>W</span></dt>
+					<dd>
+																			<a href="/wuyigcdl/xiyuzx/" target="_blank" >大连五一广场洗浴/温泉</a>        
+													<a href="/wusilu/xiyuzx/" target="_blank" >大连五四路洗浴/温泉</a>        
+													<a href="/wuchangjie/xiyuzx/" target="_blank" >大连武昌街洗浴/温泉</a>        
+													<a href="/wusiguangchangdl/xiyuzx/" target="_blank" >大连五四广场洗浴/温泉</a>        
+													<a href="/wentijie/xiyuzx/" target="_blank" >大连文体街洗浴/温泉</a>        
+													<a href="/wanshengshichang/xiyuzx/" target="_blank" >大连万盛市场洗浴/温泉</a>        
+													<a href="/huangheludl/xiyuzx/" target="_blank" >大连王家桥洗浴/温泉</a>        
+													<a href="/wangjiacun/xiyuzx/" target="_blank" >大连王家村洗浴/温泉</a>        
+													<a href="/wuyiluls/xiyuzx/" target="_blank" >大连五一路洗浴/温泉</a>        
+													<a href="/wuyiludl/xiyuzx/" target="_blank" >大连五一路洗浴/温泉</a>        
+													<a href="/dlwl/xiyuzx/" target="_blank" >大连湾里洗浴/温泉</a>        
+													<a href="/dlwhy/xiyuzx/" target="_blank" >大连文华园洗浴/温泉</a>        
+													<a href="/wenhualudl/xiyuzx/" target="_blank" >大连文化路洗浴/温泉</a>        
+															<dt><span>X</span></dt>
+					<dd>
+																			<a href="/xianglujiao/xiyuzx/" target="_blank" >大连香炉礁洗浴/温泉</a>        
+													<a href="/xinkailu/xiyuzx/" target="_blank" >大连新开路洗浴/温泉</a>        
+													<a href="/xianggongjie/xiyuzx/" target="_blank" >大连香工街洗浴/温泉</a>        
+													<a href="/xinqitun/xiyuzx/" target="_blank" >大连新起屯洗浴/温泉</a>        
+													<a href="/xigangqu/xiyuzx/" target="_blank" >大连西岗周边洗浴/温泉</a>        
+													<a href="/xiwanggc/xiyuzx/" target="_blank" >大连希望广场洗浴/温泉</a>        
+													<a href="/xiuyuejie/xiyuzx/" target="_blank" >大连秀月街洗浴/温泉</a>        
+													<a href="/xiaolongjie/xiyuzx/" target="_blank" >大连小龙街洗浴/温泉</a>        
+													<a href="/xinghaiwan/xiyuzx/" target="_blank" >大连星海湾洗浴/温泉</a>        
+													<a href="/xingfuejia/xiyuzx/" target="_blank" >大连幸福E家洗浴/温泉</a>        
+													<a href="/xinghaiguangchangdl/xiyuzx/" target="_blank" >大连星海广场洗浴/温泉</a>        
+													<a href="/xinggongjie/xiyuzx/" target="_blank" >大连西安路洗浴/温泉</a>        
+													<a href="/xishandl/xiyuzx/" target="_blank" >大连西山洗浴/温泉</a>        
+													<a href="/beihaigc/xiyuzx/" target="_blank" >大连西南路洗浴/温泉</a>        
+													<a href="/xianggong/xiyuzx/" target="_blank" >大连兴工街洗浴/温泉</a>        
+													<a href="/xinghaigy/xiyuzx/" target="_blank" >大连星海公园洗浴/温泉</a>        
+													<a href="/xinlegongyuan/xiyuzx/" target="_blank" >大连欣乐公园洗浴/温泉</a>        
+													<a href="/xishanshuiku/xiyuzx/" target="_blank" >大连西山水库洗浴/温泉</a>        
+													<a href="/xinzhaizi/xiyuzx/" target="_blank" >大连辛寨子洗浴/温泉</a>        
+													<a href="/xiangzhoulu/xiyuzx/" target="_blank" >大连香周路洗浴/温泉</a>        
+													<a href="/dlxinanlu/xiyuzx/" target="_blank" >大连西南路洗浴/温泉</a>        
+															<dt><span>Y</span></dt>
+					<dd>
+																			<a href="/yinghuajie/xiyuzx/" target="_blank" >大连英华街洗浴/温泉</a>        
+													<a href="/yurenmatoudl/xiyuzx/" target="_blank" >大连渔人码头洗浴/温泉</a>        
+													<a href="/youhaoguangchang/xiyuzx/" target="_blank" >大连友好广场洗浴/温泉</a>        
+													<a href="/yingbingludl/xiyuzx/" target="_blank" >大连迎宾路洗浴/温泉</a>        
+													<a href="/yuejinlu/xiyuzx/" target="_blank" >大连跃进路洗浴/温泉</a>        
+													<a href="/yaojiadl/xiyuzx/" target="_blank" >大连姚家洗浴/温泉</a>        
+													<a href="/youyamen/xiyuzx/" target="_blank" >大连游崖门洗浴/温泉</a>        
+													<a href="/yingchengzi/xiyuzx/" target="_blank" >大连营城子洗浴/温泉</a>        
+													<a href="/yingkelu/xiyuzx/" target="_blank" >大连迎客路洗浴/温泉</a>        
+													<a href="/yiyanglu/xiyuzx/" target="_blank" >大连亿阳路洗浴/温泉</a>        
+													<a href="/yingchunjie/xiyuzx/" target="_blank" >大连迎春街洗浴/温泉</a>        
+													<a href="/yantonglu/xiyuzx/" target="_blank" >大连友谊路洗浴/温泉</a>        
+													<a href="/yandalu/xiyuzx/" target="_blank" >大连营顺路洗浴/温泉</a>        
+													<a href="/yongzheng/xiyuzx/" target="_blank" >大连拥政洗浴/温泉</a>        
+													<a href="/youyidl/xiyuzx/" target="_blank" >大连友谊洗浴/温泉</a>        
+													<a href="/dlysl/xiyuzx/" target="_blank" >大连倚山里洗浴/温泉</a>        
+															<dt><span>Z</span></dt>
+					<dd>
+																			<a href="/zhanbei/xiyuzx/" target="_blank" >大连站北洗浴/温泉</a>        
+													<a href="/aolinpike/xiyuzx/" target="_blank" >大连长春路洗浴/温泉</a>        
+													<a href="/zsgy/xiyuzx/" target="_blank" >大连中山公园洗浴/温泉</a>        
+													<a href="/zhongshanguangchang/xiyuzx/" target="_blank" >大连中山广场洗浴/温泉</a>        
+													<a href="/haijunguangchang/xiyuzx/" target="_blank" >大连中南路洗浴/温泉</a>        
+													<a href="/changjiangludl/xiyuzx/" target="_blank" >大连长江路洗浴/温泉</a>        
+													<a href="/dlzhongshanqu/xiyuzx/" target="_blank" >大连中山周边洗浴/温泉</a>        
+													<a href="/zhongshanludl/xiyuzx/" target="_blank" >大连中山路洗浴/温泉</a>        
+													<a href="/zuanshiwan/xiyuzx/" target="_blank" >大连钻石湾洗浴/温泉</a>        
+													<a href="/zhoushuiqian/xiyuzx/" target="_blank" >大连周水前洗浴/温泉</a>        
+													<a href="/zhoujiajie/xiyuzx/" target="_blank" >大连周家街洗浴/温泉</a>        
+													<a href="/zhangjiacundl/xiyuzx/" target="_blank" >大连张家村洗浴/温泉</a>        
+													<a href="/zhoushuizi/xiyuzx/" target="_blank" >大连周水子洗浴/温泉</a>        
+													<a href="/zhongguohualu/xiyuzx/" target="_blank" >大连中国华录洗浴/温泉</a>        
+													<a href="/dlchangcheng/xiyuzx/" target="_blank" >大连长城洗浴/温泉</a>        
+													<a href="/zhangjiulu/xiyuzx/" target="_blank" >大连长江路洗浴/温泉</a>        
+													<a href="/zhongchang/xiyuzx/" target="_blank" >大连中长洗浴/温泉</a>        
+													<a href="/zhanqiandl/xiyuzx/" target="_blank" >大连站前洗浴/温泉</a>        
+													<a href="/zhongxinludl/xiyuzx/" target="_blank" >大连中心路洗浴/温泉</a>        
+													<a href="/changhai/xiyuzx/" target="_blank" >大连长海洗浴/温泉</a>        
+														<dt><span>区域</span></dt>
+				<dd>	
+																	
+																		
+																		
+																													
+													<a href="/xiyuzx/" target="_blank" >全大连洗浴/温泉</a>                
+																		
+													<a href="/xigang/xiyuzx/" target="_blank" >西岗洗浴/温泉</a>                
+																		
+													<a href="/zhongshanqu/xiyuzx/" target="_blank" >中山洗浴/温泉</a>                
+																		
+													<a href="/shahekou/xiyuzx/" target="_blank" >沙河口洗浴/温泉</a>                
+																		
+													<a href="/ganjingziqu/xiyuzx/" target="_blank" >甘井子洗浴/温泉</a>                
+																		
+													<a href="/gaoxinyuanqu/xiyuzx/" target="_blank" >高新园洗浴/温泉</a>                
+																		
+													<a href="/lvshunkou/xiyuzx/" target="_blank" >旅顺洗浴/温泉</a>                
+																		
+													<a href="/jinzhouqu/xiyuzx/" target="_blank" >金州洗浴/温泉</a>                
+																		
+													<a href="/daliankfq/xiyuzx/" target="_blank" >开发区洗浴/温泉</a>                
+																		
+													<a href="/wafangdian/xiyuzx/" target="_blank" >瓦房店洗浴/温泉</a>                
+																		
+													<a href="/dlpulandian/xiyuzx/" target="_blank" >普兰店洗浴/温泉</a>                
+																		
+													<a href="/zhuanghe/xiyuzx/" target="_blank" >庄河洗浴/温泉</a>                
+																		
+													<a href="/dalian/xiyuzx/" target="_blank" >大连周边洗浴/温泉</a>                
+																					</dd> 
+        
+    		</dl>
+  		</dd>
+	</dl>
+	 	<!-- =E relatelink -->
+	<!-- =S bottomlink-->
+	    	<!-- =E bottomlink -->
+	<!-- =S hotcity-->
+	        <dl class="linksItem hotcity" id="hotcity">
+    	<dt class="b-left">大连洗浴/温泉周边城市：</dt>
+    	<dd class="b-right">
+    		<ul class="b-ul">
+    			    			<li><a href="http://sy.58.com/xiyuzx/">沈阳洗浴/温泉</a></li>
+    			    			<li><a href="http://as.58.com/xiyuzx/">鞍山洗浴/温泉</a></li>
+    			    			<li><a href="http://fushun.58.com/xiyuzx/">抚顺洗浴/温泉</a></li>
+    			    			<li><a href="http://benxi.58.com/xiyuzx/">本溪洗浴/温泉</a></li>
+    			    			<li><a href="http://jinzhou.58.com/xiyuzx/">锦州洗浴/温泉</a></li>
+    			    			<li><a href="http://yk.58.com/xiyuzx/">营口洗浴/温泉</a></li>
+    			    			<li><a href="http://dandong.58.com/xiyuzx/">丹东洗浴/温泉</a></li>
+    			    			<li><a href="http://liaoyang.58.com/xiyuzx/">辽阳洗浴/温泉</a></li>
+    			    			<li><a href="http://pj.58.com/xiyuzx/">盘锦洗浴/温泉</a></li>
+    			    		</ul>
+    	</dd>
+    </dl>
+	<!-- =S hotcity -->
+            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+					洗浴/温泉- 热门城市：
+					</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://bj.58.com/xiyuzx/'>北京洗浴/温泉</a></li>
+        		        		<li><a href='http://sh.58.com/xiyuzx/'>上海洗浴/温泉</a></li>
+        		        		<li><a href='http://gz.58.com/xiyuzx/'>广州洗浴/温泉</a></li>
+        		        		<li><a href='http://sz.58.com/xiyuzx/'>深圳洗浴/温泉</a></li>
+        		        		<li><a href='http://tj.58.com/xiyuzx/'>天津洗浴/温泉</a></li>
+        		        		<li><a href='http://hz.58.com/xiyuzx/'>杭州洗浴/温泉</a></li>
+        		        		<li><a href='http://wh.58.com/xiyuzx/'>武汉洗浴/温泉</a></li>
+        		        		<li><a href='http://xa.58.com/xiyuzx/'>西安洗浴/温泉</a></li>
+        		        		<li><a href='http://cd.58.com/xiyuzx/'>成都洗浴/温泉</a></li>
+        		        		<li><a href='http://zz.58.com/xiyuzx/'>郑州洗浴/温泉</a></li>
+        		        		<li><a href='http://cs.58.com/xiyuzx/'>长沙洗浴/温泉</a></li>
+        		        		<li><a href='http://su.58.com/xiyuzx/'>苏州洗浴/温泉</a></li>
+        		        		<li><a href='http://jn.58.com/xiyuzx/'>济南洗浴/温泉</a></li>
+        		        		<li><a href='http://sy.58.com/xiyuzx/'>沈阳洗浴/温泉</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+	<!-- =E hotcity --> 	<!-- =E hotcity -->
+	<!-- =S friendlink-->
+			<dl id="friendlink" class="linksItem friendlink">
+<dt class="b-left"> 友情链接：</dt>
+<dd class="b-right"><a href='http://huoche.mipang.com/dalian-gaotie.html' target='_blank'>大连高铁</a>&nbsp;<a href='http://m.58.com/dl/xiyuzx/' target='_blank'>大连洗浴中心</a>&nbsp;<a href='http://yangchun.58.com/xiyuzx/' target='_blank'>阳春洗浴中心</a>&nbsp;<a href='http://dl.58.com/wenquandujiacun/' target='_blank'>大连温泉度假村</a>&nbsp;<a href='http://www.58.com/ppijiuba179/' target='_blank'>缪斯内衣</a>&nbsp;<a href='http://www.58.com/ppijiuba179/' target='_blank'>缪斯内衣</a>&nbsp;<a href='http://m.58.com/w/ppijiuba1014/' target='_blank'>酒窝酒吧</a>&nbsp;<a href='http://m.58.com/dl/jianfyujia/' target='_blank'>大连减肥瑜伽</a>&nbsp;<a href='http://qy.58.com/hsdq/dl/xiyuhs/' target='_blank'>大连洗浴会所</a>&nbsp;<a href='http://qy.m.58.com/hsdq/dl/xiyuhs/' target='_blank'>大连洗浴会所</a>&nbsp;  <a href="/link.html" target="_blank">更多...</a></dd>
+</dl>
+		<!-- =E friendlink -->
+</section>
+	<footer id="footer" class="footer">
+	    <div id="upWrap"> <a target="_blank" href="http://about.58.com/help.html" rel="nofollow">常见问题</a><span>|</span> <a target="_blank" href="http://about.58.com/" rel="nofollow">帮助中心</a><span>|</span> <a target="_blank" href="http://about.58.com/feedback.html" rel="nofollow">意见反馈</a><span>|</span> <a target="_blank" href="http://about.58.com/home/" rel="nofollow">了解58同城</a><span>|</span> <a target="_blank" href="http://about.58.com/hr/" rel="nofollow">加入58同城</a><span>|</span> <a target="_blank" href="http://fanqizha.58.com/" rel="nofollow">反欺诈联盟</a><span>|</span> <a target="_blank" href="http://110.58.com" rel="nofollow">报案平台</a><span>|</span> <a target="_blank" href="http://e.58.com" rel="nofollow">推广服务</a><span>|</span> <a target="_blank" href="http://biz.58.com" rel="nofollow">渠道招商</a><span>|</span> <a target="_blank" href="http://baozhang.58.com" rel="nofollow">先行赔付</a><span>|</span> <a target="_blank" href="http://ir.58.com?PGTID=0d100000-0000-13da-8041-51f9a3a739fa&amp;ClickID=2" rel="nofollow">Investor Relations</a> </div>
+	    <div id="downWrap"> <em>2005-2016 58.com版权所有</em><span>|</span> <em>京公网备案信息110105000809</em><span>|</span> <a target="_blank" href="http://www.miibeian.gov.cn/" rel="nofollow">京ICP证060405</a><span>|</span><em>乙测资字11018014</em><span>|</span> <a target="_blank" href="http://ir.58.com" rel="nofollow">Investor Relations</a><span>|</span><em>违法信息举报：4008135858&nbsp;&nbsp;jubao@58ganji.com</em> </div>
+	    <div class="fotBtmIcon">
+	        <a target="_blank" id="fotBm_1" href="http://fanqizha.58.com"></a>
+	        <a target="_blank" id="fotBm_2" href="http://www.12377.cn/"></a>
+	        <a target="_blank" id="fotBm_3" href="http://www.12377.cn/node_548446.htm"></a>
+	        <a target="_blank" id="fotBm_4" href="https://credit.szfw.org/CX20120918001650001720.html"></a>
+	        <a target="_blank" id="fotBm_5" href="http://img.58cdn.com.cn/ui6/index/qyxinyong.jpg?v=3"></a>
+	        <a target="_blank" id="fotBm_6" href="http://about.58.com/fqz/index.html"></a>
+	    </div>
+	</footer>
+<script>
+	var currentDate = new Date();
+</script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfc_v20160418145051.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfcInit_v20161121150119.js'></script>
+<script>
+	var jingzhun_ads = [];
+	var jingzhun_ads_param = "";
+</script>
+
+				<script type="text/javascript" src='http://j1.58cdn.com.cn/js/5_1/comm_js/boot_listpage_version_v20170329165708.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript">
+document.domain = '58.com';
+var win = new GetToolTipWindow('tooltipdiv', 'keyword', '3','147','', true);win.setSearchButton('searchbtn');
+var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','147','');win1.setSearchButton('searchbtn1');
+var win2 = new GetToolTipWindow('tooltipdiv2', 'mudidi', '7', '147', '');win2.setSearchButton('searchbtn1');
+boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'dl');});
+</script>
+
+<script type="text/javascript" >
+// JavaScript Document
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	toggle(".p-help");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".small-tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+
+$("#shangmenfw a").each(function(){
+	if("到店服务"== $(this).text().trim()){
+		$(this).remove();
+	}
+});
+
+BAIDU_CLB_fillSlot("567863");
+
+var alldt = $("#relateSelect>dt");
+function showNear(dt){
+    alldt.each(function(){
+        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+        else {$(this).next("dd").hide();$(this).removeClass("select");}
+    });
+}
+alldt.each(function(){
+    $(this).click(function(){showNear(this);}).hover(function(){showNear(this);});
+});
+
+showNear(alldt[0]);
+
+  
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+$(".selector").each(function(){
+	$(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+});
+
+</script>
+
+<div style="display:none;">
+<script type="text/javascript">
+ var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3bb04d7a4ca3846dcc66a99c3e861511' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+</div>
+
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+
+
+			<script type="text/javascript" src='http://j1.58cdn.com.cn/js/v8/boot/boot_huangye_v20170329172410.js'>
+		</script>
+		<script>
+			require(['_pkg/huangye/huangye_shenghuo_list_dom'],function(){});
+		</script>
+	
+<script src="http://track.58.com/adsys/ggafs?rand=20170405"></script>
+<script>
+//统计埋点
+$(function(){
+	$('dl.secitem').each(function(){
+	    var idname = $(this).find("dd").eq(0).attr('id');
+		$(this).find('a').not('span a').each(function(){
+			$(this).click(function(){
+				clickLog('from=pc_list_xiyuzx_shaixuan_'+idname+ '_dl');
+		    });		
+		});	
+    });	
+})
+</script>
+<script type="text/javascript">
+    $("#more_ObjectType").click(function(){
+    	console.log("ok");
+    	var showmoreBrand = document.getElementById("moreBrandct"),moreBrandbtn = document.getElementById("moreBrandbtn");
+	    showmoreBrand.style.display = (showmoreBrand.style.display=="block")?"none":"block";
+	    moreBrandbtn.className = (moreBrandbtn.className=="moreBrand")?"moreBrand hold":"moreBrand";
+    });
+    var pemorealldt = $("#moreBrandct dt");
+	function showpemorecon(dt){
+		pemorealldt.each(function(){
+		    if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+            else {$(this).next("dd").hide();$(this).removeClass("select");}
+        });
+    }
+    pemorealldt.each(function(){
+		$(this).click(function(){showpemorecon(this);}).hover(function(){showpemorecon(this);});
+    });
+    showpemorecon(pemorealldt[0]);
+</script>
+		<script type="text/javascript">
+function cpcget(url){
+	$.ajax({
+		url:url,
+		type:"get",
+		dataType:"jsonp",
+		success:function(data){
+		
+        }
+    });	
+}
+</script>					<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e15962162366a86a6229038443847be7";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div style="display:none">
+	<!--基本统计代码begin(26506,0)--by:zhanghao06-->
+<script type="text/javascript">
+____json4fe.supplycount = {sortid:'28031889529153'};
+var _gaq = _gaq || [],site_name = "58",post_count = "372",shop_count= "",page_type = "list";
+var _trackURL = "{'cate':'26506,26513','area':'147','pagetype':'list','GA_pageview':'/dl/xiuxianyl/xiyuzx/listversion/','version':'A','pagesize':'35','pagenum':'1','level1':'','level2':'','level3':'','level4':'','level5':'','level6':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/dl/xiuxianyl/xiyuzx/listversion/']);
+$.getScript( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')  + '.google-analytics.com/ga.js');
+$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+<!--基本统计代码end-->
+</div>
+<script src="http://wechat.58.com/google-analytics"></script> 				<!-- 抢单神器下线-->
+				<!-- 抢单神器下线-->
+		<!-- 装修搜索弹窗  S -->
+				<!-- 招标弹框start -->
+<link rel="stylesheet" href='http://c.58cdn.com.cn/ds/zhaobiao/pc_search_win/list_win_zb_v20161010135135.css' />
+<script src="http://j1.58cdn.com.cn/ds/zhaobiao/v1/js/fastpost/jquery.md5.js"></script>
+<script>
+ var cityid=147;
+</script>
+
+        <!-- 招标弹框end -->
+
+
+				<!-- 装修搜索弹窗  E -->
+		<!-- 前置登陆  s -->
+				<!-- 前置登陆  e -->
+	</body>
+</html>

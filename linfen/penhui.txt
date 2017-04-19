@@ -1,0 +1,1456 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+												<!--  当前的类别归属ID--> 
+		<!--  当前的类别表现ID--> 
+		<!--  当前的类别listname (eg:banjia)--> 
+		<!--  当前的类别catename (eg:搬家)--> 
+		<!--  一级类别归属ID--> 
+		<!--  一级类别表现ID--> 
+		<!--  一级类别listname eg:jiazheng--> 
+		<!--  一级类别catename eg:家政--> 
+		<!--  二级类别归属ID [Ljava.lang.Integer;@3d8f28e4 数字长度：2--> 
+			<!--  二级类别表现ID--> 
+				<!--  二级类别listname eg:jiazhuang--> 
+				<!--  二级类别catename eg:家装-->
+				<!-- 表现类别的全路径   eg:8512,96-->
+									
+						<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>【58同城】临汾喷绘写真_临汾招牌设计制作</title>
+	<meta name="description" content='58同城临汾喷绘招牌频道是临汾最大的喷绘写真、招牌设计制作免费信息发布、查阅平台。58同城临汾喷绘招牌频道每天都有大量专业、真实的优秀商家提供临汾喷绘写真,临汾招牌设计制作信息供大家选择，同时您可以免费发布临汾喷绘写真、招牌设计制作信息。-58.com'/>
+	<meta name="keywords" content='临汾喷绘写真,临汾招牌设计制作'/>
+	<meta http-equiv="X-UA-Compatible" content="edge" />
+		<meta name="location" content="province=山西;city=临汾;coord=111.538788,36.099745">
+				<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/linfen/penhui/" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/linfen/penhui/" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/linfen/penhui/" />
+					<script type="text/javascript">
+		var ____loadCfg = ['huangye', 'shenghuo', 'listpage'];
+	</script>
+	<script src='http://j2.58cdn.com.cn/js/require_jquery_load.js'></script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">document.write('<scri'+'pt src="http://j1.58cdn.com.cn/ds/tgbrand/js/brand_listpage_v1.js?temp=' + Math.random() + '"></scri'+'pt>');</script> 
+<script type="text/javascript">
+	var xxfwConfig = {namespace:'huangyelistpc'};
+</script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/resource/xxzl/xxfw/xxfw.min_v20161021110430.js'></script>
+
+<script type="text/javascript">
+try{
+	var ____json4fe = {"catentry":[{"dispid":"8703","name":"商务服务","listname":"shangwu"},{"dispid":"196","name":"喷绘招牌","listname":"penhui"}],"locallist":[{"dispid":"5669","name":"临汾","listname":"linfen"}],"start":(new Date()).getTime(),"modules":"list"};
+	____json4fe.version = 'A';
+	____json4fe.modules = 'listpage';
+	____json4fe.sid = '178872977195478101941901930';
+	____json4fe.sessionid = 'a1ead926-ee1c-458a-9f8f-ba6da6760fce';
+	____json4fe.smsc = '3f2dd2de9529e63336b080a9329f27b7eb294f512e7a5df3c61dd24c0694055411d4ad7836e5f84db8e0d7d02a587b84967c8605b534cf46ff55d000ac5fc0925f411696d9bab0fae17296fdb4d18df6c4f3415d212b573a6b7906a7335c0e04b2638dae39ebd7c889a4d0ef8af6313c4135a75b1165a6011d6f2fdeddeb7bfd30060839d542fc4a0136ea3637f0a2e4d1ad379a9638d9b1';
+	____json4fe.newcateid='';
+	____json4fe.keyword='';
+	____json4fe.page='1';
+	____json4fe.param='';
+	}catch(e){};
+	(function(){
+var e = "header,nav,section,aside,article,footer".split(','),
+i=0,
+length=e.length;
+while(i<length){
+    document.createElement(e[i++])
+}
+})();
+	var ajax_param = '{"platform":"pc","paramMap":null,"pageIndex":1,"dispCateId":196,"infoMethod":["renzheng","baojia","wltAge"],"dataParam":"29558723680077_32127764975370_0_commoninfo,14352372596994_39480701_0_commoninfo,29525859900724_29206879584514_0_commoninfo,26287055909683_28234296741383_0_commoninfo,29472359692600_40734299169047_0_commoninfo,29462570910791_29325416611332_0_commoninfo,22469373251233_5674956806407_0_commoninfo,29393023118792_30227102460938_0_commoninfo,17903250833416_14829740704262_0_commoninfo,29348931011513_41989512915216_0_commoninfo,29275618328491_40287030581270_0_commoninfo,29252210356298_28499726541831_0_commoninfo,29208548122162_21647319514119_0_commoninfo,29152300163886_22185735080454_0_commoninfo,21333086840354_28130355_0_commoninfo,29030798933431_37792019706646_0_commoninfo,29020438832951_43184142316309_0_commoninfo,26781850519468_40868655564303_0_commoninfo,28807590596410_31778103417094_0_commoninfo,28598407439807_25472962405383_0_commoninfo,28580223518155_42753038672148_0_commoninfo,28535803200053_39011359615506_0_commoninfo,25303416606908_1203509448454_0_commoninfo,28432307016134_41113423927060_0_commoninfo,28367197449400_40860790592270_0_commoninfo,28319737359661_11589062207751_0_commoninfo,28269301267498_37886717442319_0_commoninfo,28191811188907_7863035161095_0_commoninfo,27893921581517_35545046_0_commoninfo,22539712834723_31595474212364_0_commoninfo,27658541022400_37438388110095_0_commoninfo,27656312009646_40803197745934_0_commoninfo,27480258924487_42301361929998_0_commoninfo,27371313851436_32668361113612_0_commoninfo,27202585516611_37919681036054_0_commoninfo","dispCateName":"penhui"}';
+	var s_ajax_param = 's_contact_penhui_178872977195478101941901930_';
+</script>				<link href='http://c.58cdn.com.cn/ds/v1/base-v1_v0.css' rel="stylesheet" type="text/css">
+	<link href='http://c.58cdn.com.cn/ds/v1/common_list_v20170315183710.css' rel="stylesheet" type="text/css">
+<link href='http://c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20170331140927.css' rel="stylesheet" type="text/css">
+
+
+		<link href='http://c.58cdn.com.cn/ds/v1/list/defaultList_v20170220190119.css' rel="stylesheet" type="text/css">
+	<!-- <link rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv02_v0.css'> -->
+<link type="text/css" rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03_v20160727171301.css'>
+<!-- <link type="text/css" rel="stylesheet" href="http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03.css"> -->
+
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/dialog_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/release_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/retable_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/weixin/hy_freetel_v20161207184444.css">	
+    		</head>
+			<body class="">
+						<!-- =S top bar header -->
+			<div id="commonTopbar" class="commonTopbar">
+<script type="text/javascript">
+    var secId;
+        ____json4fe.catentry[1]? secId = ____json4fe.catentry[1].dispid : secId = ____json4fe.catentry.dispid;
+    var modules = ____json4fe.modules;
+    //搬家列表页(secId == "96" && modules=="listpage")宽度为1190px
+    if(secId == "96" && modules=="listpage"){
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'default' // default: 1190px, narrow: 1000px
+            });
+        };
+    }else{
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'narrow' // default: 1190px, narrow: 1000px
+            });
+        };
+    }    
+</script>
+</div>
+<!-- =S banner  div -->
+<div class="topbannerbar"><div id="brand_list_top_banner" onclick="clickLog('from=pc_list_penhui_top_banner');" ></div></div>
+<!-- =E banner  div--><header id="header">
+    <div class="header-inner">
+    <a class="logo float_l" href="/huangye/" target="_blank" onclick="clickLog('from=pc_list_logo_penhui');">58同城</a>
+            <a href='http://post.58.com/5669/196/s5' target="_blank" onclick="clickLog('from=pc_list_fabu_penhui');" class="postbtn float_r">免费发布</a>
+        		        <div class="header-search float_r">
+         <em class="ico-searchkey"></em>
+         <form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+         	            	<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();">
+                        <span onMouseOut="this.className='sbtn'" onMouseOver="this.className='sbtn hover'" class="sbtn">
+                			<input type="submit" value="搜服务" onclick="clickLog('from=pc_list_search_penhui');" class="but-bl" name="" id="searchbtn1" ></span>
+                		        		<div class="clear"></div>
+        					       		       	  </form>
+       	</div>
+		            	<div class="nav float_l" >
+	<a href="/">临汾58同城</a> &gt; <a href="/shangwu.shtml">临汾商务服务</a>
+				 &gt; <a href="/penhui/" itemprop="url">临汾喷绘招牌</a>
+	
+
+</div>
+	</div>
+</header>
+		<!-- =E top bar header -->
+	<!-- =S common_column_label-->
+			<!-- =E common_column_label-->
+	<!-- =S searchTip -->
+			<!-- =E searchTip  -->
+	<!-- =s cmcs -->
+							<section id="selection">
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">类型 ：</dt>
+		<dd id="ObjectType" >
+																    		    		    		    					<a href="/penhui/" class='select' >全部</a>
+								    		    		    		    					<a href="http://linfen.58.com/zpzz/"  >灯箱/招牌</a>
+								    		    		    		    					<a href="http://linfen.58.com/lhgc/"  >亮化工程</a>
+								    		    		    		    					<a href="http://linfen.58.com/bjxx/"  >背景/形象墙</a>
+								    		    		    		    					<a href="http://linfen.58.com/zjzz/"  >展架制作</a>
+								    		    		    		    					<a href="http://linfen.58.com/hwgg/"  >户外广告</a>
+								    		    		    		    					<a href="http://linfen.58.com/bp/"  >标牌</a>
+								    		    		    		    					<a href="http://linfen.58.com/dianzizp/"  >LED显示屏</a>
+								    		    		    		    					<a href="http://linfen.58.com/tjj/"  >条幅/锦旗/奖牌</a>
+																				    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">服务区域  ：</dt>
+		<dd id="local" >
+																    		    		    		    					<a href="/penhui/" class='select' >全临汾</a>
+								    		    		    		    					<a href="/yaodou/penhui/"  >尧都</a>
+								    		    		    		    					<a href="/houma/penhui/"  >侯马</a>
+								    		    		    		    					<a href="/huozhou/penhui/"  >霍州</a>
+								    		    		    		    					<a href="/quwo/penhui/"  >曲沃</a>
+								    		    		    		    					<a href="/lfyicheng/penhui/"  >翼城</a>
+								    		    		    		    					<a href="/xiangfen/penhui/"  >襄汾</a>
+								    		    		    		    					<a href="/hongdong/penhui/"  >洪洞</a>
+								    		    		    		    					<a href="/lfguxian/penhui/"  >古县</a>
+								    		    		    		    					<a href="/linfenshi/penhui/"  >其它</a>
+																									    	</dd>
+    </dl>
+	<div id="selected" class="bar"></div>
+	<i class="shadow"></i>
+</section>
+
+			<!-- =E cmcs -->
+		<div id="adtop_1" class="hc"><div class="mouter defa"><div class="inner"><div id="md3" class="mdul"></div><ul id="md1" class="mdul"></ul><ul id="md2" class="mdul"></ul><ul id="md4" class="mdul"></ul><ul id="md5" class="mdul"></ul><div class="clear"></div></div></div></div>
+<div class="tabsbar">
+    <div class="list-tabs">
+												<a href="/penhui/" onclick="clickLog('from=pc_list_penhui_list_tabs');" class="sel"><h1>临汾喷绘招牌</h1></a>
+											</div>
+	 	    	                	        
+
+		
+	
+				<span class="zhaobiao" >
+			<a href="http://bianmin.58.com/linfen/?from=pc_list_bianmin_wzl"
+			   target="_blank" >学习办事经验，解决办证难题</a>
+		</span>
+		
+			
+
+
+</div>
+ 				<section id="mainlist" class="main clearfix pr">
+					<div class="filterbar h28">
+    <div class="filterbar-l">
+			<!-- <div class="filterup" id="filterup">
+				 <a class="m1" title="找班级" href="#" rel="nofollow" onclick=""><span>找班级<em></em></span></a>
+				 <a class="m1" title="找拼友" href="#" rel="nofollow" onclick=""><span>找拼友<em></em></span></a>
+			</div>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">全部</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示教育机构</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示个人教师</a></span> -->
+				<div class="filterup" id="filterup">
+			 <a class="m1 sel" title="默认" href="#" rel="nofollow" onclick="g2({sort:null}); clickLog('from=huangye_list_moren_penhui_linfen&psid=178872977195478101941901930'); "><span>默认排序<em></em></span></a>
+											</div>
+														<span class="checkbox-ico" id="renzheng"><a href="javascript:void(0);" onclick="clickLog('from=List_sort_penhui__zhikanrenzheng');">只看认证</a></span>
+									
+									</div>  
+     <div class="filterbar-md">
+    	    	<!-- 加入医疗健康判断-->
+    	    		    		        		           		        		    	
+				   </div>        
+</div>
+					<div id="infolist" class="cleft" >
+				<!-- =S infolist -->
+									<div id="top_google_ad"></div>
+<table class="small-tbimg" cellspacing="0" cellpadding="0" >
+							<tr logr='p_1_32127764975370_29558723680077_0' infotag="29558723680077_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">胡经理 : </b>
+				<a href='http://linfen.58.com/penhui/29558723680077x.shtml?psid=178872977195478101941901930&entinfo=29558723680077_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			彩页名片会员卡画册鼠标垫磁条卡广告扇工厂直营
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												蓝天印务专业设计：彩页，画册，折页，海报，不干胶，标签，背胶贴，名片，...
+				(03-31)
+							<p class="seller">
+					a***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29558723680077' wltMark="0" param="29558723680077_32127764975370_0_commoninfo_2614ACCC15B8FD63370145C6E39B70C5"  data-j4fe="13643864757,胡经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29558723680077&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39480701_14352372596994_0' infotag="14352372596994_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">吴先生 : </b>
+				<a href='http://linfen.58.com/penhui/14352372596994x.shtml?psid=178872977195478101941901930&entinfo=14352372596994_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			临汾专业制作LED电子显示屏幕
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												临汾专业制作LED电子显示屏幕，专业制作室内外单双色全彩显示屏。批发L...
+				(03-30)
+							<p class="seller">
+					2***3
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='14352372596994' wltMark="0" param="14352372596994_39480701_0_commoninfo_CE7485B2C4D3C603567A54B2CCB9467D"  data-j4fe="15135709592,吴先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=14352372596994&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_29206879584514_29525859900724_0' infotag="29525859900724_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">陈经理 : </b>
+				<a href='http://linfen.58.com/penhui/29525859900724x.shtml?psid=178872977195478101941901930&entinfo=29525859900724_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			期货网上开户 手机开户 手续费加1毛
+		</a>
+						<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												1、大型期货公司，盘中为您提供免费交易指导，开平仓点位提醒。2、留单品...
+				(03-28)
+							<p class="seller">
+					中行期货
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29525859900724' wltMark="0" param="29525859900724_29206879584514_0_commoninfo_20323EB087E018B89BFA6F95A1CEBF21"  data-j4fe="15210377689,陈经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29525859900724&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_28234296741383_26287055909683_0' infotag="26287055909683_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小赵 : </b>
+				<a href='http://linfen.58.com/penhui/26287055909683x.shtml?psid=178872977195478101941901930&entinfo=26287055909683_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			广告安装一站式服务
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												承接各种广告，门头、丝网印、精美名片、发光字.灯箱，大型户内外喷绘写真...
+				(03-27)
+							<p class="seller">
+					k***3
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26287055909683' wltMark="0" param="26287055909683_28234296741383_0_commoninfo_E1EEC7B55456C0A8F3C2E00C5D4F032C"  data-j4fe="18434849003,小赵" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26287055909683&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_40734299169047_29472359692600_0' infotag="29472359692600_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王经理 : </b>
+				<a href='http://linfen.58.com/penhui/29472359692600x.shtml?psid=178872977195478101941901930&entinfo=29472359692600_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			微商城微分销场景营销活动开发
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												17089118998 029-63655206我们公司专注于移动互联...
+				(03-23)
+							<p class="seller">
+					月朗锋行
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29472359692600' wltMark="0" param="29472359692600_40734299169047_0_commoninfo_7276BD41B775166591784687B55B239D"  data-j4fe="17089118998,王经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29472359692600&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_29325416611332_29462570910791_0' infotag="29462570910791_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王生 : </b>
+				<a href='http://linfen.58.com/penhui/29462570910791x.shtml?psid=178872977195478101941901930&entinfo=29462570910791_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			安装 喷绘 装饰 代理
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												山西省临汾市尧都区，安装喷绘组装维修，安防监控
+				(03-22)
+							<p class="seller">
+					蓝鼎传媒公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29462570910791' wltMark="0" param="29462570910791_29325416611332_0_commoninfo_67331047483C708541079355CDC3EA51"  data-j4fe="15035705551,王生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29462570910791&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_5674956806407_22469373251233_0' infotag="22469373251233_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李经理 : </b>
+				<a href='http://linfen.58.com/penhui/22469373251233x.shtml?psid=178872977195478101941901930&entinfo=22469373251233_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			喷绘、吸塑、雕刻字、发光字、写真、条幅
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												本店有户内压电写真机，条幅机，雕刻机各一台，专业制作，雕刻吸塑、喷绘写...
+				(03-16)
+							<p class="seller">
+					嘉美广告
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='22469373251233' wltMark="0" param="22469373251233_5674956806407_0_commoninfo_C7EDAB739AE8B9A59D09319493F86016"  data-j4fe="13734082709,李经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22469373251233&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_30227102460938_29393023118792_0' infotag="29393023118792_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">郑琦 : </b>
+				<a href='http://linfen.58.com/penhui/29393023118792x.shtml?psid=178872977195478101941901930&entinfo=29393023118792_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			临汾墙体广告制作 喷绘广告制作 临汾及周边
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												​我公司是一家集墙体广告、喷绘广告、广告牌、形象店招、农村公交候车厅、...
+				(03-16)
+							<p class="seller">
+					诚达信广告公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29393023118792' wltMark="0" param="29393023118792_30227102460938_0_commoninfo_51495E27B53353DAE05CDD2CE8C56886"  data-j4fe="18649376815,郑琦" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29393023118792&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_14829740704262_17903250833416_0' infotag="17903250833416_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">贺先生 : </b>
+				<a href='http://linfen.58.com/penhui/17903250833416x.shtml?psid=178872977195478101941901930&entinfo=17903250833416_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			代维 批发 制作 维修 维护LED电子显示屏
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												维修 维护led 专业批发、维护、维修，室内、外，单色、双色、全彩，L...
+				(03-15)
+							<p class="seller">
+					l***a
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='17903250833416' wltMark="0" param="17903250833416_14829740704262_0_commoninfo_2A55AA4690E6F0377552477B2A036128"  data-j4fe="13311167396,贺先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=17903250833416&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_41989512915216_29348931011513_0' infotag="29348931011513_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">卫经理 : </b>
+				<a href='http://linfen.58.com/penhui/29348931011513x.shtml?psid=178872977195478101941901930&entinfo=29348931011513_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			临汾门头店招 发光字穿孔字雕刻制作 喷绘招牌 实惠
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												临汾门头店招以及发光字穿孔字雕刻制作和喷绘招牌可以到临汾诚达信广告公司...
+				(03-12)
+							<p class="seller">
+					临汾诚达信广告
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29348931011513' wltMark="0" param="29348931011513_41989512915216_0_commoninfo_7D1FAAC0FBF65EAEE9B2663C8ABF61F3"  data-j4fe="03572019729,卫经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29348931011513&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_40287030581270_29275618328491_0' infotag="29275618328491_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">董经理 : </b>
+				<a href='http://linfen.58.com/penhui/29275618328491x.shtml?psid=178872977195478101941901930&entinfo=29275618328491_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			定做标志牌 批发标牌
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												专业承做各种铭牌.标牌,不锈钢蚀刻铭牌，铝板蚀刻铭牌，高光标牌，拉丝标...
+				(03-05)
+							<p class="seller">
+					上海铂崛铝业
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29275618328491' wltMark="0" param="29275618328491_40287030581270_0_commoninfo_32E1AE337AB8D6695D8B9688087DDDFD"  data-j4fe="13818538366,董经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29275618328491&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_28499726541831_29252210356298_0' infotag="29252210356298_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李先生 : </b>
+				<a href='http://linfen.58.com/penhui/29252210356298x.shtml?psid=178872977195478101941901930&entinfo=29252210356298_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			门头招牌、店铺招牌、三维扣板等设计制作【物超所值】
+		</a>
+						<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												临汾广告公司承接各种 门头招牌、店铺招牌、三维扣板等设计制作等服务。公...
+				(03-03)
+							<p class="seller">
+					g***6
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29252210356298' wltMark="0" param="29252210356298_28499726541831_0_commoninfo_0C65548788182920876FD00D8D894D18"  data-j4fe="18636780429,李先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29252210356298&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_21647319514119_29208548122162_0' infotag="29208548122162_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">高经理 : </b>
+				<a href='http://linfen.58.com/penhui/29208548122162x.shtml?psid=178872977195478101941901930&entinfo=29208548122162_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			广告设计制作安装
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												专业设计制作安装各类广告牌匾，发光字，灯箱，展架，标牌，条幅，LED显...
+				(02-27)
+							<p class="seller">
+					旷势广告
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29208548122162' wltMark="0" param="29208548122162_21647319514119_0_commoninfo_895F221FD9BE4B69EA3E7C94A6461D92"  data-j4fe="13994750765,高经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29208548122162&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_22185735080454_29152300163886_0' infotag="29152300163886_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">郑女士 : </b>
+				<a href='http://linfen.58.com/penhui/29152300163886x.shtml?psid=178872977195478101941901930&entinfo=29152300163886_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			门头招牌、店铺招牌、三维扣板等设计制作【物超所值】
+		</a>
+						<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												临汾广告公司承接各种 门头招牌、店铺招牌、三维扣板等设计制作等服务。公...
+				(02-22)
+							<p class="seller">
+					自***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29152300163886' wltMark="0" param="29152300163886_22185735080454_0_commoninfo_51495E27B53353DAE05CDD2CE8C56886"  data-j4fe="18649376815,郑女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29152300163886&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_28130355_21333086840354_0' infotag="21333086840354_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">冯女士 : </b>
+				<a href='http://linfen.58.com/penhui/21333086840354x.shtml?psid=178872977195478101941901930&entinfo=21333086840354_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			非常专业墙体广告
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												个人一手制作户外墙体广告.喷绘。有着7-8年的墙体广告经验，免除广告公...
+				(02-14)
+							<p class="seller">
+					f***n
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='21333086840354' wltMark="0" param="21333086840354_28130355_0_commoninfo_AF64C1996312EB17D5D127117BFB3548"  data-j4fe="15536750277,冯女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=21333086840354&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37792019706646_29030798933431_0' infotag="29030798933431_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王生 : </b>
+				<a href='http://linfen.58.com/penhui/29030798933431x.shtml?psid=178872977195478101941901930&entinfo=29030798933431_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			临汾市尧庙南德隆汽配城北侧擎天柱广告位出租
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												媒体位置：临汾市尧庙南4s店聚集处媒体形式：擎天柱大牌媒体尺寸：18m...
+				(02-11)
+							<p class="seller">
+					1***a
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29030798933431' wltMark="0" param="29030798933431_37792019706646_0_commoninfo_67331047483C708541079355CDC3EA51"  data-j4fe="15035705551,王生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29030798933431&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_43184142316309_29020438832951_0' infotag="29020438832951_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小董 : </b>
+				<a href='http://linfen.58.com/penhui/29020438832951x.shtml?psid=178872977195478101941901930&entinfo=29020438832951_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			专业广告制作安装
+		</a>
+						<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												专业从事广告制作安装，喷绘，长条、三维扣板，铝塑板，玻璃，不锈钢，仿古...
+				(02-10)
+							<p class="seller">
+					宏枫图文广告
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29020438832951' wltMark="0" param="29020438832951_43184142316309_0_commoninfo_9A6DB6C24AFFB4737CFCF805739E7D4A"  data-j4fe="15698621520,小董" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29020438832951&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_40868655564303_26781850519468_0' infotag="26781850519468_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">赵哥 : </b>
+				<a href='http://linfen.58.com/penhui/26781850519468x.shtml?psid=178872977195478101941901930&entinfo=26781850519468_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			临汾市尧都区专业制作大中小室内外门头专卖店UV软膜
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												专业设计制作安装门头，门头广告字，专卖店各种UV软膜灯箱，背景墙灯箱，...
+				(02-08)
+							<p class="seller">
+					1***n
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26781850519468' wltMark="0" param="26781850519468_40868655564303_0_commoninfo_DACE45B493004984AB89224D3C35E837"  data-j4fe="13834870279,赵哥" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26781850519468&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_31778103417094_28807590596410_0' infotag="28807590596410_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">段经理 : </b>
+				<a href='http://linfen.58.com/penhui/28807590596410x.shtml?psid=178872977195478101941901930&entinfo=28807590596410_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			广告录音，集团彩铃制作 诚招代理商，办理挂机短信
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												广告录音，集团彩铃制作诚招代理商，办理挂机短信业务特点：量身定做集团客...
+				(01-22)
+							<p class="seller">
+					乌鲁木齐英东锁具批发有限公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28807590596410' wltMark="0" param="28807590596410_31778103417094_0_commoninfo_488CBCF159EE0C633317ABE69EBFFB2E"  data-j4fe="15276685562,段经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28807590596410&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_25472962405383_28598407439807_0' infotag="28598407439807_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">贺树峰 : </b>
+				<a href='http://linfen.58.com/penhui/28598407439807x.shtml?psid=178872977195478101941901930&entinfo=28598407439807_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			临汾市福利路东口跨街大牌
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												​媒体位置：临汾市福利路东口跨街大牌媒体形式：跨街大牌媒体尺寸：26....
+				(01-03)
+							<p class="seller">
+					山西三进广告
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28598407439807' wltMark="0" param="28598407439807_25472962405383_0_commoninfo_73D27C20602710A3DA81D96B7D402730"  data-j4fe="15003406231,贺树峰" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28598407439807&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_42753038672148_28580223518155_0' infotag="28580223518155_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刘经理 : </b>
+				<a href='http://linfen.58.com/penhui/28580223518155x.shtml?psid=178872977195478101941901930&entinfo=28580223518155_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			户外广告牌出租
+		</a>
+						<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												1.迎宾大道与309国道交叉口5X18米 2.锣鼓桥一直往西刘村十字路...
+				(01-01)
+							<p class="seller">
+					尧佳门业
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28580223518155' wltMark="0" param="28580223518155_42753038672148_0_commoninfo_0C105B8D461B2DBF87F31E3108F00C0E"  data-j4fe="13994005882,刘经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28580223518155&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39011359615506_28535803200053_0' infotag="28535803200053_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">zyw : </b>
+				<a href='http://linfen.58.com/penhui/28535803200053x.shtml?psid=178872977195478101941901930&entinfo=28535803200053_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			中麦通信加盟专营店
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												中麦通信加盟专营店13667011803，中国，中麦通信是一个移动通信...
+				(12-28)
+							<p class="seller">
+					1***q
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28535803200053' wltMark="0" param="28535803200053_39011359615506_0_commoninfo_6C98820E24AFF02730945CE0E15BA234"  data-j4fe="13026257059,zyw" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28535803200053&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_1203509448454_25303416606908_0' infotag="25303416606908_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">赵师傅 : </b>
+				<a href='http://linfen.58.com/penhui/25303416606908x.shtml?psid=178872977195478101941901930&entinfo=25303416606908_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			单色LED屏制作 超低价（强力巨彩）699元
+		</a>
+						<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												专业LED屏制作 ， 强力巨彩 专业品质 欢迎各位同行及需求者来电洽谈...
+				(12-23)
+							<p class="seller">
+					临汾腾龙电子
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25303416606908' wltMark="0" param="25303416606908_1203509448454_0_commoninfo_408D40FDCFFBBD7ACF37C6D8CE547BA9"  data-j4fe="13333579233,赵师傅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25303416606908&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_41113423927060_28432307016134_0' infotag="28432307016134_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">闫经理 : </b>
+				<a href='http://linfen.58.com/penhui/28432307016134x.shtml?psid=178872977195478101941901930&entinfo=28432307016134_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			石家庄启盛写真冰晶画材料
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												你好，我是石家庄启盛玻璃写真耗材 主营强化写真冰晶画材料。如有需要还望...
+				(12-22)
+							<p class="seller">
+					s***6
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28432307016134' wltMark="0" param="28432307016134_41113423927060_0_commoninfo_6E8F1EAFC83327DC0378491D2997C7DB"  data-j4fe="18732196310,闫经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28432307016134&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_40860790592270_28367197449400_0' infotag="28367197449400_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">丁经理 : </b>
+				<a href='http://linfen.58.com/penhui/28367197449400x.shtml?psid=178872977195478101941901930&entinfo=28367197449400_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			道路标志牌、反光标牌、公路标牌、施工警示牌定做批发
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												郑州领航交通科技有限公司定做批发各类反光标志牌。材质：铝板+反光膜铝板...
+				(12-13)
+							<p class="seller">
+					郑州领航
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28367197449400' wltMark="0" param="28367197449400_40860790592270_0_commoninfo_B04F815F604200DB193FFCAFD59E3B37"  data-j4fe="13298326612,丁经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28367197449400&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_11589062207751_28319737359661_0' infotag="28319737359661_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">吴生 : </b>
+				<a href='http://linfen.58.com/penhui/28319737359661x.shtml?psid=178872977195478101941901930&entinfo=28319737359661_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			LED显示屏、全彩显示屏、楼体亮化、LED室内灯具
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												​深圳市君豪光电有限公司是一家专业从事LED显示屏研发、生产、销售的高...
+				(12-09)
+							<p class="seller">
+					君豪光电
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28319737359661' wltMark="0" param="28319737359661_11589062207751_0_commoninfo_2F2A83006401CE8DE9B7033169A43D69"  data-j4fe="18665875119,吴生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28319737359661&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37886717442319_28269301267498_0' infotag="28269301267498_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王强 : </b>
+				<a href='http://linfen.58.com/penhui/28269301267498x.shtml?psid=178872977195478101941901930&entinfo=28269301267498_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			尧庙普庆广告
+		</a>
+						<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												普庆图文广告：喷绘、条幅、广告牌、发光字、CAD出图、制作标书、胶装、...
+				(12-04)
+							<p class="seller">
+					普庆图文广告
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28269301267498' wltMark="0" param="28269301267498_37886717442319_0_commoninfo_32442FF4042703C3570C5413C1A47E2B"  data-j4fe="15935710853,王强" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28269301267498&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_7863035161095_28191811188907_0' infotag="28191811188907_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王女士 : </b>
+				<a href='http://linfen.58.com/penhui/28191811188907x.shtml?psid=178872977195478101941901930&entinfo=28191811188907_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			純藝術牆繪工作室
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												​幼兒園牆繪家居牆繪古建築彩繪店鋪牆繪文化牆彩繪國畫/油畫裝飾畫
+				(11-27)
+							<p class="seller">
+					w***5
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28191811188907' wltMark="0" param="28191811188907_7863035161095_0_commoninfo_14C9F77F79B46D4FA48FA528C299977A"  data-j4fe="15535742390,王女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28191811188907&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_35545046_27893921581517_0' infotag="27893921581517_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">秦经理 : </b>
+				<a href='http://linfen.58.com/penhui/27893921581517x.shtml?psid=178872977195478101941901930&entinfo=27893921581517_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			临汾四叶草广告 X展架易拉宝定做制作 保质保量
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												户内外喷绘、彩色印刷、名片制作 、胸卡 、制图、出图、pvc卡、不干胶...
+				(10-31)
+							<p class="seller">
+					动感心旋
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27893921581517' wltMark="0" param="27893921581517_35545046_0_commoninfo_D67E763C33773319F94861AA2A93832C"  data-j4fe="13994795539,秦经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27893921581517&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_31595474212364_22539712834723_0' infotag="22539712834723_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">艳军 : </b>
+				<a href='http://linfen.58.com/penhui/22539712834723x.shtml?psid=178872977195478101941901930&entinfo=22539712834723_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			发光字，喷绘焊接架子，门头制作
+		</a>
+						<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												本单位有，专业的设计团队，高清写真户内外喷绘机，雕刻机。
+				(10-27)
+							<p class="seller">
+					特***6
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='22539712834723' wltMark="0" param="22539712834723_31595474212364_0_commoninfo_5E128AA96BE3E357A2CDD3461A71D0F3"  data-j4fe="13753791213,艳军" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22539712834723&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37438388110095_27658541022400_0' infotag="27658541022400_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">胡经理 : </b>
+				<a href='http://linfen.58.com/penhui/27658541022400x.shtml?psid=178872977195478101941901930&entinfo=27658541022400_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			玫瑰花海 灯光展 发光秋千 彩色跑-活动道具租赁
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												​本公司承接全国各地展览租赁：庆典公司 演出公司 演艺公司 策划公司 ...
+				(10-10)
+							<p class="seller">
+					1***p
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27658541022400' wltMark="0" param="27658541022400_37438388110095_0_commoninfo_71F6095F9CED875ACB29E6F975D7227D"  data-j4fe="18202196051,胡经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27658541022400&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_40803197745934_27656312009646_0' infotag="27656312009646_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李女士 : </b>
+				<a href='http://linfen.58.com/penhui/27656312009646x.shtml?psid=178872977195478101941901930&entinfo=27656312009646_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			广告设计制作安装
+		</a>
+						<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												条幅，喷绘，锦旗，展架，KT板，不干胶，书刊，精美画册，标书，LED,...
+				(10-10)
+							<p class="seller">
+					山西蓝虹印刷有限公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27656312009646' wltMark="0" param="27656312009646_40803197745934_0_commoninfo_1B9D3C426A6099BFFCE0456B7FCBB1B1"  data-j4fe="18636747186,李女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27656312009646&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_42301361929998_27480258924487_0' infotag="27480258924487_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+				<a href='http://linfen.58.com/penhui/27480258924487x.shtml?psid=178872977195478101941901930&entinfo=27480258924487_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			专业广告设计制作
+		</a>
+						<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												为您提供专业的广告设计
+				(09-24)
+							<p class="seller">
+					o***4
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27480258924487' wltMark="0" param="27480258924487_42301361929998_0_commoninfo_BCB8B69417CBE9F57E3E8EF56C9EC1B1"  data-j4fe="18335725514," >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27480258924487&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_32668361113612_27371313851436_0' infotag="27371313851436_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">莎莎 : </b>
+				<a href='http://linfen.58.com/penhui/27371313851436x.shtml?psid=178872977195478101941901930&entinfo=27371313851436_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			暖场道具大型圣诞树厂家出租租售创新道具一手资源
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												大型圣诞树生产厂家 5-30米 全部现货，美陈灯饰画制作我厂较新出的：...
+				(09-14)
+							<p class="seller">
+					g***0
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27371313851436' wltMark="0" param="27371313851436_32668361113612_0_commoninfo_9E0BBB7F924BFCCA9ED178F9471F04D6"  data-j4fe="18765396906,莎莎" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27371313851436&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37919681036054_27202585516611_0' infotag="27202585516611_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">石小姐 : </b>
+				<a href='http://linfen.58.com/penhui/27202585516611x.shtml?psid=178872977195478101941901930&entinfo=27202585516611_0' onclick="clickLog('from=pc_list_penhui_xinxi_commoninfo_linfen');" target="_blank" class="t" >
+			单双色单元板，模组，全彩显示屏厂家直销
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='196' -->
+		    	        		<br />
+												深圳金运显示专注生产和销售“金运河牌”室内P3.91和室内外P4.81...
+				(08-30)
+							<p class="seller">
+					金运河
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27202585516611' wltMark="0" param="27202585516611_37919681036054_0_commoninfo_574E0FF7BF27A1B20392CE9E9D0E28E4"  data-j4fe="0755-23068017,石小姐" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27202585516611&entityType=0&psid=178872977195478101941901930")'>免费预约</a></span>
+		</div>
+	
+</td></tr>	</table>								<!-- =E infolist -->
+					<div id="gjwb_bottom_jz_ad"></div>
+	<div id="bottom_google_ad"></div>
+<div class="pager" >
+	 <strong><span>1</span></strong><a href="/penhui/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>2</span></a><a href="/penhui/pn3/" onClick="clickLog('from=huangye_list_fanye_3');"><span>3</span></a><a href="/penhui/pn4/" onClick="clickLog('from=huangye_list_fanye_4');"><span>4</span></a><a href="/penhui/pn5/" onClick="clickLog('from=huangye_list_fanye_5');"><span>5</span></a><a href="/penhui/pn6/" onClick="clickLog('from=huangye_list_fanye_6');"><span>6</span></a><a href="/penhui/pn7/" onClick="clickLog('from=huangye_list_fanye_7');"><span>7</span></a><a href="/penhui/pn8/" onClick="clickLog('from=huangye_list_fanye_8');"><span>8</span></a><a href="/penhui/pn9/" onClick="clickLog('from=huangye_list_fanye_9');"><span>9</span></a><a href="/penhui/pn10/" onClick="clickLog('from=huangye_list_fanye_10');"><span>10</span></a><a href="/penhui/pn11/" onClick="clickLog('from=huangye_list_fanye_11');"><span>11</span></a><a href="/penhui/pn12/" onClick="clickLog('from=huangye_list_fanye_12');"><span>12</span></a><a class="next" href="/penhui/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>下一页</span></a>
+</div>
+<div id="infocont">
+	<!--当是健康答疑时，链接变为提问-->
+										<a target="_blank" rel="nofollow" href="http://post.58.com/5669/196/s5" onclick="clickLog('pc_list_penhui_bottom_fabu');" >马上发布一条喷绘招牌信息&raquo;</a>
+						</div>
+<!--医疗健康判断-->
+		<div id="direct_ad_bottom" onclick="clickLog('from=pc_list_penhui_bottom_zhineng1');"  ></div>
+	<div id="bottom_zhaoshangjiameng_ad" onclick="clickLog('from=pc_list_penhui_bottom_tuiguang2');"  ></div>
+
+			</div>
+			<div id="rightframe" class="cright">
+	
+
+			<div class="tuijian" id="ylad" style="display:none"></div>
+							<div id="developmentcontent">
+		
+	</div>
+							<div class="brand_md_tit"><h3><i class="brand_md_tit_i1"></i>名店推荐<i class="brand_md_tit_i2"></i></h3></div>
+	<div id="brand_md"><div id="ad19"  style="display:none"></div></div>
+	<script>
+		$("#brand_md").bind("bindBrandEvent",function(){ 
+            if($('.brand_md200').length > 0){
+				$('.brand_md_tit').show();
+			}
+        }); 
+	</script>
+	</div>	    </section>
+		<div id="wangmeng_list_bottom_ditong" onclick="clickLog('from=pc_list_penhui_bottom_tuiguang3');"   ></div><section id="links">
+<i class="linksTopline"></i>
+	<!-- =S friendtips -->
+	<dl id="friendtips" class="linksItem friendtips"><dt class="b-left">临汾喷绘招牌介绍：</dt>
+<dd class="b-right">58同城临汾喷绘招牌频道是临汾最大的喷绘招牌信息免费发布查询平台，免费提供喷绘、吸塑、店面招牌、广告招牌、电子招牌等多种类别的临汾喷绘招牌相关信息，感谢您选择<a href=http://www.58.com/hyzt/penhui/ target=_blank>喷绘招牌</a>信息平台。如有疑问请<a href=http://about.58.com/v5/ target=_blank rel=nofollow>与客服对话</a>。手机版请访问<a href=http://m.58.com/linfen/penhui/>临汾喷绘招牌</a></dd>
+</dl>
+	<!-- =E friendtips -->
+	<!-- =S relate  -->
+			<dl class="linksItem relate" id="relate">
+	<dt class="b-left">临汾喷绘招牌相关信息：</dt>
+	<dd class="b-right">
+		<ul class="b-ul">
+						    			        <li><a href="/penhui/jh_%E4%B8%B4%E6%B1%BE%E5%96%B7%E7%BB%98%E5%B8%83%E4%BB%B7%E6%A0%BC/">临汾喷绘布价格</a></li>
+			    		    			    			        <li><a href="/penhui/jh_%E4%B8%B4%E6%B1%BE%E8%B5%9B%E5%8D%9A%E5%96%B7%E7%BB%98%E6%9C%BA/">临汾赛博喷绘机</a></li>
+			    		    			    			        <li><a href="/penhui/jh_%E4%B8%B4%E6%B1%BE%E6%9E%81%E9%99%90%E5%96%B7%E7%BB%98%E6%9C%BA/">临汾极限喷绘机</a></li>
+			    		    			    			        <li><a href="/penhui/jh_%E4%B8%B4%E6%B1%BE%E5%96%B7%E7%BB%98%E5%88%B6%E4%BD%9C%E5%85%AC%E5%8F%B8/">临汾喷绘制作公司</a></li>
+			    		    			    			        <li><a href="/penhui/jh_%E4%B8%B4%E6%B1%BE%E5%96%B7%E7%BB%98%E5%B8%83%E5%93%81%E7%A7%8D/">临汾喷绘布品种</a></li>
+			    		    			    			        <li><a href="/penhui/jh_%E4%B8%B4%E6%B1%BE%E5%B9%B3%E6%9D%BF%E5%96%B7%E7%BB%98%E6%9C%BA/">临汾平板喷绘机</a></li>
+			    		    			    			        <li><a href="/penhui/jh_%E4%B8%B4%E6%B1%BE%E5%A5%A5%E5%A8%81%E5%96%B7%E7%BB%98%E6%9C%BA/">临汾奥威喷绘机</a></li>
+			    		    			    			        <li><a href="/penhui/jh_%E4%B8%B4%E6%B1%BE%E5%96%B7%E7%BB%98%E5%B8%83%E8%A7%84%E6%A0%BC/">临汾喷绘布规格</a></li>
+			    		    			    			        <li><a href="/penhui/jh_%E4%B8%B4%E6%B1%BE%E5%96%B7%E7%BB%98%E5%B8%83/">临汾喷绘布</a></li>
+			    		    			     			        			        				    <li><a href='/penhui/daohang_临汾喷绘招牌/' target="_blank">更多>></a></li>
+			    		    		</ul>
+	</dd>
+</dl>
+		<!-- =E relate -->
+	<!-- =S relatelink allshangquan-->
+			<dl class="linksItem relatelink" id="relatelink">
+		<dt class="b-left">临汾喷绘招牌全部商圈：</dt>
+		<dd class="b-right">
+			<dl id="relateSelect" class="relateSelect"> 
+									<dt><span>A</span></dt>
+					<dd>
+																			<a href="/anze/penhui/" target="_blank" >临汾安泽喷绘招牌</a>        
+															<dt><span>B</span></dt>
+					<dd>
+																					<dt><span>C</span></dt>
+					<dd>
+																					<dt><span>D</span></dt>
+					<dd>
+																			<a href="/daning/penhui/" target="_blank" >临汾大宁喷绘招牌</a>        
+															<dt><span>E</span></dt>
+					<dd>
+																					<dt><span>F</span></dt>
+					<dd>
+																			<a href="/fushanxian/penhui/" target="_blank" >临汾浮山喷绘招牌</a>        
+													<a href="/fenxixian/penhui/" target="_blank" >临汾汾西喷绘招牌</a>        
+															<dt><span>G</span></dt>
+					<dd>
+																					<dt><span>H</span></dt>
+					<dd>
+																					<dt><span>I</span></dt>
+					<dd>
+																					<dt><span>J</span></dt>
+					<dd>
+																			<a href="/lfjixian/penhui/" target="_blank" >临汾吉县喷绘招牌</a>        
+															<dt><span>K</span></dt>
+					<dd>
+																					<dt><span>L</span></dt>
+					<dd>
+																					<dt><span>M</span></dt>
+					<dd>
+																					<dt><span>N</span></dt>
+					<dd>
+																					<dt><span>O</span></dt>
+					<dd>
+																					<dt><span>P</span></dt>
+					<dd>
+																			<a href="/puxian/penhui/" target="_blank" >临汾蒲县喷绘招牌</a>        
+															<dt><span>Q</span></dt>
+					<dd>
+																			<a href="/linfenqita/penhui/" target="_blank" >临汾其它喷绘招牌</a>        
+															<dt><span>R</span></dt>
+					<dd>
+																					<dt><span>S</span></dt>
+					<dd>
+																					<dt><span>T</span></dt>
+					<dd>
+																					<dt><span>U</span></dt>
+					<dd>
+																					<dt><span>V</span></dt>
+					<dd>
+																					<dt><span>W</span></dt>
+					<dd>
+																					<dt><span>X</span></dt>
+					<dd>
+																			<a href="/xiangningxian/penhui/" target="_blank" >临汾乡宁喷绘招牌</a>        
+													<a href="/xixian/penhui/" target="_blank" >临汾隰县喷绘招牌</a>        
+															<dt><span>Y</span></dt>
+					<dd>
+																			<a href="/yonghe/penhui/" target="_blank" >临汾永和喷绘招牌</a>        
+															<dt><span>Z</span></dt>
+					<dd>
+																				<dt><span>区域</span></dt>
+				<dd>	
+																	
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																													
+													<a href="/penhui/" target="_blank" >全临汾喷绘招牌</a>                
+																		
+													<a href="/yaodou/penhui/" target="_blank" >尧都喷绘招牌</a>                
+																		
+													<a href="/houma/penhui/" target="_blank" >侯马喷绘招牌</a>                
+																		
+													<a href="/huozhou/penhui/" target="_blank" >霍州喷绘招牌</a>                
+																		
+													<a href="/quwo/penhui/" target="_blank" >曲沃喷绘招牌</a>                
+																		
+													<a href="/lfyicheng/penhui/" target="_blank" >翼城喷绘招牌</a>                
+																		
+													<a href="/xiangfen/penhui/" target="_blank" >襄汾喷绘招牌</a>                
+																		
+													<a href="/hongdong/penhui/" target="_blank" >洪洞喷绘招牌</a>                
+																		
+													<a href="/lfguxian/penhui/" target="_blank" >古县喷绘招牌</a>                
+																		
+													<a href="/linfenshi/penhui/" target="_blank" >其它喷绘招牌</a>                
+																					</dd> 
+        
+    		</dl>
+  		</dd>
+	</dl>
+	 	<!-- =E relatelink -->
+	<!-- =S bottomlink-->
+	            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+				喷绘招牌- 相关类别：
+			</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://www.58.com/hyzt/zhuce/'>工商注册</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/kuaidi/'>快递公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/huoyun/'>货运物流</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zulin/'>租赁公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/danbaobaoxiantouzi/'>投资担保</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/xitong/'>网络维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/yinshua/'>印刷包装</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zixunzhongjie/'>咨询服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/penhui/'>法律咨询</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/wangzhan/'>网站建设</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiajuweixiu/'>招牌喷绘</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/visa/'>代办签证</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/bgsbwx/'>办公维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/baoxianfuwu/'>保险投保</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zhuangxiujc/'>装修建材</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiaoyu/'>教育培训</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/hunjiehunqing/'>婚庆摄影</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/qichefw/'>汽车服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shop/'>批发采购</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shenghuo/'>家政服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shangwu/'>商务服务</a></li>
+        		        		<li><a href='http://www.58.com/ppb58weixiu2/'>品牌家电维修大全</a></li>
+        		        		<li><a href='http://www.58.com/ppbhyzt1/'>黄页大全</a></li>
+        		        		<li><a href='http://www.58.com/pprmap7/'>商务服务地图</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+		<!-- =E bottomlink -->
+	<!-- =S hotcity-->
+	        <dl class="linksItem hotcity" id="hotcity">
+    	<dt class="b-left">临汾喷绘招牌周边城市：</dt>
+    	<dd class="b-right">
+    		<ul class="b-ul">
+    			    			<li><a href="http://ty.58.com/penhui/">太原喷绘招牌</a></li>
+    			    			<li><a href="http://dt.58.com/penhui/">大同喷绘招牌</a></li>
+    			    			<li><a href="http://jincheng.58.com/penhui/">晋城喷绘招牌</a></li>
+    			    			<li><a href="http://lvliang.58.com/penhui/">吕梁喷绘招牌</a></li>
+    			    			<li><a href="http://changzhi.58.com/penhui/">长治喷绘招牌</a></li>
+    			    			<li><a href="http://yuncheng.58.com/penhui/">运城喷绘招牌</a></li>
+    			    		</ul>
+    	</dd>
+    </dl>
+	<!-- =S hotcity -->
+            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+					喷绘招牌- 热门城市：
+					</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://bj.58.com/penhui/'>北京喷绘招牌</a></li>
+        		        		<li><a href='http://sh.58.com/penhui/'>上海喷绘招牌</a></li>
+        		        		<li><a href='http://gz.58.com/penhui/'>广州喷绘招牌</a></li>
+        		        		<li><a href='http://sz.58.com/penhui/'>深圳喷绘招牌</a></li>
+        		        		<li><a href='http://tj.58.com/penhui/'>天津喷绘招牌</a></li>
+        		        		<li><a href='http://hz.58.com/penhui/'>杭州喷绘招牌</a></li>
+        		        		<li><a href='http://wh.58.com/penhui/'>武汉喷绘招牌</a></li>
+        		        		<li><a href='http://xa.58.com/penhui/'>西安喷绘招牌</a></li>
+        		        		<li><a href='http://cd.58.com/penhui/'>成都喷绘招牌</a></li>
+        		        		<li><a href='http://zz.58.com/penhui/'>郑州喷绘招牌</a></li>
+        		        		<li><a href='http://cs.58.com/penhui/'>长沙喷绘招牌</a></li>
+        		        		<li><a href='http://nj.58.com/penhui/'>南京喷绘招牌</a></li>
+        		        		<li><a href='http://hrb.58.com/penhui/'>哈尔滨喷绘招牌</a></li>
+        		        		<li><a href='http://sy.58.com/penhui/'>沈阳喷绘招牌</a></li>
+        		        		<li><a href='http://su.58.com/penhui/'>苏州喷绘招牌</a></li>
+        		        		<li><a href='http://sjz.58.com/penhui/'>石家庄喷绘招牌</a></li>
+        		        		<li><a href='http://dl.58.com/penhui/'>大连喷绘招牌</a></li>
+        		        		<li><a href='http://qd.58.com/penhui/'>青岛喷绘招牌</a></li>
+        		        		<li><a href='http://jn.58.com/penhui/'>济南喷绘招牌</a></li>
+        		        		<li><a href='http://cq.58.com/penhui/'>重庆喷绘招牌</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/penhui/'>喷绘招牌</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+	<!-- =E hotcity --> 	<!-- =E hotcity -->
+	<!-- =S friendlink-->
+			<dl id="friendlink" class="linksItem friendlink">
+<dt class="b-left"> 友情链接：</dt>
+<dd class="b-right"><a href='http://linfen.yinlianbang.com/' target='_blank'>临汾图文快印</a>&nbsp;  <a href="/link.html" target="_blank">更多...</a></dd>
+</dl>
+		<!-- =E friendlink -->
+</section>
+	<footer id="footer" class="footer">
+	    <div id="upWrap"> <a target="_blank" href="http://about.58.com/help.html" rel="nofollow">常见问题</a><span>|</span> <a target="_blank" href="http://about.58.com/" rel="nofollow">帮助中心</a><span>|</span> <a target="_blank" href="http://about.58.com/feedback.html" rel="nofollow">意见反馈</a><span>|</span> <a target="_blank" href="http://about.58.com/home/" rel="nofollow">了解58同城</a><span>|</span> <a target="_blank" href="http://about.58.com/hr/" rel="nofollow">加入58同城</a><span>|</span> <a target="_blank" href="http://fanqizha.58.com/" rel="nofollow">反欺诈联盟</a><span>|</span> <a target="_blank" href="http://110.58.com" rel="nofollow">报案平台</a><span>|</span> <a target="_blank" href="http://e.58.com" rel="nofollow">推广服务</a><span>|</span> <a target="_blank" href="http://biz.58.com" rel="nofollow">渠道招商</a><span>|</span> <a target="_blank" href="http://baozhang.58.com" rel="nofollow">先行赔付</a><span>|</span> <a target="_blank" href="http://ir.58.com?PGTID=0d100000-0000-13da-8041-51f9a3a739fa&amp;ClickID=2" rel="nofollow">Investor Relations</a> </div>
+	    <div id="downWrap"> <em>2005-2016 58.com版权所有</em><span>|</span> <em>京公网备案信息110105000809</em><span>|</span> <a target="_blank" href="http://www.miibeian.gov.cn/" rel="nofollow">京ICP证060405</a><span>|</span><em>乙测资字11018014</em><span>|</span> <a target="_blank" href="http://ir.58.com" rel="nofollow">Investor Relations</a><span>|</span><em>违法信息举报：4008135858&nbsp;&nbsp;jubao@58ganji.com</em> </div>
+	    <div class="fotBtmIcon">
+	        <a target="_blank" id="fotBm_1" href="http://fanqizha.58.com"></a>
+	        <a target="_blank" id="fotBm_2" href="http://www.12377.cn/"></a>
+	        <a target="_blank" id="fotBm_3" href="http://www.12377.cn/node_548446.htm"></a>
+	        <a target="_blank" id="fotBm_4" href="https://credit.szfw.org/CX20120918001650001720.html"></a>
+	        <a target="_blank" id="fotBm_5" href="http://img.58cdn.com.cn/ui6/index/qyxinyong.jpg?v=3"></a>
+	        <a target="_blank" id="fotBm_6" href="http://about.58.com/fqz/index.html"></a>
+	    </div>
+	</footer>
+<script>
+	var currentDate = new Date();
+</script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfc_v20160418145051.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfcInit_v20161121150119.js'></script>
+<script>
+	var jingzhun_ads = [];
+	var jingzhun_ads_param = "";
+</script>
+
+				<script type="text/javascript" src='http://j1.58cdn.com.cn/js/5_1/comm_js/boot_listpage_version_v20170329165708.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript">
+document.domain = '58.com';
+var win = new GetToolTipWindow('tooltipdiv', 'keyword', '3','5669','', true);win.setSearchButton('searchbtn');
+var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','5669','');win1.setSearchButton('searchbtn1');
+var win2 = new GetToolTipWindow('tooltipdiv2', 'mudidi', '7', '5669', '');win2.setSearchButton('searchbtn1');
+boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'linfen');});
+</script>
+
+<script type="text/javascript" >
+// JavaScript Document
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	toggle(".p-help");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".small-tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+
+$("#shangmenfw a").each(function(){
+	if("到店服务"== $(this).text().trim()){
+		$(this).remove();
+	}
+});
+
+BAIDU_CLB_fillSlot("567863");
+
+var alldt = $("#relateSelect>dt");
+function showNear(dt){
+    alldt.each(function(){
+        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+        else {$(this).next("dd").hide();$(this).removeClass("select");}
+    });
+}
+alldt.each(function(){
+    $(this).click(function(){showNear(this);}).hover(function(){showNear(this);});
+});
+
+showNear(alldt[0]);
+
+  
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+$(".selector").each(function(){
+	$(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+});
+
+</script>
+
+<div style="display:none;">
+<script type="text/javascript">
+ var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3bb04d7a4ca3846dcc66a99c3e861511' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+</div>
+
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+
+
+			<script type="text/javascript" src='http://j1.58cdn.com.cn/js/v8/boot/boot_huangye_v20170329172410.js'>
+		</script>
+		<script>
+			require(['_pkg/huangye/huangye_shenghuo_list_dom'],function(){});
+		</script>
+	
+<script src="http://track.58.com/adsys/ggafs?rand=20170405"></script>
+<script>
+//统计埋点
+$(function(){
+	$('dl.secitem').each(function(){
+	    var idname = $(this).find("dd").eq(0).attr('id');
+		$(this).find('a').not('span a').each(function(){
+			$(this).click(function(){
+				clickLog('from=pc_list_penhui_shaixuan_'+idname+ '_linfen');
+		    });		
+		});	
+    });	
+})
+</script>
+<script type="text/javascript">
+    $("#more_ObjectType").click(function(){
+    	console.log("ok");
+    	var showmoreBrand = document.getElementById("moreBrandct"),moreBrandbtn = document.getElementById("moreBrandbtn");
+	    showmoreBrand.style.display = (showmoreBrand.style.display=="block")?"none":"block";
+	    moreBrandbtn.className = (moreBrandbtn.className=="moreBrand")?"moreBrand hold":"moreBrand";
+    });
+    var pemorealldt = $("#moreBrandct dt");
+	function showpemorecon(dt){
+		pemorealldt.each(function(){
+		    if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+            else {$(this).next("dd").hide();$(this).removeClass("select");}
+        });
+    }
+    pemorealldt.each(function(){
+		$(this).click(function(){showpemorecon(this);}).hover(function(){showpemorecon(this);});
+    });
+    showpemorecon(pemorealldt[0]);
+</script>
+		<script type="text/javascript">
+function cpcget(url){
+	$.ajax({
+		url:url,
+		type:"get",
+		dataType:"jsonp",
+		success:function(data){
+		
+        }
+    });	
+}
+</script>					<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e15962162366a86a6229038443847be7";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div style="display:none">
+	<script type="text/javascript">
+____json4fe.supplycount = {sortid:'27202585516611'};
+var _gaq = _gaq || [],site_name = "58",post_count = "438",shop_count= "",page_type = "list";
+var _trackURL = "{'cate':'8703,196','area':'5669','pagetype':'list','GA_pageview':'/linfen/shangwu/penhui/listversion/','version':'A','pagesize':'35','pagenum':'1','level1':'','level2':'','level3':'','level4':'','level5':'','level6':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/linfen/shangwu/penhui/listversion/']);
+
+$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+
+</div>
+<script src="http://wechat.58.com/google-analytics"></script> 				<!-- 抢单神器下线-->
+				<!-- 抢单神器下线-->
+		<!-- 装修搜索弹窗  S -->
+				<!-- 招标弹框start -->
+<link rel="stylesheet" href='http://c.58cdn.com.cn/ds/zhaobiao/pc_search_win/list_win_zb_v20161010135135.css' />
+<script src="http://j1.58cdn.com.cn/ds/zhaobiao/v1/js/fastpost/jquery.md5.js"></script>
+<script>
+ var cityid=5669;
+</script>
+
+        <!-- 招标弹框end -->
+
+
+				<!-- 装修搜索弹窗  E -->
+		<!-- 前置登陆  s -->
+				<!-- 前置登陆  e -->
+	</body>
+</html>

@@ -1,0 +1,1384 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+												<!--  当前的类别归属ID--> 
+		<!--  当前的类别表现ID--> 
+		<!--  当前的类别listname (eg:banjia)--> 
+		<!--  当前的类别catename (eg:搬家)--> 
+		<!--  一级类别归属ID--> 
+		<!--  一级类别表现ID--> 
+		<!--  一级类别listname eg:jiazheng--> 
+		<!--  一级类别catename eg:家政--> 
+		<!--  二级类别归属ID [Ljava.lang.Integer;@3f377afc 数字长度：2--> 
+			<!--  二级类别表现ID--> 
+				<!--  二级类别listname eg:jiazhuang--> 
+				<!--  二级类别catename eg:家装-->
+				<!-- 表现类别的全路径   eg:8512,96-->
+									
+						<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>【58同城】白银网络布线公司_网络综合布线_白银网络维护</title>
+	<meta name="description" content='58同城白银网络布线/维护频道是最大的白银网络布线/维护免费信息发布、查阅平台。58同城白银网络布线/维护频道每天都有大量专业、真实的优秀商家提供白银网络维护,白银网络布线,白银网络维护公司信息大家选择，同时您可以免费发布白银网络布线/维护信息。-58.com'/>
+	<meta name="keywords" content='白银网络维护,白银网络布线,白银网络维护公司'/>
+	<meta http-equiv="X-UA-Compatible" content="edge" />
+		<meta name="location" content="province=甘肃;city=白银;coord=104.144119,36.550827">
+				<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/by/xitong/" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/by/xitong/" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/by/xitong/" />
+					<script type="text/javascript">
+		var ____loadCfg = ['huangye', 'shenghuo', 'listpage'];
+	</script>
+	<script src='http://j2.58cdn.com.cn/js/require_jquery_load.js'></script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">document.write('<scri'+'pt src="http://j1.58cdn.com.cn/ds/tgbrand/js/brand_listpage_v1.js?temp=' + Math.random() + '"></scri'+'pt>');</script> 
+<script type="text/javascript">
+	var xxfwConfig = {namespace:'huangyelistpc'};
+</script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/resource/xxzl/xxfw/xxfw.min_v20161021110430.js'></script>
+
+<script type="text/javascript">
+try{
+	var ____json4fe = {"catentry":[{"dispid":"8703","name":"商务服务","listname":"shangwu"},{"dispid":"190","name":"网络布线/维护","listname":"xitong"}],"locallist":[{"dispid":"10304","name":"白银","listname":"by"}],"start":(new Date()).getTime(),"modules":"list"};
+	____json4fe.version = 'A';
+	____json4fe.modules = 'listpage';
+	____json4fe.sid = '142680829195361667454249715';
+	____json4fe.sessionid = '18c03419-7985-4530-b4fa-dcf7c4dc3bba';
+	____json4fe.smsc = '3f2dd2de9529e6332818218fed4f11af7f816a8eca705aa69288171c6d94b7452d63fd5efd2fc9d00cbe029e182b35346d696133aa756dd45d5d0cf89c18a819b4cff82efeb96862085171a93c251c330180a2d897e3848bfe97558c3c975090a4f70bc79825abcfb0f306fdc0f10740bb25acf1196fa95de288858947e5ac3a657a9c3d6a23ceca691d25fb9089ac3ac13e4e0183f85e93';
+	____json4fe.newcateid='';
+	____json4fe.keyword='';
+	____json4fe.page='1';
+	____json4fe.param='';
+	}catch(e){};
+	(function(){
+var e = "header,nav,section,aside,article,footer".split(','),
+i=0,
+length=e.length;
+while(i<length){
+    document.createElement(e[i++])
+}
+})();
+	var ajax_param = '{"pageIndex":1,"infoMethod":["renzheng","baojia","wltAge"],"platform":"pc","paramMap":null,"dispCateId":190,"dataParam":"29181560198204_15541898080775_0_commoninfo,27690679211065_42598342855703_0_commoninfo,25579789863504_38500349900046_0_commoninfo,26575099631665_2557894802694_0_commoninfo,27195259822646_19504515633926_0_commoninfo,29470623268021_42818179224589_0_commoninfo,29439622273194_31778103417094_0_commoninfo,24803008375223_33329346068742_0_commoninfo,29415342669239_32683136671750_0_commoninfo,29392675870659_43277235300112_0_commoninfo,29304188576316_45289511287572_0_commoninfo,29271807867342_44513529310227_0_commoninfo,20369472792198_6299580774151_0_commoninfo,29060816670645_42503212912404_0_commoninfo,25656279785798_33376330228233_0_commoninfo,28829225129419_20849830633990_0_commoninfo,28776512307915_28038476639750_0_commoninfo,28698388218945_23019734098950_0_commoninfo,28277931400002_15191963104518_0_commoninfo,28502000187324_26044011562503_0_commoninfo,28363362677063_43329798414606_0_commoninfo,28231903208510_34939940883210_0_commoninfo,28115842589873_37135258282519_0_commoninfo,28092244480951_1614487824390_0_commoninfo,28054941980330_41105727359764_0_commoninfo,27993497739840_30824453554953_0_commoninfo,23165747591576_4808096745990_0_commoninfo,27758835047117_31572483140874_0_commoninfo,27733828667190_39711931761427_0_commoninfo,27081409886389_40958223167501_0_commoninfo,27072219326146_34600556396299_0_commoninfo,26993183431471_37880988016398_0_commoninfo,26992554349249_41325815455766_0_commoninfo,29171416846542_15541898080775_0_promationinfo,29171467064400_15541898080775_0_promationinfo","dispCateName":"xitong"}';
+	var s_ajax_param = 's_contact_xitong_142680829195361667454249715_';
+</script>				<link href='http://c.58cdn.com.cn/ds/v1/base-v1_v0.css' rel="stylesheet" type="text/css">
+<link href='http://c.58cdn.com.cn/ds/v1/common_list_v20170315183710.css' rel="stylesheet" type="text/css">
+
+<link href='http://c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20170117143121.css' rel="stylesheet" type="text/css">
+
+
+		<link href='http://c.58cdn.com.cn/ds/v1/list/defaultList_v20170220190119.css' rel="stylesheet" type="text/css">
+	<!-- <link rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv02_v0.css'> -->
+<link type="text/css" rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03_v20160727171301.css'>
+<!-- <link type="text/css" rel="stylesheet" href="http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03.css"> -->
+
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/dialog_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/release_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/retable_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/weixin/hy_freetel_v20161207184444.css">	
+    		</head>
+			<body class="">
+						<!-- =S top bar header -->
+		<div id="commonTopbar" class="commonTopbar">
+<script type="text/javascript">
+    var secId;
+        ____json4fe.catentry[1]? secId = ____json4fe.catentry[1].dispid : secId = ____json4fe.catentry.dispid;
+    var modules = ____json4fe.modules;
+    //搬家列表页(secId == "96" && modules=="listpage")宽度为1190px
+    if(secId == "96" && modules=="listpage"){
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'default' // default: 1190px, narrow: 1000px
+            });
+        };
+    }else{
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'narrow' // default: 1190px, narrow: 1000px
+            });
+        };
+    }    
+</script>
+</div>
+<!-- =S banner  div -->
+<div class="topbannerbar"><div id="brand_list_top_banner" onclick="clickLog('from=pc_list_xitong_top_banner');" ></div></div>
+<!-- =E banner  div--><header id="header">
+    <div class="header-inner">
+    <a class="logo float_l" href="/huangye/" target="_blank" onclick="clickLog('from=pc_list_logo_xitong');">58同城</a>
+            <a href='http://post.58.com/10304/190/s5' target="_blank" onclick="clickLog('from=pc_list_fabu_xitong');" class="postbtn float_r">免费发布</a>
+        		        <div class="header-search float_r">
+         <em class="ico-searchkey"></em>
+         <form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+         	            	<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();">
+                        <span onMouseOut="this.className='sbtn'" onMouseOver="this.className='sbtn hover'" class="sbtn">
+                			<input type="submit" value="搜服务" onclick="clickLog('from=pc_list_search_xitong');" class="but-bl" name="" id="searchbtn1" ></span>
+                		        		<div class="clear"></div>
+        		<span class="hotsearch">
+               <a href="http://by.58.com/xitong/?key=%E8%A7%86%E9%A2%91%E7%9B%91%E6%8E%A7&final=1&searchtype=3&sourcetype=21" onclick="clickLog('from=pc_list_resouci_1_xitong');_gaq.push(['pageTracker._trackEvent', 'list', 'tag_click', '/huangye/hotkeywords/zz/xitong/']);">视频监控</a>
+       		
+			   </span>
+    		       	  </form>
+       	</div>
+		            <div class="nav float_l" >
+<a href="/">白银58同城</a> &gt; <a href="/shangwu.shtml">白银商务服务</a>
+		 &gt; <a href="/xitong/" itemprop="url">白银网络布线/维护</a>
+
+</div>
+	</div>
+</header>
+	<!-- =E top bar header -->
+	<!-- =S common_column_label-->
+			<!-- =E common_column_label-->
+	<!-- =S searchTip -->
+			<!-- =E searchTip  -->
+	<!-- =s cmcs -->
+							<section id="selection">
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">类别 ：</dt>
+		<dd id="ObjectType" >
+																    		    		    		    					<a href="/xitong/" class='select' >全部</a>
+								    		    		    		    					<a href="http://by.58.com/anfang/"  >安防监控</a>
+								    		    		    		    					<a href="http://by.58.com/yingjian/"  >综合布线</a>
+								    		    		    		    					<a href="http://by.58.com/xitongjicheng/"  >系统集成</a>
+								    		    		    		    					<a href="http://by.58.com/wangluoweihuweixiu/"  >网络维护</a>
+								    		    		    		    					<a href="http://by.58.com/itwaibao/"  >IT外包</a>
+								    		    		    		    					<a href="http://by.58.com/dnzuzhuang/"  >电脑组装</a>
+								    		    		    		    					<a href="http://by.58.com/gqkd/"  >光纤宽带</a>
+								    		    		    		    					<a href="http://by.58.com/ruodiangcwh/"  >弱电工程</a>
+															    					    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">地址 ：</dt>
+		<dd id="local" >
+																    		    		    		    					<a href="/xitong/" class='select' >全白银</a>
+								    		    		    		    					<a href="/baiyin/xitong/"  >白银</a>
+								    		    		    		    					<a href="/pingchuan/xitong/"  >平川</a>
+								    		    		    		    					<a href="/jingyuan/xitong/"  >靖远</a>
+								    		    		    		    					<a href="/huining/xitong/"  >会宁</a>
+								    		    		    		    					<a href="/jingtan/xitong/"  >景泰</a>
+								    		    		    		    					<a href="/baiyinzhoubian/xitong/"  >白银周边</a>
+																									    	</dd>
+    </dl>
+	<div id="selected" class="bar"></div>
+	<i class="shadow"></i>
+</section>
+
+			<!-- =E cmcs -->
+		<div id="adtop_1" class="hc"><div class="mouter defa"><div class="inner"><div id="md3" class="mdul"></div><ul id="md1" class="mdul"></ul><ul id="md2" class="mdul"></ul><ul id="md4" class="mdul"></ul><ul id="md5" class="mdul"></ul><div class="clear"></div></div></div></div>
+<div class="tabsbar">
+    <div class="list-tabs">
+												<a href="/xitong/" onclick="clickLog('from=pc_list_xitong_list_tabs');" class="sel"><h1>白银网络布线/维护</h1></a>
+											</div>
+ 	    	                	        
+
+		
+	
+		<span class="zhaobiao" >
+		<a href="http://bianmin.58.com/by/?from=pc_list_bianmin_wzl"
+		   target="_blank" >学习办事经验，解决办证难题</a>
+	</span>
+	
+			
+
+</div>
+ 				<section id="mainlist" class="main clearfix pr">
+					<div class="filterbar h28">
+    <div class="filterbar-l">
+			<!-- <div class="filterup" id="filterup">
+				 <a class="m1" title="找班级" href="#" rel="nofollow" onclick=""><span>找班级<em></em></span></a>
+				 <a class="m1" title="找拼友" href="#" rel="nofollow" onclick=""><span>找拼友<em></em></span></a>
+			</div>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">全部</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示教育机构</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示个人教师</a></span> -->
+				<div class="filterup" id="filterup">
+			 <a class="m1 sel" title="默认" href="#" rel="nofollow" onclick="g2({sort:null}); clickLog('from=huangye_list_moren_xitong_by&psid=142680829195361667454249715'); "><span>默认排序<em></em></span></a>
+								</div>
+												<span class="checkbox-ico" id="renzheng"><a href="javascript:void(0);" onclick="clickLog('from=List_sort_xitong__zhikanrenzheng');">只看认证</a></span>
+									
+									</div>  
+     <div class="filterbar-md">
+    	    	<!-- 加入医疗健康判断-->
+    	    		    		        		           		        		    	
+				   </div>        
+</div>
+					<div id="infolist" class="cleft" >
+				<!-- =S infolist -->
+									<div id="top_google_ad"></div>
+<table class="small-tbimg" cellspacing="0" cellpadding="0" >
+							<tr logr='j_2_15541898080775_29171416846542_3' infotag="29171416846542_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_xitong_xinxi_promationinfo_tupian&entityId=29171416846542&entityType=0&psid=142680829195361667454249715');">
+		<div>
+			<a href='http://by.58.com/xitong/29171416846542x.shtml?psid=142680829195361667454249715&entinfo=29171416846542_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic8.58cdn.com.cn/p1/tiny/n_v1bl2lwtposoxvr7r54fia.jpg' alt='甘肃东盛光电工程有限公司' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://by.58.com/xitong/29171416846542x.shtml?psid=142680829195361667454249715&entinfo=29171416846542_0' target="_blank" class="t" >安防监控︱市政安防︱道路楼宇︱远程监控︱监控安装</a>
+							<span class='tu'>[7图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='190' -->
+		            				<br />
+									    		承接：市政安防监控，道路、小区院落、校园、医院、企事业单位、...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5845532478127621.5858.com?psid=142680829195361667454249715&entinfo=29171416846542_0" onClick="clickLog('from=List_wangzhan&entityId=29171416846542&entityType=0&psid=142680829195361667454249715');" target='_blank' class='u' rel="nofollow">甘肃东盛光电工程有限公司</a>
+
+		</p>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop " data-id='29171416846542' wltMark="2" param="29171416846542_15541898080775_0_promationinfo_41823ADCC39925FE8D18E2DCF32E17C5" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29171416846542&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='j_2_15541898080775_29171467064400_3' infotag="29171467064400_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_xitong_xinxi_promationinfo_tupian&entityId=29171467064400&entityType=0&psid=142680829195361667454249715');">
+		<div>
+			<a href='http://by.58.com/xitong/29171467064400x.shtml?psid=142680829195361667454249715&entinfo=29171467064400_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic8.58cdn.com.cn/p1/tiny/n_v1bj3gzsgb5wxvqk3lkfka.jpg' alt='甘肃东盛光电工程有限公司' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://by.58.com/xitong/29171467064400x.shtml?psid=142680829195361667454249715&entinfo=29171467064400_0' target="_blank" class="t" >显示屏︱LED显示屏︱LED电子显示屏︱全彩色显示</a>
+							<span class='tu'>[7图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='190' -->
+		            				<br />
+									    		承接：小间距LED显示屏、室内外LED显示屏、单色显示屏、双...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5845532478127621.5858.com?psid=142680829195361667454249715&entinfo=29171467064400_0" onClick="clickLog('from=List_wangzhan&entityId=29171467064400&entityType=0&psid=142680829195361667454249715');" target='_blank' class='u' rel="nofollow">甘肃东盛光电工程有限公司</a>
+
+		</p>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop " data-id='29171467064400' wltMark="2" param="29171467064400_15541898080775_0_promationinfo_41823ADCC39925FE8D18E2DCF32E17C5" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29171467064400&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_2_15541898080775_29181560198204_0' infotag="29181560198204_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">周先生 : </b>
+				<a href='http://by.58.com/xitong/29181560198204x.shtml?psid=142680829195361667454249715&entinfo=29181560198204_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			监控︱网络监控︱高清摄像头安装︱综合布线︱楼宇对讲
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												甘肃东盛光电工程有限公司专业从事各类安防、弱电系统工程的设计、安装及维...
+				(03-05)
+							<p class="seller">
+			<a href="http://t5845532478127621.5858.com?psid=142680829195361667454249715&entinfo=29181560198204_0" onClick="clickLog('from=List_wangzhan&entityId=29181560198204&entityType=0&psid=142680829195361667454249715');" target='_blank' class='u' rel="nofollow">甘肃东盛光电工程有限公司</a>
+
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop " data-id='29181560198204' wltMark="2" param="29181560198204_15541898080775_0_commoninfo_41823ADCC39925FE8D18E2DCF32E17C5" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29181560198204&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_42598342855703_27690679211065_0' infotag="27690679211065_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">窦工 : </b>
+				<a href='http://by.58.com/xitong/27690679211065x.shtml?psid=142680829195361667454249715&entinfo=27690679211065_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			甘肃视频监控系统安装 网络布线 门禁考勤
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												服务项目：白银监控安装、监控工程、监控报警、监控系统设计、综合布线、无...
+				(25分钟)
+							<p class="seller">
+					a***6
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27690679211065' wltMark="0" param="27690679211065_42598342855703_0_commoninfo_ADC828F90562295F1FC506262725A8F2"  data-j4fe="15682872253,窦工" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27690679211065&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_38500349900046_25579789863504_0' infotag="25579789863504_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李经理 : </b>
+				<a href='http://by.58.com/xitong/25579789863504x.shtml?psid=142680829195361667454249715&entinfo=25579789863504_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			安防监控、综合布线、系统集成、IT运维服务；
+		</a>
+							<span class='tu'>[7图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												计算机网络已经进入一个新的时代，各个领域网络技术的应用越来越广泛，随着...
+				(1小时)
+							<p class="seller">
+					白银智成科技
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='25579789863504' wltMark="0" param="25579789863504_38500349900046_0_commoninfo_AFE5260E5EF7D14D3ABB2A7C6D87D7C4"  data-j4fe="18609435420,李经理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25579789863504&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_2557894802694_26575099631665_0' infotag="26575099631665_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">岷仁安防 : </b>
+				<a href='http://by.58.com/xitong/26575099631665x.shtml?psid=142680829195361667454249715&entinfo=26575099631665_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			安防视频监控系统安装、免费提供设计方案及报价
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												岷仁网（www.minren.wang）隶属于甘肃岷仁网络科技有限公司...
+				(11小时)
+							<p class="seller">
+					岷仁网络科技有限公司
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='26575099631665' wltMark="0" param="26575099631665_2557894802694_0_commoninfo_ADC828F90562295F1FC506262725A8F2"  data-j4fe="15682872253,岷仁安防" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26575099631665&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_19504515633926_27195259822646_0' infotag="27195259822646_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+				<a href='http://by.58.com/xitong/27195259822646x.shtml?psid=142680829195361667454249715&entinfo=27195259822646_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			家庭单位公司监控安装
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												专业安装家庭安防监控、餐饮服务单位后厨必备“明厨亮灶”监控、单位安防监...
+				(22小时)
+							<p class="seller">
+					z***2
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27195259822646' wltMark="0" param="27195259822646_19504515633926_0_commoninfo_752A309BB4867801FB61B3BF76B9D0C0"  data-j4fe="13893014437," >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27195259822646&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_42818179224589_29470623268021_0' infotag="29470623268021_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">安防监控 : </b>
+				<a href='http://by.58.com/xitong/29470623268021x.shtml?psid=142680829195361667454249715&entinfo=29470623268021_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			光纤熔接上门服务配件批发销售网络布线远程监控门禁考
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												光纤熔接服务光缆测试，FTTH工程上门熔纤光纤熔接，熔接测试服务，起步...
+				(03-23)
+							<p class="seller">
+					p***3
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='29470623268021' wltMark="0" param="29470623268021_42818179224589_0_commoninfo_6DDEC29E3175220252A60934AC8426A5"  data-j4fe="13469570948,安防监控" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29470623268021&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_31778103417094_29439622273194_0' infotag="29439622273194_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">段经理 : </b>
+				<a href='http://by.58.com/xitong/29439622273194x.shtml?psid=142680829195361667454249715&entinfo=29439622273194_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			企业彩铃丨集团彩铃丨挂机短信丨彩铃制作诚招全国代理
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												企业彩铃丨集团彩铃丨挂机短信丨彩铃制作诚招全国代理加盟企业集团彩铃前景...
+				(03-20)
+							<p class="seller">
+					乌鲁木齐英东锁具批发有限公司
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='29439622273194' wltMark="0" param="29439622273194_31778103417094_0_commoninfo_488CBCF159EE0C633317ABE69EBFFB2E"  data-j4fe="15276685562,段经理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29439622273194&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_33329346068742_24803008375223_0' infotag="24803008375223_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李经理 : </b>
+				<a href='http://by.58.com/xitong/24803008375223x.shtml?psid=142680829195361667454249715&entinfo=24803008375223_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			专业安防监控、监控安装、光纤熔接、弱电工程综合布线
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												我公司长期从事弱电行业，包括安防监控、综合布线、门禁考勤、防盗报警、公...
+				(03-19)
+							<p class="seller">
+					1***l
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='24803008375223' wltMark="0" param="24803008375223_33329346068742_0_commoninfo_06DA9A2FD5E9B50F842E7D9A2495A1FD"  data-j4fe="18009428532,李经理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24803008375223&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_32683136671750_29415342669239_0' infotag="29415342669239_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王工 : </b>
+				<a href='http://by.58.com/xitong/29415342669239x.shtml?psid=142680829195361667454249715&entinfo=29415342669239_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			门禁安装 监控安装 无线覆盖 综合布线 弱电施工
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												甘肃警安06年后开始涉足建筑中的弱电工程施工、集成。主要是综合布线、监...
+				(03-18)
+							<p class="seller">
+					源来宝科技
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='29415342669239' wltMark="0" param="29415342669239_32683136671750_0_commoninfo_2029B2AD152926C6A2F24692E23DA104"  data-j4fe="18294421500,王工" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29415342669239&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_43277235300112_29392675870659_0' infotag="29392675870659_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张女士 : </b>
+				<a href='http://by.58.com/xitong/29392675870659x.shtml?psid=142680829195361667454249715&entinfo=29392675870659_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			国产AV6471 光纤熔接机
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												技术规范：主 要 技 术 指 标适用光纤SM(单模)，MM(多模)，D...
+				(03-16)
+							<p class="seller">
+					甘肃恒天通信技术有限公司
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='29392675870659' wltMark="0" param="29392675870659_43277235300112_0_commoninfo_6784EA8F89FDBB3D11DFBE43073779C1"  data-j4fe="18419161064,张女士" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29392675870659&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_45289511287572_29304188576316_0' infotag="29304188576316_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张先生 : </b>
+				<a href='http://by.58.com/xitong/29304188576316x.shtml?psid=142680829195361667454249715&entinfo=29304188576316_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			宾馆酒店写字楼弱电工程系统安装调试
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												综合布线、弱电工程、有线网络、无线AP、音响系统、公共广播、背景音乐，...
+				(03-08)
+							<p class="seller">
+					n***r
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='29304188576316' wltMark="0" param="29304188576316_45289511287572_0_commoninfo_27869677F3D5CF09D0F6B469EFDC9F48"  data-j4fe="13909435174,张先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29304188576316&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_44513529310227_29271807867342_0' infotag="29271807867342_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">光纤熔接 : </b>
+				<a href='http://by.58.com/xitong/29271807867342x.shtml?psid=142680829195361667454249715&entinfo=29271807867342_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			光纤熔接光缆铺设光纤熔接测试服务
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												光纤上门熔纤上门服务光纤熔接测试服务，专业熔接光纤抢修工程，每位员工都...
+				(03-05)
+							<p class="seller">
+					x***a
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='29271807867342' wltMark="0" param="29271807867342_44513529310227_0_commoninfo_17ABEEEB8BD86D577B3E8F1F2C193C03"  data-j4fe="13409571082,光纤熔接" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29271807867342&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_6299580774151_20369472792198_0' infotag="20369472792198_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张先生 : </b>
+				<a href='http://by.58.com/xitong/20369472792198x.shtml?psid=142680829195361667454249715&entinfo=20369472792198_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			宾馆、网吧计算机及网络整体解决方案
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												我们为您提供宾馆，网吧等的计算机及网络安装，调试，服务器的架设，网吧建...
+				(02-28)
+							<p class="seller">
+					芬芬美容美体中心
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='20369472792198' wltMark="0" param="20369472792198_6299580774151_0_commoninfo_AB8F8815307F724FFBB5F66FD9A6A86E"  data-j4fe="15349436828,张先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=20369472792198&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_42503212912404_29060816670645_0' infotag="29060816670645_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">赵先生 : </b>
+				<a href='http://by.58.com/xitong/29060816670645x.shtml?psid=142680829195361667454249715&entinfo=29060816670645_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			回收光缆,光缆回收,废旧光缆回收,高价回收光缆
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												回收光缆,光缆回收,废旧光缆回收,高价回收光缆高价回收光缆4——288...
+				(02-14)
+							<p class="seller">
+					q***w
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='29060816670645' wltMark="0" param="29060816670645_42503212912404_0_commoninfo_7202C75F754FE3F9D57A63E9EADC4620"  data-j4fe="18791319475,赵先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29060816670645&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_33376330228233_25656279785798_0' infotag="25656279785798_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">苟师傅 : </b>
+				<a href='http://by.58.com/xitong/25656279785798x.shtml?psid=142680829195361667454249715&entinfo=25656279785798_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			专业熔接光缆
+		</a>
+						<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												专业熔接光缆，安装监控。
+				(02-12)
+							<p class="seller">
+					甘肃昌升商贸有限公司
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='25656279785798' wltMark="0" param="25656279785798_33376330228233_0_commoninfo_37482101523149CB7FBA31F03757AA0F"  data-j4fe="15593080001,苟师傅" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25656279785798&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_20849830633990_28829225129419_0' infotag="28829225129419_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">Zyw : </b>
+				<a href='http://by.58.com/xitong/28829225129419x.shtml?psid=142680829195361667454249715&entinfo=28829225129419_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			必应网络加盟代理服务营运商微软必应中国
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												必应网络加盟代理服务营运商微软必应中国（英文名：Bing）是微软公司于...
+				(01-24)
+							<p class="seller">
+					中国政府部门机构
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28829225129419' wltMark="0" param="28829225129419_20849830633990_0_commoninfo_348B9C8E1A4F4464E75FADC5C85049C0"  data-j4fe="17099900308,Zyw" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28829225129419&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_28038476639750_28776512307915_0' infotag="28776512307915_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">ftth改造 : </b>
+				<a href='http://by.58.com/xitong/28776512307915x.shtml?psid=142680829195361667454249715&entinfo=28776512307915_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			光纤熔接光缆铺设ftth改造视频监控电子围栏
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												我公司专业承接光纤熔接光缆铺设，电子围栏，ftth改造视频监控电子围栏...
+				(01-19)
+							<p class="seller">
+					k***j
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28776512307915' wltMark="0" param="28776512307915_28038476639750_0_commoninfo_17ABEEEB8BD86D577B3E8F1F2C193C03"  data-j4fe="13409571082,ftth改造" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28776512307915&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_23019734098950_28698388218945_0' infotag="28698388218945_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">陈经理 : </b>
+				<a href='http://by.58.com/xitong/28698388218945x.shtml?psid=142680829195361667454249715&entinfo=28698388218945_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			金浦出售4芯-288芯光缆，光纤配线架交接箱ODF
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												金浦科技有限公司常年出售4芯至288芯，光纤熔接机销售维修，室外通信光...
+				(01-12)
+							<p class="seller">
+					f***2
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28698388218945' wltMark="0" param="28698388218945_23019734098950_0_commoninfo_84C56FE7CD045B23D65F29028A7F06F0"  data-j4fe="18610000043,陈经理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28698388218945&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_15191963104518_28277931400002_0' infotag="28277931400002_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">赵工 : </b>
+				<a href='http://by.58.com/xitong/28277931400002x.shtml?psid=142680829195361667454249715&entinfo=28277931400002_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			安防监控,综合布线 电脑维修 wifi 弱电工程
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												专业承接大小型安防工程；综合网络布线，安防项目，监控摄像机安装及维修，...
+				(01-09)
+							<p class="seller">
+					蓝光装机联盟工程师装机挣钱
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28277931400002' wltMark="0" param="28277931400002_15191963104518_0_commoninfo_1AF6F837C9C5EDFCF7EB3DEDFDDC3EC3"  data-j4fe="4000685932,赵工" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28277931400002&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_26044011562503_28502000187324_0' infotag="28502000187324_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">姚先生 : </b>
+				<a href='http://by.58.com/xitong/28502000187324x.shtml?psid=142680829195361667454249715&entinfo=28502000187324_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			电信6M宽带转让，450元/年，有意者从速。
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												电信6M宽带转让，450元/年，有意者从速。
+				(12-25)
+							<p class="seller">
+					p***6
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28502000187324' wltMark="0" param="28502000187324_26044011562503_0_commoninfo_091870E31FABDB8B54B47AB461417035"  data-j4fe="18993999932,姚先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28502000187324&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_43329798414606_28363362677063_0' infotag="28363362677063_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小冯 : </b>
+				<a href='http://by.58.com/xitong/28363362677063x.shtml?psid=142680829195361667454249715&entinfo=28363362677063_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			雅迪商贸责任有限公司
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												电脑维修，监控安装，手机维修，数据恢复 ，路由器批发与零售，oppo ...
+				(12-13)
+							<p class="seller">
+					v***1
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28363362677063' wltMark="0" param="28363362677063_43329798414606_0_commoninfo_DFD288B5540CF0E908A6867A31FBA2B0"  data-j4fe="15193012909,小冯" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28363362677063&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_34939940883210_28231903208510_0' infotag="28231903208510_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">吴先生 : </b>
+				<a href='http://by.58.com/xitong/28231903208510x.shtml?psid=142680829195361667454249715&entinfo=28231903208510_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			进口地下金属探测器（德国AR-V6脉冲机）销售
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												出售各种进口地下金属探测器探盘机有：赏金猎人系列，美国盖瑞特系列，费舍...
+				(12-01)
+							<p class="seller">
+					深圳市鼎鑫世纪电子科技有限公司
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28231903208510' wltMark="0" param="28231903208510_34939940883210_0_commoninfo_AAD620D1E6E1E1648FEE8142E283E894"  data-j4fe="13530519897,吴先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28231903208510&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_37135258282519_28115842589873_0' infotag="28115842589873_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">冯尔明 : </b>
+				<a href='http://by.58.com/xitong/28115842589873x.shtml?psid=142680829195361667454249715&entinfo=28115842589873_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			专业网络维护监控摄像头安装
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												专业网络维护监控系统调试安装，电脑手机维修，品牌手机电脑出售
+				(11-20)
+							<p class="seller">
+					1***z
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28115842589873' wltMark="0" param="28115842589873_37135258282519_0_commoninfo_DFD288B5540CF0E908A6867A31FBA2B0"  data-j4fe="15193012909,冯尔明" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28115842589873&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_1614487824390_28092244480951_0' infotag="28092244480951_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李生 : </b>
+				<a href='http://by.58.com/xitong/28092244480951x.shtml?psid=142680829195361667454249715&entinfo=28092244480951_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			靖远平川安防监控系统专业服务商
+		</a>
+						<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												安防监控 网络系统 停车系统 对讲系统 音响工程 通讯工程
+				(11-18)
+							<p class="seller">
+					靖远德龙电子器材经营部
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28092244480951' wltMark="0" param="28092244480951_1614487824390_0_commoninfo_0FDE9E7084151358008E14E134E89153"  data-j4fe="18894153187,李生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28092244480951&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_41105727359764_28054941980330_0' infotag="28054941980330_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李经理 : </b>
+				<a href='http://by.58.com/xitong/28054941980330x.shtml?psid=142680829195361667454249715&entinfo=28054941980330_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			门禁安装，指纹门禁，刷卡门禁，人脸门禁，感应门等
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												众思创科技专业承接感应门、门禁系统、智能人行通道，摆闸|翼闸|三辊闸、...
+				(11-15)
+							<p class="seller">
+					甘肃众思创
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28054941980330' wltMark="0" param="28054941980330_41105727359764_0_commoninfo_B674470B25E385D33B52BB827DD53779"  data-j4fe="18189546454,李经理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28054941980330&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_30824453554953_27993497739840_0' infotag="27993497739840_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">段经理 : </b>
+				<a href='http://by.58.com/xitong/27993497739840x.shtml?psid=142680829195361667454249715&entinfo=27993497739840_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			集团彩铃制作100元，诚招代理商，400电话办理
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												集团彩铃制作100元，诚招代理商，400电话办理移动，联通，电信彩铃制...
+				(11-09)
+							<p class="seller">
+					乌鲁木齐市英东开锁中心
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop " data-id='27993497739840' wltMark="0" param="27993497739840_30824453554953_0_commoninfo_488CBCF159EE0C633317ABE69EBFFB2E" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27993497739840&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_4808096745990_23165747591576_0' infotag="23165747591576_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张工 : </b>
+				<a href='http://by.58.com/xitong/23165747591576x.shtml?psid=142680829195361667454249715&entinfo=23165747591576_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			承接各类电气设备安装维护
+		</a>
+						<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												视频监控，卫星电视，背景音乐，局域网组建，配电柜安装，电气线路改造等电...
+				(10-22)
+							<p class="seller">
+					z***7
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='23165747591576' wltMark="0" param="23165747591576_4808096745990_0_commoninfo_51E96EBDF924F67233920BC6EFDE1197"  data-j4fe="15349039796,张工" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23165747591576&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_31572483140874_27758835047117_0' infotag="27758835047117_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王悦 : </b>
+				<a href='http://by.58.com/xitong/27758835047117x.shtml?psid=142680829195361667454249715&entinfo=27758835047117_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			超市用哪款收银机合适，收银软件又简单操作
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												收银软件简单易懂，一次性购买终身使用，若有升级免费升级。POS收银机产...
+				(10-19)
+							<p class="seller">
+					兰州百强信息技术有限公司
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27758835047117' wltMark="0" param="27758835047117_31572483140874_0_commoninfo_F0092CAFDB5B1EF10542650474A2EDB3"  data-j4fe="18693169602,王悦" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27758835047117&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_39711931761427_27733828667190_0' infotag="27733828667190_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">徐小姐 : </b>
+				<a href='http://by.58.com/xitong/27733828667190x.shtml?psid=142680829195361667454249715&entinfo=27733828667190_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			各种进口藤仓住友古河韩国一诺中电41所光纤熔接机出
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												现货古河s178A 藤仓22S 62S 80S 住友600C 81C ...
+				(10-17)
+							<p class="seller">
+					1***p
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27733828667190' wltMark="0" param="27733828667190_39711931761427_0_commoninfo_B42D6E8D4C6BFC779B65B50FC4CB8B3C"  data-j4fe="18320802557,徐小姐" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27733828667190&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_40958223167501_27081409886389_0' infotag="27081409886389_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张经理 : </b>
+				<a href='http://by.58.com/xitong/27081409886389x.shtml?psid=142680829195361667454249715&entinfo=27081409886389_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			甘肃人行通道闸机销售安装
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												西安智能人行通道闸机厂家-追梦物联网（客服：400 6628 910；...
+				(08-19)
+							<p class="seller">
+					1***b
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27081409886389' wltMark="0" param="27081409886389_40958223167501_0_commoninfo_6DFA6619E7F8B24E06E191C3B6618806"  data-j4fe="18821671685,张经理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27081409886389&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_34600556396299_27072219326146_0' infotag="27072219326146_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">黄龙 : </b>
+				<a href='http://by.58.com/xitong/27072219326146x.shtml?psid=142680829195361667454249715&entinfo=27072219326146_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			白银为什么要注册商标，有什么好处
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												今年元月份，景泰县工商局新申报的“条山”商标被认定为“商标”，...
+				(08-18)
+							<p class="seller">
+					1***s
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27072219326146' wltMark="0" param="27072219326146_34600556396299_0_commoninfo_EE5E16E69B90B13780AA34A3C67D9519"  data-j4fe="18393711013,黄龙" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27072219326146&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_37880988016398_26993183431471_0' infotag="26993183431471_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">高先生 : </b>
+				<a href='http://by.58.com/xitong/26993183431471x.shtml?psid=142680829195361667454249715&entinfo=26993183431471_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			楼宇对讲、门禁、智能泊车、电梯控制
+		</a>
+							<span class='tu'>[7图]</span>
+				<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												珠海名科电子科技有限公司西北办事处是一家集楼宇对讲系统、平安城市报警系...
+				(08-11)
+							<p class="seller">
+					高***0
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='26993183431471' wltMark="0" param="26993183431471_37880988016398_0_commoninfo_0D2A459C3AAD56304AD2356580104232"  data-j4fe="18219916677,高先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26993183431471&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_41325815455766_26992554349249_0' infotag="26992554349249_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小杨 : </b>
+				<a href='http://by.58.com/xitong/26992554349249x.shtml?psid=142680829195361667454249715&entinfo=26992554349249_0' onclick="clickLog('from=pc_list_xitong_xinxi_commoninfo_by');" target="_blank" class="t" >
+			金开科技-您身边的安防专家
+		</a>
+						<!-- cxsjstate='false',dispCateID='190' -->
+		    	        		<br />
+												监控安防、防盗报警、智能家居、管理软件，您的安全，我们来保障，欢迎您随...
+				(08-11)
+							<p class="seller">
+					p***m
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='26992554349249' wltMark="0" param="26992554349249_41325815455766_0_commoninfo_BD0E73B31CEA19B2D454F7156C44CC51"  data-j4fe="18209433252,小杨" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26992554349249&entityType=0&psid=142680829195361667454249715")'>免费预约</a></span>
+	</div>
+</td></tr>	</table>								<!-- =E infolist -->
+					<div id="gjwb_bottom_jz_ad"></div>
+	<div id="bottom_google_ad"></div>
+<div class="pager" >
+	 <strong><span>1</span></strong><a href="/xitong/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>2</span></a><a href="/xitong/pn3/" onClick="clickLog('from=huangye_list_fanye_3');"><span>3</span></a><a class="next" href="/xitong/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>下一页</span></a>
+</div>
+<div id="infocont">
+	<!--当是健康答疑时，链接变为提问-->
+										<a target="_blank" rel="nofollow" href="http://post.58.com/10304/190/s5" onclick="clickLog('pc_list_xitong_bottom_fabu');" >马上发布一条网络布线/维护信息&raquo;</a>
+						</div>
+<!--医疗健康判断-->
+	<div id="direct_ad_bottom" onclick="clickLog('from=pc_list_xitong_bottom_zhineng1');"  ></div>
+	<div id="bottom_zhaoshangjiameng_ad" onclick="clickLog('from=pc_list_xitong_bottom_tuiguang2');"  ></div>
+
+			</div>
+			<div id="rightframe" class="cright">
+	
+
+			<div class="tuijian" id="ylad" style="display:none"></div>
+							<div id="developmentcontent">
+		
+	</div>
+							<div class="brand_md_tit"><h3><i class="brand_md_tit_i1"></i>名店推荐<i class="brand_md_tit_i2"></i></h3></div>
+	<div id="brand_md"><div id="ad19"  style="display:none"></div></div>
+	<script>
+		$("#brand_md").bind("bindBrandEvent",function(){ 
+            if($('.brand_md200').length > 0){
+				$('.brand_md_tit').show();
+			}
+        }); 
+	</script>
+	</div>	    </section>
+		<div id="wangmeng_list_bottom_ditong" onclick="clickLog('from=pc_list_xitong_bottom_tuiguang3');"   ></div><section id="links">
+<i class="linksTopline"></i>
+	<!-- =S friendtips -->
+	<dl id="friendtips" class="linksItem friendtips"><dt class="b-left">白银网络布线/维护介绍：</dt>
+<dd class="b-right">58同城白银网络布线/维护频道是白银最大的网络布线/维护信息免费发布查询平台，免费提供电脑硬件、集成、数据恢复、安防监控等多种类别的白银网络布线/维护相关信息，感谢您选择<a href=http://www.58.com/hyzt/xitong/ target=_blank>网络布线/维护</a>信息平台。如有疑问请<a href=http://about.58.com/v5/ target=_blank rel=nofollow>与客服对话</a>。手机版请访问<a href=http://m.58.com/by/xitong/>白银网络布线/维护</a></dd>
+</dl>
+	<!-- =E friendtips -->
+	<!-- =S relate  -->
+			<dl class="linksItem relate" id="relate">
+	<dt class="b-left">白银网络布线/维护相关信息：</dt>
+	<dd class="b-right">
+		<ul class="b-ul">
+						    			        <li><a href="/xitong/jh_%E7%9B%91%E6%8E%A7/?utm_source=link&spm=u-LgVj8Rsa1luDwQM.psy_youjiao">监控</a></li>
+			    		    			    			        <li><a href="/xitong/jh_%E5%AE%89%E9%98%B2/?utm_source=link&spm=u-LgVj8Rsa1luDwQM.psy_youjiao">安防</a></li>
+			    		    		</ul>
+	</dd>
+</dl>
+		<!-- =E relate -->
+	<!-- =S relatelink allshangquan-->
+		 	<!-- =E relatelink -->
+	<!-- =S bottomlink-->
+	            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+				网络布线/维护- 相关类别：
+			</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://www.58.com/hyzt/zhuce/'>工商注册</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/kuaidi/'>快递公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/huoyun/'>货运物流</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zulin/'>租赁公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/danbaobaoxiantouzi/'>投资担保</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/xitong/'>网络维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/yinshua/'>印刷包装</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zixunzhongjie/'>咨询服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/penhui/'>法律咨询</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/wangzhan/'>网站建设</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiajuweixiu/'>招牌喷绘</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/visa/'>代办签证</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/bgsbwx/'>办公维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/baoxianfuwu/'>保险投保</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zhuangxiujc/'>装修建材</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiaoyu/'>教育培训</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/hunjiehunqing/'>婚庆摄影</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/qichefw/'>汽车服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shop/'>批发采购</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shenghuo/'>家政服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shangwu/'>商务服务</a></li>
+        		        		<li><a href='http://www.58.com/ppb58weixiu2/'>品牌家电维修大全</a></li>
+        		        		<li><a href='http://www.58.com/ppbhyzt1/'>黄页大全</a></li>
+        		        		<li><a href='http://www.58.com/pprmap7/'>商务服务地图</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+		<!-- =E bottomlink -->
+	<!-- =S hotcity-->
+	        <dl class="linksItem hotcity" id="hotcity">
+    	<dt class="b-left">白银网络布线/维护周边城市：</dt>
+    	<dd class="b-right">
+    		<ul class="b-ul">
+    			    			<li><a href="http://lz.58.com/xitong/">兰州网络布线/维护</a></li>
+    			    			<li><a href="http://jinchang.58.com/xitong/">金昌网络布线/维护</a></li>
+    			    			<li><a href="http://pl.58.com/xitong/">平凉网络布线/维护</a></li>
+    			    		</ul>
+    	</dd>
+    </dl>
+	<!-- =S hotcity -->
+            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+					网络布线/维护- 热门城市：
+					</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://bj.58.com/xitong/'>北京网络布线/维护</a></li>
+        		        		<li><a href='http://sh.58.com/xitong/'>上海网络布线/维护</a></li>
+        		        		<li><a href='http://gz.58.com/xitong/'>广州网络布线/维护</a></li>
+        		        		<li><a href='http://sz.58.com/xitong/'>深圳网络布线/维护</a></li>
+        		        		<li><a href='http://tj.58.com/xitong/'>天津网络布线/维护</a></li>
+        		        		<li><a href='http://hz.58.com/xitong/'>杭州网络布线/维护</a></li>
+        		        		<li><a href='http://wh.58.com/xitong/'>武汉网络布线/维护</a></li>
+        		        		<li><a href='http://xa.58.com/xitong/'>西安网络布线/维护</a></li>
+        		        		<li><a href='http://cd.58.com/xitong/'>成都网络布线/维护</a></li>
+        		        		<li><a href='http://zz.58.com/xitong/'>郑州网络布线/维护</a></li>
+        		        		<li><a href='http://cs.58.com/xitong/'>长沙网络布线/维护</a></li>
+        		        		<li><a href='http://nj.58.com/xitong/'>南京网络布线/维护</a></li>
+        		        		<li><a href='http://hrb.58.com/xitong/'>哈尔滨网络布线/维护</a></li>
+        		        		<li><a href='http://sy.58.com/xitong/'>沈阳网络布线/维护</a></li>
+        		        		<li><a href='http://su.58.com/xitong/'>苏州网络布线/维护</a></li>
+        		        		<li><a href='http://sjz.58.com/xitong/'>石家庄网络布线/维护</a></li>
+        		        		<li><a href='http://dl.58.com/xitong/'>大连网络布线/维护</a></li>
+        		        		<li><a href='http://qd.58.com/xitong/'>青岛网络布线/维护</a></li>
+        		        		<li><a href='http://jn.58.com/xitong/'>济南网络布线/维护</a></li>
+        		        		<li><a href='http://cq.58.com/xitong/'>重庆网络布线/维护</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/xitong/'>网络布线/维护</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+	<!-- =E hotcity --> 	<!-- =E hotcity -->
+	<!-- =S friendlink-->
+					<!-- =E friendlink -->
+</section>
+<footer id="footer" class="footer">
+    <div id="upWrap"> <a target="_blank" href="http://about.58.com/help.html" rel="nofollow">常见问题</a><span>|</span> <a target="_blank" href="http://about.58.com/" rel="nofollow">帮助中心</a><span>|</span> <a target="_blank" href="http://about.58.com/feedback.html" rel="nofollow">意见反馈</a><span>|</span> <a target="_blank" href="http://about.58.com/home/" rel="nofollow">了解58同城</a><span>|</span> <a target="_blank" href="http://about.58.com/hr/" rel="nofollow">加入58同城</a><span>|</span> <a target="_blank" href="http://fanqizha.58.com/" rel="nofollow">反欺诈联盟</a><span>|</span> <a target="_blank" href="http://110.58.com" rel="nofollow">报案平台</a><span>|</span> <a target="_blank" href="http://e.58.com" rel="nofollow">推广服务</a><span>|</span> <a target="_blank" href="http://biz.58.com" rel="nofollow">渠道招商</a><span>|</span> <a target="_blank" href="http://baozhang.58.com" rel="nofollow">先行赔付</a><span>|</span> <a target="_blank" href="http://ir.58.com?PGTID=0d100000-0000-13da-8041-51f9a3a739fa&amp;ClickID=2" rel="nofollow">Investor Relations</a> </div>
+    <div id="downWrap"> <em>2005-2016 58.com版权所有</em><span>|</span> <em>京公网备案信息110105000809</em><span>|</span> <a target="_blank" href="http://www.miibeian.gov.cn/" rel="nofollow">京ICP证060405</a><span>|</span><em>乙测资字11018014</em><span>|</span> <a target="_blank" href="http://ir.58.com" rel="nofollow">Investor Relations</a><span>|</span><em>违法信息举报：4008135858&nbsp;&nbsp;jubao@58ganji.com</em> </div>
+    <div class="fotBtmIcon">
+        <a target="_blank" id="fotBm_1" href="http://fanqizha.58.com"></a>
+        <a target="_blank" id="fotBm_2" href="http://www.12377.cn/"></a>
+        <a target="_blank" id="fotBm_3" href="http://www.12377.cn/node_548446.htm"></a>
+        <a target="_blank" id="fotBm_4" href="https://credit.szfw.org/CX20120918001650001720.html"></a>
+        <a target="_blank" id="fotBm_5" href="http://img.58cdn.com.cn/ui6/index/qyxinyong.jpg?v=3"></a>
+        <a target="_blank" id="fotBm_6" href="http://about.58.com/fqz/index.html"></a>
+    </div>
+</footer>
+<script>
+	var currentDate = new Date();
+</script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfc_v20160418145051.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfcInit_v20161121150119.js'></script>
+<script>
+	var jingzhun_ads = [];
+	var jingzhun_ads_param = "";
+</script>
+
+				<script type="text/javascript" src='http://j1.58cdn.com.cn/js/5_1/comm_js/boot_listpage_version_v20170316181518.js'></script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170112123932.js'></script>
+<script type="text/javascript">
+document.domain = '58.com';
+var win = new GetToolTipWindow('tooltipdiv', 'keyword', '3','10304','', true);win.setSearchButton('searchbtn');
+var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','10304','');win1.setSearchButton('searchbtn1');
+var win2 = new GetToolTipWindow('tooltipdiv2', 'mudidi', '7', '10304', '');win2.setSearchButton('searchbtn1');
+boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'by');});
+</script>
+
+<script type="text/javascript" >
+// JavaScript Document
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	toggle(".p-help");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".small-tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+
+$("#shangmenfw a").each(function(){
+	if("到店服务"== $(this).text().trim()){
+		$(this).remove();
+	}
+});
+
+BAIDU_CLB_fillSlot("567863");
+
+var alldt = $("#relateSelect>dt");
+function showNear(dt){
+    alldt.each(function(){
+        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+        else {$(this).next("dd").hide();$(this).removeClass("select");}
+    });
+}
+alldt.each(function(){
+    $(this).click(function(){showNear(this);}).hover(function(){showNear(this);});
+});
+
+showNear(alldt[0]);
+
+  
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+$(".selector").each(function(){
+	$(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+});
+
+</script>
+
+<div style="display:none;">
+<script type="text/javascript">
+ var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3bb04d7a4ca3846dcc66a99c3e861511' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+</div>
+
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+
+
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/js/v8/boot/boot_huangye_v20170321150613.js'>
+	</script>
+	<script>
+		require(['_pkg/huangye/huangye_shenghuo_list_dom'],function(){});
+	</script>
+
+<script src="http://track.58.com/adsys/ggafs?rand=20170326"></script>
+<script>
+//统计埋点
+$(function(){
+	$('dl.secitem').each(function(){
+	    var idname = $(this).find("dd").eq(0).attr('id');
+		$(this).find('a').not('span a').each(function(){
+			$(this).click(function(){
+				clickLog('from=pc_list_xitong_shaixuan_'+idname+ '_by');
+		    });		
+		});	
+    });	
+})
+</script>
+<script type="text/javascript">
+    $("#more_ObjectType").click(function(){
+    	console.log("ok");
+    	var showmoreBrand = document.getElementById("moreBrandct"),moreBrandbtn = document.getElementById("moreBrandbtn");
+	    showmoreBrand.style.display = (showmoreBrand.style.display=="block")?"none":"block";
+	    moreBrandbtn.className = (moreBrandbtn.className=="moreBrand")?"moreBrand hold":"moreBrand";
+    });
+    var pemorealldt = $("#moreBrandct dt");
+	function showpemorecon(dt){
+		pemorealldt.each(function(){
+		    if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+            else {$(this).next("dd").hide();$(this).removeClass("select");}
+        });
+    }
+    pemorealldt.each(function(){
+		$(this).click(function(){showpemorecon(this);}).hover(function(){showpemorecon(this);});
+    });
+    showpemorecon(pemorealldt[0]);
+</script>
+		<script type="text/javascript">
+function cpcget(url){
+	/*$.ajax({
+		url:url,
+		type:"get",
+		dataType:"jsonp",
+		success:function(data){
+		
+        }
+    });	*/
+}
+</script>					<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e15962162366a86a6229038443847be7";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div style="display:none">
+	<!--基本统计代码begin(8703,0)--by:zhanghao06-->
+<script type="text/javascript">
+____json4fe.supplycount = {sortid:'26992554349249'};
+var _gaq = _gaq || [],site_name = "58",post_count = "103",shop_count= "",page_type = "list";
+var _trackURL = "{'cate':'8703,190','area':'10304','pagetype':'list','GA_pageview':'/by/shangwu/xitong/listversion/','version':'A','pagesize':'35','pagenum':'1','level1':'','level2':'','level3':'','level4':'','level5':'','level6':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/by/shangwu/xitong/listversion/']);
+
+$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+<!--基本统计代码end-->
+</div>
+<script src="//wechat.58.com/google-analytics"></script> 				<!-- 抢单神器下线-->
+				<!-- 抢单神器下线-->
+		<!-- 装修搜索弹窗  S -->
+				<!-- 招标弹框start -->
+<link rel="stylesheet" href='http://c.58cdn.com.cn/ds/zhaobiao/pc_search_win/list_win_zb_v20161010135135.css' />
+<script src="http://j1.58cdn.com.cn/ds/zhaobiao/v1/js/fastpost/jquery.md5.js"></script>
+<script>
+ var cityid=10304;
+</script>
+
+        <!-- 招标弹框end -->
+
+
+				<!-- 装修搜索弹窗  E -->
+		<!-- 前置登陆  s -->
+				<!-- 前置登陆  e -->
+	</body>
+</html>

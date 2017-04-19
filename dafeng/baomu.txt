@@ -1,0 +1,1399 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+												<!--  当前的类别归属ID--> 
+		<!--  当前的类别表现ID--> 
+		<!--  当前的类别listname (eg:banjia)--> 
+		<!--  当前的类别catename (eg:搬家)--> 
+		<!--  一级类别归属ID--> 
+		<!--  一级类别表现ID--> 
+		<!--  一级类别listname eg:jiazheng--> 
+		<!--  一级类别catename eg:家政--> 
+		<!--  二级类别归属ID [Ljava.lang.Integer;@2e0a6e1d 数字长度：2--> 
+			<!--  二级类别表现ID--> 
+				<!--  二级类别listname eg:jiazhuang--> 
+				<!--  二级类别catename eg:家装-->
+				<!-- 表现类别的全路径   eg:8512,96-->
+									
+						<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>【58同城】大丰家政服务公司_大丰家政服务价格</title>
+	<meta name="description" content='58同城大丰家政服务公司频道是最大的大丰家政服务免费信息发布、查阅平台。58同城大丰家政服务频道每天都有大量专业、真实的优秀商家提供大丰家政服务公司电话,家政价格表信息供大家选择。-58.com'/>
+	<meta name="keywords" content='大丰家政,大丰家政公司,大丰家政服务公司,大丰家政服务价格'/>
+	<meta http-equiv="X-UA-Compatible" content="edge" />
+		<meta name="location" content="province=江苏;city=大丰;coord=120.546274,33.190868">
+				<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/dafeng/baomu/" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/dafeng/baomu/" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/dafeng/baomu/" />
+					<script type="text/javascript">
+		var ____loadCfg = ['huangye', 'shenghuo', 'listpage'];
+	</script>
+	<script src='http://j2.58cdn.com.cn/js/require_jquery_load.js'></script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">document.write('<scri'+'pt src="http://j1.58cdn.com.cn/ds/tgbrand/js/brand_listpage_v1.js?temp=' + Math.random() + '"></scri'+'pt>');</script> 
+<script type="text/javascript">
+	var xxfwConfig = {namespace:'huangyelistpc'};
+</script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/resource/xxzl/xxfw/xxfw.min_v20161021110430.js'></script>
+
+<script type="text/javascript">
+try{
+	var ____json4fe = {"catentry":[{"dispid":"8512","name":"家政服务","listname":"shenghuo"},{"dispid":"95","name":"保姆/月嫂","listname":"baomu"}],"locallist":[{"dispid":"11279","name":"大丰","listname":"dafeng"}],"start":(new Date()).getTime(),"modules":"list"};
+	____json4fe.version = 'A';
+	____json4fe.modules = 'listpage';
+	____json4fe.sid = '109875091195475012582162291';
+	____json4fe.sessionid = '3cbb0068-cdbd-4eb3-90f7-144853adc23d';
+	____json4fe.smsc = '4a91b73fccd3ff0439b2a19c95609e6a363ecab7ea7eeebf7e25a1536e99afbc9e1f360dcc7608081d8f9c036fec28e33e45d3bda717795c114c20aa43c72d6acbee54d68bdf785d8cc4cae0becb8565c7858a0cf4aaca3b5d3c25daab890be6ef13549e2b3c5ec04ad57c3810b964fd99cd6a0483ff463b971e12ca731502279be7bf9d25cbe3aec04efa80a3543a2110bb0bb469375adad9556ad6beab356e254551a7358f2d0e0db8ff50ddedd3a59d90c518f4181112';
+	____json4fe.newcateid='';
+	____json4fe.keyword='';
+	____json4fe.page='1';
+	____json4fe.param='';
+	}catch(e){};
+	(function(){
+var e = "header,nav,section,aside,article,footer".split(','),
+i=0,
+length=e.length;
+while(i<length){
+    document.createElement(e[i++])
+}
+})();
+	var ajax_param = '{"platform":"pc","paramMap":null,"pageIndex":1,"dispCateId":95,"infoMethod":["renzheng","baojia","wltAge"],"dataParam":"27987856424634_26821064023559_0_commoninfo,29536196837166_41437333832209_0_commoninfo,29594264781365_43284049498134_0_commoninfo,18454648265090_20010881378310_0_commoninfo,29030459238828_42563409819153_0_commoninfo,29569424219978_46479692643859_0_commoninfo,29561560279223_46463995863054_0_commoninfo,29076810441275_45494424231696_0_commoninfo,29441996172589_46224776214803_0_commoninfo,29437104075214_35188100301068_0_commoninfo,29435422123839_30735491298054_0_commoninfo,29386208088907_46090191271696_0_commoninfo,29031556684590_41591790347283_0_commoninfo,29238135596751_42168020342544_0_commoninfo,29229724217409_37859518445072_0_commoninfo,28046170776250_40398598104854_0_commoninfo,29129432719550_45599647208205_0_commoninfo,29128834846139_42635511580430_0_commoninfo,29060938411310_30943834197259_0_commoninfo,29045390497719_41008660538131_0_commoninfo,28952699180234_45246254872086_0_commoninfo,28586846891344_44514395108372_0_commoninfo,28502348948915_39474134141460_0_commoninfo,28431185309231_4301332696583_0_commoninfo,28246634151246_32023969996806_0_commoninfo,28112789574090_40511662740238_0_commoninfo,26754569516844_33454069948422_0_commoninfo,27449352726338_27136083071750_0_promationinfo,21387692951433_11802807680007_0_promationinfo,27987856424634_26821064023559_0_promationinfo,26240872637903_39715797655062_0_promationinfo,21387689070345_11802807680007_0_promationinfo,27449363005105_27136083071750_0_promationinfo,26232474248245_39715797655062_0_promationinfo,27987881804850_26821064023559_0_promationinfo","dispCateName":"baomu"}';
+	var s_ajax_param = 's_contact_baomu_109875091195475012582162291_';
+</script>				<link href='http://c.58cdn.com.cn/ds/v1/base-v1_v0.css' rel="stylesheet" type="text/css">
+	<link href='http://c.58cdn.com.cn/ds/v1/common_list_v20170315183710.css' rel="stylesheet" type="text/css">
+<link href='http://c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20170331140927.css' rel="stylesheet" type="text/css">
+
+
+		<link href='http://c.58cdn.com.cn/ds/v1/list/defaultList_v20170220190119.css' rel="stylesheet" type="text/css">
+	<!-- <link rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv02_v0.css'> -->
+<link type="text/css" rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03_v20160727171301.css'>
+<!-- <link type="text/css" rel="stylesheet" href="http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03.css"> -->
+
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/dialog_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/release_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/retable_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/weixin/hy_freetel_v20161207184444.css">	
+    		</head>
+			<body class="">
+						<!-- =S top bar header -->
+			<div id="commonTopbar" class="commonTopbar">
+<script type="text/javascript">
+    var secId;
+        ____json4fe.catentry[1]? secId = ____json4fe.catentry[1].dispid : secId = ____json4fe.catentry.dispid;
+    var modules = ____json4fe.modules;
+    //搬家列表页(secId == "96" && modules=="listpage")宽度为1190px
+    if(secId == "96" && modules=="listpage"){
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'default' // default: 1190px, narrow: 1000px
+            });
+        };
+    }else{
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'narrow' // default: 1190px, narrow: 1000px
+            });
+        };
+    }    
+</script>
+</div>
+<!-- =S banner  div -->
+<div class="topbannerbar"><div id="brand_list_top_banner" onclick="clickLog('from=pc_list_baomu_top_banner');" ></div></div>
+<!-- =E banner  div--><header id="header">
+    <div class="header-inner">
+    <a class="logo float_l" href="/huangye/" target="_blank" onclick="clickLog('from=pc_list_logo_baomu');">58同城</a>
+            <a href='http://post.58.com/11279/95/s5' target="_blank" onclick="clickLog('from=pc_list_fabu_baomu');" class="postbtn float_r">免费发布</a>
+        		        <div class="header-search float_r">
+         <em class="ico-searchkey"></em>
+         <form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+         	            	<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();">
+                        <span onMouseOut="this.className='sbtn'" onMouseOver="this.className='sbtn hover'" class="sbtn">
+                			<input type="submit" value="搜服务" onclick="clickLog('from=pc_list_search_baomu');" class="but-bl" name="" id="searchbtn1" ></span>
+                		        		<div class="clear"></div>
+        					       		       	  </form>
+       	</div>
+		            	<div class="nav float_l" >
+	<a href="/">大丰58同城</a> &gt; <a href="/shenghuo.shtml">大丰家政服务</a>
+				 &gt; <a href="/baomu/" itemprop="url">大丰保姆/月嫂</a>
+	
+
+</div>
+	</div>
+</header>
+		<!-- =E top bar header -->
+	<!-- =S common_column_label-->
+		<div id="nav">
+    <div class="nav-c">
+      <ul>
+      		<li  class="cur" ><a href="/baomu/" target="_top">大丰保姆/月嫂公司</a></li>
+		      	<li ><a href="/zhaobaomu/" target="_top" onClick="clickLog('from=pc_baomugerenlist');">大丰保姆/月嫂人员</a></li>
+      	 
+                                    </ul>
+    </div>
+</div>
+	<!-- =E common_column_label-->
+	<!-- =S searchTip -->
+			<!-- =E searchTip  -->
+	<!-- =s cmcs -->
+							<section id="selection">
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">类别 ：</dt>
+		<dd id="ObjectType" >
+																    		    		    		    					<a href="/baomu/" class='select' >全部</a>
+								    		    		    		    					<a href="http://dafeng.58.com/yuesao/"  >月嫂</a>
+								    		    		    		    					<a href="http://dafeng.58.com/yuyingshi/"  >育婴师/育儿嫂</a>
+								    		    		    		    					<a href="http://dafeng.58.com/bmu/"  >保姆</a>
+								    		    		    		    					<a href="http://dafeng.58.com/zhongdiangong/"  >钟点工</a>
+								    		    		    		    					<a href="http://dafeng.58.com/cuirushi/"  >催乳师</a>
+								    		    		    		    					<a href="http://dafeng.58.com/yiliaopeihu/"  >陪护</a>
+								    		    		    		    					<a href="http://dafeng.58.com/sewai/"  >涉外家政</a>
+								    		    		    		    					<a href="http://dafeng.58.com/guanjia/"  >管家</a>
+								    		    		    		    					<a href="http://dafeng.58.com/yuezizx/"  >月子中心</a>
+															    					    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">服务区域  ：</dt>
+		<dd id="local" >
+																    		    		    		    					<a href="/baomu/" class='select' >全大丰</a>
+								    		    		    		    					<a href="/caoyan/baomu/"  >草堰</a>
+								    		    		    		    					<a href="/baiju/baomu/"  >白驹</a>
+								    		    		    		    					<a href="/liuzhuang/baomu/"  >刘庄</a>
+								    		    		    		    					<a href="/xituan/baomu/"  >西团</a>
+								    		    		    		    					<a href="/xiaohai/baomu/"  >小海</a>
+								    		    		    		    					<a href="/daqiao/baomu/"  >大桥</a>
+								    		    		    		    					<a href="/nanyangz/baomu/"  >南阳</a>
+								    		    		    		    					<a href="/wanying/baomu/"  >万盈</a>
+								    		    		    		    					<a href="/yuhuaz/baomu/"  >裕华</a>
+								    		    		    		    					<a href="/sanlong/baomu/"  >三龙</a>
+								    		    		    		    					<a href="/fangqiang/baomu/"  >方强</a>
+								    		    		    		    					<a href="/xinfengz/baomu/"  >新丰</a>
+								    		    		    		    					<a href="/dfdazhong/baomu/"  >大中</a>
+								    		    		    		    					<a href="/dafenggang/baomu/"  >大丰港</a>
+								    		    		    		    					<a href="/kaifaquz/baomu/"  >开发区</a>
+								    		    		    		    					<a href="/dafengzb/baomu/"  >大丰周边</a>
+																									    	</dd>
+    </dl>
+	<div id="selected" class="bar"></div>
+	<i class="shadow"></i>
+</section>
+
+			<!-- =E cmcs -->
+		<div id="adtop_1" class="hc"><div class="mouter defa"><div class="inner"><div id="md3" class="mdul"></div><ul id="md1" class="mdul"></ul><ul id="md2" class="mdul"></ul><ul id="md4" class="mdul"></ul><ul id="md5" class="mdul"></ul><div class="clear"></div></div></div></div>
+<div class="tabsbar">
+    <div class="list-tabs">
+												<a href="/baomu/" onclick="clickLog('from=pc_list_baomu_list_tabs');" class="sel"><h1>大丰保姆/月嫂</h1></a>
+											</div>
+	 	    	                	        
+		<span class="zhaobiao baomuSpacing" onclick="clickLog('from=pc_list_huangye_zhaobiao_baomu__textlink_dafeng');">
+		<a  class="baomuyueshao" href="http://zhaobiao.58.com/pc/bid/apply?city=dafeng&cateId=4272&from=pc_zhaobiao_jiazheng_list_wenzi_baomugs"
+		   target="_blank" onclick="clickLog('from=pc_zhaobiao_jiazheng_list_wenzi_baomugs');"><i></i></a>                                                                                                                                                                                                                                  </a>
+	</span>
+		
+		
+	
+				<span class="zhaobiao" >
+			<a href="http://bianmin.58.com/dafeng/?from=pc_list_bianmin_wzl"
+			   target="_blank" >学习办事经验，解决办证难题</a>
+		</span>
+		
+			
+
+
+</div>
+ 				<section id="mainlist" class="main clearfix pr">
+					<div class="filterbar h28">
+    <div class="filterbar-l">
+			<!-- <div class="filterup" id="filterup">
+				 <a class="m1" title="找班级" href="#" rel="nofollow" onclick=""><span>找班级<em></em></span></a>
+				 <a class="m1" title="找拼友" href="#" rel="nofollow" onclick=""><span>找拼友<em></em></span></a>
+			</div>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">全部</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示教育机构</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示个人教师</a></span> -->
+				<div class="filterup" id="filterup">
+			 <a class="m1 sel" title="默认" href="#" rel="nofollow" onclick="g2({sort:null}); clickLog('from=huangye_list_moren_baomu_dafeng&psid=109875091195475012582162291'); "><span>默认排序<em></em></span></a>
+											</div>
+														<span class="checkbox-ico" id="renzheng"><a href="javascript:void(0);" onclick="clickLog('from=List_sort_baomu__zhikanrenzheng');">只看认证</a></span>
+									
+									</div>  
+     <div class="filterbar-md">
+    	    	<!-- 加入医疗健康判断-->
+    	    		    		        		       <a class="mdtj" style="display:inline-block;" rel="nofollow" target="_blank" href="http://e.58.com/shenghuo.html" onClick="clickLog('from=huangye_zhaoshang&psid=109875091195475012582162291');">想提升接单效果，请致电4008107258</a>
+    		        		    	
+				   </div>        
+</div>
+					<div id="infolist" class="cleft" >
+				<!-- =S infolist -->
+									<div id="top_google_ad"></div>
+<table class="small-tbimg" cellspacing="0" cellpadding="0" >
+							<tr logr='j_2_27136083071750_27449352726338_3' infotag="27449352726338_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_baomu_xinxi_promationinfo_tupian&entityId=27449352726338&entityType=0&psid=109875091195475012582162291');">
+		<div>
+			<a href='http://dafeng.58.com/baomu/27449352726338x.shtml?psid=109875091195475012582162291&entinfo=27449352726338_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic5.58cdn.com.cn/p2/tiny/n_v1bj3gzsfuhltvp2sr7bgq.jpg' alt='凡起家政' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://dafeng.58.com/baomu/27449352726338x.shtml?psid=109875091195475012582162291&entinfo=27449352726338_0' target="_blank" class="t" >凡起家政(全国连锁)培训输出月嫂、催乳、小儿推拿…</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='95' -->
+		            				<br />
+									    		培训 就业 服务 2015-2016，短短一年，凡起家政从创...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5841091320727568.5858.com?psid=109875091195475012582162291&entinfo=27449352726338_0" onClick="clickLog('from=List_wangzhan&entityId=27449352726338&entityType=0&psid=109875091195475012582162291');" target='_blank' class='u' rel="nofollow">凡起家政</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27449352726338' wltMark="2" param="27449352726338_27136083071750_0_promationinfo_C7177315486A2A28472E58A8C3C1A204" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27449352726338&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_11802807680007_21387692951433_3' infotag="21387692951433_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_baomu_xinxi_promationinfo_tupian&entityId=21387692951433&entityType=0&psid=109875091195475012582162291');">
+		<div>
+			<a href='http://dafeng.58.com/baomu/21387692951433x.shtml?psid=109875091195475012582162291&entinfo=21387692951433_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic1.58cdn.com.cn/p2/tiny/n_t07fe07303ad578014804f.jpg' alt='清浦区圣婴家政服务中心' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://dafeng.58.com/baomu/21387692951433x.shtml?psid=109875091195475012582162291&entinfo=21387692951433_0' target="_blank" class="t" >高级催乳师培训</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='95' -->
+		            				<br />
+									    		淮安圣婴专业催乳中心（隶属于淮安圣婴家政服务）是经淮安市工商...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5830051626226716.5858.com?psid=109875091195475012582162291&entinfo=21387692951433_0" onClick="clickLog('from=List_wangzhan&entityId=21387692951433&entityType=0&psid=109875091195475012582162291');" target='_blank' class='u' rel="nofollow">清浦区圣婴家政服务中心</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='21387692951433' wltMark="2" param="21387692951433_11802807680007_0_promationinfo_1DEAC7F8EFE521928F14B64844960706" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=21387692951433&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_26821064023559_27987856424634_3' infotag="27987856424634_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_baomu_xinxi_promationinfo_tupian&entityId=27987856424634&entityType=0&psid=109875091195475012582162291');">
+		<div>
+			<a href='http://dafeng.58.com/baomu/27987856424634x.shtml?psid=109875091195475012582162291&entinfo=27987856424634_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic6.58cdn.com.cn/p1/tiny/n_v1bj3gzseepqrfq5guvqhq.jpg' alt='清浦区安吉儿家政服务中心' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://dafeng.58.com/baomu/27987856424634x.shtml?psid=109875091195475012582162291&entinfo=27987856424634_0' target="_blank" class="t" >找月嫂,学月嫂,加盟月嫂 就选安吉儿全国连锁公司</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='95' -->
+		            				<br />
+									    		安吉儿母婴专业提供“月嫂服务,催乳服务,育婴师服务,台湾月子...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5842434334714119.5858.com?psid=109875091195475012582162291&entinfo=27987856424634_0" onClick="clickLog('from=List_wangzhan&entityId=27987856424634&entityType=0&psid=109875091195475012582162291');" target='_blank' class='u' rel="nofollow">清浦区安吉儿家政服务中心</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27987856424634' wltMark="2" param="27987856424634_26821064023559_0_promationinfo_E8AB2022ABD218F2A59DC7D0CF2DF879" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27987856424634&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_39715797655062_26240872637903_3' infotag="26240872637903_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_baomu_xinxi_promationinfo_tupian&entityId=26240872637903&entityType=0&psid=109875091195475012582162291');">
+		<div>
+			<a href='http://dafeng.58.com/baomu/26240872637903x.shtml?psid=109875091195475012582162291&entinfo=26240872637903_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic6.58cdn.com.cn/p2/tiny/n_v1bl2lwwmihjivp3ee7exq.jpg' alt='江苏鸿映喜家政服务有限公司' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://dafeng.58.com/baomu/26240872637903x.shtml?psid=109875091195475012582162291&entinfo=26240872637903_0' target="_blank" class="t" >鸿映喜实力品牌诚招加盟商——投资小、回报快、风险低</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='95' -->
+		            				<br />
+									    		总部荣获江苏省家庭服务业协会——会长单位！！！全国**通过I...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5839717365921551.5858.com?psid=109875091195475012582162291&entinfo=26240872637903_0" onClick="clickLog('from=List_wangzhan&entityId=26240872637903&entityType=0&psid=109875091195475012582162291');" target='_blank' class='u' rel="nofollow">江苏鸿映喜家政服务有限公司</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='26240872637903' wltMark="2" param="26240872637903_39715797655062_0_promationinfo_89DB686E7803FD9949AA089220A933B5" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26240872637903&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_11802807680007_21387689070345_3' infotag="21387689070345_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_baomu_xinxi_promationinfo_tupian&entityId=21387689070345&entityType=0&psid=109875091195475012582162291');">
+		<div>
+			<a href='http://dafeng.58.com/baomu/21387689070345x.shtml?psid=109875091195475012582162291&entinfo=21387689070345_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic4.58cdn.com.cn/p2/tiny/n_t07fba9fb8b6c180147e84.jpg' alt='清浦区圣婴家政服务中心' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://dafeng.58.com/baomu/21387689070345x.shtml?psid=109875091195475012582162291&entinfo=21387689070345_0' target="_blank" class="t" >圣婴高级催乳培训</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='95' -->
+		            				<br />
+									    		淮安圣婴专业催乳中心（隶属于淮安圣婴家政服务）是经淮安市工商...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5830051626226716.5858.com?psid=109875091195475012582162291&entinfo=21387689070345_0" onClick="clickLog('from=List_wangzhan&entityId=21387689070345&entityType=0&psid=109875091195475012582162291');" target='_blank' class='u' rel="nofollow">清浦区圣婴家政服务中心</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='21387689070345' wltMark="2" param="21387689070345_11802807680007_0_promationinfo_1DEAC7F8EFE521928F14B64844960706" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=21387689070345&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_27136083071750_27449363005105_3' infotag="27449363005105_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_baomu_xinxi_promationinfo_tupian&entityId=27449363005105&entityType=0&psid=109875091195475012582162291');">
+		<div>
+			<a href='http://dafeng.58.com/baomu/27449363005105x.shtml?psid=109875091195475012582162291&entinfo=27449363005105_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic6.58cdn.com.cn/p2/tiny/n_v1bl2lwwkwhltvo4pqp4jq.jpg' alt='凡起家政' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://dafeng.58.com/baomu/27449363005105x.shtml?psid=109875091195475012582162291&entinfo=27449363005105_0' target="_blank" class="t" >凡起家政(全国连锁)培训输出月嫂、催乳、小儿推拿…</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='95' -->
+		            				<br />
+									    		培训 就业 服务 2015-2016，短短一年，凡起家政从创...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5841091320727568.5858.com?psid=109875091195475012582162291&entinfo=27449363005105_0" onClick="clickLog('from=List_wangzhan&entityId=27449363005105&entityType=0&psid=109875091195475012582162291');" target='_blank' class='u' rel="nofollow">凡起家政</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27449363005105' wltMark="2" param="27449363005105_27136083071750_0_promationinfo_8D329103AB4D6FCCA2435E49346B3A66" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27449363005105&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_39715797655062_26232474248245_3' infotag="26232474248245_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_baomu_xinxi_promationinfo_tupian&entityId=26232474248245&entityType=0&psid=109875091195475012582162291');">
+		<div>
+			<a href='http://dafeng.58.com/baomu/26232474248245x.shtml?psid=109875091195475012582162291&entinfo=26232474248245_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic6.58cdn.com.cn/p2/tiny/n_v1bl2lwwmihjivp3ee7exq.jpg' alt='江苏鸿映喜家政服务有限公司' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://dafeng.58.com/baomu/26232474248245x.shtml?psid=109875091195475012582162291&entinfo=26232474248245_0' target="_blank" class="t" >鸿映喜实力品牌诚招加盟商——投资小、回报快、风险低</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='95' -->
+		            				<br />
+									    		总部荣获江苏省家庭服务业协会——会长单位！！！全国**通过I...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5839717365921551.5858.com?psid=109875091195475012582162291&entinfo=26232474248245_0" onClick="clickLog('from=List_wangzhan&entityId=26232474248245&entityType=0&psid=109875091195475012582162291');" target='_blank' class='u' rel="nofollow">江苏鸿映喜家政服务有限公司</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='26232474248245' wltMark="2" param="26232474248245_39715797655062_0_promationinfo_89DB686E7803FD9949AA089220A933B5" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26232474248245&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_26821064023559_27987881804850_3' infotag="27987881804850_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_baomu_xinxi_promationinfo_tupian&entityId=27987881804850&entityType=0&psid=109875091195475012582162291');">
+		<div>
+			<a href='http://dafeng.58.com/baomu/27987881804850x.shtml?psid=109875091195475012582162291&entinfo=27987881804850_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic7.58cdn.com.cn/p1/tiny/n_v1bkuyfvkdpurfq6tz7u6a.jpg' alt='清浦区安吉儿家政服务中心' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://dafeng.58.com/baomu/27987881804850x.shtml?psid=109875091195475012582162291&entinfo=27987881804850_0' target="_blank" class="t" >找月嫂,学月嫂,加盟月嫂 就选安吉儿全国连锁公司</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='95' -->
+		            				<br />
+									    		安吉儿母婴专业提供“月嫂服务,催乳服务,育婴师服务,台湾月子...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5842434334714119.5858.com?psid=109875091195475012582162291&entinfo=27987881804850_0" onClick="clickLog('from=List_wangzhan&entityId=27987881804850&entityType=0&psid=109875091195475012582162291');" target='_blank' class='u' rel="nofollow">清浦区安吉儿家政服务中心</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27987881804850' wltMark="2" param="27987881804850_26821064023559_0_promationinfo_E8AB2022ABD218F2A59DC7D0CF2DF879" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27987881804850&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_2_26821064023559_27987856424634_0' infotag="27987856424634_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">孙老师 : </b>
+				<a href='http://dafeng.58.com/baomu/27987856424634x.shtml?psid=109875091195475012582162291&entinfo=27987856424634_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			找月嫂,学月嫂,加盟月嫂 就选安吉儿全国连锁公司
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												安吉儿母婴专业提供“月嫂服务,催乳服务,育婴师服务,台湾月子餐,产后修...
+				(03-31)
+							<p class="seller">
+			<a href="http://t5842434334714119.5858.com?psid=109875091195475012582162291&entinfo=27987856424634_0" onClick="clickLog('from=List_wangzhan&entityId=27987856424634&entityType=0&psid=109875091195475012582162291');" target='_blank' class='u' rel="nofollow">清浦区安吉儿家政服务中心</a>
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27987856424634' wltMark="2" param="27987856424634_26821064023559_0_commoninfo_E8AB2022ABD218F2A59DC7D0CF2DF879" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27987856424634&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_41437333832209_29536196837166_0' infotag="29536196837166_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">高女士 : </b>
+				<a href='http://dafeng.58.com/baomu/29536196837166x.shtml?psid=109875091195475012582162291&entinfo=29536196837166_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			找个烧晚饭的阿姨
+		</a>
+						<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												找个钟点工，帮忙做做家务，烧顿晚饭，时间:下午三点到七点
+				(23小时)
+							<p class="seller">
+					V***9
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29536196837166' wltMark="0" param="29536196837166_41437333832209_0_commoninfo_E46FDAF1621D7876D01B84369BD1798B"  data-j4fe="13905113032,高女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29536196837166&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_43284049498134_29594264781365_0' infotag="29594264781365_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王女士 : </b>
+				<a href='http://dafeng.58.com/baomu/29594264781365x.shtml?psid=109875091195475012582162291&entinfo=29594264781365_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			寻找会做饭 有责任心的保姆！
+		</a>
+						<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												住家保姆、会做饭、会打扫、有责任心、3000/月 ！
+				(04-03)
+							<p class="seller">
+					f***m
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29594264781365' wltMark="0" param="29594264781365_43284049498134_0_commoninfo_73AB9E2167D3885F213D781A91AE9C42"  data-j4fe="15861950455,王女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29594264781365&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_20010881378310_18454648265090_0' infotag="18454648265090_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">孙煜琼 : </b>
+				<a href='http://dafeng.58.com/baomu/18454648265090x.shtml?psid=109875091195475012582162291&entinfo=18454648265090_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			大丰好苏嫂家政服务公司给您较帖心的服务
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												大丰市好苏嫂家政服务中心，长期为您提供月嫂、育儿嫂、住家保姆、早出晚归...
+				(04-02)
+							<p class="seller">
+					大丰好苏嫂家政服务公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='18454648265090' wltMark="0" param="18454648265090_20010881378310_0_commoninfo_523144577C21E40DD1E2A993711C51DB"  data-j4fe="0515-83688440,孙煜琼" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=18454648265090&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_42563409819153_29030459238828_0' infotag="29030459238828_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">智通华 : </b>
+				<a href='http://dafeng.58.com/baomu/29030459238828x.shtml?psid=109875091195475012582162291&entinfo=29030459238828_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			找住家照顾瘫痪老人
+		</a>
+						<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												母亲由于车祸瘫痪在床，现父亲照顾，现急需要找一位住家的阿姨帮忙照顾。
+				(04-02)
+							<p class="seller">
+					u***4
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29030459238828' wltMark="0" param="29030459238828_42563409819153_0_commoninfo_EE0CF9B1DD26FE758133106379ED76DA"  data-j4fe="13962092066,智通华" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29030459238828&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_46479692643859_29569424219978_0' infotag="29569424219978_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刘女士 : </b>
+				<a href='http://dafeng.58.com/baomu/29569424219978x.shtml?psid=109875091195475012582162291&entinfo=29569424219978_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			我想找个家政工作
+		</a>
+						<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												会做各种家务 为人诚恳实在
+				(04-01)
+							<p class="seller">
+					c***3
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29569424219978' wltMark="0" param="29569424219978_46479692643859_0_commoninfo_F12980C6A4514A59D0AE7A86F3E3436D"  data-j4fe="18261206932,刘女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29569424219978&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_46463995863054_29561560279223_0' infotag="29561560279223_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">袁先生 : </b>
+				<a href='http://dafeng.58.com/baomu/29561560279223x.shtml?psid=109875091195475012582162291&entinfo=29561560279223_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			寻烧饭打扫卫生的保姆
+		</a>
+						<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												要求烧饭好吃，会烧饭，做事细心，会收拾打扫
+				(03-31)
+							<p class="seller">
+					m***1
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29561560279223' wltMark="0" param="29561560279223_46463995863054_0_commoninfo_4B5FDF225427426E2B8A76DDFDC5847C"  data-j4fe="18361608752,袁先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29561560279223&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_45494424231696_29076810441275_0' infotag="29076810441275_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">单燕 : </b>
+				<a href='http://dafeng.58.com/baomu/29076810441275x.shtml?psid=109875091195475012582162291&entinfo=29076810441275_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			找保姆，急急急急急！！！！
+		</a>
+						<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												主要負責燒午飯，打掃卫生，时间是早上八点到晚上五点
+				(03-24)
+							<p class="seller">
+					k***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29076810441275' wltMark="0" param="29076810441275_45494424231696_0_commoninfo_44C0657A27193DE91E869CBB50C48A43"  data-j4fe="18068851378,单燕" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29076810441275&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_46224776214803_29441996172589_0' infotag="29441996172589_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">周长珍 : </b>
+				<a href='http://dafeng.58.com/baomu/29441996172589x.shtml?psid=109875091195475012582162291&entinfo=29441996172589_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			本人想在市区应聘一份月嫂工作
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												本人今年43岁，能吃苦耐劳，身体健康，想在本市区找份月嫂工作，本人有月...
+				(03-20)
+							<p class="seller">
+					4***d
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29441996172589' wltMark="0" param="29441996172589_46224776214803_0_commoninfo_C4CE95CA14B669FD05824482E840375C"  data-j4fe="13645102617,周长珍" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29441996172589&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_35188100301068_29437104075214_0' infotag="29437104075214_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">杨小姐 : </b>
+				<a href='http://dafeng.58.com/baomu/29437104075214x.shtml?psid=109875091195475012582162291&entinfo=29437104075214_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			本人想做保姆
+		</a>
+						<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												我有一套家务活，诚信给老板做事，我贤惠，脾气好，特色做饭。
+				(03-20)
+							<p class="seller">
+					1***n
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29437104075214' wltMark="0" param="29437104075214_35188100301068_0_commoninfo_9D4F3D589CCD58AF2ABF66E7E8B27D88"  data-j4fe="18051692096,杨小姐" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29437104075214&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_30735491298054_29435422123839_0' infotag="29435422123839_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">曹小姐 : </b>
+				<a href='http://dafeng.58.com/baomu/29435422123839x.shtml?psid=109875091195475012582162291&entinfo=29435422123839_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			需要住一个月的阿姨
+		</a>
+						<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												我是做一个月的月子，家人无人陪护，主要是照顾7岁小孩帮小孩洗澡上下学，...
+				(03-20)
+							<p class="seller">
+					快***0
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29435422123839' wltMark="0" param="29435422123839_30735491298054_0_commoninfo_29DB4608F1FAD0F463FC1BEDF97F0A49"  data-j4fe="18261200950,曹小姐" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29435422123839&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_46090191271696_29386208088907_0' infotag="29386208088907_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">韦女士 : </b>
+				<a href='http://dafeng.58.com/baomu/29386208088907x.shtml?psid=109875091195475012582162291&entinfo=29386208088907_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			保证您有一个完美的月子
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												本人拥有多年带孩子经验。对月子中的您及小宝贝的护养有十足的经验，保证您...
+				(03-15)
+							<p class="seller">
+					t***9
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29386208088907' wltMark="0" param="29386208088907_46090191271696_0_commoninfo_C0DD70C3F1E5AAF352C4CB680E7D717A"  data-j4fe="18796525369,韦女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29386208088907&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_41591790347283_29031556684590_0' infotag="29031556684590_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">陈女士 : </b>
+				<a href='http://dafeng.58.com/baomu/29031556684590x.shtml?psid=109875091195475012582162291&entinfo=29031556684590_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			专业母乳喂养指导
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												科学开奶，无奶，少奶，涨奶，乳头扁平凹陷的护理，乳腺炎治疗不影响哺乳，...
+				(03-07)
+							<p class="seller">
+					y***j
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29031556684590' wltMark="0" param="29031556684590_41591790347283_0_commoninfo_7E04A745A38F851A0DB405984AD3D009"  data-j4fe="15061603699,陈女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29031556684590&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_42168020342544_29238135596751_0' infotag="29238135596751_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">叶小姐 : </b>
+				<a href='http://dafeng.58.com/baomu/29238135596751x.shtml?psid=109875091195475012582162291&entinfo=29238135596751_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			找帮忙带孩子的阿姨
+		</a>
+						<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												找个阿姨帮忙带孩子，会做饭菜给孩子吃，家里基本没有家务，主要跟家人一起...
+				(03-02)
+							<p class="seller">
+					v***9
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29238135596751' wltMark="0" param="29238135596751_42168020342544_0_commoninfo_A481826C1CEA663677767373622523B6"  data-j4fe="18361610255,叶小姐" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29238135596751&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37859518445072_29229724217409_0' infotag="29229724217409_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">朱经理 : </b>
+				<a href='http://dafeng.58.com/baomu/29229724217409x.shtml?psid=109875091195475012582162291&entinfo=29229724217409_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			月贝佳母婴护理给您较贴心的呵护
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												我们秉承“专业、健康、用心服务”的宗旨，全力保障宝宝、新妈妈的身体及身...
+				(03-01)
+							<p class="seller">
+					大丰区金月贝佳母婴护理服务部
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29229724217409' wltMark="0" param="29229724217409_37859518445072_0_commoninfo_E9D11DB45690B4342DE6ACA2C4F50E20"  data-j4fe="18962071763,朱经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29229724217409&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_40398598104854_28046170776250_0' infotag="28046170776250_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刘慧 : </b>
+				<a href='http://dafeng.58.com/baomu/28046170776250x.shtml?psid=109875091195475012582162291&entinfo=28046170776250_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			主要做推拿按摩，足疗，骨骼保养
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												收费标准:全身按摩80元一个小时，精油开穴推背45分钟100元，足疗4...
+				(03-01)
+							<p class="seller">
+					q***7
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28046170776250' wltMark="0" param="28046170776250_40398598104854_0_commoninfo_71141770B2413345DE0D77D3F804307A"  data-j4fe="13651589352,刘慧" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28046170776250&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_45599647208205_29129432719550_0' infotag="29129432719550_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王小姐 : </b>
+				<a href='http://dafeng.58.com/baomu/29129432719550x.shtml?psid=109875091195475012582162291&entinfo=29129432719550_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			急急急我自己带宝宝找人做饭做家务
+		</a>
+						<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												工资面谈，家里不大，家务强度不大
+				(02-20)
+							<p class="seller">
+					s***t
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29129432719550' wltMark="0" param="29129432719550_45599647208205_0_commoninfo_F0A63EAC6BF67139888324DB2F648F9B"  data-j4fe="15380765359,王小姐" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29129432719550&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_42635511580430_29128834846139_0' infotag="29128834846139_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">陶女士 : </b>
+				<a href='http://dafeng.58.com/baomu/29128834846139x.shtml?psid=109875091195475012582162291&entinfo=29128834846139_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			找一位接宝宝放学的阿姨。
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												想找一位专门接宝宝放学的阿姨，每天下午4点～7点帮忙接下宝宝放学，7点...
+				(02-20)
+							<p class="seller">
+					f***h
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29128834846139' wltMark="0" param="29128834846139_42635511580430_0_commoninfo_792D2F20C5B757162381F37D57FBDD30"  data-j4fe="18261216667,陶女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29128834846139&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_30943834197259_29060938411310_0' infotag="29060938411310_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">陈女士 : </b>
+				<a href='http://dafeng.58.com/baomu/29060938411310x.shtml?psid=109875091195475012582162291&entinfo=29060938411310_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			应聘钟点工钟点工
+		</a>
+						<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												只有上午中午打扫做饭
+				(02-14)
+							<p class="seller">
+					陈***0
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29060938411310' wltMark="0" param="29060938411310_30943834197259_0_commoninfo_17A5E3A8C2BD5B3DE714370940CC1A6E"  data-j4fe="13815561610,陈女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29060938411310&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_41008660538131_29045390497719_0' infotag="29045390497719_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刘国权 : </b>
+				<a href='http://dafeng.58.com/baomu/29045390497719x.shtml?psid=109875091195475012582162291&entinfo=29045390497719_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			陪散步陪聊天打扫卫生做饭
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												冬天上午8点至5点，春夏秋7点至5点，陪老人散步注意安全，跟据天气注意...
+				(02-12)
+							<p class="seller">
+					私人
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29045390497719' wltMark="0" param="29045390497719_41008660538131_0_commoninfo_01F1356B2C745D2B698B6F4C83002108"  data-j4fe="15895167280,刘国权" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29045390497719&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_45246254872086_28952699180234_0' infotag="28952699180234_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">沈女士 : </b>
+				<a href='http://dafeng.58.com/baomu/28952699180234x.shtml?psid=109875091195475012582162291&entinfo=28952699180234_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			照顾瘫痪在床的老人
+		</a>
+						<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												老人瘫痪在床寻一位阿姨帮忙照顾老人的生活，能吃苦的 善待老人的可以
+				(02-04)
+							<p class="seller">
+					b***z
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28952699180234' wltMark="0" param="28952699180234_45246254872086_0_commoninfo_32D9420F69F5E3B82422B46163D06A91"  data-j4fe="15061187575,沈女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28952699180234&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_44514395108372_28586846891344_0' infotag="28586846891344_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小蒋 : </b>
+				<a href='http://dafeng.58.com/baomu/28586846891344x.shtml?psid=109875091195475012582162291&entinfo=28586846891344_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			需要值夜班的钟点工
+		</a>
+						<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												家居老人，需要人值夜班，待遇丰厚！ 要求：大丰市区或周边，身体健康！
+				(01-02)
+							<p class="seller">
+					i***s
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28586846891344' wltMark="0" param="28586846891344_44514395108372_0_commoninfo_88E8254401E83DCC78805D95DD4C5907"  data-j4fe="13390705516,小蒋" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28586846891344&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39474134141460_28502348948915_0' infotag="28502348948915_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">晓风 : </b>
+				<a href='http://dafeng.58.com/baomu/28502348948915x.shtml?psid=109875091195475012582162291&entinfo=28502348948915_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			节假日需要陪护的联系我
+		</a>
+						<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												本人29岁，工作时间自由，临近年底，如因公司加班无法照顾家中小孩、辅导...
+				(12-29)
+							<p class="seller">
+					o***8
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28502348948915' wltMark="0" param="28502348948915_39474134141460_0_commoninfo_33A4D4FDE9B58D29A31D59C8AA126675"  data-j4fe="15862052972,晓风" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28502348948915&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_4301332696583_28431185309231_0' infotag="28431185309231_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">咸女士 : </b>
+				<a href='http://dafeng.58.com/baomu/28431185309231x.shtml?psid=109875091195475012582162291&entinfo=28431185309231_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			宝宝82天找个阿姨一起带宝贝
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												宝宝82天找个阿姨一起带宝贝
+				(12-19)
+							<p class="seller">
+					r***9
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28431185309231' wltMark="0" param="28431185309231_4301332696583_0_commoninfo_79F828B4310BED78ED13F54FEE80BE43"  data-j4fe="13182119815,咸女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28431185309231&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_32023969996806_28246634151246_0' infotag="28246634151246_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">朱先生 : </b>
+				<a href='http://dafeng.58.com/baomu/28246634151246x.shtml?psid=109875091195475012582162291&entinfo=28246634151246_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			需要会带小孩的阿姨
+		</a>
+						<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												找一保姆阿姨，烧饭洗衣服，帮忙带带小孩
+				(12-02)
+							<p class="seller">
+					背***溜
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28246634151246' wltMark="0" param="28246634151246_32023969996806_0_commoninfo_9335A1C67354473521D8CC65ED79B5BC"  data-j4fe="13962092788,朱先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28246634151246&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_40511662740238_28112789574090_0' infotag="28112789574090_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">徐女士 : </b>
+				<a href='http://dafeng.58.com/baomu/28112789574090x.shtml?psid=109875091195475012582162291&entinfo=28112789574090_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			找个住家阿姨帮忙带娃
+		</a>
+						<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												找个住家的阿姨帮忙带宝宝，要有责任心耐心，要细心干净。
+				(11-20)
+							<p class="seller">
+					1***b
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28112789574090' wltMark="0" param="28112789574090_40511662740238_0_commoninfo_E1A2A54718DE115B75516B5773956A52"  data-j4fe="13645100790,徐女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28112789574090&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_33454069948422_26754569516844_0' infotag="26754569516844_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李女士 : </b>
+				<a href='http://dafeng.58.com/baomu/26754569516844x.shtml?psid=109875091195475012582162291&entinfo=26754569516844_0' onclick="clickLog('from=pc_list_baomu_xinxi_commoninfo_dafeng');" target="_blank" class="t" >
+			想找个钟点工做
+		</a>
+						<!-- cxsjstate='false',dispCateID='95' -->
+		    	        		<br />
+												本人做事干净，动作快 想找保月打扫的事做做
+				(11-17)
+							<p class="seller">
+					u***1
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26754569516844' wltMark="0" param="26754569516844_33454069948422_0_commoninfo_0293CFFCCC522F4A3927C5ED473E3874"  data-j4fe="15961956816,李女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26754569516844&entityType=0&psid=109875091195475012582162291")'>免费预约</a></span>
+		</div>
+	
+</td></tr>	</table>								<!-- =E infolist -->
+					<div id="gjwb_bottom_jz_ad"></div>
+	<div id="bottom_google_ad"></div>
+<div class="pager" >
+	 <strong><span>1</span></strong><a href="/baomu/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>2</span></a><a href="/baomu/pn3/" onClick="clickLog('from=huangye_list_fanye_3');"><span>3</span></a><a href="/baomu/pn4/" onClick="clickLog('from=huangye_list_fanye_4');"><span>4</span></a><a class="next" href="/baomu/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>下一页</span></a>
+</div>
+<div id="infocont">
+	<!--当是健康答疑时，链接变为提问-->
+										<a target="_blank" rel="nofollow" href="http://post.58.com/11279/95/s5" onclick="clickLog('pc_list_baomu_bottom_fabu');" >马上发布一条保姆/月嫂信息&raquo;</a>
+						</div>
+<!--医疗健康判断-->
+		<div id="direct_ad_bottom" onclick="clickLog('from=pc_list_baomu_bottom_zhineng1');"  ></div>
+	<div id="bottom_zhaoshangjiameng_ad" onclick="clickLog('from=pc_list_baomu_bottom_tuiguang2');"  ></div>
+
+			</div>
+			<div id="rightframe" class="cright">
+		<div style="margin-bottom:10px">
+		<a href='http://c.58cdn.com.cn/ui7/help/pf_xx_v1.html' target="_blank">
+			<img src="http://img.58cdn.com.cn/ds/other/bannerz_03.png">
+		</a>
+	</div>
+
+
+			<div class="tuijian" id="ylad" style="display:none"></div>
+						<div id="bianminRukou">
+				
+			</div>
+											<div class="brand_md_tit"><h3><i class="brand_md_tit_i1"></i>名店推荐<i class="brand_md_tit_i2"></i></h3></div>
+	<div id="brand_md"><div id="ad19"  style="display:none"></div></div>
+	<script>
+		$("#brand_md").bind("bindBrandEvent",function(){ 
+            if($('.brand_md200').length > 0){
+				$('.brand_md_tit').show();
+			}
+        }); 
+	</script>
+	</div>	    </section>
+		<div id="wangmeng_list_bottom_ditong" onclick="clickLog('from=pc_list_baomu_bottom_tuiguang3');"   ></div><section id="links">
+<i class="linksTopline"></i>
+	<!-- =S friendtips -->
+	<dl id="friendtips" class="linksItem friendtips"><dt class="b-left">大丰保姆/月嫂介绍：</dt>
+<dd class="b-right">58同城大丰保姆/月嫂频道是大丰最大的保姆/月嫂信息免费发布查询平台，免费提供月嫂、保姆、钟点工、医疗陪护、管家等多种类别的大丰保姆/月嫂相关信息，感谢您选择<a href=http://www.58.com/hyzt/baomu/ target=_blank>保姆/月嫂</a>信息平台。有疑问请<a href=http://about.58.com/v5/ target=_blank rel=nofollow>与客服对话</a>-<a href=http://m.58.com/dafeng/baomu/ target=_blank>大丰家政公司</a>触屏版,<a href=http://m.58.com/hyzt/baomu/ target=_blank>大丰家政服务</a>极速版。</dd>
+</dl>
+	<!-- =E friendtips -->
+	<!-- =S relate  -->
+			<dl class="linksItem relate" id="relate">
+	<dt class="b-left">大丰保姆/月嫂相关信息：</dt>
+	<dd class="b-right">
+		<ul class="b-ul">
+						    			        <li><a href="/baomu/jh_%E5%AE%B6%E6%94%BF%E5%9F%B9%E8%AE%AD/">家政培训</a></li>
+			    		    			    			        <li><a href="/baomu/jh_%E5%AE%B6%E6%94%BF%E6%9C%8D%E5%8A%A1%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/">家政服务有限公司</a></li>
+			    		    			    			        <li><a href="/baomu/jh_%E6%9C%88%E5%AB%82%E5%AE%B6%E6%94%BF/">月嫂家政</a></li>
+			    		    			    			        <li><a href="/baomu/jh_%E9%AB%98%E7%BA%A7%E5%AE%B6%E6%94%BF%E6%9C%8D%E5%8A%A1/">高级家政服务</a></li>
+			    		    			    			        <li><a href="/baomu/jh_%E5%AE%B6%E6%94%BF%E4%B8%AD%E5%BF%83/">家政中心</a></li>
+			    		    			    			        <li><a href="/baomu/jh_%E5%AE%B6%E6%94%BF%E4%BF%9D%E6%B4%81/">家政保洁</a></li>
+			    		    			    			        <li><a href="/baomu/jh_%E5%AE%B6%E6%94%BF%E9%92%9F%E7%82%B9%E5%B7%A5/">家政钟点工</a></li>
+			    		    			    			        <li><a href="/baomu/jh_%E9%98%B3%E5%85%89%E5%AE%B6%E6%94%BF/">阳光家政</a></li>
+			    		    			    			        <li><a href="/baomu/jh_%E5%AE%B6%E6%94%BF%E6%9C%8D%E5%8A%A1%E5%91%98/">家政服务员</a></li>
+			    		    			     			        			        				    <li><a href='/baomu/daohang_大丰保姆月嫂/' target="_blank">更多>></a></li>
+			    		    		</ul>
+	</dd>
+</dl>
+		<!-- =E relate -->
+	<!-- =S relatelink allshangquan-->
+		 	<!-- =E relatelink -->
+	<!-- =S bottomlink-->
+	            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+				保姆/月嫂- 相关类别：
+			</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://www.58.com/hyzt/banjia/'>搬家公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zhongdiangong/'>钟点工</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/baomu/'>家政公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/baojie/'>保洁公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/weixiu/'>电脑维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/dianqi/'>家电维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shoujiweixiu/'>手机维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/fangweixiu/'>房屋维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/songshui/'>跑腿配送</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/kaisuo/'>开锁公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiajuweixiu/'>家具维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/lipinxianhua/'>鲜花速递</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/yuesao/'>找月嫂</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shutong/'>管道疏通</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zhuangxiujc/'>装修建材</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiaoyu/'>教育培训</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/hunjiehunqing/'>婚庆摄影</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/qichefw/'>汽车服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shop/'>批发采购</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shenghuo/'>家政服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shangwu/'>商务服务</a></li>
+        		        		<li><a href='http://www.58.com/ppb58weixiu2/'>品牌家电维修大全</a></li>
+        		        		<li><a href='http://www.58.com/ppbhyzt1/'>黄页大全</a></li>
+        		        		<li><a href='http://www.58.com/pprmap5/'>家政地图</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+		<!-- =E bottomlink -->
+	<!-- =S hotcity-->
+	        <dl class="linksItem hotcity" id="hotcity">
+    	<dt class="b-left">大丰保姆/月嫂周边城市：</dt>
+    	<dd class="b-right">
+    		<ul class="b-ul">
+    			    			<li><a href="http://nj.58.com/baomu/">南京保姆/月嫂</a></li>
+    			    			<li><a href="http://wx.58.com/baomu/">无锡保姆/月嫂</a></li>
+    			    			<li><a href="http://xz.58.com/baomu/">徐州保姆/月嫂</a></li>
+    			    			<li><a href="http://su.58.com/baomu/">苏州保姆/月嫂</a></li>
+    			    			<li><a href="http://yz.58.com/baomu/">扬州保姆/月嫂</a></li>
+    			    			<li><a href="http://cz.58.com/baomu/">常州保姆/月嫂</a></li>
+    			    			<li><a href="http://nt.58.com/baomu/">南通保姆/月嫂</a></li>
+    			    			<li><a href="http://lyg.58.com/baomu/">连云港保姆/月嫂</a></li>
+    			    			<li><a href="http://ha.58.com/baomu/">淮安保姆/月嫂</a></li>
+    			    			<li><a href="http://yancheng.58.com/baomu/">盐城保姆/月嫂</a></li>
+    			    		</ul>
+    	</dd>
+    </dl>
+	<!-- =S hotcity -->
+            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+					保姆/月嫂- 热门城市：
+					</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://bj.58.com/baomu/'>北京家政公司</a></li>
+        		        		<li><a href='http://sh.58.com/baomu/'>上海家政公司</a></li>
+        		        		<li><a href='http://gz.58.com/baomu/'>广州家政公司</a></li>
+        		        		<li><a href='http://sz.58.com/baomu/'>深圳家政公司</a></li>
+        		        		<li><a href='http://tj.58.com/baomu/'>天津家政公司</a></li>
+        		        		<li><a href='http://hz.58.com/baomu/'>杭州家政公司</a></li>
+        		        		<li><a href='http://wh.58.com/baomu/'>武汉家政公司</a></li>
+        		        		<li><a href='http://xa.58.com/baomu/'>西安家政公司</a></li>
+        		        		<li><a href='http://cd.58.com/baomu/'>成都家政公司</a></li>
+        		        		<li><a href='http://zz.58.com/baomu/'>郑州家政公司</a></li>
+        		        		<li><a href='http://cs.58.com/baomu/'>长沙家政公司</a></li>
+        		        		<li><a href='http://nj.58.com/baomu/'>南京家政公司</a></li>
+        		        		<li><a href='http://hrb.58.com/baomu/'>哈尔滨家政公司</a></li>
+        		        		<li><a href='http://sy.58.com/baomu/'>沈阳家政公司</a></li>
+        		        		<li><a href='http://su.58.com/baomu/'>苏州家政公司</a></li>
+        		        		<li><a href='http://sjz.58.com/baomu/'>石家庄家政公司</a></li>
+        		        		<li><a href='http://dl.58.com/baomu/'>大连家政公司</a></li>
+        		        		<li><a href='http://qd.58.com/baomu/'>青岛家政公司</a></li>
+        		        		<li><a href='http://jn.58.com/baomu/'>济南家政公司</a></li>
+        		        		<li><a href='http://cq.58.com/baomu/'>重庆家政公司</a></li>
+        		        		<li><a href='http://yb.58.com/baomu/'>宜宾家政公司</a></li>
+        		        		<li><a href='http://fx.58.com/baomu/'>阜新家政公司</a></li>
+        		        		<li><a href='http://cy.58.com/baomu/'>朝阳家政公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/baomu/'>家政公司</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+	<!-- =E hotcity --> 	<!-- =E hotcity -->
+	<!-- =S friendlink-->
+			<dl id="friendlink" class="linksItem friendlink">
+<dt class="b-left"> 友情链接：</dt>
+<dd class="b-right"><a href='http://qiche.mipang.com/dafeng-qichezhan.html' target='_blank'>大丰汽车站</a>&nbsp;<a href='http://www.58.com/ppbmapjiazhneg/' target='_blank'>全国口碑家政大全</a>&nbsp;<a href='http://m.58.com/changge/bmu/' target='_blank'>长葛保姆</a>&nbsp;<a href='http://e.58.com/' target='_blank'>58同城推广</a>&nbsp;<a href='http://www.58.com/pprankbdtakq/' target='_blank'>北京移民中介排行榜</a>&nbsp;  <a href="/link.html" target="_blank">更多...</a></dd>
+</dl>
+		<!-- =E friendlink -->
+</section>
+	<footer id="footer" class="footer">
+	    <div id="upWrap"> <a target="_blank" href="http://about.58.com/help.html" rel="nofollow">常见问题</a><span>|</span> <a target="_blank" href="http://about.58.com/" rel="nofollow">帮助中心</a><span>|</span> <a target="_blank" href="http://about.58.com/feedback.html" rel="nofollow">意见反馈</a><span>|</span> <a target="_blank" href="http://about.58.com/home/" rel="nofollow">了解58同城</a><span>|</span> <a target="_blank" href="http://about.58.com/hr/" rel="nofollow">加入58同城</a><span>|</span> <a target="_blank" href="http://fanqizha.58.com/" rel="nofollow">反欺诈联盟</a><span>|</span> <a target="_blank" href="http://110.58.com" rel="nofollow">报案平台</a><span>|</span> <a target="_blank" href="http://e.58.com" rel="nofollow">推广服务</a><span>|</span> <a target="_blank" href="http://biz.58.com" rel="nofollow">渠道招商</a><span>|</span> <a target="_blank" href="http://baozhang.58.com" rel="nofollow">先行赔付</a><span>|</span> <a target="_blank" href="http://ir.58.com?PGTID=0d100000-0000-13da-8041-51f9a3a739fa&amp;ClickID=2" rel="nofollow">Investor Relations</a> </div>
+	    <div id="downWrap"> <em>2005-2016 58.com版权所有</em><span>|</span> <em>京公网备案信息110105000809</em><span>|</span> <a target="_blank" href="http://www.miibeian.gov.cn/" rel="nofollow">京ICP证060405</a><span>|</span><em>乙测资字11018014</em><span>|</span> <a target="_blank" href="http://ir.58.com" rel="nofollow">Investor Relations</a><span>|</span><em>违法信息举报：4008135858&nbsp;&nbsp;jubao@58ganji.com</em> </div>
+	    <div class="fotBtmIcon">
+	        <a target="_blank" id="fotBm_1" href="http://fanqizha.58.com"></a>
+	        <a target="_blank" id="fotBm_2" href="http://www.12377.cn/"></a>
+	        <a target="_blank" id="fotBm_3" href="http://www.12377.cn/node_548446.htm"></a>
+	        <a target="_blank" id="fotBm_4" href="https://credit.szfw.org/CX20120918001650001720.html"></a>
+	        <a target="_blank" id="fotBm_5" href="http://img.58cdn.com.cn/ui6/index/qyxinyong.jpg?v=3"></a>
+	        <a target="_blank" id="fotBm_6" href="http://about.58.com/fqz/index.html"></a>
+	    </div>
+	</footer>
+<script>
+	var currentDate = new Date();
+</script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfc_v20160418145051.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfcInit_v20161121150119.js'></script>
+<script>
+	var jingzhun_ads = [];
+	var jingzhun_ads_param = "";
+</script>
+
+				<script type="text/javascript" src='http://j1.58cdn.com.cn/js/5_1/comm_js/boot_listpage_version_v20170329165708.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript">
+document.domain = '58.com';
+var win = new GetToolTipWindow('tooltipdiv', 'keyword', '3','11279','', true);win.setSearchButton('searchbtn');
+var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','11279','');win1.setSearchButton('searchbtn1');
+var win2 = new GetToolTipWindow('tooltipdiv2', 'mudidi', '7', '11279', '');win2.setSearchButton('searchbtn1');
+boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'dafeng');});
+</script>
+
+<script type="text/javascript" >
+// JavaScript Document
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	toggle(".p-help");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".small-tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+
+$("#shangmenfw a").each(function(){
+	if("到店服务"== $(this).text().trim()){
+		$(this).remove();
+	}
+});
+
+BAIDU_CLB_fillSlot("567863");
+
+var alldt = $("#relateSelect>dt");
+function showNear(dt){
+    alldt.each(function(){
+        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+        else {$(this).next("dd").hide();$(this).removeClass("select");}
+    });
+}
+alldt.each(function(){
+    $(this).click(function(){showNear(this);}).hover(function(){showNear(this);});
+});
+
+showNear(alldt[0]);
+
+  
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+$(".selector").each(function(){
+	$(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+});
+
+</script>
+
+<div style="display:none;">
+<script type="text/javascript">
+ var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3bb04d7a4ca3846dcc66a99c3e861511' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+</div>
+
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+
+
+			<script type="text/javascript" src='http://j1.58cdn.com.cn/js/v8/boot/boot_huangye_v20170329172410.js'>
+		</script>
+		<script>
+			require(['_pkg/huangye/huangye_shenghuo_list_dom'],function(){});
+		</script>
+	
+<script src="http://track.58.com/adsys/ggafs?rand=20170405"></script>
+<script>
+//统计埋点
+$(function(){
+	$('dl.secitem').each(function(){
+	    var idname = $(this).find("dd").eq(0).attr('id');
+		$(this).find('a').not('span a').each(function(){
+			$(this).click(function(){
+				clickLog('from=pc_list_baomu_shaixuan_'+idname+ '_dafeng');
+		    });		
+		});	
+    });	
+})
+</script>
+<script type="text/javascript">
+    $("#more_ObjectType").click(function(){
+    	console.log("ok");
+    	var showmoreBrand = document.getElementById("moreBrandct"),moreBrandbtn = document.getElementById("moreBrandbtn");
+	    showmoreBrand.style.display = (showmoreBrand.style.display=="block")?"none":"block";
+	    moreBrandbtn.className = (moreBrandbtn.className=="moreBrand")?"moreBrand hold":"moreBrand";
+    });
+    var pemorealldt = $("#moreBrandct dt");
+	function showpemorecon(dt){
+		pemorealldt.each(function(){
+		    if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+            else {$(this).next("dd").hide();$(this).removeClass("select");}
+        });
+    }
+    pemorealldt.each(function(){
+		$(this).click(function(){showpemorecon(this);}).hover(function(){showpemorecon(this);});
+    });
+    showpemorecon(pemorealldt[0]);
+</script>
+		<script type="text/javascript">
+function cpcget(url){
+	$.ajax({
+		url:url,
+		type:"get",
+		dataType:"jsonp",
+		success:function(data){
+		
+        }
+    });	
+}
+</script>					<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e15962162366a86a6229038443847be7";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div style="display:none">
+	<!--基本统计代码begin(8512,0)--by:zhanghao06-->
+<script type="text/javascript">
+____json4fe.supplycount = {sortid:'26754569516844'};
+var _gaq = _gaq || [],site_name = "58",post_count = "127",shop_count= "",page_type = "list";
+var _trackURL = "{'cate':'8512,95','area':'11279','pagetype':'list','GA_pageview':'/dafeng/shenghuo/baomu/listversion/','version':'A','pagesize':'35','pagenum':'1','level1':'','level2':'','level3':'','level4':'','level5':'','level6':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/dafeng/shenghuo/baomu/listversion/']);
+
+$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+<!--基本统计代码end-->
+</div>
+<script src="http://wechat.58.com/google-analytics"></script> 				<!-- 抢单神器下线-->
+				<!-- 抢单神器下线-->
+		<!-- 装修搜索弹窗  S -->
+				<!-- 招标弹框start -->
+<link rel="stylesheet" href='http://c.58cdn.com.cn/ds/zhaobiao/pc_search_win/list_win_zb_v20161010135135.css' />
+<script src="http://j1.58cdn.com.cn/ds/zhaobiao/v1/js/fastpost/jquery.md5.js"></script>
+<script>
+ var cityid=11279;
+</script>
+
+        <!-- 招标弹框end -->
+
+
+				<!-- 装修搜索弹窗  E -->
+		<!-- 前置登陆  s -->
+				<!-- 前置登陆  e -->
+	</body>
+</html>

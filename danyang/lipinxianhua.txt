@@ -1,0 +1,1484 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+												<!--  当前的类别归属ID--> 
+		<!--  当前的类别表现ID--> 
+		<!--  当前的类别listname (eg:banjia)--> 
+		<!--  当前的类别catename (eg:搬家)--> 
+		<!--  一级类别归属ID--> 
+		<!--  一级类别表现ID--> 
+		<!--  一级类别listname eg:jiazheng--> 
+		<!--  一级类别catename eg:家政--> 
+		<!--  二级类别归属ID [Ljava.lang.Integer;@5af79c08 数字长度：2--> 
+			<!--  二级类别表现ID--> 
+				<!--  二级类别listname eg:jiazhuang--> 
+				<!--  二级类别catename eg:家装-->
+				<!-- 表现类别的全路径   eg:8512,96-->
+									
+						<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>【58同城】丹阳鲜花速递_丹阳鲜花预定_丹阳鲜花礼品</title>
+	<meta name="description" content='58同城丹阳鲜花速递网频道是最大的丹阳鲜花绿植预定免费信息发布、查阅平台。58同城丹阳鲜花绿植频道每天都有大量专业、真实的优秀商家提供丹阳鲜花速递,丹阳鲜花预定,丹阳鲜花礼品信息大家选择，同时您可以免费发布丹阳鲜花绿植信息平台平台。-58.com'/>
+	<meta name="keywords" content='鲜花速递,丹阳鲜花速递网,丹阳鲜花预定,丹阳鲜花礼品'/>
+	<meta http-equiv="X-UA-Compatible" content="edge" />
+		
+				<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/danyang/lipinxianhua/" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/danyang/lipinxianhua/" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/danyang/lipinxianhua/" />
+					<script type="text/javascript">
+		var ____loadCfg = ['huangye', 'shenghuo', 'listpage'];
+	</script>
+	<script src='http://j2.58cdn.com.cn/js/require_jquery_load.js'></script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">document.write('<scri'+'pt src="http://j1.58cdn.com.cn/ds/tgbrand/js/brand_listpage_v1.js?temp=' + Math.random() + '"></scri'+'pt>');</script> 
+<script type="text/javascript">
+	var xxfwConfig = {namespace:'huangyelistpc'};
+</script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/resource/xxzl/xxfw/xxfw.min_v20161021110430.js'></script>
+
+<script type="text/javascript">
+try{
+	var ____json4fe = {"catentry":[{"dispid":"8512","name":"家政服务","listname":"shenghuo"},{"dispid":"8493","name":"鲜花绿植","listname":"lipinxianhua"}],"locallist":[{"dispid":"648","name":"丹阳","listname":"danyang"}],"start":(new Date()).getTime(),"modules":"list"};
+	____json4fe.version = 'A';
+	____json4fe.modules = 'listpage';
+	____json4fe.sid = '113243311195464845528463976';
+	____json4fe.sessionid = '505aa593-e309-423b-b3dc-e4d51233c8f1';
+	____json4fe.smsc = '2e04fcb23ca92f361a42e60491a8eeab3739e052c58603782a0ef824ad0fafb927e69a25ad0c4a5871c960b66aefc0a21fe426d95e35efd55166072256db9409822fdf0b698988c9e7587825b20728c6d50f4a89d5934c1e5d7fad3c77070984f2cb8a36d03c3325c3aea66dfd7bbfac98efc8971eb37b55ba235ed821fa01e2e35ce1a81417da7cf5a73359b895285b39f8a0fc41fd66b8';
+	____json4fe.newcateid='';
+	____json4fe.keyword='';
+	____json4fe.page='1';
+	____json4fe.param='';
+	}catch(e){};
+	(function(){
+var e = "header,nav,section,aside,article,footer".split(','),
+i=0,
+length=e.length;
+while(i<length){
+    document.createElement(e[i++])
+}
+})();
+	var ajax_param = '{"platform":"pc","dispCateId":8493,"pageIndex":1,"infoMethod":["renzheng","baojia","wltAge"],"dataParam":"688048039386148864_44867086724117_3_adsumplayinfo,22614202339492_29187269810690_0_adsumplayinfo,22614202339492_29187269810690_0_adinfo,688048039386148864_44867086724117_3_adinfo,29603404302518_44867086724117_0_commoninfo,29603244918209_42041528154131_0_commoninfo,29595520076728_42409142309395_0_commoninfo,29307814807740_42430130590992_0_commoninfo,28589447612868_38544060832529_0_commoninfo,28522539974846_15786962584838_0_commoninfo,28447380043327_36351774238999_0_commoninfo,27816254049065_42901887444245_0_commoninfo,29596839625262_32771059_0_commoninfo,29560712372172_46240623775255_0_commoninfo,26521803802546_16201254496263_0_commoninfo,28256967675984_32435711028231_0_commoninfo,29027823069370_42440328455701_0_commoninfo,29022733338295_39445678870797_0_commoninfo,28600065402310_45112571_0_commoninfo,22614202339492_29187269810690_0_adinfo_rb,688048039386148864_44867086724117_3_adinfo_rb,22614202339492_29187269810690_0_adinfo_rb,688048039386148864_44867086724117_3_adinfo_rb,28226156456755_42430130590992_0_promationinfo,28521962425800_15786962584838_0_promationinfo,27612660567485_42409142309395_0_promationinfo,28589420603186_38544060832529_0_promationinfo,27816243761469_42901887444245_0_promationinfo,26399253596089_13437994_0_promationinfo,27451184938429_27795722618119_0_promationinfo,26942093050187_41176214041367_0_promationinfo,27374457611570_42041528154131_0_promationinfo,28786192989097_44867086724117_0_promationinfo,27451181832764_27795722618119_0_promationinfo,28226152132158_42430130590992_0_promationinfo,27816254049065_42901887444245_0_promationinfo,28589423855438_38544060832529_0_promationinfo,27612657863089_42409142309395_0_promationinfo,26942098629050_41176214041367_0_promationinfo,28521843653289_15786962584838_0_promationinfo,28786190314554_44867086724117_0_promationinfo,26399258228935_13437994_0_promationinfo,27374466351028_42041528154131_0_promationinfo","dispCateName":"lipinxianhua","paramMap":null}';
+	var s_ajax_param = 's_contact_lipinxianhua_113243311195464845528463976_';
+</script>				<link href='http://c.58cdn.com.cn/ds/v1/base-v1_v0.css' rel="stylesheet" type="text/css">
+	<link href='http://c.58cdn.com.cn/ds/v1/common_list_v20170315183710.css' rel="stylesheet" type="text/css">
+<link href='http://c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20170331140927.css' rel="stylesheet" type="text/css">
+
+
+		<link href='http://c.58cdn.com.cn/ds/v1/list/defaultList_v20170220190119.css' rel="stylesheet" type="text/css">
+	<!-- <link rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv02_v0.css'> -->
+<link type="text/css" rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03_v20160727171301.css'>
+<!-- <link type="text/css" rel="stylesheet" href="http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03.css"> -->
+
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/dialog_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/release_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/retable_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/weixin/hy_freetel_v20161207184444.css">	
+    		</head>
+			<body class="">
+						<!-- =S top bar header -->
+			<div id="commonTopbar" class="commonTopbar">
+<script type="text/javascript">
+    var secId;
+        ____json4fe.catentry[1]? secId = ____json4fe.catentry[1].dispid : secId = ____json4fe.catentry.dispid;
+    var modules = ____json4fe.modules;
+    //搬家列表页(secId == "96" && modules=="listpage")宽度为1190px
+    if(secId == "96" && modules=="listpage"){
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'default' // default: 1190px, narrow: 1000px
+            });
+        };
+    }else{
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'narrow' // default: 1190px, narrow: 1000px
+            });
+        };
+    }    
+</script>
+</div>
+<!-- =S banner  div -->
+<div class="topbannerbar"><div id="brand_list_top_banner" onclick="clickLog('from=pc_list_lipinxianhua_top_banner');" ></div></div>
+<!-- =E banner  div--><header id="header">
+    <div class="header-inner">
+    <a class="logo float_l" href="/huangye/" target="_blank" onclick="clickLog('from=pc_list_logo_lipinxianhua');">58同城</a>
+            <a href='http://post.58.com/648/8493/s5' target="_blank" onclick="clickLog('from=pc_list_fabu_lipinxianhua');" class="postbtn float_r">免费发布</a>
+        		        <div class="header-search float_r">
+         <em class="ico-searchkey"></em>
+         <form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+         	            	<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();">
+                        <span onMouseOut="this.className='sbtn'" onMouseOver="this.className='sbtn hover'" class="sbtn">
+                			<input type="submit" value="搜服务" onclick="clickLog('from=pc_list_search_lipinxianhua');" class="but-bl" name="" id="searchbtn1" ></span>
+                		        		<div class="clear"></div>
+        		<span class="hotsearch">
+    						           		<a href="http://danyang.58.com/lipinxianhua/?key=%E7%BB%BF%E8%90%9D&final=1&searchtype=3&sourcetype=21" onclick="clickLog('from=pc_list_resouci_1_lipinxianhua');_gaq.push(['pageTracker._trackEvent', 'list', 'tag_click', '/huangye/hotkeywords/zz/lipinxianhua/']);">绿萝</a>
+       		        		<a href="http://danyang.58.com/lipinxianhua/?key=%E5%9B%AD%E6%9E%97%E7%BB%BF%E5%8C%96&final=1&searchtype=3&sourcetype=21" onclick="clickLog('from=pc_list_resouci_2_lipinxianhua');_gaq.push(['pageTracker._trackEvent', 'list', 'tag_click', '/huangye/hotkeywords/zz/lipinxianhua/']);">园林绿化</a>
+       			   
+	   </span>
+    		       	  </form>
+       	</div>
+		            	<div class="nav float_l" >
+	<a href="/">丹阳58同城</a> &gt; <a href="/shenghuo.shtml">丹阳家政服务</a>
+				 &gt; <a href="/lipinxianhua/" itemprop="url">丹阳鲜花绿植</a>
+	
+
+</div>
+	</div>
+</header>
+		<!-- =E top bar header -->
+	<!-- =S common_column_label-->
+			<!-- =E common_column_label-->
+	<!-- =S searchTip -->
+			<!-- =E searchTip  -->
+	<!-- =s cmcs -->
+							<section id="selection">
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">类别 ：</dt>
+		<dd id="ObjectType" >
+																    		    		    		    					<a href="/lipinxianhua/" class='select' >全部</a>
+								    		    		    		    					<a href="http://danyang.58.com/xianhua/"  >鲜花</a>
+								    		    		    		    					<a href="http://danyang.58.com/lvzhipenzai/"  >绿植</a>
+								    		    		    		    					<a href="http://danyang.58.com/fangzhenh/"  >仿真花</a>
+								    		    		    		    					<a href="http://danyang.58.com/yuanlinyy/"  >园林/园艺</a>
+															    					    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">服务区域  ：</dt>
+		<dd id="local" >
+																    		    		    		    					<a href="/lipinxianhua/" class='select' >全丹阳</a>
+								    		    		    		    					<a href="/danyangshiqu/lipinxianhua/"  >丹阳市区</a>
+								    		    		    		    					<a href="/danyangqita/lipinxianhua/"  >其它</a>
+																									    	</dd>
+    </dl>
+	<div id="selected" class="bar"></div>
+	<i class="shadow"></i>
+</section>
+
+			<!-- =E cmcs -->
+		<div id="adtop_1" class="hc"><div class="mouter defa"><div class="inner"><div id="md3" class="mdul"></div><ul id="md1" class="mdul"></ul><ul id="md2" class="mdul"></ul><ul id="md4" class="mdul"></ul><ul id="md5" class="mdul"></ul><div class="clear"></div></div></div></div>
+<div class="tabsbar">
+    <div class="list-tabs">
+												<a href="/lipinxianhua/" onclick="clickLog('from=pc_list_lipinxianhua_list_tabs');" class="sel"><h1>丹阳鲜花绿植</h1></a>
+											</div>
+	 	    	                	        
+
+		
+	
+				<span class="zhaobiao" >
+			<a href="http://bianmin.58.com/danyang/?from=pc_list_bianmin_wzl"
+			   target="_blank" >学习办事经验，解决办证难题</a>
+		</span>
+		
+			
+
+
+</div>
+ 				<section id="mainlist" class="main clearfix pr">
+					<div class="filterbar h28">
+    <div class="filterbar-l">
+			<!-- <div class="filterup" id="filterup">
+				 <a class="m1" title="找班级" href="#" rel="nofollow" onclick=""><span>找班级<em></em></span></a>
+				 <a class="m1" title="找拼友" href="#" rel="nofollow" onclick=""><span>找拼友<em></em></span></a>
+			</div>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">全部</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示教育机构</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示个人教师</a></span> -->
+				<div class="filterup" id="filterup">
+			 <a class="m1 sel" title="默认" href="#" rel="nofollow" onclick="g2({sort:null}); clickLog('from=huangye_list_moren_lipinxianhua_danyang&psid=113243311195464845528463976'); "><span>默认排序<em></em></span></a>
+											</div>
+														<span class="checkbox-ico" id="renzheng"><a href="javascript:void(0);" onclick="clickLog('from=List_sort_lipinxianhua__zhikanrenzheng');">只看认证</a></span>
+									
+									</div>  
+     <div class="filterbar-md">
+    	    	<!-- 加入医疗健康判断-->
+    	    		    		        		       <a class="mdtj" style="display:inline-block;" rel="nofollow" target="_blank" href="http://e.58.com/shenghuo.html" onClick="clickLog('from=huangye_zhaoshang&psid=113243311195464845528463976');">想提升接单效果，请致电4008107258</a>
+    		        		    	
+				   </div>        
+</div>
+					<div id="infolist" class="cleft" >
+				<!-- =S infolist -->
+									<table class="small-tbimg" cellspacing="0" cellpadding="0" id="jingzhun">
+										<tr logr='q_1_29187269810690_22614202339492_4' infotag="22614202339492_adinfo">
+		<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_adinfo_tupian&entityId=22614202339492&entityType=0&psid=113243311195464845528463976');">
+			<div>
+				<a href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvw6UM-6Uh08PH98mvqVsvQG0A-8XA-6Uh6dmitznWmQPjcknWn1rHEOnM980v6YUykKnHD1nWE1n1DQnHbdPjmYrjEdPHc3Pjm1rH0vTHcOnH9LnWmOrjDkPWbkTHDKnWcvnHEznjc1n1bYrHcKnWNkTHDvPED3Pjb1THmYrTDQPjbQnW03Pjc1PHNdTHDKUA-1IAQ-uMEKnEDQTRDKsHDKTHTKnTDKuh7_0vNKn1K-nHTkPjDVuWIbriYYPHT3sH9QmhEVn1NvPvckmWTLPhF-THD1PH0QnWcOTHDdnWnOnWc1nj9OPWmdP9DKrjEOnkDvPj9Kna3vPkDKTEDKpZwY0jCfsvw6UM-6Uh08PH98mvqVsvQG0A-8XA-6Uh6dmitKUMR_UTDznHD8nHNOsWDvPa3QrjnKnTDkTiYKPHnLnHPWPhn1mvnLPjubnE&adact=4&psid=113243311195464845528463976&entinfo=22614202339492_0' target="_blank" rel="nofollow">
+				<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://t1.58cdn.com.cn/bidding/tiny/n_v1bkuyfvjxfkrvlyuiwadq.jpg'/>
+								</a>
+			</div>
+		</td>
+		<td class="t">
+			<div class="tdiv">
+				<a href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvw6UM-6Uh08PH98mvqVsvQG0A-8XA-6Uh6dmitznWmQPjcknWn1rHEOnM980v6YUykKnHD1nWE1n1DQnHbdPjmYrjEdPHc3Pjm1rH0vTHcOnH9LnWmOrjDkPWbkTHDKnWcvnHEznjc1n1bYrHcKnWNkTHDvPED3Pjb1THmYrTDQPjbQnW03Pjc1PHNdTHDKUA-1IAQ-uMEKnEDQTRDKsHDKTHTKnTDKuh7_0vNKn1K-nHTkPjDVuWIbriYYPHT3sH9QmhEVn1NvPvckmWTLPhF-THD1PH0QnWcOTHDdnWnOnWc1nj9OPWmdP9DKrjEOnkDvPj9Kna3vPkDKTEDKpZwY0jCfsvw6UM-6Uh08PH98mvqVsvQG0A-8XA-6Uh6dmitKUMR_UTDznHD8nHNOsWDvPa3QrjnKnTDkTiYKPHnLnHPWPhn1mvnLPjubnE&adact=3&psid=113243311195464845528463976&entinfo=22614202339492_0' onclick="clickLog('from=pc_list_lipinxianhua_xinxi_adinfo_danyang');" target="_blank" class="t" rel="nofollow" name='22614202339492'>丹阳鲜花，昆明花材，高品质配送，教师节鲜花预定</a>
+				<span class="jingpin"></span>
+								<!-- cxsjstate='false',dispCateID='484' -->
+				
+				            		           					<br /> 
+				<div> 
+																品质配送
+														</div>
+                <p class="seller">
+						<a href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsLIlIa3drjN3shPfUiqYsLNzrHD3P1cvrH9QnjmOnaqknHTknEDQnHnzPjn1nHDQrHNYPWE3PjNdnW9YPWnOP1mKnWbQrj0zPWb3nHTvrHTKnEDznWmQPjcknWn1rHEOn9DzPHTKnHmdTH9YrHnKPWE3THDYrHDzP19YnWndPHNKnE7_pgPYUARhITDQTHDKNEDVnEDKnTDkTE7hmyQ1uED1nANQnjTYnidhPvEOsHEdnj9Vrj7BuaY1PHmLmWKBnj0vmhNKnHndP1DznWbKnHNzn1bznWnkrjbvPWNvTED3Pjb1THmYrTDksWmLTEDKTE7CIZwkrBtfuA78Xy78uz3draOWUvYfUA-kpyO3py78pZR6sk78IyQ_THcQni3QPHb8nHmYsWD3nkDkTHTKsE7-mHD3rH66PWcvPHKWuWKh&adact=5&psid=113243311195464845528463976&entinfo=22614202339492_0' onClick="clickLog('from=List_wangzhan&entityId=22614202339492&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow" >昆明恒锐电子商务有限公司</a>	
+				</p>
+    		</div>
+    	</td>
+		<td   class="tdp" >
+    </td>    	<td class="vertop">
+									<div class="yuyue_vertop " data-id='22614202339492' wltMark="0" param="22614202339492_29187269810690_0_adinfo_7B7D98D3663DC4B75B5A7246EBC151A0" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("http://jump.zhineng.58.com/jump?target=pZwY0jCfsvw6UM-6Uh08PH98mvqVsvQG0A-8XA-6Uh6dmitznWmQPjcknWn1rHEOnM980v6YUykKnHD1nWE1n1DQnHbdPjmYrjEdPHc3Pjm1rH0vTHcOnH9LnWmOrjDkPWbkTHDKnWcvnHEznjc1n1bYrHcKnWNkTHDvPED3Pjb1THmYrTDQPjbQnW03Pjc1PHNdTHDKUA-1IAQ-uMEKnEDQTRDKsHDKTHTKnTDKuh7_0vNKn1K-nHTkPjDVuWIbriYYPHT3sH9QmhEVn1NvPvckmWTLPhF-THD1PH0QnWcOTHDdnWnOnWc1nj9OPWmdP9DKrjEOnkDvPj9Kna3vPkDKTEDKpZwY0jCfsvw6UM-6Uh08PH98mvqVsvQG0A-8XA-6Uh6dmitKUMR_UTDznHD8nHNOsWDvPa3QrjnKnTDkTiYKPHnLnHPWPhn1mvnLPjubnE&adact=2&nojump=1");clickLog("from=huangye_list_lianxi&entityId=22614202339492&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td>	</tr>
+														<tr logr='q_2_44867086724117_688048039386148864_4' infotag="688048039386148864_adinfo">
+		<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_adinfo_tupian&entityId=688048039386148864&entityType=3&psid=113243311195464845528463976');">
+			<div>
+				<a href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsLwWIAC8PH9draOWUvYKnHD1nWE1n1DQnHbdPjmYrjEdPHc3Pjm1rH0vTHEYrjmLnj9vP1cYnHDLTHDKPW93njE3njnOn19vnHE3rjmYTHDknTDQnjTKrjEOnkDvPj9KnHEOnHcLrjEzn1NdPEDzTyQG0Lw_uyuYTHDKnE7wTiYQTEDkTHnKTyu6UZP-TywBnhnLrHczsHm3rymVPjwBriYOmyn3sHD3PymYmvnQuyw-rTD1nHTQnH93nEDznjnYnHm3rjDzP1TknHmKTH9YrHnKPWE3THDKTEDKTy6YIZTlszqbmyOOmyOMsWN3shPfUiq_pgKGUM6GmyOCIyDfTyOdUAkKnWDQsWDdri3QPWE8nH91THTKnTDVTHc1uAR6uHDQnhN3rjbQnW0&adact=4&psid=113243311195464845528463976&entinfo=688048039386148864_3' target="_blank" rel="nofollow">
+				<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://t1.58cdn.com.cn/bidding/tiny/n_v1bkujjd7dp6nvrbe6qeqa.jpg'/>
+								</a>
+			</div>
+		</td>
+		<td class="t">
+			<div class="tdiv">
+				<a href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsLwWIAC8PH9draOWUvYKnHD1nWE1n1DQnHbdPjmYrjEdPHc3Pjm1rH0vTHEYrjmLnj9vP1cYnHDLTHDKPW93njE3njnOn19vnHE3rjmYTHDknTDQnjTKrjEOnkDvPj9KnHEOnHcLrjEzn1NdPEDzTyQG0Lw_uyuYTHDKnE7wTiYQTEDkTHnKTyu6UZP-TywBnhnLrHczsHm3rymVPjwBriYOmyn3sHD3PymYmvnQuyw-rTD1nHTQnH93nEDznjnYnHm3rjDzP1TknHmKTH9YrHnKPWE3THDKTEDKTy6YIZTlszqbmyOOmyOMsWN3shPfUiq_pgKGUM6GmyOCIyDfTyOdUAkKnWDQsWDdri3QPWE8nH91THTKnTDVTHc1uAR6uHDQnhN3rjbQnW0&adact=3&psid=113243311195464845528463976&entinfo=688048039386148864_3' onclick="clickLog('from=pc_list_lipinxianhua_xinxi_adinfo_danyang');" target="_blank" class="t" rel="nofollow" name='688048039386148864'>开业花篮<b style="color:red;">丹阳</b>鲜花店鲜花速递订花送花预定花店1小时送</a>
+				<span class="jingpin"></span>
+								<!-- cxsjstate='false',dispCateID='484' -->
+				
+				            		           					<br /> 
+				<div> 
+																开业花篮,生日鲜花,玫瑰,百合,鲜花礼盒,蛋糕,桌花,母亲节
+														</div>
+                <p class="seller">
+						<a href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsLIlIa3drjN3shPfUiqYsLNYPj9vP1T3PW0zPjDQPzqknHTknEDQnHnzPjn1nHDQrHNYPWE3PjNdnW9YPWnOP1mKPjE3PW0krjmLnWEQnH0KnEDvrj9kPj9kn1b1rjmQPj93PWEKnHTkTHDknTD3Pjb1THmYrTDQPjbQnW03Pjc1PHNdTHcKUA-1IAQ-uMEKnEDQTRDKsHDKTHTKnkDKuh7_0vNKuAczm10OnWcVPW9OuBYYPAcOsH-6m19VnH9duWwWm17-uAN3THnQnjDQrj9QTHckn1EQPW93nHcLnjTQP9DKrjEOnkDvPj9KnEDKTEDKpZwY0jCfsvw6UM-6Uh08PH98mvqVsvQG0A-8XA-6Uh6dmitKUMR_UTDznHD8nHNOsWDvPa3QrjnKnTDkTiYKm1FbnhFWrjRBuj0OnWKWnE&adact=5&psid=113243311195464845528463976&entinfo=688048039386148864_3' onClick="clickLog('from=List_wangzhan&entityId=688048039386148864&entityType=3&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow" >同城鲜花蛋糕优选推荐</a>	
+				</p>
+    		</div>
+    	</td>
+		<td   class="tdp" >
+    </td>    	<td class="vertop">
+									<div class="yuyue_vertop " data-id='688048039386148864' wltMark="2" param="688048039386148864_44867086724117_3_adinfo_926A202668C8227991DC511E4009E295" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("http://jump.zhineng.58.com/jump?target=pZwY0jCfsLwWIAC8PH9draOWUvYKnHD1nWE1n1DQnHbdPjmYrjEdPHc3Pjm1rH0vTHEYrjmLnj9vP1cYnHDLTHDKPW93njE3njnOn19vnHE3rjmYTHDknTDQnjTKrjEOnkDvPj9KnHEOnHcLrjEzn1NdPEDzTyQG0Lw_uyuYTHDKnE7wTiYQTEDkTHnKTyu6UZP-TywBnhnLrHczsHm3rymVPjwBriYOmyn3sHD3PymYmvnQuyw-rTD1nHTQnH93nEDznjnYnHm3rjDzP1TknHmKTH9YrHnKPWE3THDKTEDKTy6YIZTlszqbmyOOmyOMsWN3shPfUiq_pgKGUM6GmyOCIyDfTyOdUAkKnWDQsWDdri3QPWE8nH91THTKnTDVTHc1uAR6uHDQnhN3rjbQnW0&adact=2&nojump=1");clickLog("from=huangye_list_lianxi&entityId=688048039386148864&entityType=3&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td>	</tr>
+											<tr logr='j_2_42430130590992_28226156456755_3' infotag="28226156456755_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=28226156456755&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/28226156456755x.shtml?psid=113243311195464845528463976&entinfo=28226156456755_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic5.58cdn.com.cn/p2/tiny/n_v1bl2lwkpf4q7fqpnlcn3a.jpg' alt='初见鲜花礼品旗舰店' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/28226156456755x.shtml?psid=113243311195464845528463976&entinfo=28226156456755_0' target="_blank" class="t" >本地花店.送货快价格低.订花送花.开业花篮.鲜花店</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		订花微信：980798009电话400-678-3753（全...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5842433045774849.5858.com?psid=113243311195464845528463976&entinfo=28226156456755_0" onClick="clickLog('from=List_wangzhan&entityId=28226156456755&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">初见鲜花礼品旗舰店</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='28226156456755' wltMark="2" param="28226156456755_42430130590992_0_promationinfo_5E8544FF031DF5F7E4ACA4A5A25A618C" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28226156456755&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_15786962584838_28521962425800_3' infotag="28521962425800_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=28521962425800&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/28521962425800x.shtml?psid=113243311195464845528463976&entinfo=28521962425800_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic2.58cdn.com.cn/p1/tiny/n_v1bkujjdzrfbrfqc7hjmcq.jpg' alt='大地花坊' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/28521962425800x.shtml?psid=113243311195464845528463976&entinfo=28521962425800_0' target="_blank" class="t" >专业做花15年 高档花材 品质保障 暖心服务</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		实体花店，鲜花蛋糕花篮，免费配送，一小时送达。支持微店支付，...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5844312309772553.5858.com?psid=113243311195464845528463976&entinfo=28521962425800_0" onClick="clickLog('from=List_wangzhan&entityId=28521962425800&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">大地花坊</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='28521962425800' wltMark="2" param="28521962425800_15786962584838_0_promationinfo_5CEB1C34DB8B164C5690BB888387D96A" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28521962425800&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_42409142309395_27612660567485_3' infotag="27612660567485_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=27612660567485&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/27612660567485x.shtml?psid=113243311195464845528463976&entinfo=27612660567485_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic4.58cdn.com.cn/p2/tiny/n_v1bl2lwtmayl2voqczcimq.jpg' alt='椒房殿鲜花礼品旗舰店' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/27612660567485x.shtml?psid=113243311195464845528463976&entinfo=27612660567485_0' target="_blank" class="t" >开业花篮鲜花店1小时免费送鲜花速递订花送花蛋糕花店</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		开业花篮，鲜花花束，生日鲜花，生日蛋糕，椒房殿主打商品还有水...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5842658344996624.5858.com?psid=113243311195464845528463976&entinfo=27612660567485_0" onClick="clickLog('from=List_wangzhan&entityId=27612660567485&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">椒房殿鲜花礼品旗舰店</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27612660567485' wltMark="2" param="27612660567485_42409142309395_0_promationinfo_926A202668C8227991DC511E4009E295" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27612660567485&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_38544060832529_28589420603186_3' infotag="28589420603186_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=28589420603186&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/28589420603186x.shtml?psid=113243311195464845528463976&entinfo=28589420603186_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic6.58cdn.com.cn/p1/tiny/n_v1bkuymc62gjvfqwnklvva.jpg' alt='海澜鲜花蛋糕旗舰店' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/28589420603186x.shtml?psid=113243311195464845528463976&entinfo=28589420603186_0' target="_blank" class="t" >订鲜花开业花篮绿植巧克力同城配送生日蛋糕送鲜花礼盒</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		海澜鲜花提供手捧鲜花，开业花篮，生日蛋糕，生日鲜花，礼盒鲜花...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5838546043127819.5858.com?psid=113243311195464845528463976&entinfo=28589420603186_0" onClick="clickLog('from=List_wangzhan&entityId=28589420603186&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">海澜鲜花蛋糕旗舰店</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='28589420603186' wltMark="2" param="28589420603186_38544060832529_0_promationinfo_B1AF3EA63F45A40AEE39F506892863B7" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28589420603186&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_42901887444245_27816243761469_3' infotag="27816243761469_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=27816243761469&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/27816243761469x.shtml?psid=113243311195464845528463976&entinfo=27816243761469_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic2.58cdn.com.cn/p2/tiny/n_v1bkuymc2oa4hfrjv56ffa.jpg' alt='1314鲜花礼品速递' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/27816243761469x.shtml?psid=113243311195464845528463976&entinfo=27816243761469_0' target="_blank" class="t" >鲜花店订花送鲜花巧克力生日蛋糕开业花篮鲜花速递</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		全国1-3小时送花，加微信：40908365------全国...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5842924656649232.5858.com?psid=113243311195464845528463976&entinfo=27816243761469_0" onClick="clickLog('from=List_wangzhan&entityId=27816243761469&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">1314鲜花礼品速递</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27816243761469' wltMark="2" param="27816243761469_42901887444245_0_promationinfo_6ADA6146F2F413E09D899FFE0B752ADD" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27816243761469&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_13437994_26399253596089_3' infotag="26399253596089_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=26399253596089&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/26399253596089x.shtml?psid=113243311195464845528463976&entinfo=26399253596089_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic6.58cdn.com.cn/p2/tiny/n_v1bj3gzscedrsvpbwsg4ma.jpg' alt='资瀚鲜花坊' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/26399253596089x.shtml?psid=113243311195464845528463976&entinfo=26399253596089_0' target="_blank" class="t" >顶极花材 贴心服务 鲜花蛋糕花篮专人免费配送</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		支付宝担保货到付款,微店支付,微信转帐,QQ转帐,网银转帐等...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://wbnsz.5858.com?psid=113243311195464845528463976&entinfo=26399253596089_0" onClick="clickLog('from=List_wangzhan&entityId=26399253596089&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">资瀚鲜花坊</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='26399253596089' wltMark="2" param="26399253596089_13437994_0_promationinfo_C0F04924BFC5E6A44D42F4F8BA2964C0" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26399253596089&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_27795722618119_27451184938429_3' infotag="27451184938429_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=27451184938429&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/27451184938429x.shtml?psid=113243311195464845528463976&entinfo=27451184938429_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic5.58cdn.com.cn/p2/tiny/n_v1bl2lwkfhqlrfolzwzblq.jpg' alt='爱情密码鲜花速递' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/27451184938429x.shtml?psid=113243311195464845528463976&entinfo=27451184938429_0' target="_blank" class="t" >同城鲜花速递【急速抵达】订花订花蛋糕实体店【优质】</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		微信:4545114,买花看信誉,订花看品牌. 爱情密码主营...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://aqmm58.5858.com?psid=113243311195464845528463976&entinfo=27451184938429_0" onClick="clickLog('from=List_wangzhan&entityId=27451184938429&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">爱情密码鲜花速递</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27451184938429' wltMark="2" param="27451184938429_27795722618119_0_promationinfo_0D1FEC68D290026A461962B1514F1F01" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27451184938429&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_41176214041367_26942093050187_3' infotag="26942093050187_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=26942093050187&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/26942093050187x.shtml?psid=113243311195464845528463976&entinfo=26942093050187_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic7.58cdn.com.cn/p2/tiny/n_v1bkuyfvld2ksvorckerpa.png' alt='创美睿思鲜花' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/26942093050187x.shtml?psid=113243311195464845528463976&entinfo=26942093050187_0' target="_blank" class="t" >2月14情人节特惠 快速低价 订花送花 精品鲜花店</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		订花电话：4000183606 微信号：1873997570...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5841178563034887.5858.com?psid=113243311195464845528463976&entinfo=26942093050187_0" onClick="clickLog('from=List_wangzhan&entityId=26942093050187&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">创美睿思鲜花</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='26942093050187' wltMark="2" param="26942093050187_41176214041367_0_promationinfo_133DAC33FF9FF89A3911D73756C5022F" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26942093050187&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_42041528154131_27374457611570_3' infotag="27374457611570_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=27374457611570&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/27374457611570x.shtml?psid=113243311195464845528463976&entinfo=27374457611570_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic2.58cdn.com.cn/p2/tiny/n_v1bl2lwtmnzlsfpanmdrsq.jpg' alt='同城鲜花礼品旗舰店' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/27374457611570x.shtml?psid=113243311195464845528463976&entinfo=27374457611570_0' target="_blank" class="t" >花店1小时送货快价低订花送花蛋糕开业花篮玫瑰鲜花店</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		椒房殿主营：鲜花花束，商用花篮，生日鲜花，生日蛋糕，水果篮，...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5842658376177165.5858.com?psid=113243311195464845528463976&entinfo=27374457611570_0" onClick="clickLog('from=List_wangzhan&entityId=27374457611570&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">同城鲜花礼品旗舰店</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27374457611570' wltMark="2" param="27374457611570_42041528154131_0_promationinfo_926A202668C8227991DC511E4009E295" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27374457611570&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_44867086724117_28786192989097_3' infotag="28786192989097_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=28786192989097&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/28786192989097x.shtml?psid=113243311195464845528463976&entinfo=28786192989097_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic1.58cdn.com.cn/p1/tiny/n_v1bl2lwxuxvcavrxf2zqoq.jpg' alt='同城鲜花蛋糕优选推荐' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/28786192989097x.shtml?psid=113243311195464845528463976&entinfo=28786192989097_0' target="_blank" class="t" >开业花篮花店1小时送货快低价订花送花预定蛋糕鲜花店</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		开业花篮_椒房殿主营：鲜花花束，生日鲜花，生日蛋糕，水果篮，...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://tctj.5858.com?psid=113243311195464845528463976&entinfo=28786192989097_0" onClick="clickLog('from=List_wangzhan&entityId=28786192989097&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">同城鲜花蛋糕优选推荐</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='28786192989097' wltMark="2" param="28786192989097_44867086724117_0_promationinfo_926A202668C8227991DC511E4009E295" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28786192989097&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_27795722618119_27451181832764_3' infotag="27451181832764_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=27451181832764&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/27451181832764x.shtml?psid=113243311195464845528463976&entinfo=27451181832764_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic4.58cdn.com.cn/p2/tiny/n_v1bj3gzr4nqlrfp7bpzrbq.jpg' alt='爱情密码鲜花速递' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/27451181832764x.shtml?psid=113243311195464845528463976&entinfo=27451181832764_0' target="_blank" class="t" >同城鲜花速递【急速抵达】订花订花蛋糕实体店【优质】</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		微信:4545114,买花看信誉,订花看品牌. 爱情密码主营...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://aqmm58.5858.com?psid=113243311195464845528463976&entinfo=27451181832764_0" onClick="clickLog('from=List_wangzhan&entityId=27451181832764&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">爱情密码鲜花速递</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27451181832764' wltMark="2" param="27451181832764_27795722618119_0_promationinfo_0D1FEC68D290026A461962B1514F1F01" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27451181832764&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_42430130590992_28226152132158_3' infotag="28226152132158_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=28226152132158&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/28226152132158x.shtml?psid=113243311195464845528463976&entinfo=28226152132158_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic3.58cdn.com.cn/p2/tiny/n_v1bl2lwwoi4q7frofamumq.jpg' alt='初见鲜花礼品旗舰店' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/28226152132158x.shtml?psid=113243311195464845528463976&entinfo=28226152132158_0' target="_blank" class="t" >本地花店.送货快价格低.订花送花.开业花篮.鲜花店</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		订花微信：980798009电话400-678-3753（全...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5842433045774849.5858.com?psid=113243311195464845528463976&entinfo=28226152132158_0" onClick="clickLog('from=List_wangzhan&entityId=28226152132158&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">初见鲜花礼品旗舰店</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='28226152132158' wltMark="2" param="28226152132158_42430130590992_0_promationinfo_5E8544FF031DF5F7E4ACA4A5A25A618C" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28226152132158&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_42901887444245_27816254049065_3' infotag="27816254049065_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=27816254049065&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/27816254049065x.shtml?psid=113243311195464845528463976&entinfo=27816254049065_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic6.58cdn.com.cn/p2/tiny/n_v1bl2lwke3a4hfqhlfxvxa.jpg' alt='1314鲜花礼品速递' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/27816254049065x.shtml?psid=113243311195464845528463976&entinfo=27816254049065_0' target="_blank" class="t" >鲜花店订花送鲜花巧克力生日蛋糕开业花篮鲜花速递</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		全国1-3小时送花，加微信：40908365------全国...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5842924656649232.5858.com?psid=113243311195464845528463976&entinfo=27816254049065_0" onClick="clickLog('from=List_wangzhan&entityId=27816254049065&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">1314鲜花礼品速递</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27816254049065' wltMark="2" param="27816254049065_42901887444245_0_promationinfo_6ADA6146F2F413E09D899FFE0B752ADD" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27816254049065&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_38544060832529_28589423855438_3' infotag="28589423855438_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=28589423855438&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/28589423855438x.shtml?psid=113243311195464845528463976&entinfo=28589423855438_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic5.58cdn.com.cn/p1/tiny/n_v1bj3gzshsgjvfq4yit4fq.jpg' alt='海澜鲜花蛋糕旗舰店' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/28589423855438x.shtml?psid=113243311195464845528463976&entinfo=28589423855438_0' target="_blank" class="t" >订鲜花开业花篮绿植巧克力同城配送生日蛋糕送鲜花礼盒</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		海澜鲜花提供手捧鲜花，开业花篮，生日蛋糕，生日鲜花，礼盒鲜花...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5838546043127819.5858.com?psid=113243311195464845528463976&entinfo=28589423855438_0" onClick="clickLog('from=List_wangzhan&entityId=28589423855438&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">海澜鲜花蛋糕旗舰店</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='28589423855438' wltMark="2" param="28589423855438_38544060832529_0_promationinfo_B1AF3EA63F45A40AEE39F506892863B7" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28589423855438&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_42409142309395_27612657863089_3' infotag="27612657863089_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=27612657863089&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/27612657863089x.shtml?psid=113243311195464845528463976&entinfo=27612657863089_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic6.58cdn.com.cn/p2/tiny/n_v1bl2lwwlkyl2vp7itzi5a.jpg' alt='椒房殿鲜花礼品旗舰店' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/27612657863089x.shtml?psid=113243311195464845528463976&entinfo=27612657863089_0' target="_blank" class="t" >开业花篮鲜花店1小时免费送鲜花速递订花送花蛋糕花店</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		开业花篮，鲜花花束，生日鲜花，生日蛋糕，椒房殿主打商品还有水...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5842658344996624.5858.com?psid=113243311195464845528463976&entinfo=27612657863089_0" onClick="clickLog('from=List_wangzhan&entityId=27612657863089&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">椒房殿鲜花礼品旗舰店</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27612657863089' wltMark="2" param="27612657863089_42409142309395_0_promationinfo_926A202668C8227991DC511E4009E295" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27612657863089&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_41176214041367_26942098629050_3' infotag="26942098629050_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=26942098629050&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/26942098629050x.shtml?psid=113243311195464845528463976&entinfo=26942098629050_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic4.58cdn.com.cn/p2/tiny/n_v1bj3gzsa6r2tfpwkmveda.jpg' alt='创美睿思鲜花' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/26942098629050x.shtml?psid=113243311195464845528463976&entinfo=26942098629050_0' target="_blank" class="t" >2月14情人节特惠 快速低价 订花送花 精品鲜花店</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		订花电话：4000183606 微信号：1873997570...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5841178563034887.5858.com?psid=113243311195464845528463976&entinfo=26942098629050_0" onClick="clickLog('from=List_wangzhan&entityId=26942098629050&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">创美睿思鲜花</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='26942098629050' wltMark="2" param="26942098629050_41176214041367_0_promationinfo_133DAC33FF9FF89A3911D73756C5022F" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26942098629050&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_15786962584838_28521843653289_3' infotag="28521843653289_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=28521843653289&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/28521843653289x.shtml?psid=113243311195464845528463976&entinfo=28521843653289_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic1.58cdn.com.cn/p1/tiny/n_v1bl2lwwmverrfqtjm5uhq.jpg' alt='大地花坊' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/28521843653289x.shtml?psid=113243311195464845528463976&entinfo=28521843653289_0' target="_blank" class="t" >鲜花免费配送u00A0一小时送达u00A0开业花篮</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		昆明**花材,专人按时配送.配送内容包括：手捧鲜花,礼盒鲜花...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5844312309772553.5858.com?psid=113243311195464845528463976&entinfo=28521843653289_0" onClick="clickLog('from=List_wangzhan&entityId=28521843653289&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">大地花坊</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='28521843653289' wltMark="2" param="28521843653289_15786962584838_0_promationinfo_5CEB1C34DB8B164C5690BB888387D96A" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28521843653289&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_44867086724117_28786190314554_3' infotag="28786190314554_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=28786190314554&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/28786190314554x.shtml?psid=113243311195464845528463976&entinfo=28786190314554_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic3.58cdn.com.cn/p1/tiny/n_v1bl2lwknxvcavrsgkrv7q.jpg' alt='同城鲜花蛋糕优选推荐' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/28786190314554x.shtml?psid=113243311195464845528463976&entinfo=28786190314554_0' target="_blank" class="t" >开业花篮花店1小时送货快低价订花送花预定蛋糕鲜花店</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		开业花篮_椒房殿主营：鲜花花束，生日鲜花，生日蛋糕，水果篮，...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://tctj.5858.com?psid=113243311195464845528463976&entinfo=28786190314554_0" onClick="clickLog('from=List_wangzhan&entityId=28786190314554&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">同城鲜花蛋糕优选推荐</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='28786190314554' wltMark="2" param="28786190314554_44867086724117_0_promationinfo_926A202668C8227991DC511E4009E295" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28786190314554&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_13437994_26399258228935_3' infotag="26399258228935_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=26399258228935&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/26399258228935x.shtml?psid=113243311195464845528463976&entinfo=26399258228935_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic1.58cdn.com.cn/p2/tiny/n_v1bl2lwxtidrsvpvllejca.jpg' alt='资瀚鲜花坊' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/26399258228935x.shtml?psid=113243311195464845528463976&entinfo=26399258228935_0' target="_blank" class="t" >鲜花蛋糕花篮免费配送,十年老店,品质信誉保障</a>
+							<span class='tu'>[6图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		昆明**花材.支付宝担保货到付款,微信转帐,微店支付,QQ转...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://wbnsz.5858.com?psid=113243311195464845528463976&entinfo=26399258228935_0" onClick="clickLog('from=List_wangzhan&entityId=26399258228935&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">资瀚鲜花坊</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='26399258228935' wltMark="2" param="26399258228935_13437994_0_promationinfo_C0F04924BFC5E6A44D42F4F8BA2964C0" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26399258228935&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='j_2_42041528154131_27374466351028_3' infotag="27374466351028_promationinfo">
+	<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_promationinfo_tupian&entityId=27374466351028&entityType=0&psid=113243311195464845528463976');">
+		<div>
+			<a href='http://danyang.58.com/lipinxianhua/27374466351028x.shtml?psid=113243311195464845528463976&entinfo=27374466351028_0' target="_blank" rel="nofollow">
+			<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://pic2.58cdn.com.cn/p2/tiny/n_v1bkujjd3dzlsfp5bejqsq.jpg' alt='同城鲜花礼品旗舰店' />
+			</a></div>
+	</td>
+	<td class="t">
+			<a href='http://danyang.58.com/lipinxianhua/27374466351028x.shtml?psid=113243311195464845528463976&entinfo=27374466351028_0' target="_blank" class="t" >花店1小时送货快价低订花送花蛋糕开业花篮玫瑰鲜花店</a>
+							<span class='tu'>[8图]</span>
+				
+				<!-- cxsjstate='false',dispCateID='484' -->
+		            				<br />
+									    		椒房殿主营：鲜花花束，商用花篮，生日鲜花，生日蛋糕，水果篮，...
+	    		<span> (今天)</span>
+    									<p class="seller">
+			<a href="http://t5842658376177165.5858.com?psid=113243311195464845528463976&entinfo=27374466351028_0" onClick="clickLog('from=List_wangzhan&entityId=27374466351028&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">同城鲜花礼品旗舰店</a>
+		</p>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27374466351028' wltMark="2" param="27374466351028_42041528154131_0_promationinfo_926A202668C8227991DC511E4009E295" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27374466351028&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_2_44867086724117_29603404302518_0' infotag="29603404302518_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">椒房殿鲜花店 : </b>
+				<a href='http://danyang.58.com/lipinxianhua/29603404302518x.shtml?psid=113243311195464845528463976&entinfo=29603404302518_0' onclick="clickLog('from=pc_list_lipinxianhua_xinxi_commoninfo_danyang');" target="_blank" class="t" >
+			鲜花店开业花篮花店送货快订花送花预定蛋糕520玫瑰
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='484' -->
+		    	        		<br />
+												开业花篮_椒房殿主营：玫瑰花、康乃馨、百合花等各种高级材料鲜花花束，生...
+				(30分钟)
+							<p class="seller">
+			<a href="http://tctj.5858.com?psid=113243311195464845528463976&entinfo=29603404302518_0" onClick="clickLog('from=List_wangzhan&entityId=29603404302518&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">同城鲜花蛋糕优选推荐</a>
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='29603404302518' wltMark="2" param="29603404302518_44867086724117_0_commoninfo_926A202668C8227991DC511E4009E295" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29603404302518&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_2_42041528154131_29603244918209_0' infotag="29603244918209_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">黄金城鲜花店 : </b>
+				<a href='http://danyang.58.com/lipinxianhua/29603244918209x.shtml?psid=113243311195464845528463976&entinfo=29603244918209_0' onclick="clickLog('from=pc_list_lipinxianhua_xinxi_commoninfo_danyang');" target="_blank" class="t" >
+			开业花篮鲜花店送货订花送花玫瑰愚人节母亲节康乃馨绿
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='484' -->
+		    	        		<br />
+												椒房殿主营：鲜花花束，商用花篮，生日鲜花，生日蛋糕，水果篮，巧克力，卡...
+				(51分钟)
+							<p class="seller">
+			<a href="http://t5842658376177165.5858.com?psid=113243311195464845528463976&entinfo=29603244918209_0" onClick="clickLog('from=List_wangzhan&entityId=29603244918209&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">同城鲜花礼品旗舰店</a>
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='29603244918209' wltMark="2" param="29603244918209_42041528154131_0_commoninfo_926A202668C8227991DC511E4009E295" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29603244918209&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_2_42409142309395_29595520076728_0' infotag="29595520076728_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">黄金城鲜花店 : </b>
+				<a href='http://danyang.58.com/lipinxianhua/29595520076728x.shtml?psid=113243311195464845528463976&entinfo=29595520076728_0' onclick="clickLog('from=pc_list_lipinxianhua_xinxi_commoninfo_danyang');" target="_blank" class="t" >
+			开业花篮绿植鲜花店1小时送货较快较低价订花送花花店
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='484' -->
+		    	        		<br />
+												开业花篮，鲜花花束，生日鲜花，生日蛋糕，椒房殿主打商品还有水果篮，巧克...
+				(17小时)
+							<p class="seller">
+			<a href="http://t5842658344996624.5858.com?psid=113243311195464845528463976&entinfo=29595520076728_0" onClick="clickLog('from=List_wangzhan&entityId=29595520076728&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">椒房殿鲜花礼品旗舰店</a>
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='29595520076728' wltMark="2" param="29595520076728_42409142309395_0_commoninfo_926A202668C8227991DC511E4009E295" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29595520076728&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_2_42430130590992_29307814807740_0' infotag="29307814807740_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">鲜花全国速递 : </b>
+				<a href='http://danyang.58.com/lipinxianhua/29307814807740x.shtml?psid=113243311195464845528463976&entinfo=29307814807740_0' onclick="clickLog('from=pc_list_lipinxianhua_xinxi_commoninfo_danyang');" target="_blank" class="t" >
+			本地花店.送货快价格低.订花送花.开业花篮.鲜花店
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='484' -->
+		    	        		<br />
+												订花微信：980798009电话400-678-3753（全国免费咨询...
+				(03-08)
+							<p class="seller">
+			<a href="http://t5842433045774849.5858.com?psid=113243311195464845528463976&entinfo=29307814807740_0" onClick="clickLog('from=List_wangzhan&entityId=29307814807740&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">初见鲜花礼品旗舰店</a>
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='29307814807740' wltMark="2" param="29307814807740_42430130590992_0_commoninfo_5E8544FF031DF5F7E4ACA4A5A25A618C" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29307814807740&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_2_38544060832529_28589447612868_0' infotag="28589447612868_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">海澜鲜花蛋糕 : </b>
+				<a href='http://zj.58.com/lipinxianhua/28589447612868x.shtml?psid=113243311195464845528463976&entinfo=28589447612868_0' onclick="clickLog('from=pc_list_lipinxianhua_xinxi_commoninfo_danyang');" target="_blank" class="t" >
+			订鲜花开业花篮绿植巧克力同城配送生日蛋糕送鲜花礼盒
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='484' -->
+		    	        		<br />
+												海澜鲜花提供手捧鲜花，开业花篮，生日蛋糕，生日鲜花，礼盒鲜花，水果礼篮...
+				(01-02)
+							<p class="seller">
+			<a href="http://t5838546043127819.5858.com?psid=113243311195464845528463976&entinfo=28589447612868_0" onClick="clickLog('from=List_wangzhan&entityId=28589447612868&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">海澜鲜花蛋糕旗舰店</a>
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='28589447612868' wltMark="2" param="28589447612868_38544060832529_0_commoninfo_B1AF3EA63F45A40AEE39F506892863B7" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28589447612868&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_2_15786962584838_28522539974846_0' infotag="28522539974846_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">方小姐 : </b>
+				<a href='http://danyang.58.com/lipinxianhua/28522539974846x.shtml?psid=113243311195464845528463976&entinfo=28522539974846_0' onclick="clickLog('from=pc_list_lipinxianhua_xinxi_commoninfo_danyang');" target="_blank" class="t" >
+			实体花店 节日生日鲜花蛋糕 开业花篮免费配送
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='484' -->
+		    	        		<br />
+												龙头老店，行业翘楚。较新鲜的花材，较贴心的服务，让您足不出户就可以送出...
+				(12-27)
+							<p class="seller">
+			<a href="http://t5844312309772553.5858.com?psid=113243311195464845528463976&entinfo=28522539974846_0" onClick="clickLog('from=List_wangzhan&entityId=28522539974846&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">大地花坊</a>
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='28522539974846' wltMark="2" param="28522539974846_15786962584838_0_commoninfo_5CEB1C34DB8B164C5690BB888387D96A" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28522539974846&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_36351774238999_28447380043327_0' infotag="28447380043327_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">椒房殿鲜花店 : </b>
+				<a href='http://danyang.58.com/lipinxianhua/28447380043327x.shtml?psid=113243311195464845528463976&entinfo=28447380043327_0' onclick="clickLog('from=pc_list_lipinxianhua_xinxi_commoninfo_danyang');" target="_blank" class="t" >
+			开业花篮花店圣诞节送货快低价订花送花预定蛋糕鲜花店
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='484' -->
+		    	        		<br />
+												椒房殿主营：鲜花花束，商用花篮，生日鲜花，生日蛋糕，水果篮，巧克力，卡...
+				(12-20)
+							<p class="seller">
+					黄金城鲜花礼品旗舰店
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='28447380043327' wltMark="0" param="28447380043327_36351774238999_0_commoninfo_926A202668C8227991DC511E4009E295" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28447380043327&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_2_42901887444245_27816254049065_0' infotag="27816254049065_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">同城鲜花速递 : </b>
+				<a href='http://danyang.58.com/lipinxianhua/27816254049065x.shtml?psid=113243311195464845528463976&entinfo=27816254049065_0' onclick="clickLog('from=pc_list_lipinxianhua_xinxi_commoninfo_danyang');" target="_blank" class="t" >
+			鲜花店订花送鲜花巧克力生日蛋糕开业花篮鲜花速递
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='484' -->
+		    	        		<br />
+												全国1-3小时送花，加微信：40908365------全国订花热线：...
+				(10-24)
+							<p class="seller">
+			<a href="http://t5842924656649232.5858.com?psid=113243311195464845528463976&entinfo=27816254049065_0" onClick="clickLog('from=List_wangzhan&entityId=27816254049065&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow">1314鲜花礼品速递</a>
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='27816254049065' wltMark="2" param="27816254049065_42901887444245_0_commoninfo_6ADA6146F2F413E09D899FFE0B752ADD" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27816254049065&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_32771059_29596839625262_0' infotag="29596839625262_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">邱小姐 : </b>
+				<a href='http://danyang.58.com/lipinxianhua/29596839625262x.shtml?psid=113243311195464845528463976&entinfo=29596839625262_0' onclick="clickLog('from=pc_list_lipinxianhua_xinxi_commoninfo_danyang');" target="_blank" class="t" >
+			【丹阳花店】生日鲜花速递，开业花篮
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='484' -->
+		    	        		<br />
+												== ==金陵西路185号；八年优质花店，微信下单，保质保量送花，图片...
+				(14小时)
+							<p class="seller">
+					好芳邻
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29596839625262' wltMark="0" param="29596839625262_32771059_0_commoninfo_453C0AAE5CBC30EFB6451E4CD6CFB59E"  data-j4fe="13860127119,邱小姐" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29596839625262&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_46240623775255_29560712372172_0' infotag="29560712372172_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李老师 : </b>
+				<a href='http://danyang.58.com/lipinxianhua/29560712372172x.shtml?psid=113243311195464845528463976&entinfo=29560712372172_0' onclick="clickLog('from=pc_list_lipinxianhua_xinxi_commoninfo_danyang');" target="_blank" class="t" >
+			带写各类各科(论文)本 研
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='484' -->
+		    	        		<br />
+												请1在图1上1找1我，代写代发请在图上找我，涵盖中文、财务、管理、经济...
+				(03-31)
+							<p class="seller">
+					b***j
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29560712372172' wltMark="0" param="29560712372172_46240623775255_0_commoninfo_292A9152A7E60AB68E3EA20CDF59CA32"  data-j4fe="18708380846,李老师" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29560712372172&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_16201254496263_26521803802546_0' infotag="26521803802546_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">鲜花蛋糕配送 : </b>
+				<a href='http://danyang.58.com/lipinxianhua/26521803802546x.shtml?psid=113243311195464845528463976&entinfo=26521803802546_0' onclick="clickLog('from=pc_list_lipinxianhua_xinxi_commoninfo_danyang');" target="_blank" class="t" >
+			丹阳鲜花蛋糕开业花篮预定市区送货上门
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='484' -->
+		    	        		<br />
+												本店主要提供鲜花花束，商用花篮，生日蛋糕，生日鲜花，礼盒鲜花，水果礼篮...
+				(03-10)
+							<p class="seller">
+					依米花艺
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='26521803802546' wltMark="0" param="26521803802546_16201254496263_0_commoninfo_A28A16C86965EA41DB43D48264EBB89B"  data-j4fe="18868663984,鲜花蛋糕配送" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26521803802546&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_32435711028231_28256967675984_0' infotag="28256967675984_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">施先生 : </b>
+				<a href='http://zj.58.com/lipinxianhua/28256967675984x.shtml?psid=113243311195464845528463976&entinfo=28256967675984_0' onclick="clickLog('from=pc_list_lipinxianhua_xinxi_commoninfo_danyang');" target="_blank" class="t" >
+			【镇江宏飞园艺】绿植鲜花同城配送发财树摇钱树金钱树
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='484' -->
+		    	        		<br />
+												1.【植物都有专门的送货师傅专车送货上门，搬运到位，植物太脆弱，受不了...
+				(02-23)
+							<p class="seller">
+					e***6
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28256967675984' wltMark="0" param="28256967675984_32435711028231_0_commoninfo_9D71D581CE897B4A4FDDCF09D5D93969"  data-j4fe="13915336097,施先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28256967675984&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_42440328455701_29027823069370_0' infotag="29027823069370_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王经理 : </b>
+				<a href='http://zj.58.com/lipinxianhua/29027823069370x.shtml?psid=113243311195464845528463976&entinfo=29027823069370_0' onclick="clickLog('from=pc_list_lipinxianhua_xinxi_commoninfo_danyang');" target="_blank" class="t" >
+			扬中丹阳鲜花店情人节鲜花速递玫瑰花预订开业花篮配送
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='484' -->
+		    	        		<br />
+												主营：节日生日鲜花、情人节玫瑰花、开业开张花篮、庆典鲜花花篮、生日蛋糕...
+				(02-11)
+							<p class="seller">
+					和盛佳美鲜花店
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='29027823069370' wltMark="0" param="29027823069370_42440328455701_0_commoninfo_F8A9A00C04ADEEEC05FDB54470389013" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29027823069370&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_39445678870797_29022733338295_0' infotag="29022733338295_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">蔡经理 : </b>
+				<a href='http://danyang.58.com/lipinxianhua/29022733338295x.shtml?psid=113243311195464845528463976&entinfo=29022733338295_0' onclick="clickLog('from=pc_list_lipinxianhua_xinxi_commoninfo_danyang');" target="_blank" class="t" >
+			丹阳工地闸机刷卡门禁劳务系统工地扬尘监测仪检测仪
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='484' -->
+		    	        		<br />
+												工地闸机刷卡考勤管理系统 扬尘检测除霾整体解决方案追梦云网站： www...
+				(02-10)
+							<p class="seller">
+					w***9
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29022733338295' wltMark="0" param="29022733338295_39445678870797_0_commoninfo_1511C232C41D01AD1D104B1ACAE94326"  data-j4fe="13170011265,蔡经理" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29022733338295&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_45112571_28600065402310_0' infotag="28600065402310_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">丹阳开业花篮 : </b>
+				<a href='http://danyang.58.com/lipinxianhua/28600065402310x.shtml?psid=113243311195464845528463976&entinfo=28600065402310_0' onclick="clickLog('from=pc_list_lipinxianhua_xinxi_commoninfo_danyang');" target="_blank" class="t" >
+			丹阳市区庆典开业花篮市区免费送货上门玫瑰百合
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='484' -->
+		    	        		<br />
+												丹阳市区庆典开业花篮市区免费送货上门玫瑰百合，专业庆典开业花篮全国连锁...
+				(01-03)
+							<p class="seller">
+					依米网络
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28600065402310' wltMark="0" param="28600065402310_45112571_0_commoninfo_832B63155E1AD4A829ECF04755F125E4"  data-j4fe="18006652003,丹阳开业花篮" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28600065402310&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td></tr>											<tr logr='q_2_44867086724117_688048039386148864_4' infotag="688048039386148864_adsumplayinfo">
+		<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_adsumplayinfo_tupian&entityId=688048039386148864&entityType=3&psid=113243311195464845528463976');">
+			<div>
+				<a href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsLwWIAC8PH9draOWUvYKnHD1nWE1n1DQnHbdPjmYrjEdPHc3Pjm1rH0vTHEYrjmLnj9vP1cYnHDLTHDKPW93njE3njnOn19vnHE3rjmYTHDknTDQnjTKrjEOnkDvPj9KnHEOnHcLrjEzn1NdPEDQTyQG0LwBULwYUvYKnEDQTRDKsHDKTHTKnkDKuh7_0vNKnhEOnycYrHcVmWD1PaYYryuWsyDvnHDVuyuBnynkPAnYPvF-THnQnjDQrj9QTHckn1EQPW93nHcLnjTQP9DKrjEOnkDvPj9KnEDKTEDKpZwY0jCfsvw6UM-6Uh08PH98mvqVsvQG0A-8XA-6Uh6dmitKUMR_UTDznHD8nHNOsWDvPa3QrjnKnTDkTiYKuAuWPvcQPjPhm1m1nhFbu9&adact=4&psid=113243311195464845528463976&entinfo=688048039386148864_3' target="_blank" rel="nofollow">
+				<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://t1.58cdn.com.cn/bidding/tiny/n_v1bkujjd7dp6nvrbe6qeqa.jpg'/>
+								</a>
+			</div>
+		</td>
+		<td class="t">
+			<div class="tdiv">
+				<a href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsLwWIAC8PH9draOWUvYKnHD1nWE1n1DQnHbdPjmYrjEdPHc3Pjm1rH0vTHEYrjmLnj9vP1cYnHDLTHDKPW93njE3njnOn19vnHE3rjmYTHDknTDQnjTKrjEOnkDvPj9KnHEOnHcLrjEzn1NdPEDQTyQG0LwBULwYUvYKnEDQTRDKsHDKTHTKnkDKuh7_0vNKnhEOnycYrHcVmWD1PaYYryuWsyDvnHDVuyuBnynkPAnYPvF-THnQnjDQrj9QTHckn1EQPW93nHcLnjTQP9DKrjEOnkDvPj9KnEDKTEDKpZwY0jCfsvw6UM-6Uh08PH98mvqVsvQG0A-8XA-6Uh6dmitKUMR_UTDznHD8nHNOsWDvPa3QrjnKnTDkTiYKuAuWPvcQPjPhm1m1nhFbu9&adact=3&psid=113243311195464845528463976&entinfo=688048039386148864_3' onclick="clickLog('from=pc_list_lipinxianhua_xinxi_adsumplayinfo_danyang');" target="_blank" class="t" rel="nofollow" name='688048039386148864'>开业花篮<b style="color:red;">丹阳</b>鲜花店鲜花速递订花送花预定花店1小时送</a>
+				<span class="jingpin"></span>
+								<!-- cxsjstate='false',dispCateID='484' -->
+				
+				            		           					<br /> 
+				<div> 
+																开业花篮,生日鲜花,玫瑰,百合,鲜花礼盒,蛋糕,桌花,母亲节
+														</div>
+                <p class="seller">
+						<a href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsLIlIa3drjN3shPfUiqYsLNYPj9vP1T3PW0zPjDQPzqknHTknEDQnHnzPjn1nHDQrHNYPWE3PjNdnW9YPWnOP1mKPjE3PW0krjmLnWEQnH0KnEDvrj9kPj9kn1b1rjmQPj93PWEKnHTkTHDknTD3Pjb1THmYrTDQPjbQnW03Pjc1PHNdTHDKUA-1IAFfIZwfUEDQTHDKNEDVnEDKnTD1TE7hmyQ1uEDzujbQmWEOnBdBnHnYsHEOuhnVmHmQnid-uhcQm1TYm1ELmhNKn1DknHD3rjDKnWT1PjDvrj9QnW0knjDvTED3Pjb1THmYrTDQTEDKTE7CIZwkrBtfuA78Xy78uz3draOWUvYfUA-kpyO3py78pZR6sk78IyQ_THcQni3QPHb8nHmYsWD3nkDkTHTKsE7BPvEknj9kmyEvuj7BPj7B&adact=5&psid=113243311195464845528463976&entinfo=688048039386148864_3' onClick="clickLog('from=List_wangzhan&entityId=688048039386148864&entityType=3&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow" >同城鲜花蛋糕优选推荐</a>	
+				</p>
+    		</div>
+    	</td>
+		<td   class="tdp" >
+    </td>    	<td class="vertop">
+									<div class="yuyue_vertop " data-id='688048039386148864' wltMark="2" param="688048039386148864_44867086724117_3_adsumplayinfo_926A202668C8227991DC511E4009E295" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("http://jump.zhineng.58.com/jump?target=pZwY0jCfsLwWIAC8PH9draOWUvYKnHD1nWE1n1DQnHbdPjmYrjEdPHc3Pjm1rH0vTHEYrjmLnj9vP1cYnHDLTHDKPW93njE3njnOn19vnHE3rjmYTHDknTDQnjTKrjEOnkDvPj9KnHEOnHcLrjEzn1NdPEDQTyQG0LwBULwYUvYKnEDQTRDKsHDKTHTKnkDKuh7_0vNKnhEOnycYrHcVmWD1PaYYryuWsyDvnHDVuyuBnynkPAnYPvF-THnQnjDQrj9QTHckn1EQPW93nHcLnjTQP9DKrjEOnkDvPj9KnEDKTEDKpZwY0jCfsvw6UM-6Uh08PH98mvqVsvQG0A-8XA-6Uh6dmitKUMR_UTDznHD8nHNOsWDvPa3QrjnKnTDkTiYKuAuWPvcQPjPhm1m1nhFbu9&adact=2&nojump=1");clickLog("from=huangye_list_lianxi&entityId=688048039386148864&entityType=3&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td>	</tr>
+														<tr logr='q_1_29187269810690_22614202339492_4' infotag="22614202339492_adsumplayinfo">
+		<td class="img" onclick="clickLog('from=pc_list_lipinxianhua_xinxi_adsumplayinfo_tupian&entityId=22614202339492&entityType=0&psid=113243311195464845528463976');">
+			<div>
+				<a href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvw6UM-6Uh08PH98mvqVsvQG0A-8XA-6Uh6dmitznWmQPjcknWn1rHEOnM980v6YUykKnHD1nWE1n1DQnHbdPjmYrjEdPHc3Pjm1rH0vTHcOnH9LnWmOrjDkPWbkTHDKnWcvnHEznjc1n1bYrHcKnWNkTHDvPED3Pjb1THmYrTDQPjbQnW03Pjc1PHNdTHcKUA-1IAFfIZwfUEDQTHDKNEDVnEDKnTDkTE7hmyQ1uEDQuW9YnynLriYzPj9YsHwBPjEVmWwBnzYkuHI-mycduhD1PAmKnHndP1DznWbKnHNzn1bznWnkrjbvPWNvTED3Pjb1THmYrTDksWmLTEDKTE7CIZwkrBtfuA78Xy78uz3draOWUvYfUA-kpyO3py78pZR6sk78IyQ_THcQni3QPHb8nHmYsWD3nkDkTHTKsE7BPjEvrj6-nvD3rHK-nj0L&adact=4&psid=113243311195464845528463976&entinfo=22614202339492_0' target="_blank" rel="nofollow">
+				<img src="http://img.58cdn.com.cn/n/images/list/noimg.gif" lazy_src='http://t1.58cdn.com.cn/bidding/tiny/n_v1bkuyfvjxfkrvlyuiwadq.jpg'/>
+								</a>
+			</div>
+		</td>
+		<td class="t">
+			<div class="tdiv">
+				<a href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvw6UM-6Uh08PH98mvqVsvQG0A-8XA-6Uh6dmitznWmQPjcknWn1rHEOnM980v6YUykKnHD1nWE1n1DQnHbdPjmYrjEdPHc3Pjm1rH0vTHcOnH9LnWmOrjDkPWbkTHDKnWcvnHEznjc1n1bYrHcKnWNkTHDvPED3Pjb1THmYrTDQPjbQnW03Pjc1PHNdTHcKUA-1IAFfIZwfUEDQTHDKNEDVnEDKnTDkTE7hmyQ1uEDQuW9YnynLriYzPj9YsHwBPjEVmWwBnzYkuHI-mycduhD1PAmKnHndP1DznWbKnHNzn1bznWnkrjbvPWNvTED3Pjb1THmYrTDksWmLTEDKTE7CIZwkrBtfuA78Xy78uz3draOWUvYfUA-kpyO3py78pZR6sk78IyQ_THcQni3QPHb8nHmYsWD3nkDkTHTKsE7BPjEvrj6-nvD3rHK-nj0L&adact=3&psid=113243311195464845528463976&entinfo=22614202339492_0' onclick="clickLog('from=pc_list_lipinxianhua_xinxi_adsumplayinfo_danyang');" target="_blank" class="t" rel="nofollow" name='22614202339492'>丹阳鲜花，昆明花材，高品质配送，教师节鲜花预定</a>
+				<span class="jingpin"></span>
+								<!-- cxsjstate='false',dispCateID='484' -->
+				
+				            		           					<br /> 
+				<div> 
+																品质配送
+														</div>
+                <p class="seller">
+						<a href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsLIlIa3drjN3shPfUiqYsLNzrHD3P1cvrH9QnjmOnaqknHTknEDQnHnzPjn1nHDQrHNYPWE3PjNdnW9YPWnOP1mKnWbQrj0zPWb3nHTvrHTKnEDznWmQPjcknWn1rHEOn9DzPHTKnHmdTH9YrHnKPWE3THDYrHDzP19YnWndPHNKn97_pgPYmhqYIAqVTHDKnE7wTiYQTEDkTHTKTyu6UZP-TH7hrjEQm10OsHcYrjEVPAcYPadBPAc1sHK-PvR6mWRhmHnYu9DQn1NLnHczrEDQPHc1rHczn1T3rHmvPHmKTH9YrHnKPWE3THT8PW0KTEDKTy6YIZTlszqbmyOOmyOMsWN3shPfUiq_pgKGUM6GmyOCIyDfTyOdUAkKnWDQsWDdri3QPWE8nH91THTKnTDVTHbvnj9YPHN3nAcLuH9OnHT&adact=5&psid=113243311195464845528463976&entinfo=22614202339492_0' onClick="clickLog('from=List_wangzhan&entityId=22614202339492&entityType=0&psid=113243311195464845528463976');" target='_blank' class='u' rel="nofollow" >昆明恒锐电子商务有限公司</a>	
+				</p>
+    		</div>
+    	</td>
+		<td   class="tdp" >
+    </td>    	<td class="vertop">
+									<div class="yuyue_vertop " data-id='22614202339492' wltMark="0" param="22614202339492_29187269810690_0_adsumplayinfo_7B7D98D3663DC4B75B5A7246EBC151A0" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("http://jump.zhineng.58.com/jump?target=pZwY0jCfsvw6UM-6Uh08PH98mvqVsvQG0A-8XA-6Uh6dmitznWmQPjcknWn1rHEOnM980v6YUykKnHD1nWE1n1DQnHbdPjmYrjEdPHc3Pjm1rH0vTHcOnH9LnWmOrjDkPWbkTHDKnWcvnHEznjc1n1bYrHcKnWNkTHDvPED3Pjb1THmYrTDQPjbQnW03Pjc1PHNdTHcKUA-1IAFfIZwfUEDQTHDKNEDVnEDKnTDkTE7hmyQ1uEDQuW9YnynLriYzPj9YsHwBPjEVmWwBnzYkuHI-mycduhD1PAmKnHndP1DznWbKnHNzn1bznWnkrjbvPWNvTED3Pjb1THmYrTDksWmLTEDKTE7CIZwkrBtfuA78Xy78uz3draOWUvYfUA-kpyO3py78pZR6sk78IyQ_THcQni3QPHb8nHmYsWD3nkDkTHTKsE7BPjEvrj6-nvD3rHK-nj0L&adact=2&nojump=1");clickLog("from=huangye_list_lianxi&entityId=22614202339492&entityType=0&psid=113243311195464845528463976")'>免费预约</a></span>
+		</div>
+	
+</td>	</tr>
+				</table>								<!-- =E infolist -->
+					<div id="gjwb_bottom_jz_ad"></div>
+	<div id="bottom_google_ad"></div>
+<div class="pager" >
+	 <strong><span>1</span></strong><a href="/lipinxianhua/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>2</span></a><a href="/lipinxianhua/pn3/" onClick="clickLog('from=huangye_list_fanye_3');"><span>3</span></a><a href="/lipinxianhua/pn4/" onClick="clickLog('from=huangye_list_fanye_4');"><span>4</span></a><a href="/lipinxianhua/pn5/" onClick="clickLog('from=huangye_list_fanye_5');"><span>5</span></a><a href="/lipinxianhua/pn6/" onClick="clickLog('from=huangye_list_fanye_6');"><span>6</span></a><a href="/lipinxianhua/pn7/" onClick="clickLog('from=huangye_list_fanye_7');"><span>7</span></a><a href="/lipinxianhua/pn8/" onClick="clickLog('from=huangye_list_fanye_8');"><span>8</span></a><a href="/lipinxianhua/pn9/" onClick="clickLog('from=huangye_list_fanye_9');"><span>9</span></a><a href="/lipinxianhua/pn10/" onClick="clickLog('from=huangye_list_fanye_10');"><span>10</span></a><a href="/lipinxianhua/pn11/" onClick="clickLog('from=huangye_list_fanye_11');"><span>11</span></a><a href="/lipinxianhua/pn12/" onClick="clickLog('from=huangye_list_fanye_12');"><span>12</span></a><a class="next" href="/lipinxianhua/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>下一页</span></a>
+</div>
+<div id="infocont">
+	<!--当是健康答疑时，链接变为提问-->
+										<a target="_blank" rel="nofollow" href="http://post.58.com/648/8493/s5" onclick="clickLog('pc_list_lipinxianhua_bottom_fabu');" >马上发布一条鲜花绿植信息&raquo;</a>
+						</div>
+<!--医疗健康判断-->
+		<div id="direct_ad_bottom" onclick="clickLog('from=pc_list_lipinxianhua_bottom_zhineng1');"  ></div>
+	<div id="bottom_zhaoshangjiameng_ad" onclick="clickLog('from=pc_list_lipinxianhua_bottom_tuiguang2');"  ></div>
+
+			</div>
+			<div id="rightframe" class="cright">
+	
+
+			<div class="tuijian" id="ylad" style="display:none"></div>
+												<div class="brand_md_tit"><h3><i class="brand_md_tit_i1"></i>名店推荐<i class="brand_md_tit_i2"></i></h3></div>
+	<div id="brand_md"><div id="ad19"  style="display:none"></div></div>
+	<script>
+		$("#brand_md").bind("bindBrandEvent",function(){ 
+            if($('.brand_md200').length > 0){
+				$('.brand_md_tit').show();
+			}
+        }); 
+	</script>
+	</div>	    </section>
+		<div id="wangmeng_list_bottom_ditong" onclick="clickLog('from=pc_list_lipinxianhua_bottom_tuiguang3');"   ></div><section id="links">
+<i class="linksTopline"></i>
+	<!-- =S friendtips -->
+	<dl id="friendtips" class="linksItem friendtips"><dt class="b-left">丹阳鲜花绿植介绍：</dt>
+<dd class="b-right">58同城丹阳鲜花绿植频道是丹阳最大的鲜花绿植信息免费发布查询平台，免费提供礼品、花店地址电话等多种类别的丹阳鲜花绿植相关信息，感谢您选择<a href=http://www.58.com/hyzt/lipinxianhua/ target=_blank>鲜花绿植</a>信息平台。有疑问请<a href=http://about.58.com/v5/ target=_blank>与客服对话</a>，手机版请访问<a href=http://m.58.com/danyang/lipinxianhua/>丹阳鲜花速递</a></dd>
+</dl>
+	<!-- =E friendtips -->
+	<!-- =S relate  -->
+					<!-- =E relate -->
+	<!-- =S relatelink allshangquan-->
+		 	<!-- =E relatelink -->
+	<!-- =S bottomlink-->
+	            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+				鲜花绿植- 相关类别：
+			</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://www.58.com/hyzt/banjia/'>搬家公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zhongdiangong/'>钟点工</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/baomu/'>家政公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/baojie/'>保洁公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/weixiu/'>电脑维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/dianqi/'>家电维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shoujiweixiu/'>手机维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/fangweixiu/'>房屋维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/songshui/'>跑腿配送</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/kaisuo/'>开锁公司</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiajuweixiu/'>家具维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/lipinxianhua/'>鲜花速递</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/yuesao/'>找月嫂</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shutong/'>管道疏通</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zhuangxiujc/'>装修建材</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiaoyu/'>教育培训</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/hunjiehunqing/'>婚庆摄影</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/qichefw/'>汽车服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shop/'>批发采购</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shenghuo/'>家政服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shangwu/'>商务服务</a></li>
+        		        		<li><a href='http://www.58.com/ppbhyzt1/'>黄页大全</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+		<!-- =E bottomlink -->
+	<!-- =S hotcity-->
+	    <!-- =S hotcity -->
+            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+					鲜花绿植- 热门城市：
+					</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://bj.58.com/lipinxianhua/'>北京鲜花速递</a></li>
+        		        		<li><a href='http://sh.58.com/lipinxianhua/'>上海鲜花速递</a></li>
+        		        		<li><a href='http://gz.58.com/lipinxianhua/'>广州鲜花速递</a></li>
+        		        		<li><a href='http://sz.58.com/lipinxianhua/'>深圳鲜花速递</a></li>
+        		        		<li><a href='http://tj.58.com/lipinxianhua/'>天津鲜花速递</a></li>
+        		        		<li><a href='http://hz.58.com/lipinxianhua/'>杭州鲜花速递</a></li>
+        		        		<li><a href='http://wh.58.com/lipinxianhua/'>武汉鲜花速递</a></li>
+        		        		<li><a href='http://xa.58.com/lipinxianhua/'>西安鲜花速递</a></li>
+        		        		<li><a href='http://cd.58.com/lipinxianhua/'>成都鲜花速递</a></li>
+        		        		<li><a href='http://zz.58.com/lipinxianhua/'>郑州鲜花速递</a></li>
+        		        		<li><a href='http://cs.58.com/lipinxianhua/'>长沙鲜花速递</a></li>
+        		        		<li><a href='http://nj.58.com/lipinxianhua/'>南京鲜花速递</a></li>
+        		        		<li><a href='http://hrb.58.com/lipinxianhua/'>哈尔鲜花速递</a></li>
+        		        		<li><a href='http://sy.58.com/lipinxianhua/'>沈阳鲜花速递</a></li>
+        		        		<li><a href='http://su.58.com/lipinxianhua/'>苏州鲜花速递</a></li>
+        		        		<li><a href='http://sjz.58.com/lipinxianhua/'>石家庄鲜花速递</a></li>
+        		        		<li><a href='http://dl.58.com/lipinxianhua/'>大连鲜花速递</a></li>
+        		        		<li><a href='http://qd.58.com/lipinxianhua/'>青岛鲜花速递</a></li>
+        		        		<li><a href='http://jn.58.com/lipinxianhua/'>济南鲜花速递</a></li>
+        		        		<li><a href='http://cq.58.com/lipinxianhua/'>重庆鲜花速递</a></li>
+        		        		<li><a href='http://cy.58.com/lipinxianhua/'>朝阳鲜花速递</a></li>
+        		        		<li><a href='http://fx.58.com/lipinxianhua/'>阜新鲜花速递</a></li>
+        		        		<li><a href='http://yb.58.com/lipinxianhua/'>宜宾鲜花速递</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/lipinxianhua/'>鲜花速递</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+	<!-- =E hotcity --> 	<!-- =E hotcity -->
+	<!-- =S friendlink-->
+					<!-- =E friendlink -->
+</section>
+	<footer id="footer" class="footer">
+	    <div id="upWrap"> <a target="_blank" href="http://about.58.com/help.html" rel="nofollow">常见问题</a><span>|</span> <a target="_blank" href="http://about.58.com/" rel="nofollow">帮助中心</a><span>|</span> <a target="_blank" href="http://about.58.com/feedback.html" rel="nofollow">意见反馈</a><span>|</span> <a target="_blank" href="http://about.58.com/home/" rel="nofollow">了解58同城</a><span>|</span> <a target="_blank" href="http://about.58.com/hr/" rel="nofollow">加入58同城</a><span>|</span> <a target="_blank" href="http://fanqizha.58.com/" rel="nofollow">反欺诈联盟</a><span>|</span> <a target="_blank" href="http://110.58.com" rel="nofollow">报案平台</a><span>|</span> <a target="_blank" href="http://e.58.com" rel="nofollow">推广服务</a><span>|</span> <a target="_blank" href="http://biz.58.com" rel="nofollow">渠道招商</a><span>|</span> <a target="_blank" href="http://baozhang.58.com" rel="nofollow">先行赔付</a><span>|</span> <a target="_blank" href="http://ir.58.com?PGTID=0d100000-0000-13da-8041-51f9a3a739fa&amp;ClickID=2" rel="nofollow">Investor Relations</a> </div>
+	    <div id="downWrap"> <em>2005-2016 58.com版权所有</em><span>|</span> <em>京公网备案信息110105000809</em><span>|</span> <a target="_blank" href="http://www.miibeian.gov.cn/" rel="nofollow">京ICP证060405</a><span>|</span><em>乙测资字11018014</em><span>|</span> <a target="_blank" href="http://ir.58.com" rel="nofollow">Investor Relations</a><span>|</span><em>违法信息举报：4008135858&nbsp;&nbsp;jubao@58ganji.com</em> </div>
+	    <div class="fotBtmIcon">
+	        <a target="_blank" id="fotBm_1" href="http://fanqizha.58.com"></a>
+	        <a target="_blank" id="fotBm_2" href="http://www.12377.cn/"></a>
+	        <a target="_blank" id="fotBm_3" href="http://www.12377.cn/node_548446.htm"></a>
+	        <a target="_blank" id="fotBm_4" href="https://credit.szfw.org/CX20120918001650001720.html"></a>
+	        <a target="_blank" id="fotBm_5" href="http://img.58cdn.com.cn/ui6/index/qyxinyong.jpg?v=3"></a>
+	        <a target="_blank" id="fotBm_6" href="http://about.58.com/fqz/index.html"></a>
+	    </div>
+	</footer>
+<script>
+	var currentDate = new Date();
+</script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfc_v20160418145051.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfcInit_v20161121150119.js'></script>
+<script>
+	var jingzhun_ads = [{"creative_title":"丹阳鲜花，昆明花材，高品质配送，教师节鲜花预定","title":"昆明恒锐电子商务","expand_field":"b","area":"丹阳-丹阳市区","creative_describe":"品质配送","target_url":"http://jump.zhineng.58.com/jump?target=pZwY0jCfsvw6UM-6Uh08PH98mvqVsvQG0A-8XA-6Uh6dmitznWmQPjcknWn1rHEOnM980v6YUykKnHD1nWE1n1DQnHbdPjmYrjEdPHc3Pjm1rH0vTHcOnH9LnWmOrjDkPWbkTHDKnWcvnHEznjc1n1bYrHcKnWNkTHD1n9D3Pjb1THmYrTDQPjbQnW03Pjc1PHNdTHDK0h-MpZwx0h78pkDQTHDKNEDVnEDKnTDkTE7hmyQ1uEDvuywBPWP-rad-rAnzsHEkn10VrAD1nzY1uHwhm191nHP-PAEKnHndP1DznWbKnHNzn1bznWnkrjbvPWNvTED3Pjb1THmYrTDksWmLTEDKTE7CIZwkrBtfuA78Xy78uz3draOWUvYfUA-kpyO3py78pZR6sk78IyQ_THcQni3QPHb8nHmYsWD3nkDkTHTKsE7BP19zujmdnvDOm1b1rARB","pic_url":"http://t1.58cdn.com.cn/bidding/tiny/n_v1bkuyfvjxfkrvlyuiwadq.jpg","top":"2"},{"creative_title":"开业花篮丹阳鲜花店鲜花速递订花送花预定花店1小时送达A","title":"同城鲜花蛋糕优选推荐","expand_field":"b","area":"丹阳","creative_describe":"开业花篮,生日鲜花,玫瑰,百合,鲜花礼盒,蛋糕,桌花,母亲节","target_url":"http://jump.zhineng.58.com/jump?target=pZwY0jCfsLwWIAC8PH9draOWUvYKnHD1nWE1n1DQnHbdPjmYrjEdPHc3Pjm1rH0vTHEYrjmLnj9vP1cYnHDLTHDKPW93njE3njnOn19vnHE3rjmYTHDknTDOrED3Pjb1THmYrTDQPjbQnW03Pjc1PHNvTHcK0h-MpZwx0h78pkDQTHDKNEDVnEDKnTD1TE7hmyQ1uE76rAN1uHTzmzd-PH-WsHEduHDVrAFhuiYvnjmQPHm1mWPBPvnKn1DknHD3rjDKnWT1PjDvrj9QnW0knjDvTED3Pjb1THmYrTDQTEDKTE7CIZwkrBtfuA78Xy78uz3draOWUvYfUA-kpyO3py78pZR6sk78IyQ_THcQni3QPHb8nHmYsWD3nkDkTHTKsED1PyRBnjm1mW0QPWE1Pj9O","pic_url":"http://t1.58cdn.com.cn/bidding/tiny/n_v1bkujjd7dp6nvrbe6qeqa.jpg","top":"2"},{"creative_title":"丹阳鲜花，昆明花材，高品质配送，教师节鲜花预定","expand_field":"b","creative_describe":"品质配送","target_url":"http://jump.zhineng.58.com/jump?target=pZwY0jCfsvw6UM-6Uh08PH98mvqVsvQG0A-8XA-6Uh6dmitznWmQPjcknWn1rHEOnM980v6YUykKnHD1nWE1n1DQnHbdPjmYrjEdPHc3Pjm1rH0vTHcOnH9LnWmOrjDkPWbkTHDKnWcvnHEznjc1n1bYrHcKnWNkTHD1n9D3Pjb1THmYrTDQPjbQnW03Pjc1PHNvTHDK0A7MugFdUhw-09DQTHDKNEDVnEDKnTDkTE7hmyQ1uEDYrAFWPvFbmzd-njI-sHwhn10VmH0vmiYdujDLnyEznvDQPWbKnHndP1DznWbKnHNzn1bznWnkrjbvPWNvTED3Pjb1THmYrTDksWmLTEDKTE7CIZwkrBtfuA78Xy78uz3draOWUvYfUA-kpyO3py78pZR6sk78IyQ_THcQni3QPHb8nHmYsWD3nkDkTHTKsE7WuHNkmhmOnjD3Pj9YmWEv","pic_url":"http://t1.58cdn.com.cn/bidding/tiny/n_v1bkuyfvjxfkrvlyuiwadq.jpg","top":"3"},{"creative_title":"开业花篮丹阳鲜花店鲜花速递订花送花预定花店1小时送达A","expand_field":"b","creative_describe":"开业花篮,生日鲜花,玫瑰,百合,鲜花礼盒,蛋糕,桌花,母亲节","target_url":"http://jump.zhineng.58.com/jump?target=pZwY0jCfsLwWIAC8PH9draOWUvYKnHD1nWE1n1DQnHbdPjmYrjEdPHc3Pjm1rH0vTHEYrjmLnj9vP1cYnHDLTHDKPW93njE3njnOn19vnHE3rjmYTHDknTDOrED3Pjb1THmYrTDQPjbQnW03Pjc1PHNvTHcK0A7MugFdUhw-09DQTHDKNEDVnEDKnTD1TE7hmyQ1uEDzPyEvPjKBrad-P1bLsHwWuHmVryDLPid6PA7-PWNLuynLrjNKn1DknHD3rjDKnWT1PjDvrj9QnW0knjDvTED3Pjb1THmYrTDQTEDKTE7CIZwkrBtfuA78Xy78uz3draOWUvYfUA-kpyO3py78pZR6sk78IyQ_THcQni3QPHb8nHmYsWD3nkDkTHTKsE76uWbzn19YmvczrjEknWwh","pic_url":"http://t1.58cdn.com.cn/bidding/tiny/n_v1bkujjd7dp6nvrbe6qeqa.jpg","top":"3"}];
+	var jingzhun_ads_param = "";
+</script>
+
+				<script type="text/javascript" src='http://j1.58cdn.com.cn/js/5_1/comm_js/boot_listpage_version_v20170329165708.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript">
+document.domain = '58.com';
+var win = new GetToolTipWindow('tooltipdiv', 'keyword', '3','648','', true);win.setSearchButton('searchbtn');
+var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','648','');win1.setSearchButton('searchbtn1');
+var win2 = new GetToolTipWindow('tooltipdiv2', 'mudidi', '7', '648', '');win2.setSearchButton('searchbtn1');
+boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'danyang');});
+</script>
+
+<script type="text/javascript" >
+// JavaScript Document
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	toggle(".p-help");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".small-tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+
+$("#shangmenfw a").each(function(){
+	if("到店服务"== $(this).text().trim()){
+		$(this).remove();
+	}
+});
+
+BAIDU_CLB_fillSlot("567863");
+
+var alldt = $("#relateSelect>dt");
+function showNear(dt){
+    alldt.each(function(){
+        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+        else {$(this).next("dd").hide();$(this).removeClass("select");}
+    });
+}
+alldt.each(function(){
+    $(this).click(function(){showNear(this);}).hover(function(){showNear(this);});
+});
+
+showNear(alldt[0]);
+
+  
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+$(".selector").each(function(){
+	$(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+});
+
+</script>
+
+<div style="display:none;">
+<script type="text/javascript">
+ var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3bb04d7a4ca3846dcc66a99c3e861511' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+</div>
+
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+
+
+			<script type="text/javascript" src='http://j1.58cdn.com.cn/js/v8/boot/boot_huangye_v20170329172410.js'>
+		</script>
+		<script>
+			require(['_pkg/huangye/huangye_shenghuo_list_dom'],function(){});
+		</script>
+	
+<script src="http://track.58.com/adsys/ggafs?rand=20170404"></script>
+<script>
+//统计埋点
+$(function(){
+	$('dl.secitem').each(function(){
+	    var idname = $(this).find("dd").eq(0).attr('id');
+		$(this).find('a').not('span a').each(function(){
+			$(this).click(function(){
+				clickLog('from=pc_list_lipinxianhua_shaixuan_'+idname+ '_danyang');
+		    });		
+		});	
+    });	
+})
+</script>
+<script type="text/javascript">
+    $("#more_ObjectType").click(function(){
+    	console.log("ok");
+    	var showmoreBrand = document.getElementById("moreBrandct"),moreBrandbtn = document.getElementById("moreBrandbtn");
+	    showmoreBrand.style.display = (showmoreBrand.style.display=="block")?"none":"block";
+	    moreBrandbtn.className = (moreBrandbtn.className=="moreBrand")?"moreBrand hold":"moreBrand";
+    });
+    var pemorealldt = $("#moreBrandct dt");
+	function showpemorecon(dt){
+		pemorealldt.each(function(){
+		    if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+            else {$(this).next("dd").hide();$(this).removeClass("select");}
+        });
+    }
+    pemorealldt.each(function(){
+		$(this).click(function(){showpemorecon(this);}).hover(function(){showpemorecon(this);});
+    });
+    showpemorecon(pemorealldt[0]);
+</script>
+		<script type="text/javascript">
+function cpcget(url){
+	$.ajax({
+		url:url,
+		type:"get",
+		dataType:"jsonp",
+		success:function(data){
+		
+        }
+    });	
+}
+</script>					<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e15962162366a86a6229038443847be7";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div style="display:none">
+	<!--基本统计代码begin(8493,0)--by:zhanghao06-->
+<script type="text/javascript">
+____json4fe.supplycount = {sortid:'22614202339492'};
+var _gaq = _gaq || [],site_name = "58",post_count = "2195",shop_count= "",page_type = "list";
+var _trackURL = "{'cate':'8512,8493','area':'648','pagetype':'list','GA_pageview':'/danyang/shenghuo/lipinxianhua/listversion/','version':'A','pagesize':'35','pagenum':'1','level1':'','level2':'','level3':'','level4':'','level5':'','level6':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/danyang/shenghuo/lipinxianhua/listversion/']);
+
+$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+<!--基本统计代码end-->
+</div>
+<script src="http://wechat.58.com/google-analytics"></script> 				<!-- 抢单神器下线-->
+				<!-- 抢单神器下线-->
+		<!-- 装修搜索弹窗  S -->
+				<!-- 招标弹框start -->
+<link rel="stylesheet" href='http://c.58cdn.com.cn/ds/zhaobiao/pc_search_win/list_win_zb_v20161010135135.css' />
+<script src="http://j1.58cdn.com.cn/ds/zhaobiao/v1/js/fastpost/jquery.md5.js"></script>
+<script>
+ var cityid=648;
+</script>
+
+        <!-- 招标弹框end -->
+
+
+				<!-- 装修搜索弹窗  E -->
+		<!-- 前置登陆  s -->
+				<!-- 前置登陆  e -->
+	</body>
+</html>

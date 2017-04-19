@@ -1,0 +1,1386 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+												<!--  当前的类别归属ID--> 
+		<!--  当前的类别表现ID--> 
+		<!--  当前的类别listname (eg:banjia)--> 
+		<!--  当前的类别catename (eg:搬家)--> 
+		<!--  一级类别归属ID--> 
+		<!--  一级类别表现ID--> 
+		<!--  一级类别listname eg:jiazheng--> 
+		<!--  一级类别catename eg:家政--> 
+		<!--  二级类别归属ID [Ljava.lang.Integer;@408b48d2 数字长度：2--> 
+			<!--  二级类别表现ID--> 
+				<!--  二级类别listname eg:jiazhuang--> 
+				<!--  二级类别catename eg:家装-->
+				<!-- 表现类别的全路径   eg:8512,96-->
+									
+						<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>【58同城】阳江手机维修点_阳江手机维修店</title>
+	<meta name="description" content='58同城精选数千家最专业的阳江手机维修点信息，向阳江地区的用户提供各区县最新、最齐全、价格最合理的阳江手机维修网点电话及价格等详细信息，是您在阳江找最好的手机维修服务最明智的选择。'/>
+	<meta name="keywords" content='手机维修,阳江手机维修点,阳江手机维修店'/>
+	<meta http-equiv="X-UA-Compatible" content="edge" />
+		<meta name="location" content="province=广东;city=阳江;coord=111.97701,21.871517">
+				<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/yj/shoujiweixiu/" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/yj/shoujiweixiu/" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/yj/shoujiweixiu/" />
+					<script type="text/javascript">
+		var ____loadCfg = ['huangye', 'shenghuo', 'listpage'];
+	</script>
+	<script src='http://j2.58cdn.com.cn/js/require_jquery_load.js'></script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">document.write('<scri'+'pt src="http://j1.58cdn.com.cn/ds/tgbrand/js/brand_listpage_v1.js?temp=' + Math.random() + '"></scri'+'pt>');</script> 
+<script type="text/javascript">
+	var xxfwConfig = {namespace:'huangyelistpc'};
+</script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/resource/xxzl/xxfw/xxfw.min_v20161021110430.js'></script>
+
+<script type="text/javascript">
+try{
+	var ____json4fe = {"catentry":[{"dispid":"8512","name":"家政服务","listname":"shenghuo"},{"dispid":"710","name":"手机维修","listname":"shoujiweixiu"}],"locallist":[{"dispid":"2284","name":"阳江","listname":"yj"}],"start":(new Date()).getTime(),"modules":"list"};
+	____json4fe.version = 'A';
+	____json4fe.modules = 'listpage';
+	____json4fe.sid = '139258622195335449903795088';
+	____json4fe.sessionid = 'e1af2ad8-2df4-46f8-8cf0-6f32b57793fc';
+	____json4fe.smsc = '3f2dd2de9529e6335d65f10e4c37c1e6918ff8a5b1d066adfefdf87c56a3586ac2bb4b6089234f6858de19f58ca263c37f427c49a0f940a47441b3a5f981318fa566f8025af845c8ffb67fe67bdcd914270dd90f4ca25a3d70cc8d60460f5150d29359830917de5a27861144f65ae295d88e7b9cf9830741861f369a84924ea2e4110c3c62e2ee1847ec4d27356d4bd8ab8cdebf309e1264';
+	____json4fe.newcateid='';
+	____json4fe.keyword='';
+	____json4fe.page='1';
+	____json4fe.param='';
+	}catch(e){};
+	(function(){
+var e = "header,nav,section,aside,article,footer".split(','),
+i=0,
+length=e.length;
+while(i<length){
+    document.createElement(e[i++])
+}
+})();
+	var ajax_param = '{"pageIndex":1,"infoMethod":["renzheng","baojia","wltAge"],"platform":"pc","paramMap":null,"dispCateId":710,"dataParam":"20803849839489_28948150027778_0_commoninfo,27074784630220_21542343811335_0_commoninfo,24643760891581_21807795735303_0_commoninfo,24384173711032_15778441751046_0_commoninfo,28486365506605_47980626_0_commoninfo,28134503285577_2390486112262_0_commoninfo,27983451107756_57890195_0_commoninfo,27780455383998_41593232005901_0_commoninfo,27704723751869_15349081794055_0_commoninfo,27686251952843_30238311734796_0_commoninfo,26778978787916_28125859219462_0_commoninfo,26564277823537_39825163965970_0_commoninfo,26428166670277_34480611985419_0_commoninfo,26292667231158_19840246936839_0_commoninfo,26219947000891_25921495382790_0_commoninfo,26208342528973_35641613987094_0_commoninfo,26107184772521_39449450061070_0_commoninfo,26076714209739_24140698560519_0_commoninfo,28115169089344_2390486112262_0_commoninfo,26778973538744_28125859219462_0_commoninfo,21281941123086_19840246936839_0_commoninfo,24419460854580_19159643440902_0_commoninfo,24099792586809_33677665724172_0_commoninfo,23785223285171_8193417588743_0_commoninfo,23257149217956_33855200699657_0_commoninfo,22614041453198_26797466365958_0_commoninfo,23213861469578_30886316090119_0_commoninfo,23146653123082_24140698560519_0_commoninfo,22967910106634_26032813748743_0_commoninfo,22926831360030_30337104867081_0_commoninfo,22859741666209_7224447414787_0_commoninfo,22813230792862_29742034831882_0_commoninfo,22106163040779_30939009612809_0_commoninfo,21259317523224_25921495382790_0_commoninfo,24078575772595_33677665724172_0_commoninfo","dispCateName":"shoujiweixiu"}';
+	var s_ajax_param = 's_contact_shoujiweixiu_139258622195335449903795088_';
+</script>				<link href='http://c.58cdn.com.cn/ds/v1/base-v1_v0.css' rel="stylesheet" type="text/css">
+<link href='http://c.58cdn.com.cn/ds/v1/common_list_v20170315183710.css' rel="stylesheet" type="text/css">
+
+<link href='http://c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20170117143121.css' rel="stylesheet" type="text/css">
+
+
+		<link href='http://c.58cdn.com.cn/ds/v1/list/defaultList_v20170220190119.css' rel="stylesheet" type="text/css">
+	<!-- <link rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv02_v0.css'> -->
+<link type="text/css" rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03_v20160727171301.css'>
+<!-- <link type="text/css" rel="stylesheet" href="http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03.css"> -->
+
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/dialog_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/release_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/retable_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/weixin/hy_freetel_v20161207184444.css">	
+    		</head>
+			<body class="">
+						<!-- =S top bar header -->
+		<div id="commonTopbar" class="commonTopbar">
+<script type="text/javascript">
+    var secId;
+        ____json4fe.catentry[1]? secId = ____json4fe.catentry[1].dispid : secId = ____json4fe.catentry.dispid;
+    var modules = ____json4fe.modules;
+    //搬家列表页(secId == "96" && modules=="listpage")宽度为1190px
+    if(secId == "96" && modules=="listpage"){
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'default' // default: 1190px, narrow: 1000px
+            });
+        };
+    }else{
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'narrow' // default: 1190px, narrow: 1000px
+            });
+        };
+    }    
+</script>
+</div>
+<!-- =S banner  div -->
+<div class="topbannerbar"><div id="brand_list_top_banner" onclick="clickLog('from=pc_list_shoujiweixiu_top_banner');" ></div></div>
+<!-- =E banner  div--><header id="header">
+    <div class="header-inner">
+    <a class="logo float_l" href="/huangye/" target="_blank" onclick="clickLog('from=pc_list_logo_shoujiweixiu');">58同城</a>
+            <a href='http://post.58.com/2284/710/s5' target="_blank" onclick="clickLog('from=pc_list_fabu_shoujiweixiu');" class="postbtn float_r">免费发布</a>
+        		        <div class="header-search float_r">
+         <em class="ico-searchkey"></em>
+         <form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+         	            	<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();">
+                        <span onMouseOut="this.className='sbtn'" onMouseOver="this.className='sbtn hover'" class="sbtn">
+                			<input type="submit" value="搜服务" onclick="clickLog('from=pc_list_search_shoujiweixiu');" class="but-bl" name="" id="searchbtn1" ></span>
+                		        		<div class="clear"></div>
+        		
+			       		       	  </form>
+       	</div>
+		            <div class="nav float_l" >
+<a href="/">阳江58同城</a> &gt; <a href="/shenghuo.shtml">阳江家政服务</a>
+		 &gt; <a href="/shoujiweixiu/" itemprop="url">阳江手机维修</a>
+
+</div>
+	</div>
+</header>
+	<!-- =E top bar header -->
+	<!-- =S common_column_label-->
+			<!-- =E common_column_label-->
+	<!-- =S searchTip -->
+			<!-- =E searchTip  -->
+	<!-- =s cmcs -->
+							<section id="selection">
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">品牌 ：</dt>
+		<dd id="shoujipinpai" >
+																    		    		    		    					<a href="/shoujiweixiu/" class='select' >全部</a>
+								    		    		    		    					<a href="http://yj.58.com/pgshj/"  >iphone</a>
+								    		    		    		    					<a href="http://yj.58.com/sxshj/"  >三星</a>
+								    		    		    		    					<a href="http://yj.58.com/nokiashj/"  >诺基亚</a>
+								    		    		    		    					<a href="http://yj.58.com/mtllshj/"  >摩托罗拉</a>
+								    		    		    		    					<a href="http://yj.58.com/sashj/"  >索尼爱立信</a>
+								    		    		    		    					<a href="http://yj.58.com/xpshj/"  >夏普</a>
+								    		    		    		    					<a href="http://yj.58.com/lgshj/"  >LG</a>
+								    		    		    		    					<a href="http://yj.58.com/dpdshj/"  >多普达</a>
+								    		    		    		    					<a href="http://yj.58.com/lxshj/"  >联想</a>
+								    		    		    		    					<a href="http://yj.58.com/htcwx/"  >HTC</a>
+								    		    		    		    					<a href="http://yj.58.com/xiaomisjwx/"  >小米</a>
+								    		    		    		    					<a href="http://yj.58.com/meizuwx/"  >魅族</a>
+								    		    		    		    					<a href="http://yj.58.com/heimeiwx/"  >黑莓</a>
+								    		    		    		    					<a href="http://yj.58.com/huaweiwx/"  >华为</a>
+								    		    		    		    					<a href="http://yj.58.com/zhongxingwx/"  >中兴</a>
+								    		    		    		    					<a href="http://yj.58.com/kupaiwx/"  >酷派</a>
+								    		    		    		    					<a href="http://yj.58.com/tianyuwx/"  >天语</a>
+								    		    		    		    					<a href="http://yj.58.com/jinliwx/"  >金立</a>
+																				    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">地址 ：</dt>
+		<dd id="local" >
+																    		    		    		    					<a href="/shoujiweixiu/" class='select' >全阳江</a>
+								    		    		    		    					<a href="/jiangchengqu/shoujiweixiu/"  >江城</a>
+								    		    		    		    					<a href="/yangchunshi/shoujiweixiu/"  >阳春</a>
+								    		    		    		    					<a href="/yangdongxian/shoujiweixiu/"  >阳东</a>
+								    		    		    		    					<a href="/yangxixian/shoujiweixiu/"  >阳西</a>
+								    		    		    		    					<a href="/hailingqu/shoujiweixiu/"  >海陵</a>
+								    		    		    		    					<a href="/gangqiaoqu/shoujiweixiu/"  >岗侨</a>
+								    		    		    		    					<a href="/gaoxinquw/shoujiweixiu/"  >高新区</a>
+																									    	</dd>
+    </dl>
+	<div id="selected" class="bar"></div>
+	<i class="shadow"></i>
+</section>
+
+			<!-- =E cmcs -->
+		<div id="adtop_1" class="hc"><div class="mouter defa"><div class="inner"><div id="md3" class="mdul"></div><ul id="md1" class="mdul"></ul><ul id="md2" class="mdul"></ul><ul id="md4" class="mdul"></ul><ul id="md5" class="mdul"></ul><div class="clear"></div></div></div></div>
+<div class="tabsbar">
+    <div class="list-tabs">
+												<a href="/shoujiweixiu/" onclick="clickLog('from=pc_list_shoujiweixiu_list_tabs');" class="sel"><h1>阳江手机维修</h1></a>
+											</div>
+ 	    	                	        
+
+		
+	
+		<span class="zhaobiao" >
+		<a href="http://bianmin.58.com/yj/?from=pc_list_bianmin_wzl"
+		   target="_blank" >学习办事经验，解决办证难题</a>
+	</span>
+	
+			
+
+</div>
+ 				<section id="mainlist" class="main clearfix pr">
+					<div class="filterbar h28">
+    <div class="filterbar-l">
+			<!-- <div class="filterup" id="filterup">
+				 <a class="m1" title="找班级" href="#" rel="nofollow" onclick=""><span>找班级<em></em></span></a>
+				 <a class="m1" title="找拼友" href="#" rel="nofollow" onclick=""><span>找拼友<em></em></span></a>
+			</div>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">全部</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示教育机构</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示个人教师</a></span> -->
+				<div class="filterup" id="filterup">
+			 <a class="m1 sel" title="默认" href="#" rel="nofollow" onclick="g2({sort:null}); clickLog('from=huangye_list_moren_shoujiweixiu_yj&psid=139258622195335449903795088'); "><span>默认排序<em></em></span></a>
+								</div>
+												<span class="checkbox-ico" id="renzheng"><a href="javascript:void(0);" onclick="clickLog('from=List_sort_shoujiweixiu__zhikanrenzheng');">只看认证</a></span>
+									
+									</div>  
+     <div class="filterbar-md">
+    	    	<!-- 加入医疗健康判断-->
+    	    		    		        		       <a class="mdtj" style="display:inline-block;" rel="nofollow" target="_blank" href="http://e.58.com/shenghuo.html" onClick="clickLog('from=huangye_zhaoshang&psid=139258622195335449903795088');">想提升接单效果，请致电4008107258</a>
+    		        		    	
+				   </div>        
+</div>
+					<div id="infolist" class="cleft" >
+				<!-- =S infolist -->
+									<div id="top_google_ad"></div>
+<table class="small-tbimg" cellspacing="0" cellpadding="0" >
+							<tr logr='p_1_28948150027778_20803849839489_0' infotag="20803849839489_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">黄先生 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/20803849839489x.shtml?psid=139258622195335449903795088&entinfo=20803849839489_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			高价回收 苹果、华为、三星、oppo…各大品牌智能
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												主营业务：高价回收 苹果、华为、三星、oppo…各大品牌智能手机及智能...
+				(17小时)
+							<p class="seller">
+					自***台
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='20803849839489' wltMark="0" param="20803849839489_28948150027778_0_commoninfo_CAA68572261C951352E8E7126614886C"  data-j4fe="18926327399,黄先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=20803849839489&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_21542343811335_27074784630220_0' infotag="27074784630220_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">敖生 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/27074784630220x.shtml?psid=139258622195335449903795088&entinfo=27074784630220_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			低价修复任何手机，技术成熟
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												如遇手机任何出现问题，爆屏等等，重要价格比外面店面优惠多多
+				(03-06)
+							<p class="seller">
+					a***7
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27074784630220' wltMark="0" param="27074784630220_21542343811335_0_commoninfo_7AF832D43ED4022F8D54AD6F47B89D74"  data-j4fe="13827683370,敖生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27074784630220&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_21807795735303_24643760891581_0' infotag="24643760891581_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">林光强 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/24643760891581x.shtml?psid=139258622195335449903795088&entinfo=24643760891581_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			魅族小米华为OPPO屏幕锁帐户锁系统升级救砖解锁等
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												专业为各位同行客户升级手机系统，救机解锁。别人刷机变砖的都可救回。拥有...
+				(03-06)
+							<p class="seller">
+					a***3
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='24643760891581' wltMark="0" param="24643760891581_21807795735303_0_commoninfo_73EFE348F35367DEF888B1464A54592B"  data-j4fe="13192588388,林光强" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24643760891581&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_15778441751046_24384173711032_0' infotag="24384173711032_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李记 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/24384173711032x.shtml?psid=139258622195335449903795088&entinfo=24384173711032_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			迅捷手机爆屏修复总汇
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												手机爆屏、触摸失灵、没显示…… 本店专业现场修复所有系列手机、苹果平板...
+				(01-08)
+							<p class="seller">
+					李***1
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='24384173711032' wltMark="0" param="24384173711032_15778441751046_0_commoninfo_560D2ECAADF6AF6290AAF18397EB5351"  data-j4fe="15819165821,李记" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24384173711032&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_47980626_28486365506605_0' infotag="28486365506605_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">董生 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/28486365506605x.shtml?psid=139258622195335449903795088&entinfo=28486365506605_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			阳江找手机维修，就上58同城
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												阳江地区找手机维修、找管道疏通、找搬家、找保洁、找家政、找租车等，需要...
+				(12-24)
+							<p class="seller">
+					宏联网络
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28486365506605' wltMark="0" param="28486365506605_47980626_0_commoninfo_4D19B4BB8CB91F5387600DA026442F1D"  data-j4fe="18023843021,董生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28486365506605&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_2390486112262_28134503285577_0' infotag="28134503285577_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">梁生 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/28134503285577x.shtml?psid=139258622195335449903795088&entinfo=28134503285577_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			手机，平板爆屏修复 只收手工费
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												爆屏修复，手机，平板电脑爆屏修复，可自带配件来，只收手工费。支持微信支...
+				(11-22)
+							<p class="seller">
+					京记电器维修
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28134503285577' wltMark="0" param="28134503285577_2390486112262_0_commoninfo_F4E5CFAE15A0DAC0F52BF8E0861580B3"  data-j4fe="13751615214,梁生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28134503285577&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_57890195_27983451107756_0' infotag="27983451107756_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">纪永田 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/27983451107756x.shtml?psid=139258622195335449903795088&entinfo=27983451107756_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			红米手机系列小米手机 现场吧爆屏维修，更换镜面
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												红米手机系列更换镜面小米手机现场爆屏维修，多年来智能手机维修及售后的话...
+				(11-08)
+							<p class="seller">
+					广州市天河区石牌三彩电子经营部
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27983451107756' wltMark="0" param="27983451107756_57890195_0_commoninfo_D850EEA99928B6A58E1A199DE695ADBE"  data-j4fe="15814478916,纪永田" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27983451107756&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_41593232005901_27780455383998_0' infotag="27780455383998_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">黄元迪 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/27780455383998x.shtml?psid=139258622195335449903795088&entinfo=27780455383998_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			需要了解58同城会员推广的可以联系我期待我们的合作
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												58同城招聘会员，黄页推广，需要咨询会开通的可以联系我，1316050...
+				(10-21)
+							<p class="seller">
+					美姐批发部
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27780455383998' wltMark="0" param="27780455383998_41593232005901_0_commoninfo_9009F8706F00F92A233DE671E28225A0"  data-j4fe="13160509013,黄元迪" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27780455383998&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_15349081794055_27704723751869_0' infotag="27704723751869_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李生 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/27704723751869x.shtml?psid=139258622195335449903795088&entinfo=27704723751869_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			行记名表维修，回收
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												本店老牌钟表经营钟表，品牌富达挂钟，闹钟。修理，名表保养，进口电子，遥...
+				(10-14)
+							<p class="seller">
+					w***4
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27704723751869' wltMark="0" param="27704723751869_15349081794055_0_commoninfo_9298E50BDEDA1B2007DE818919113B23"  data-j4fe="13106788488,李生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27704723751869&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_30238311734796_27686251952843_0' infotag="27686251952843_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+				<a href='http://yj.58.com/shoujiweixiu/27686251952843x.shtml?psid=139258622195335449903795088&entinfo=27686251952843_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			修红米note3爆屏，换总成，换电池
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												原装配件，低价维修，个人爱好，互相促进。
+				(10-13)
+							<p class="seller">
+					G2000有限公司
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='27686251952843' wltMark="0" param="27686251952843_30238311734796_0_commoninfo_B7214C5227A17D717C4E682045F64F5B"  data-j4fe="13423533554," >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27686251952843&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_28125859219462_26778978787916_0' infotag="26778978787916_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">关小姐 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/26778978787916x.shtml?psid=139258622195335449903795088&entinfo=26778978787916_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			低价修复任何手机
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												低价修复任何手机，技术成熟，重要优惠多多
+				(09-18)
+							<p class="seller">
+					g***7
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='26778978787916' wltMark="0" param="26778978787916_28125859219462_0_commoninfo_A78DE6687C8B8D4C2E0A96F3348F8E97"  data-j4fe="15875177541,关小姐" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26778978787916&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_39825163965970_26564277823537_0' infotag="26564277823537_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李经理 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/26564277823537x.shtml?psid=139258622195335449903795088&entinfo=26564277823537_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			苹果id锁了怎么办？看图！速来找我！解救你的id锁
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												请QQ咨询！苹果手机解ID锁服务：苹果全系列产品解ID锁，不论哪个型号...
+				(07-03)
+							<p class="seller">
+					1***y
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='26564277823537' wltMark="0" param="26564277823537_39825163965970_0_commoninfo_5F2E3A2895BBDBC057E6FA3F78027789"  data-j4fe="15610887048,李经理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26564277823537&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_34480611985419_26428166670277_0' infotag="26428166670277_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王经理 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/26428166670277x.shtml?psid=139258622195335449903795088&entinfo=26428166670277_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			安然纳米托玛琳汗蒸房、碳纤维发热电缆、电地暖电热膜
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												·· 1 1 · · · TTWARM电采暖是专业致力于电采暖产品应用...
+				(06-21)
+							<p class="seller">
+					韩***暖
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='26428166670277' wltMark="0" param="26428166670277_34480611985419_0_commoninfo_F0F8209E8EE043DAAA963CF987BAA195"  data-j4fe="15762256969,王经理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26428166670277&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_19840246936839_26292667231158_0' infotag="26292667231158_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+				<a href='http://yj.58.com/shoujiweixiu/26292667231158x.shtml?psid=139258622195335449903795088&entinfo=26292667231158_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			各种型号手机刷机
+		</a>
+						<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												各种型号手机升级系统，降级，救砖，解锁
+				(06-09)
+							<p class="seller">
+					miumiu酒吧
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='26292667231158' wltMark="0" param="26292667231158_19840246936839_0_commoninfo_A9C80A420E3145F54757F2AEE95E8AA1"  data-j4fe="18675793139," >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26292667231158&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_25921495382790_26219947000891_0' infotag="26219947000891_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">本地陈生 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/26219947000891x.shtml?psid=139258622195335449903795088&entinfo=26219947000891_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			钻墙孔，疏通下水道
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												专业钻建筑大小抽风机孔，和楼面混凝土孔，疏通各种堵塞下水道，欢迎来电，...
+				(06-02)
+							<p class="seller">
+					陈***5
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='26219947000891' wltMark="0" param="26219947000891_25921495382790_0_commoninfo_485EC0EBD8F0C95C4D8D7082B16ECE82"  data-j4fe="18023840933,本地陈生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26219947000891&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_35641613987094_26208342528973_0' infotag="26208342528973_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">张先生 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/26208342528973x.shtml?psid=139258622195335449903795088&entinfo=26208342528973_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			跑步机快修中心
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												跑步机维修中心专业从事各种品牌跑步机、力量型维修，美国正伦、必确，韩国...
+				(06-01)
+							<p class="seller">
+					往***3
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='26208342528973' wltMark="0" param="26208342528973_35641613987094_0_commoninfo_F4C5C79ED9AE22385D0AEBDCC0879D18"  data-j4fe="18588211325,张先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26208342528973&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_39449450061070_26107184772521_0' infotag="26107184772521_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">陈经理 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/26107184772521x.shtml?psid=139258622195335449903795088&entinfo=26107184772521_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			苹果手机id锁快速移除破解、刷机越狱升级
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												请QQ咨询！请QQ咨询！请QQ咨询！电话是打不通的！苹果手机解ID锁服...
+				(05-23)
+							<p class="seller">
+					b***0
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='26107184772521' wltMark="0" param="26107184772521_39449450061070_0_commoninfo_51E6B5C3BB11E484052962CE07DD770C"  data-j4fe="15610924506,陈经理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26107184772521&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_24140698560519_26076714209739_0' infotag="26076714209739_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刘小姐 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/26076714209739x.shtml?psid=139258622195335449903795088&entinfo=26076714209739_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			专业培训苹果手机主板级维修技术 零基础教学
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												我们是深圳华强北专业维修苹果手机的培训中心，在华强北手机市场拥有5家实...
+				(05-20)
+							<p class="seller">
+					新财神培训
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='26076714209739' wltMark="0" param="26076714209739_24140698560519_0_commoninfo_A48C8EB76E3BA9CFB98157C5C52ACF92"  data-j4fe="13590291989,刘小姐" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26076714209739&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_2390486112262_28115169089344_0' infotag="28115169089344_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">梁生 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/28115169089344x.shtml?psid=139258622195335449903795088&entinfo=28115169089344_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			维修手机，爆屏修复，换电池等阳江手机平板维修
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												阳江手机平板维修，维修不开机，爆屏修复，换电池，刷机等，专业，快速，收...
+				(11-20)
+							<p class="seller">
+					京记电器维修
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='28115169089344' wltMark="0" param="28115169089344_2390486112262_0_commoninfo_F4E5CFAE15A0DAC0F52BF8E0861580B3"  data-j4fe="13751615214,梁生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28115169089344&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_28125859219462_26778973538744_0' infotag="26778973538744_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">敖生 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/26778973538744x.shtml?psid=139258622195335449903795088&entinfo=26778973538744_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			低价修复任何手机
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												低价修复任何手机，技术成熟，重要优惠多多
+				(07-23)
+							<p class="seller">
+					g***7
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='26778973538744' wltMark="0" param="26778973538744_28125859219462_0_commoninfo_7AF832D43ED4022F8D54AD6F47B89D74"  data-j4fe="13827683370,敖生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26778973538744&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_19840246936839_21281941123086_0' infotag="21281941123086_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">佳羽 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/21281941123086x.shtml?psid=139258622195335449903795088&entinfo=21281941123086_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			刷机，救砖，降级系统，升级系统
+		</a>
+						<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												各种品牌机，刷机，救砖，降级系统，升级系统
+				(04-21)
+							<p class="seller">
+					miumiu酒吧
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='21281941123086' wltMark="0" param="21281941123086_19840246936839_0_commoninfo_A9C80A420E3145F54757F2AEE95E8AA1"  data-j4fe="18675793139,佳羽" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=21281941123086&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_19159643440902_24419460854580_0' infotag="24419460854580_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李生 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/24419460854580x.shtml?psid=139258622195335449903795088&entinfo=24419460854580_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			星光通信: 阳东工业大道专业手机维修 快速爆屏修复
+		</a>
+							<span class='tu'>[6图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												本店专业修复所有系列手机（苹果 三星 小米 华为 OPPO 步步高 魅...
+				(12-22)
+							<p class="seller">
+					星光通信
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='24419460854580' wltMark="0" param="24419460854580_19159643440902_0_commoninfo_C7898185F90EBA8447A9C64810C95157"  data-j4fe="13542666999,李生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24419460854580&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_33677665724172_24099792586809_0' infotag="24099792586809_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">冯生 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/24099792586809x.shtml?psid=139258622195335449903795088&entinfo=24099792586809_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			修复爆屏（老字号）
+		</a>
+						<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												手机爆屏了 多碎都不要紧 只要你找对店铺 到长胜手机助你完美还原
+				(11-23)
+							<p class="seller">
+					1***g
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='24099792586809' wltMark="0" param="24099792586809_33677665724172_0_commoninfo_039893A72E1B54B8A3232E2B42B84F4C"  data-j4fe="15986279444,冯生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24099792586809&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_8193417588743_23785223285171_0' infotag="23785223285171_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王经理 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/23785223285171x.shtml?psid=139258622195335449903795088&entinfo=23785223285171_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			手机维修好项目
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												投资借贷就来同城贷www.tcdai.com各地寻找加盟商金融服务业...
+				(10-26)
+							<p class="seller">
+					同城贷
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='23785223285171' wltMark="0" param="23785223285171_8193417588743_0_commoninfo_5CDC3578710474AD25CDBBE0B2C6DF9D"  data-j4fe="18012771557,王经理" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23785223285171&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_33855200699657_23257149217956_0' infotag="23257149217956_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">姜生 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/23257149217956x.shtml?psid=139258622195335449903795088&entinfo=23257149217956_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			阳江市江城区手机维修点
+		</a>
+						<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												专业维修各种品牌手机，快速换各种触屏/显示/尾插/修复爆屏，批发各种手...
+				(09-08)
+							<p class="seller">
+					o***5
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='23257149217956' wltMark="0" param="23257149217956_33855200699657_0_commoninfo_D0E44782F655D6764DD58410AA1BE965"  data-j4fe="18933870223,姜生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23257149217956&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_26797466365958_22614041453198_0' infotag="22614041453198_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">降级 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/22614041453198x.shtml?psid=139258622195335449903795088&entinfo=22614041453198_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			iphone4s 完美降级ios613
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												福利！福利！4s用户这段时间暂时可以完美降级回ios613系统了 外国...
+				(09-07)
+							<p class="seller">
+					h***6
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='22614041453198' wltMark="0" param="22614041453198_26797466365958_0_commoninfo_B291C86FB6ED5589D1C60CE0A6AC4B81"  data-j4fe="18675796123,降级" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22614041453198&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_30886316090119_23213861469578_0' infotag="23213861469578_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">姜小姐 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/23213861469578x.shtml?psid=139258622195335449903795088&entinfo=23213861469578_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			做分期找捷信
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												买苹果手机手提产品，找捷信分期付款更方便快捷，首付只需1100元，亲们...
+				(09-04)
+							<p class="seller">
+					儍**祢
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='23213861469578' wltMark="0" param="23213861469578_30886316090119_0_commoninfo_0C4D113C95681A7FC516779F1F7B4F4E"  data-j4fe="13922011998,姜小姐" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23213861469578&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_24140698560519_23146653123082_0' infotag="23146653123082_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">周先生 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/23146653123082x.shtml?psid=139258622195335449903795088&entinfo=23146653123082_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			想学苹果手机维修到哪里,深圳华强北苹果手机维修中心
+		</a>
+							<span class='tu'>[7图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												：：：：：：，招苹果手机维修学徒,苹果手机维修培训，：：：：：我们是深...
+				(08-29)
+							<p class="seller">
+					新财神培训
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='23146653123082' wltMark="0" param="23146653123082_24140698560519_0_commoninfo_277A83D8331F66F9FCDF2F12EFE9378B"  data-j4fe="18820600978,周先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=23146653123082&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_26032813748743_22967910106634_0' infotag="22967910106634_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">周先生 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/22967910106634x.shtml?psid=139258622195335449903795088&entinfo=22967910106634_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			招苹果手机维修学徒,包教包会,推荐工作,月薪过万
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												招苹果手机维修学徒，包教包会，工资前景8000--15000.我们是深...
+				(08-13)
+							<p class="seller">
+					深圳新财神科技有限公司
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='22967910106634' wltMark="0" param="22967910106634_26032813748743_0_commoninfo_D8A2B1D074A048ABA37998EB8564C5E0"  data-j4fe="15711998720,周先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22967910106634&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_30337104867081_22926831360030_0' infotag="22926831360030_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">建平 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/22926831360030x.shtml?psid=139258622195335449903795088&entinfo=22926831360030_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			爆屏修复 手机维修 配件批发
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												批发显示屏触摸屏，手机 爆屏维修，配件批发，价格实惠
+				(08-09)
+							<p class="seller">
+					q***0
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='22926831360030' wltMark="0" param="22926831360030_30337104867081_0_commoninfo_CE1B93503DE70F8F424CB85D92324267"  data-j4fe="0662-8841389,建平" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22926831360030&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_7224447414787_22859741666209_0' infotag="22859741666209_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小曾 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/22859741666209x.shtml?psid=139258622195335449903795088&entinfo=22859741666209_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			专业iphone全系列换屏,价格公道,自带屏50
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												iphone全系列换屏改装，价格公道，海陵全区域上门服务，另外代购...
+				(08-03)
+							<p class="seller">
+					2***0
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='22859741666209' wltMark="0" param="22859741666209_7224447414787_0_commoninfo_E501FEA2A009CFB47FF6F9ECF9D4E151"  data-j4fe="18028284057,小曾" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22859741666209&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_29742034831882_22813230792862_0' infotag="22813230792862_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">周先生 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/22813230792862x.shtml?psid=139258622195335449903795088&entinfo=22813230792862_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			学手机维修肯定要学苹果手机维修,招苹果手机维修学徒
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												学手机维修肯定要学苹果手机维修,招苹果手机维修学徒，我们是深圳华强北一...
+				(07-30)
+							<p class="seller">
+					新财神
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='22813230792862' wltMark="0" param="22813230792862_29742034831882_0_commoninfo_C102EEBA7ABFCA74C0A23723128E019F"  data-j4fe="13713727915,周先生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22813230792862&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_30939009612809_22106163040779_0' infotag="22106163040779_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">和记 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/22106163040779x.shtml?psid=139258622195335449903795088&entinfo=22106163040779_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			和记手机维修中心
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												本维修中心秉承·专业·专注·用心服务的经营理念.为你提供更优质更周到的...
+				(05-27)
+							<p class="seller">
+					和***修
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='22106163040779' wltMark="0" param="22106163040779_30939009612809_0_commoninfo_EDCD6A6263373D4467353E4E71A38401"  data-j4fe="13035894410,和记" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=22106163040779&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_25921495382790_21259317523224_0' infotag="21259317523224_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">本地陈生 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/21259317523224x.shtml?psid=139258622195335449903795088&entinfo=21259317523224_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			专业疏通各种下水道，通厕所，钻墙孔，
+		</a>
+							<span class='tu'>[3图]</span>
+				<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												钻墙孔，抽风机孔，楼面孔，抽油烟机孔，抽风机孔，卫生间排气扇孔，空调孔...
+				(03-11)
+							<p class="seller">
+					陈***5
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='21259317523224' wltMark="0" param="21259317523224_25921495382790_0_commoninfo_485EC0EBD8F0C95C4D8D7082B16ECE82"  data-j4fe="18023840933,本地陈生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=21259317523224&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>								<tr logr='p_1_33677665724172_24078575772595_0' infotag="24078575772595_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">冯生 : </b>
+				<a href='http://yj.58.com/shoujiweixiu/24078575772595x.shtml?psid=139258622195335449903795088&entinfo=24078575772595_0' onclick="clickLog('from=pc_list_shoujiweixiu_xinxi_commoninfo_yj');" target="_blank" class="t" >
+			爆屏修复（老字号）
+		</a>
+						<!-- cxsjstate='false',dispCateID='1816' -->
+		    	        		<br />
+												专业维修爆屏（各型号） 多碎都不要紧 到西平路长胜手机店 能助你完美还...
+				(11-21)
+							<p class="seller">
+					1***g
+	
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+	
+</td>	<td class="vertop">
+				<div class="yuyue_vertop view-connect" data-id='24078575772595' wltMark="0" param="24078575772595_33677665724172_0_commoninfo_039893A72E1B54B8A3232E2B42B84F4C"  data-j4fe="15986279444,冯生" >
+	<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=24078575772595&entityType=0&psid=139258622195335449903795088")'>免费预约</a></span>
+	</div>
+</td></tr>	</table>								<!-- =E infolist -->
+					<div id="gjwb_bottom_jz_ad"></div>
+	<div id="bottom_google_ad"></div>
+<div class="pager" >
+	 <strong><span>1</span></strong><a href="/shoujiweixiu/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>2</span></a><a class="next" href="/shoujiweixiu/pn2/" onClick="clickLog('from=huangye_list_fanye_2');"><span>下一页</span></a>
+</div>
+<div id="infocont">
+	<!--当是健康答疑时，链接变为提问-->
+										<a target="_blank" rel="nofollow" href="http://post.58.com/2284/710/s5" onclick="clickLog('pc_list_shoujiweixiu_bottom_fabu');" >马上发布一条手机维修信息&raquo;</a>
+						</div>
+<!--医疗健康判断-->
+	<div id="direct_ad_bottom" onclick="clickLog('from=pc_list_shoujiweixiu_bottom_zhineng1');"  ></div>
+	<div id="bottom_zhaoshangjiameng_ad" onclick="clickLog('from=pc_list_shoujiweixiu_bottom_tuiguang2');"  ></div>
+
+			</div>
+			<div id="rightframe" class="cright">
+		<div class="r-banner-hot">
+	  	<p><i></i><a target="_blank" href="http://www.58.com/weixiudaquan/">维修知识网</a><span class="r-banner-hotico"></span></p>
+		<p><i></i><a target="_blank" href="http://www.58.com/sjwx/">手机维修教程</a></p>
+		<p><i></i><a target="_blank" href="http://www.58.com/iosxitong/">iphone手机维修教程</a></p>
+	</div>
+
+
+			<div class="tuijian" id="ylad" style="display:none"></div>
+												<div class="brand_md_tit"><h3><i class="brand_md_tit_i1"></i>名店推荐<i class="brand_md_tit_i2"></i></h3></div>
+	<div id="brand_md"><div id="ad19"  style="display:none"></div></div>
+	<script>
+		$("#brand_md").bind("bindBrandEvent",function(){ 
+            if($('.brand_md200').length > 0){
+				$('.brand_md_tit').show();
+			}
+        }); 
+	</script>
+	</div>	    </section>
+		<div id="wangmeng_list_bottom_ditong" onclick="clickLog('from=pc_list_shoujiweixiu_bottom_tuiguang3');"   ></div><section id="links">
+<i class="linksTopline"></i>
+	<!-- =S friendtips -->
+	<dl id="friendtips" class="linksItem friendtips"><dt class="b-left">阳江手机维修介绍：</dt>
+<dd class="b-right">58同城阳江手机维修频道是阳江最大的手机维修信息免费发布查询平台,免费提供三星、诺基亚、苹果、摩托罗拉、索爱、夏普等多种品牌的手机维修相关信息,感谢您选择<a href=http://www.58.com/hyzt/shoujiweixiu/ target=_blank>阳江手机维修</a>信息平台。有疑问请<a href=http://about.58.com/v5/ target=_blank rel=nofollow>与客服对话</a>-<a href=http://m.58.com/yj/shoujiweixiu/ target=_blank>阳江手机维修</a>触屏版,<a href=http://m.58.com/hyzt/shoujiweixiu/ target=_blank>阳江手机维修</a>极速版。</dd>
+</dl>
+	<!-- =E friendtips -->
+	<!-- =S relate  -->
+					<!-- =E relate -->
+	<!-- =S relatelink allshangquan-->
+		 	<!-- =E relatelink -->
+	<!-- =S bottomlink-->
+	            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+				手机维修- 相关类别：
+			</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://www.58.com/hyzt/dianqi/'>家电维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/dianshiweixiu/'>电视维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/bingxiangweixiu/'>冰箱维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/kongtiao/'>空调维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/reshuiqiweixiu/'>热水器维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/xiyijiweixiu/'>洗衣机维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shoujiweixiu/'>手机维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/fangweixiu/'>房屋维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/weixiu/'>电脑维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/bijibenweixiu/'>笔记本维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiajuweixiu/'>家具维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/chufangwx/'>厨房家电维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/wangluoweixiu/'>网络维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shumaxiangjiwx/'>数码维修</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/zhuangxiujc/'>装修建材</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/jiaoyu/'>教育培训</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/hunjiehunqing/'>婚庆摄影</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/qichefw/'>汽车服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shop/'>批发采购</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shenghuo/'>家政服务</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shangwu/'>商务服务</a></li>
+        		        		<li><a href='http://www.58.com/ppbhyzt1/'>黄页大全</a></li>
+        		        		<li><a href='http://www.58.com/pprmap5/'>家政地图</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+		<!-- =E bottomlink -->
+	<!-- =S hotcity-->
+	        <dl class="linksItem hotcity" id="hotcity">
+    	<dt class="b-left">阳江手机维修周边城市：</dt>
+    	<dd class="b-right">
+    		<ul class="b-ul">
+    			    			<li><a href="http://gz.58.com/shoujiweixiu/">广州手机维修</a></li>
+    			    			<li><a href="http://zh.58.com/shoujiweixiu/">珠海手机维修</a></li>
+    			    			<li><a href="http://dg.58.com/shoujiweixiu/">东莞手机维修</a></li>
+    			    			<li><a href="http://st.58.com/shoujiweixiu/">汕头手机维修</a></li>
+    			    			<li><a href="http://sg.58.com/shoujiweixiu/">韶关手机维修</a></li>
+    			    			<li><a href="http://zhanjiang.58.com/shoujiweixiu/">湛江手机维修</a></li>
+    			    			<li><a href="http://zs.58.com/shoujiweixiu/">中山手机维修</a></li>
+    			    			<li><a href="http://jm.58.com/shoujiweixiu/">江门手机维修</a></li>
+    			    			<li><a href="http://mm.58.com/shoujiweixiu/">茂名手机维修</a></li>
+    			    		</ul>
+    	</dd>
+    </dl>
+	<!-- =S hotcity -->
+            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+					手机维修- 热门城市：
+					</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://bj.58.com/shoujiweixiu/'>北京手机维修点</a></li>
+        		        		<li><a href='http://sh.58.com/shoujiweixiu/'>上海手机维修点</a></li>
+        		        		<li><a href='http://gz.58.com/shoujiweixiu/'>广州手机维修点</a></li>
+        		        		<li><a href='http://sz.58.com/shoujiweixiu/'>深圳手机维修点</a></li>
+        		        		<li><a href='http://tj.58.com/shoujiweixiu/'>天津手机维修点</a></li>
+        		        		<li><a href='http://hz.58.com/shoujiweixiu/'>杭州手机维修点</a></li>
+        		        		<li><a href='http://wh.58.com/shoujiweixiu/'>武汉手机维修点</a></li>
+        		        		<li><a href='http://xa.58.com/shoujiweixiu/'>西安手机维修点</a></li>
+        		        		<li><a href='http://cd.58.com/shoujiweixiu/'>成都手机维修点</a></li>
+        		        		<li><a href='http://zz.58.com/shoujiweixiu/'>郑州手机维修点</a></li>
+        		        		<li><a href='http://cs.58.com/shoujiweixiu/'>长沙手机维修点</a></li>
+        		        		<li><a href='http://su.58.com/shoujiweixiu/'>苏州手机维修点</a></li>
+        		        		<li><a href='http://jn.58.com/shoujiweixiu/'>济南手机维修点</a></li>
+        		        		<li><a href='http://sy.58.com/shoujiweixiu/'>沈阳手机维修点</a></li>
+        		        		<li><a href='http://cy.58.com/shoujiweixiu/'>朝阳手机维修点</a></li>
+        		        		<li><a href='http://yb.58.com/shoujiweixiu/'>宜宾手机维修点</a></li>
+        		        		<li><a href='http://fx.58.com/shoujiweixiu/'>阜新手机维修点</a></li>
+        		        		<li><a href='http://www.58.com/hyzt/shoujiweixiu/'>手机维修点</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+	<!-- =E hotcity --> 	<!-- =E hotcity -->
+	<!-- =S friendlink-->
+			<dl id="friendlink" class="linksItem friendlink">
+<dt class="b-left"> 友情链接：</dt>
+<dd class="b-right"><a href='http://www.58.com/ppbmapshouji/' target='_blank'>手机售后大全</a>&nbsp;<a href='http://www.58.com/ppbmapbingxiang/' target='_blank'>冰箱制冷故障</a>&nbsp;<a href='http://wen.58.com/c-147.html' target='_blank'>手机故障问答</a>&nbsp;  <a href="/link.html" target="_blank">更多...</a></dd>
+</dl>
+		<!-- =E friendlink -->
+</section>
+<footer id="footer" class="footer">
+    <div id="upWrap"> <a target="_blank" href="http://about.58.com/help.html" rel="nofollow">常见问题</a><span>|</span> <a target="_blank" href="http://about.58.com/" rel="nofollow">帮助中心</a><span>|</span> <a target="_blank" href="http://about.58.com/feedback.html" rel="nofollow">意见反馈</a><span>|</span> <a target="_blank" href="http://about.58.com/home/" rel="nofollow">了解58同城</a><span>|</span> <a target="_blank" href="http://about.58.com/hr/" rel="nofollow">加入58同城</a><span>|</span> <a target="_blank" href="http://fanqizha.58.com/" rel="nofollow">反欺诈联盟</a><span>|</span> <a target="_blank" href="http://110.58.com" rel="nofollow">报案平台</a><span>|</span> <a target="_blank" href="http://e.58.com" rel="nofollow">推广服务</a><span>|</span> <a target="_blank" href="http://biz.58.com" rel="nofollow">渠道招商</a><span>|</span> <a target="_blank" href="http://baozhang.58.com" rel="nofollow">先行赔付</a><span>|</span> <a target="_blank" href="http://ir.58.com?PGTID=0d100000-0000-13da-8041-51f9a3a739fa&amp;ClickID=2" rel="nofollow">Investor Relations</a> </div>
+    <div id="downWrap"> <em>2005-2016 58.com版权所有</em><span>|</span> <em>京公网备案信息110105000809</em><span>|</span> <a target="_blank" href="http://www.miibeian.gov.cn/" rel="nofollow">京ICP证060405</a><span>|</span><em>乙测资字11018014</em><span>|</span> <a target="_blank" href="http://ir.58.com" rel="nofollow">Investor Relations</a><span>|</span><em>违法信息举报：4008135858&nbsp;&nbsp;jubao@58ganji.com</em> </div>
+    <div class="fotBtmIcon">
+        <a target="_blank" id="fotBm_1" href="http://fanqizha.58.com"></a>
+        <a target="_blank" id="fotBm_2" href="http://www.12377.cn/"></a>
+        <a target="_blank" id="fotBm_3" href="http://www.12377.cn/node_548446.htm"></a>
+        <a target="_blank" id="fotBm_4" href="https://credit.szfw.org/CX20120918001650001720.html"></a>
+        <a target="_blank" id="fotBm_5" href="http://img.58cdn.com.cn/ui6/index/qyxinyong.jpg?v=3"></a>
+        <a target="_blank" id="fotBm_6" href="http://about.58.com/fqz/index.html"></a>
+    </div>
+</footer>
+<script>
+	var currentDate = new Date();
+</script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfc_v20160418145051.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfcInit_v20161121150119.js'></script>
+<script>
+	var jingzhun_ads = [];
+	var jingzhun_ads_param = "";
+</script>
+
+				<script type="text/javascript" src='http://j1.58cdn.com.cn/js/5_1/comm_js/boot_listpage_version_v20170316181518.js'></script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170112123932.js'></script>
+<script type="text/javascript">
+document.domain = '58.com';
+var win = new GetToolTipWindow('tooltipdiv', 'keyword', '3','2284','', true);win.setSearchButton('searchbtn');
+var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','2284','');win1.setSearchButton('searchbtn1');
+var win2 = new GetToolTipWindow('tooltipdiv2', 'mudidi', '7', '2284', '');win2.setSearchButton('searchbtn1');
+boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'yj');});
+</script>
+
+<script type="text/javascript" >
+// JavaScript Document
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	toggle(".p-help");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".small-tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+
+$("#shangmenfw a").each(function(){
+	if("到店服务"== $(this).text().trim()){
+		$(this).remove();
+	}
+});
+
+BAIDU_CLB_fillSlot("567863");
+
+var alldt = $("#relateSelect>dt");
+function showNear(dt){
+    alldt.each(function(){
+        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+        else {$(this).next("dd").hide();$(this).removeClass("select");}
+    });
+}
+alldt.each(function(){
+    $(this).click(function(){showNear(this);}).hover(function(){showNear(this);});
+});
+
+showNear(alldt[0]);
+
+  
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+$(".selector").each(function(){
+	$(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+});
+
+</script>
+
+<div style="display:none;">
+<script type="text/javascript">
+ var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3bb04d7a4ca3846dcc66a99c3e861511' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+</div>
+
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+
+
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/js/v8/boot/boot_huangye_v20170321150613.js'>
+	</script>
+	<script>
+		require(['_pkg/huangye/huangye_shenghuo_list_dom'],function(){});
+	</script>
+
+<script src="http://track.58.com/adsys/ggafs?rand=20170324"></script>
+<script>
+//统计埋点
+$(function(){
+	$('dl.secitem').each(function(){
+	    var idname = $(this).find("dd").eq(0).attr('id');
+		$(this).find('a').not('span a').each(function(){
+			$(this).click(function(){
+				clickLog('from=pc_list_shoujiweixiu_shaixuan_'+idname+ '_yj');
+		    });		
+		});	
+    });	
+})
+</script>
+<script type="text/javascript">
+    $("#more_ObjectType").click(function(){
+    	console.log("ok");
+    	var showmoreBrand = document.getElementById("moreBrandct"),moreBrandbtn = document.getElementById("moreBrandbtn");
+	    showmoreBrand.style.display = (showmoreBrand.style.display=="block")?"none":"block";
+	    moreBrandbtn.className = (moreBrandbtn.className=="moreBrand")?"moreBrand hold":"moreBrand";
+    });
+    var pemorealldt = $("#moreBrandct dt");
+	function showpemorecon(dt){
+		pemorealldt.each(function(){
+		    if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+            else {$(this).next("dd").hide();$(this).removeClass("select");}
+        });
+    }
+    pemorealldt.each(function(){
+		$(this).click(function(){showpemorecon(this);}).hover(function(){showpemorecon(this);});
+    });
+    showpemorecon(pemorealldt[0]);
+</script>
+		<script type="text/javascript">
+function cpcget(url){
+	/*$.ajax({
+		url:url,
+		type:"get",
+		dataType:"jsonp",
+		success:function(data){
+		
+        }
+    });	*/
+}
+</script>					<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e15962162366a86a6229038443847be7";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div style="display:none">
+	<!--基本统计代码begin(710,0)--by:zhanghao06-->
+<script type="text/javascript">
+____json4fe.supplycount = {sortid:'24078575772595'};
+var _gaq = _gaq || [],site_name = "58",post_count = "53",shop_count= "",page_type = "list";
+var _trackURL = "{'cate':'8512,710','area':'2284','pagetype':'list','GA_pageview':'/yj/shenghuo/shoujiweixiu/listversion/','version':'A','pagesize':'35','pagenum':'1','level1':'','level2':'','level3':'','level4':'','level5':'','level6':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/yj/shenghuo/shoujiweixiu/listversion/']);
+
+$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+<!--基本统计代码end-->
+</div>
+<script src="//wechat.58.com/google-analytics"></script> 				<!-- 抢单神器下线-->
+				<!-- 抢单神器下线-->
+		<!-- 装修搜索弹窗  S -->
+				<!-- 招标弹框start -->
+<link rel="stylesheet" href='http://c.58cdn.com.cn/ds/zhaobiao/pc_search_win/list_win_zb_v20161010135135.css' />
+<script src="http://j1.58cdn.com.cn/ds/zhaobiao/v1/js/fastpost/jquery.md5.js"></script>
+<script>
+ var cityid=2284;
+</script>
+
+        <!-- 招标弹框end -->
+
+
+				<!-- 装修搜索弹窗  E -->
+		<!-- 前置登陆  s -->
+				<!-- 前置登陆  e -->
+	</body>
+</html>

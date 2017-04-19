@@ -1,0 +1,3225 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <title>【南平出租房|南平出租房网|南平出租房信息】-南平58同城</title>
+    <meta name="keywords" content="南平出租房租房,南平出租房租房网,南平出租房租房信息"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="mobile-agent"
+          content="format=xhtml; url=http://m.58.com/np/zufang/">
+    <meta http-equiv="mobile-agent"
+          content="format=html5; url=http://m.58.com/np/zufang/">
+    <meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/np/zufang/">
+    <meta name="description" content="南平出租房租房网为您提供最新、最真实的南平出租房租房个人信息,南平出租房租房经纪人信息，欢迎您来到58同城南平出租房租房网。"
+    />
+    <link rel="stylesheet" href="http://c.58cdn.com.cn/ui8/house/list/css/houselist_v20170320182203.css">
+    <link rel="stylesheet" href="http://c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20170331140927.css">
+    <script type="text/javascript">
+        try {
+            var ____json4fe = {'catentry':[{'dispid':1,'name':'房产信息','listname':'house'},{'dispid':37031,'name':'出租','listname':'chuzu'}],'locallist':[{'dispid':'10291','name':'南平','listname':'np'},{'dispid':10291,'name':'南平','listname':'np'}],'start':'0.66172500 1491287279','modules':'list'};
+            ____json4fe.version = 'fangchan_list_pc_0004';
+            ____json4fe.smsc = "77894d978e40815050cd6df6468dfa2b8feffa8a806d14fdbd33d574035fdba26772ce12a29f662d9e6d64a8f6a78c43833ae2a96a6db36afb556e4f35dc59d75bce481fe7e911d1ab1d8adcf6a9418257cad6f76e864102babd7caf42580db4bd06fe67eab60a168186a8abf46cdb93";
+            ____json4fe.modules = 'listpage';
+            ____json4fe.isPersonal = "0";
+            ____json4fe.sid = "186167302195466006299715542";
+            ____json4fe.sessionid = '';
+            ____json4fe.pageIndex = 1;
+            ____json4fe.newSearch="1";
+            ____json4fe.searchUrl="http://np.58.com/chuzu/?newSearch=1&key=";
+        } catch (e) {
+        }
+        ;
+        var ____loadCfg = ['house', 'zufang_v2', 'list'];
+    </script>
+    <script type="text/javascript" src="http://pic2.58.com/js/require_jquery_load.js"></script>
+    <script type="text/javascript"
+            src="http://j1.58cdn.com.cn/js/v8/boot/boot_house_v20170327141712.js"></script>
+    <script type="text/javascript" src="http://j1.58cdn.com.cn/ds/tgbrand/js/brand_listpage_v20160905215059.js"></script>
+</head>
+
+<body>
+<!-- topbar -->
+<div id="commonTopbar" class="commonTopbar"></div>
+<script type="text/javascript">
+    window.wbAsyncInit = function wbAsyncInit( CL ){
+        CL.invoke('topbar', {
+            aroundCity: false,
+            weather: false,
+            appQR: true, // homepage QR
+            homepageLink: true,
+            size: 'default' // default: 1190px, narrow: 1000px
+        });
+    };
+</script>
+<script type="text/javascript" src="http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js"></script>
+
+<!-- header sta-->
+<div class="header clearfix">
+    <div id="brand_list_top_banner"></div>
+    <div class="conwrap">
+        <a href="http://np.58.com/house.shtml"
+           onClick="clickLog('from=fcpc_list_np_58fclogo')" class="headerLogo" target="_blank">
+        </a>
+        <div class="search">
+            <div id="searchkey">
+                <em></em>
+                <span id="key"><input type="text" id="keyword1" placeName="请输入房源相关信息" class="keyword" name="b_q"
+                                      para="key" autocomplete="off"></span>
+            </div>
+            <ul class="hotkey"></ul>
+            <a class="searchbtn" href="javascript:;"
+               onClick="clickLog('from=fcpc_list_np_sousuo')">搜房源</a>
+        </div>
+        <a class="headerFabu" href="http://post.58.com/10291/8/s5" target="_blank"
+           onClick="clickLog('from=fcpc_list_np_fabu')">免费发布</a>
+    </div>
+</div>        <!--主要内容部分  sta-->
+<div class="mainbox">
+    <div class="main">
+        <div class="crumbs_navigation">
+            <a href="/">南平58同城 </a>
+            <span>></span><a href='/house.shtml'>南平房产信息</a>
+            <span>></span><a href='/chuzu/'>南平出租</a>
+                    </div>
+
+        <div class="search_nav">
+                            <a href="http://np.zu.anjuke.com/?from=58_zf_list_top_wzl"
+                   onclick="clickLog('from=ditu_listclick');"
+                   target="_blank" class="map_fang">
+                                        <span>轻松一点，安居客优选房</span>
+                </a>
+                                <a href="/chuzu/?pagetype=area"
+                   onClick="clickLog('from=fcpc_list_np_quyu')"><span
+                        class="select">区域</span>
+                    <em class="select"></em>
+                </a>
+                
+                <a href="http://np.58.com/xiaoqu/" target="_blank"
+                   onclick="clickLog('from=fcpc_list_np_xiaoqu');"><span>南平小区</span></a>
+        </div>
+
+        <!--筛选信息-->
+        <div class="search_bd">
+    <!--区域展示start-->
+            <dl class="secitem secitem_fist">
+            <dd>
+                                        <a href="/chuzu/"
+                                                            class='select'
+                                                           onClick="clickLog('from=fcpc_list_np_quyu_buxian')">不限</a>
+                                                <a href="/yanping/chuzu/"
+                                                       onClick="clickLog('from=fcpc_list_np_quyu_yanping')">延平</a>
+                                                <a href="/shaowu/chuzu/"
+                                                       onClick="clickLog('from=fcpc_list_np_quyu_shaowu')">邵武</a>
+                                                <a href="/wuyishanshi/chuzu/"
+                                                       onClick="clickLog('from=fcpc_list_np_quyu_wuyishanshi')">武夷山</a>
+                                                <a href="/jianou/chuzu/"
+                                                       onClick="clickLog('from=fcpc_list_np_quyu_jianou')">建瓯</a>
+                                                <a href="/jianyangs/chuzu/"
+                                                       onClick="clickLog('from=fcpc_list_np_quyu_jianyangs')">建阳</a>
+                                                <a href="/shunchang/chuzu/"
+                                                       onClick="clickLog('from=fcpc_list_np_quyu_shunchang')">顺昌</a>
+                                                <a href="/nanpingzhoubian/chuzu/"
+                                                       onClick="clickLog('from=fcpc_list_np_quyu_nanpingzhoubian')">南平周边</a>
+                                                    </dd>
+        </dl>
+        <!--区域展示end-->
+
+    <!--地铁展示start-->
+        <!--地铁展示end-->
+
+    <!-- 筛选条件 -->
+
+    <!-- 租金 -->
+    <dl id="secitem-rent" class="secitem">
+        <dt class="fl">租金：</dt>
+        <dd>
+                                <a href="/chuzu/"
+                       class='select'
+                                               onClick="clickLog('from=fcpc_list_np_Zujin_')">不限</a>
+                                        <a href="/chuzu/b1/"
+                                              onClick="clickLog('from=fcpc_list_np_Zujin_0_500')">500元以下</a>
+                                        <a href="/chuzu/b2/"
+                                              onClick="clickLog('from=fcpc_list_np_Zujin_500_1000')">500-1000元</a>
+                                        <a href="/chuzu/b3/"
+                                              onClick="clickLog('from=fcpc_list_np_Zujin_1000_1500')">1000-1500元</a>
+                                        <a href="/chuzu/b4/"
+                                              onClick="clickLog('from=fcpc_list_np_Zujin_1500_2000')">1500-2000元</a>
+                                        <a href="/chuzu/b5/"
+                                              onClick="clickLog('from=fcpc_list_np_Zujin_2000_3000')">2000-3000元</a>
+                                        <a href="/chuzu/b6/"
+                                              onClick="clickLog('from=fcpc_list_np_Zujin_3000_4500')">3000-4500元</a>
+                                        <a href="/chuzu/b7/"
+                                              onClick="clickLog('from=fcpc_list_np_Zujin_4500_9999999')">4500元以上</a>
+                                <span class="prifilter">
+                        <span class="text">
+                            <input type="text" para="minprice" muti="1" min="0" max="999999" name="b_q"
+                                   autocomplete="off">
+                        </span>
+                        <span class="dev"> - </span>
+                        <span class="text">
+                            <input type="text" para="minprice" muti="1" min="0" max="999999" name="b_q"
+                                   autocomplete="off">
+                        </span>
+                        <span class="dev">元</span>
+                        <span class="shaixuanbtn none">
+                            <a rel='nofollow' href="javascript:;"
+                               onClick="clickLog('from=fcpc_list_np_Zujin_shaixuan')">价格筛选</a>
+                        </span>
+                    </span>
+        </dd>
+    </dl>
+
+    <!-- 厅室 -->
+    <dl class="secitem">
+        <dt>厅室：</dt>
+        <dd id="secitem-room">
+                                <a rel='nofollow'
+                       href="/chuzu/"
+                       class='select'
+                                               onClick="clickLog('from=fcpc_list_np_Tingshi_')">不限</a>
+                                        <a rel='nofollow'
+                       href="/chuzu/j1/"
+                                              onClick="clickLog('from=fcpc_list_np_Tingshi_j1')">一室</a>
+                                        <a rel='nofollow'
+                       href="/chuzu/j2/"
+                                              onClick="clickLog('from=fcpc_list_np_Tingshi_j2')">两室</a>
+                                        <a rel='nofollow'
+                       href="/chuzu/j3/"
+                                              onClick="clickLog('from=fcpc_list_np_Tingshi_j3')">三室</a>
+                                        <a rel='nofollow'
+                       href="/chuzu/j4/"
+                                              onClick="clickLog('from=fcpc_list_np_Tingshi_j4')">四室</a>
+                                        <a rel='nofollow'
+                       href="/chuzu/j5/"
+                                              onClick="clickLog('from=fcpc_list_np_Tingshi_j5')">四室以上</a>
+                            </dd>
+    </dl>
+
+    <!-- 方式 -->
+    <dl class="secitem">
+                    <dt>方式：</dt>
+            <dd id="secitem-type">
+                                    <a rel='nofollow'
+                       href="/chuzu/"
+                       class='select'
+                                               onClick="clickLog('from=fcpc_list_np_Fangshi_')">不限</a>
+                                        <a rel='nofollow'
+                       href="/zufang/"
+                                              onClick="clickLog('from=fcpc_list_np_Fangshi_zhengzu')">整套出租</a>
+                                        <a rel='nofollow'
+                       href="/hezu/"
+                                              onClick="clickLog('from=fcpc_list_np_Fangshi_danjian')">单间出租</a>
+                                        <a rel='nofollow'
+                       href="/hezu/g2/"
+                                              onClick="clickLog('from=fcpc_list_np_Fangshi_chuangwei')">床位出租</a>
+                                </dd>
+            </dl>
+
+    <!-- 品牌 -->
+    <dl class="secitem">
+            </dl>
+
+    <!-- 品牌店 start-->
+    <dl id="secitem-brand-detail" class="secitem">
+            </dl>
+    <!-- 品牌店 end-->
+
+    <!-- 其他 -->
+    <dl class="secitem">
+        <dt>其他：</dt>
+        <dd id="secitem-other">
+            <div class="moniselectcon">
+                <div class="moniselect"><i></i> 朝向不限</div>
+                <div id="secitem-direction" class="moniselectList selectlist01">
+                    <a href="/chuzu/"
+                         class='select' >朝向不限</a>
+                                            <a href="/chuzu/d1/"
+                                                       onClick="clickLog('from=fcpc_list_np_Qita_toward_d1')">东                        </a>
+                                                <a href="/chuzu/d2/"
+                                                       onClick="clickLog('from=fcpc_list_np_Qita_toward_d2')">南                        </a>
+                                                <a href="/chuzu/d3/"
+                                                       onClick="clickLog('from=fcpc_list_np_Qita_toward_d3')">西                        </a>
+                                                <a href="/chuzu/d4/"
+                                                       onClick="clickLog('from=fcpc_list_np_Qita_toward_d4')">北                        </a>
+                                                <a href="/chuzu/d5/"
+                                                       onClick="clickLog('from=fcpc_list_np_Qita_toward_d5')">南北                        </a>
+                                                <a href="/chuzu/d6/"
+                                                       onClick="clickLog('from=fcpc_list_np_Qita_toward_d6')">东西                        </a>
+                                                <a href="/chuzu/d7/"
+                                                       onClick="clickLog('from=fcpc_list_np_Qita_toward_d7')">东南                        </a>
+                                                <a href="/chuzu/d8/"
+                                                       onClick="clickLog('from=fcpc_list_np_Qita_toward_d8')">西南                        </a>
+                                                <a href="/chuzu/d9/"
+                                                       onClick="clickLog('from=fcpc_list_np_Qita_toward_d9')">东北                        </a>
+                                                <a href="/chuzu/d10/"
+                                                       onClick="clickLog('from=fcpc_list_np_Qita_toward_d10')">西北                        </a>
+                                        </div>
+            </div><!-- moniselectcon -->
+            <div class="moniselectcon">
+                <div class="moniselect"><i></i> 装修不限</div>
+                <div id="secitem-decoration" class="moniselectList selectlist02">
+                    <a href="/chuzu/"
+                         class='select' >装修不限</a>
+                                            <a href="/chuzu/f1/"
+                                                       onClick="clickLog('from=fcpc_list_np_Qita_Zhuangxiu_f1')"><i></i>
+                            毛坯                        </a>
+                                            <a href="/chuzu/f2/"
+                                                       onClick="clickLog('from=fcpc_list_np_Qita_Zhuangxiu_f2')"><i></i>
+                            简单装修                        </a>
+                                            <a href="/chuzu/f3/"
+                                                       onClick="clickLog('from=fcpc_list_np_Qita_Zhuangxiu_f3')"><i></i>
+                            中等装修                        </a>
+                                            <a href="/chuzu/f4/"
+                                                       onClick="clickLog('from=fcpc_list_np_Qita_Zhuangxiu_f4')"><i></i>
+                            精装修                        </a>
+                                            <a href="/chuzu/f5/"
+                                                       onClick="clickLog('from=fcpc_list_np_Qita_Zhuangxiu_f5')"><i></i>
+                            豪华装修                        </a>
+                                    </div>
+            </div><!-- moniselectcon -->
+            <span id="secitem-has-pic" class="checkbox">
+                <a class="unchecked" href="javascript:;" name="" value="" id="ispic"
+                   onClick="clickLog('from=fcpc_list_np_Qita_youtu')">
+                    <label for="ispic">只看有图</label>
+                </a>
+            </span>
+            <span id="secitem-bangbang" class="checkbox smallIconOnline">
+                <a class="unchecked" href="javascript:;" id="isonline"
+                   onClick="clickLog('from=fcpc_list_np_Qita_bangbang')"
+                   title="58帮帮客户端在线用户">
+                    <label for="isonline" title="58帮帮客户端在线用户">帮帮在线</label>
+                </a>
+            </span>
+        </dd>
+    </dl>
+</div>
+        <!-- 已选的筛选条件(朝向、装修) sta-->
+        <div id="selected" class="bar">
+        </div>
+        <!-- 已选的筛选条件(朝向、装修) end-->
+
+        <!-- 列表展示 sta-->
+        <div class="content">
+            <div class="listTitle">
+                <a class="tuiguang" href="http://e.58.com/fangchan.html" target="_blank"
+                   onClick="clickLog('from=fcpc_list_np_fytg')">房源推广请拨打：4006401189</a>
+                <a href="/chuzu/"
+                   onClick="clickLog('from=fcpc_list_np_defaulttab')">
+                    <span id="tab-default"  class="select" >南平出租</span></a>
+                <a href="/chuzu/0/"
+                   onClick="clickLog('from=fcpc_list_np_persontab')">
+                    <span id="tab-customer" >个人房源</span></a>
+                <a href="/chuzu/1/"
+                   onClick="clickLog('from=fcpc_list_np_jingjirentab')">
+                    <span id="tab-middleman" >经纪人</span></a>
+                                    <div class="cxTitle">
+                        <a href="/chuzu/?isreal=true"
+                           onClick="clickLog('from=fcpc_list_np_tab_chengxintab')">
+                            <span  >热租房源</span>
+                        </a>
+                    </div>
+                                            </div>
+            <div class="listBox">
+                <ul class="listUl">
+                    <!--房源列表信息-->
+                            <li logr="gz_2_35692109631758_29471094524333_sortid:1491235205000@ses:busitime^desc@pubid:9451835"
+            sortid="1491235205000">
+            <div class="img_list">
+                <a href="http://jxjump.58.com/service?target=INKicKZPP1XJ2FI5AKZJ7lFm4eEH5-It9cA6pWBzPQgrvNlzUYETEQuof1OgHjeWkLGGcJbkL3Dt__cPLIyl01d1R3BxuU5Sj_yA9IIXgef5BySc5SVsWOMxytthrUmolnJofXg_3Phq5ojQWRx9NwryMf9qpsMZ2DB6A8DEJiY1Dwss2FzQEdgnQMgZpj5lBcV51HQEeEDu4YtOErJaKQ&local=10285&pubid=9451835&apptype=0&psid=186167302195466006299715542&entinfo=29471094524333_0&cookie=|||" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic1.58cdn.com.cn/p1/small/n_v1bl2lwtljjxjvq2f4eztq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">6 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://jxjump.58.com/service?target=INKicKZPP1XJ2FI5AKZJ7lFm4eEH5-It9cA6pWBzPQgrvNlzUYETEQuof1OgHjeWkLGGcJbkL3Dt__cPLIyl01d1R3BxuU5Sj_yA9IIXgef5BySc5SVsWOMxytthrUmolnJofXg_3Phq5ojQWRx9NwryMf9qpsMZ2DB6A8DEJiY1Dwss2FzQEdgnQMgZpj5lBcV51HQEeEDu4YtOErJaKQ&local=10285&pubid=9451835&apptype=0&psid=186167302195466006299715542&entinfo=29471094524333_0&cookie=|||"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank"  rel="nofollow" >
+                        整租 | 延平延府豪庭 高层电梯 办公房 看房方便有钥匙                    </a>
+                                            <em class="jinico"></em>
+                                    </h2>
+                <p class="room">2室2厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;100㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  延府豪庭                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                南平市延城房产 - 世纪店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">许竟</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">许竟</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>2年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        南平市延                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_35692109631758"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29471094524333&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>3100</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="gz_2_42438664746003_29392608886441_sortid:1491235205000@ses:busitime^desc@pubid:9320913"
+            sortid="1491235205000">
+            <div class="img_list">
+                <a href="http://jxjump.58.com/service?target=INKicKZPP1XJ2FI5AKZJ7lFm4eEH5-ItPg6VppwSldve5vhxa04VMAuof1OgHjeWgp3I4EXDEKKku13MwGZXgVd1R3BxuU5Sj_yA9IIXgef5BySc5SVsWOMxytthrUmolnJofXg_3Phq5ojQWRx9N4TOg3jJkRbR8VwaLzd-Zfs1Dwss2FzQEdgnQMgZpj5lBcV51HQEeEDu4YtOErJaKQ&local=10285&pubid=9320913&apptype=0&psid=186167302195466006299715542&entinfo=29392608886441_0&cookie=|||" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic3.58cdn.com.cn/p1/small/n_v1bkuymczs6levq7xq3qea.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">7 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://jxjump.58.com/service?target=INKicKZPP1XJ2FI5AKZJ7lFm4eEH5-ItPg6VppwSldve5vhxa04VMAuof1OgHjeWgp3I4EXDEKKku13MwGZXgVd1R3BxuU5Sj_yA9IIXgef5BySc5SVsWOMxytthrUmolnJofXg_3Phq5ojQWRx9N4TOg3jJkRbR8VwaLzd-Zfs1Dwss2FzQEdgnQMgZpj5lBcV51HQEeEDu4YtOErJaKQ&local=10285&pubid=9320913&apptype=0&psid=186167302195466006299715542&entinfo=29392608886441_0&cookie=|||"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank"  rel="nofollow" >
+                        整租 | 旺铺出租 看满意可适当小刀                    </a>
+                                            <em class="jinico"></em>
+                                    </h2>
+                <p class="room">3室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;78㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                    <a href="http://np.58.com/xiaoqu/nanhuahuayuan1/chuzu/"
+                               target="_blank"
+                               onClick="clickLog('from=fcpc_list_np_biaoti_xiaoqu')">南华花园</a>
+                                                            </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                南平市延城房产 - 永辉店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">应玉兰</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">应玉兰</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>1年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        南平市延                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_42438664746003"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29392608886441&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>2300</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="gz_2_35692109631758_29546807523898_sortid:1491235205000@ses:busitime^desc@pubid:9452151"
+            sortid="1491235205000">
+            <div class="img_list">
+                <a href="http://jxjump.58.com/service?target=INKicKZPP1XJ2FI5AKZJ7lFm4eEH5-ItHBudMMiSJONxZgvP9er14wuof1OgHjeWkLGGcJbkL3Dt__cPLIyl01d1R3BxuU5Sj_yA9IIXgef5BySc5SVsWOMxytthrUmolnJofXg_3Phq5ojQWRx9N_LuG-243fp75ogdRXLE8js1Dwss2FzQEdgnQMgZpj5lBcV51HQEeEDu4YtOErJaKQ&local=10285&pubid=9452151&apptype=0&psid=186167302195466006299715542&entinfo=29546807523898_0&cookie=|||" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic4.58cdn.com.cn/p1/small/n_v1bkuyfvpokpofrxouz4ra.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">6 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://jxjump.58.com/service?target=INKicKZPP1XJ2FI5AKZJ7lFm4eEH5-ItHBudMMiSJONxZgvP9er14wuof1OgHjeWkLGGcJbkL3Dt__cPLIyl01d1R3BxuU5Sj_yA9IIXgef5BySc5SVsWOMxytthrUmolnJofXg_3Phq5ojQWRx9N_LuG-243fp75ogdRXLE8js1Dwss2FzQEdgnQMgZpj5lBcV51HQEeEDu4YtOErJaKQ&local=10285&pubid=9452151&apptype=0&psid=186167302195466006299715542&entinfo=29546807523898_0&cookie=|||"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank"  rel="nofollow" >
+                        整租 | 延平创世纪二期 3室2厅120平米 办公装修                    </a>
+                                            <em class="jinico"></em>
+                                    </h2>
+                <p class="room">3室2厅2卫                    &nbsp;&nbsp;&nbsp;&nbsp;120㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  创世纪二期                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                南平市延城房产 - 世纪店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">许竟</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">许竟</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>2年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        南平市延                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_35692109631758"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29546807523898&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>3000</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="gz_2_35692109631758_29591121205193_sortid:1491235205000@ses:busitime^desc@pubid:9652546"
+            sortid="1491235205000">
+            <div class="img_list">
+                <a href="http://jxjump.58.com/service?target=INKicKZPP1XJ2FI5AKZJ7lFm4eEH5-ItmKH78wa4cKAKWi1moyCI-Auof1OgHjeWkLGGcJbkL3Dt__cPLIyl01d1R3BxuU5Sj_yA9IIXgef5BySc5SVsWOMxytthrUmolnJofXg_3Phq5ojQWRx9N5XpreoH7FbnC72MJQev1gw1Dwss2FzQEdgnQMgZpj5lBcV51HQEeEDu4YtOErJaKQ&local=10285&pubid=9652546&apptype=0&psid=186167302195466006299715542&entinfo=29591121205193_0&cookie=|||" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic5.58cdn.com.cn/p1/small/n_v1bj3gzscuttqvqzt6r44a.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">4 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://jxjump.58.com/service?target=INKicKZPP1XJ2FI5AKZJ7lFm4eEH5-ItmKH78wa4cKAKWi1moyCI-Auof1OgHjeWkLGGcJbkL3Dt__cPLIyl01d1R3BxuU5Sj_yA9IIXgef5BySc5SVsWOMxytthrUmolnJofXg_3Phq5ojQWRx9N5XpreoH7FbnC72MJQev1gw1Dwss2FzQEdgnQMgZpj5lBcV51HQEeEDu4YtOErJaKQ&local=10285&pubid=9652546&apptype=0&psid=186167302195466006299715542&entinfo=29591121205193_0&cookie=|||"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank"  rel="nofollow" >
+                        整租 | 延平长富广场 望江 办公好房 地段中心                    </a>
+                                            <em class="jinico"></em>
+                                    </h2>
+                <p class="room">3室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;150㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  长富广场                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                南平市延城房产 - 世纪店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">许竟</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">许竟</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>2年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        南平市延                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_35692109631758"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29591121205193&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>3900</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="gz_2_35692109631758_28628890930254_sortid:1491235205000@ses:busitime^desc@pubid:9451855"
+            sortid="1491235205000">
+            <div class="img_list">
+                <a href="http://jxjump.58.com/service?target=INKicKZPP1XJ2FI5AKZJ7lFm4eEH5-It0usEtGWOv1bUErTecAHAsQuof1OgHjeWkLGGcJbkL3Dt__cPLIyl01d1R3BxuU5Sj_yA9IIXgef5BySc5SVsWOMxytthrUmolnJofXg_3Phq5ojQWRx9N7KWC4ZcMebi3fdyR_te5eM1Dwss2FzQEdgnQMgZpj5lBcV51HQEeEDu4YtOErJaKQ&local=10285&pubid=9451855&apptype=0&psid=186167302195466006299715542&entinfo=28628890930254_0&cookie=|||" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic7.58cdn.com.cn/p1/small/n_v1bkuyfvlf45xfrpk2iryq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">7 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://jxjump.58.com/service?target=INKicKZPP1XJ2FI5AKZJ7lFm4eEH5-It0usEtGWOv1bUErTecAHAsQuof1OgHjeWkLGGcJbkL3Dt__cPLIyl01d1R3BxuU5Sj_yA9IIXgef5BySc5SVsWOMxytthrUmolnJofXg_3Phq5ojQWRx9N7KWC4ZcMebi3fdyR_te5eM1Dwss2FzQEdgnQMgZpj5lBcV51HQEeEDu4YtOErJaKQ&local=10285&pubid=9451855&apptype=0&psid=186167302195466006299715542&entinfo=28628890930254_0&cookie=|||"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank"  rel="nofollow" >
+                        整租 | 延平创世纪二期 3室2厅120平米 精装修 押二付一                    </a>
+                                            <em class="jinico"></em>
+                                    </h2>
+                <p class="room">3室2厅2卫                    &nbsp;&nbsp;&nbsp;&nbsp;120㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  创世纪二期                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                南平市延城房产 - 世纪店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">许竟</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">许竟</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>2年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        南平市延                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_35692109631758"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=28628890930254&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>3000</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="i_2_28415050528007_27893187598890_6_2_sortid:1489853259348@ses:defaultrank^0"
+            sortid="1489853259348">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/27893187598890x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic5.58cdn.com.cn/p1/small/n_v1bl2lwtmttmmfq736fuuq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">8 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/27893187598890x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 稀缺精装电梯房锦绣家园 2室1厅家电齐全惊爆价租15                    </a>
+                                            <em class="xinico"></em>
+                                    </h2>
+                <p class="room">2室2厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;70㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  锦绣家园                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                南平市延城房产 - 八一店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">沈国峰</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">沈国峰</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>3年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        南平市延                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_28415050528007"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=27893187598890&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1500</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="i_2_28415050528007_27823038771763_6_2_sortid:1488857287000@ses:defaultrank^0"
+            sortid="1488857287000">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/27823038771763x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic1.58cdn.com.cn/p1/small/n_v1bj3gzr572yhfqtrahz6a.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">8 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/27823038771763x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 半山云庭稀缺别墅超豪华四大房二大厅商住两用只租460                    </a>
+                                            <em class="xinico"></em>
+                                    </h2>
+                <p class="room">4室3厅3卫                    &nbsp;&nbsp;&nbsp;&nbsp;200㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  半山云庭（亿发大洒店旁（亿发商贸城对面）                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                南平市延城房产 - 八一店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">沈国峰</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">沈国峰</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>3年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        南平市延                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_28415050528007"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=27823038771763&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>4600</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="i_2_28415050528007_26822590234423_6_2_sortid:1482679708000@ses:defaultrank^0"
+            sortid="1482679708000">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/26822590234423x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic8.58cdn.com.cn/p1/small/n_v1bkuymc34solvorhhoaeq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">8 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/26822590234423x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 延平半山云庭别墅顶级超豪华装修5室3厅只租4900                    </a>
+                                            <em class="xinico"></em>
+                                    </h2>
+                <p class="room">5室3厅5卫                    &nbsp;&nbsp;&nbsp;&nbsp;200㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  半山云庭（亿发未来城旁亿发大酒店边）                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                南平市延城房产 - 八一店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">沈国峰</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">沈国峰</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>3年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        南平市延                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_28415050528007"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=26822590234423&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>4900</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="z_2_46463983150359_29580848088108_1_2_sortid:1491100375627"
+            sortid="1491100375627">
+            <div class="img_list">
+                <a href="http://short.58.com/zd_p/c0e0f060-8f75-4dd7-92b6-670e041ce5d1/?target=ow-16-xgk_hvimob_32164656466746q-feykn&end=end" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic7.58cdn.com.cn/p1/small/n_v1bkuymc5omlqfr27favrq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">5 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://short.58.com/zd_p/c0e0f060-8f75-4dd7-92b6-670e041ce5d1/?target=ow-16-xgk_hvimob_32164656466746q-feykn&end=end"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank"  rel="nofollow" >
+                        整租 | 建阳美墅温哥华 1室1厅 46平米 精装修 面议                    </a>
+                                            <a class="dingico_a" title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html"
+                           rel="nofollow">
+                            <em class="dingico"></em>
+                        </a>
+                                    </h2>
+                <p class="room">1室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;46㎡</p>
+                <p class="add">
+                    <a href="/jianyangs/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">建阳</a>
+                    &nbsp;&nbsp;
+                                                  美墅温哥华                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                福建省宜家房地产开发有限公司 - 建发店A组                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">宜家小陈</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">宜家小陈</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>1年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        福建省宜                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_46463983150359"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29580848088108&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    04-02                </div>
+                <div class="money">
+                    <b>1300</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="z_0_34893117182987_28149257334990_1_0_sortid:1490798694202"
+            sortid="1490798694202">
+            <div class="img_list">
+                <a href="http://short.58.com/zd_p/475f1a43-7b7e-475a-8d2f-6e9e4b080a21/?target=ow-16-xgk_ephv_36752310885224q-feykn&end=end" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic2.58cdn.com.cn/p1/small/n_v1bl2lwkhgxe2vrhwsxfhq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">3 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://short.58.com/zd_p/475f1a43-7b7e-475a-8d2f-6e9e4b080a21/?target=ow-16-xgk_ephv_36752310885224q-feykn&end=end"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank"  rel="nofollow" >
+                        单间 | 前进巷单间便宜出租！                    </a>
+                                            <a class="dingico_a" title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html"
+                           rel="nofollow">
+                            <em class="dingico"></em>
+                        </a>
+                                    </h2>
+                <p class="room">次卧(3室)                    &nbsp;&nbsp;&nbsp;&nbsp;20㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                    <a href="http://np.58.com/xiaoqu/qianjinxiang1/chuzu/"
+                               target="_blank"
+                               onClick="clickLog('from=fcpc_list_np_biaoti_xiaoqu')">前进巷</a>
+                                                            </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>陈毅芯                        <em class="bbonline" name="zaixian_34893117182987"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=28149257334990&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>390</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="z_2_46463983150359_29580892569651_1_2_sortid:1491100723137"
+            sortid="1491100723137">
+            <div class="img_list">
+                <a href="http://short.58.com/zd_p/95ca453d-044e-4149-a026-5756dbb355a2/?target=ow-16-xgk_hvimob_32164623192917q-feykn&end=end" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic2.58cdn.com.cn/p1/small/n_v1bl2lwkhdmpqfr32d6nma.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">5 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://short.58.com/zd_p/95ca453d-044e-4149-a026-5756dbb355a2/?target=ow-16-xgk_hvimob_32164623192917q-feykn&end=end"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank"  rel="nofollow" >
+                        整租 | 建阳盛世天地 2室1厅 82平米 中等装修 面议                    </a>
+                                            <a class="dingico_a" title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html"
+                           rel="nofollow">
+                            <em class="dingico"></em>
+                        </a>
+                                    </h2>
+                <p class="room">2室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;82㎡</p>
+                <p class="add">
+                    <a href="/jianyangs/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">建阳</a>
+                    &nbsp;&nbsp;
+                                                  盛世天地                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                福建省宜家房地产开发有限公司 - 建发店A组                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">宜家小陈</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">宜家小陈</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>1年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        福建省宜                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_46463983150359"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29580892569651&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    04-02                </div>
+                <div class="money">
+                    <b>1500</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_30030233929995_29075386256702_3_2_sortid:1490017915998@ses:busitime-bs^0"
+            sortid="1490017915998">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29075386256702x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic5.58cdn.com.cn/p1/small/n_v1bj3gzr23egsfqb3nnvaa.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">5 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29075386256702x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 延平 全延平 梅山花园 2室                    </a>
+                                    </h2>
+                <p class="room">2室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;75㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  梅山花园                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                家源房产 - 梅山坡店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">陈清妹</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">陈清妹</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>3年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        家源房产                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_30030233929995"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29075386256702&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1100</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_46369864030990_29530186794804_3_2_sortid:1490704584305@ses:busitime-bs^0"
+            sortid="1490704584305">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29530186794804x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic2.58cdn.com.cn/p1/small/n_v1bl2lwkggldnfqjqdbegq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">5 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29530186794804x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 延平 全延平 锡华翠城 2室精装拎包入住                    </a>
+                                    </h2>
+                <p class="room">2室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;70㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  锡华翠城                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                家源房产 - 胜利店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">小叶</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">小叶</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>1年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        家源房产                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_46369864030990"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29530186794804&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1400</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_38520358289431_29086555786816_0_0_sortid:1491278588000@ses:defaultrank^0"
+            sortid="1491278588000">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29086555786816x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic3.58cdn.com.cn/p1/small/n_v1bj3gzr55ogsvrap2pqba.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">8 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29086555786816x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 延平南铝生活区全新 3室2厅电梯房 98.49平米                     </a>
+                                    </h2>
+                <p class="room">3室2厅2卫                    &nbsp;&nbsp;&nbsp;&nbsp;98.49㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  南铝生活区                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>邹先生                        <em class="bbonline" name="zaixian_38520358289431"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29086555786816&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1800</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_35692050537489_29196129050188_3_2_sortid:1489853765851@ses:busitime-bs^0"
+            sortid="1489853765851">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29196129050188x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic4.58cdn.com.cn/p1/small/n_v1bkuyfviuq2zfr65tgucq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">4 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29196129050188x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 延平延府豪庭 1室0厅33平米 简单装修 押二付一                    </a>
+                                    </h2>
+                <p class="room">1室0厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;33㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  延府豪庭                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                南平市延城房产 - 人民店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">小谢</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">小谢</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>2年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        南平市延                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_35692050537489"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29196129050188&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1500</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_37356778099472_29376262132548_0_0_sortid:1491283048000@ses:defaultrank^0"
+            sortid="1491283048000">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29376262132548x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic5.58cdn.com.cn/mobile/small/n_v1bl2lwxreftrvqx7rii6q.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">12 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29376262132548x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 松溪大饭店旁 4室2厅1卫                     </a>
+                                    </h2>
+                <p class="room">4室2厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;120㎡</p>
+                <p class="add">
+                    <a href="/songxi/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">松溪</a>
+                    &nbsp;&nbsp;
+                                                  松溪大饭店旁                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>李女士                        <em class="bbonline" name="zaixian_37356778099472"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29376262132548&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1000</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_43782300690963_29452470378832_3_2_sortid:1490097424774@ses:busitime-bs^0"
+            sortid="1490097424774">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29452470378832x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic6.58cdn.com.cn/p1/small/n_v1bkuymc7octivqba735fa.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">11 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29452470378832x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 只需3500入住汇丰城市花园,精装修                    </a>
+                                    </h2>
+                <p class="room">5室2厅4卫                    &nbsp;&nbsp;&nbsp;&nbsp;256㎡</p>
+                <p class="add">
+                    <a href="/jianou/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">建瓯</a>
+                    &nbsp;&nbsp;
+                                                  汇丰城市花园                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                瓯房置业 - 新区旗舰店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">吴智辉</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">吴智辉</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>1年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        瓯房置业                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_43782300690963"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29452470378832&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>3500</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_41951423801101_29551893288142_3_2_sortid:1490874166285@ses:busitime-bs^0"
+            sortid="1490874166285">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29551893288142x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">0 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29551893288142x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 延平创世纪一期 3室2厅106平米 中等装修 押二付                    </a>
+                                    </h2>
+                <p class="room">3室2厅2卫                    &nbsp;&nbsp;&nbsp;&nbsp;106㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  创世纪一期                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                宜家房地产 - 马坑路口店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">粟翻</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">粟翻</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>1年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        宜家房地                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_41951423801101"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29551893288142&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>2800</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_45772198610449_29250834913834_3_2_sortid:1490315524125@ses:busitime-bs^0"
+            sortid="1490315524125">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29250834913834x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic6.58cdn.com.cn/p1/small/n_v1bkuymc3ybo4vrj6syaya.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">6 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29250834913834x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | (出租)建瓯上峰景城 2室1厅 精装修房子 家电齐全                    </a>
+                                    </h2>
+                <p class="room">2室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;67㎡</p>
+                <p class="add">
+                    <a href="/jianou/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">建瓯</a>
+                    &nbsp;&nbsp;
+                                                  上峰景城                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                瓯房置业                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">陈华妹</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">陈华妹</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>1年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        瓯房置业                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_45772198610449"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29250834913834&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1300</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_27524573207303_29547862070585_3_2_sortid:1490842672401@ses:busitime-bs^0"
+            sortid="1490842672401">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29547862070585x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic4.58cdn.com.cn/p1/small/n_v1bj3gzrznotofrb7kl4rq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">3 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29547862070585x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 包看包满意 鼓楼街 单身公寓 配套齐 包宽带卫生费7                    </a>
+                                    </h2>
+                <p class="room">1室0厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;35㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  鼓楼街                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                家源房产 - 人民店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">鄢尧旺</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">鄢尧旺</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>3年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        家源房产                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_27524573207303"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29547862070585&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>700</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_34028455189511_23580446174752_3_2_sortid:1489248429089@ses:busitime-bs^0"
+            sortid="1489248429089">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/23580446174752x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic2.58cdn.com.cn/p1/small/n_v1bl2lwwijcukvmxsqojda.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">8 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/23580446174752x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 东门星级爱心公寓，5项免费：宽带闭路物业中介健身                    </a>
+                                    </h2>
+                <p class="room">1室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;37㎡</p>
+                <p class="add">
+                    <a href="/jianou/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">建瓯</a>
+                    &nbsp;&nbsp;
+                                                  东门巨力大厦                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">东门房产</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">东门房产</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>2年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_34028455189511"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=23580446174752&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>700</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_38675343718930_29215208320430_3_2_sortid:1490231568833@ses:busitime-bs^0"
+            sortid="1490231568833">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29215208320430x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic2.58cdn.com.cn/p1/small/n_v1bl2lwxs3zs2fqedvy5ra.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">8 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29215208320430x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 建瓯东门中睿城 2室2厅81平米 简单装修 押一付三                    </a>
+                                    </h2>
+                <p class="room">2室2厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;81㎡</p>
+                <p class="add">
+                    <a href="/jianou/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">建瓯</a>
+                    &nbsp;&nbsp;
+                                                  东门中睿城                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                瓯房置业 - 管葡店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">张江丽</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">张江丽</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>1年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        瓯房置业                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_38675343718930"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29215208320430&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>2300</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_13393674457863_13026432242821_0_0_sortid:1491278760092@ses:defaultrank^0"
+            sortid="1491278760092">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/13026432242821x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">0 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/13026432242821x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 武夷大学 单身公寓出租 设备全                    </a>
+                                    </h2>
+                <p class="room">1室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;35㎡</p>
+                <p class="add">
+                    <a href="/wuyishanshi/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">武夷山</a>
+                    &nbsp;&nbsp;
+                                                  武夷大学顺鑫广场                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>暨先生                        <em class="bbonline" name="zaixian_13393674457863"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=13026432242821&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>650</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_41813995851543_29558007478094_3_2_sortid:1490921933352@ses:busitime-bs^0"
+            sortid="1490921933352">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29558007478094x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">0 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29558007478094x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 建瓯青云书香 2室1厅68平米 精装修 押一付三                    </a>
+                                    </h2>
+                <p class="room">2室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;68㎡</p>
+                <p class="add">
+                    <a href="/jianou/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">建瓯</a>
+                    &nbsp;&nbsp;
+                                                  青云书香                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                建瓯市梦家园置业有限公司 - 泛华店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">张立风</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">张立风</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>1年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        建瓯市梦                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_41813995851543"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29558007478094&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1600</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_40098888076047_27188520947384_0_0_sortid:1491283409000@ses:defaultrank^0"
+            sortid="1491283409000">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/27188520947384x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic6.58cdn.com.cn/mobile/small/n_v1bkujjd2vglbvommstjxq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">11 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/27188520947384x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 建阳奥体花园 2室2厅2卫                    </a>
+                                    </h2>
+                <p class="room">2室2厅2卫                    &nbsp;&nbsp;&nbsp;&nbsp;100㎡</p>
+                <p class="add">
+                    <a href="/jianyangs/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">建阳</a>
+                    &nbsp;&nbsp;
+                                                  建阳奥体花园                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>李先生                        <em class="bbonline" name="zaixian_40098888076047"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=27188520947384&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1800</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_45318569369358_28988888977867_0_0_sortid:1491280135000@ses:defaultrank^0"
+            sortid="1491280135000">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/28988888977867x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">0 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/28988888977867x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 延平 延平区梅山坡 3室 1厅 90平米                    </a>
+                                    </h2>
+                <p class="room">3室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;90㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  延平区梅山坡                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>官女士                        <em class="bbonline" name="zaixian_45318569369358"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=28988888977867&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1100</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_27524573207303_29481800772943_3_2_sortid:1490326568480@ses:busitime-bs^0"
+            sortid="1490326568480">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29481800772943x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic4.58cdn.com.cn/p1/small/n_v1bj3gzsbastkfr2z2fawq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">8 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29481800772943x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 武夷香榭 独门独户 单身公寓 精装修 配套齐全 只要                    </a>
+                                    </h2>
+                <p class="room">1室0厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;35㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  武夷香榭                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                家源房产 - 人民店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">鄢尧旺</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">鄢尧旺</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>3年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        家源房产                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_27524573207303"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29481800772943&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>700</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_42079094477078_29380943151026_3_2_sortid:1489538618307@ses:busitime-bs^0"
+            sortid="1489538618307">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29380943151026x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic4.58cdn.com.cn/p1/small/n_v1bl2lwwjsr3efrjl6du6a.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">8 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29380943151026x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 建瓯丽佳水岸 3室2厅112平米 精装修 押一付三                    </a>
+                                    </h2>
+                <p class="room">3室2厅2卫                    &nbsp;&nbsp;&nbsp;&nbsp;112㎡</p>
+                <p class="add">
+                    <a href="/jianou/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">建瓯</a>
+                    &nbsp;&nbsp;
+                                                  丽佳水岸                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                瓯房置业 - 新区旗舰店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">吴松青</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">吴松青</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>1年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        瓯房置业                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_42079094477078"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29380943151026&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>2200</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_35692109631758_27461052097714_3_2_sortid:1488902759921@ses:busitime-bs^0"
+            sortid="1488902759921">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/27461052097714x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic6.58cdn.com.cn/p1/small/n_v1bl2lwkolv7rvo7cfamsq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">5 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/27461052097714x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 江南第一城四房家电齐全                    </a>
+                                    </h2>
+                <p class="room">4室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;120㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  八仙佳苑                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                南平市延城房产 - 世纪店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">许竟</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">许竟</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>2年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        南平市延                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_35692109631758"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=27461052097714&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1800</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_27524573207303_29525111804733_3_2_sortid:1490664935923@ses:busitime-bs^0"
+            sortid="1490664935923">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29525111804733x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic2.58cdn.com.cn/p1/small/n_v1bj3gzr66xxmvqg7wtyxq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">7 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29525111804733x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 锦江花苑 单身公寓 精装修 配套齐 包宽带物业费10                    </a>
+                                    </h2>
+                <p class="room">1室0厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;35㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  锦江花苑                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                家源房产 - 人民店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">鄢尧旺</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">鄢尧旺</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>3年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        家源房产                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_27524573207303"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29525111804733&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1000</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_27524573207303_29526178856393_3_2_sortid:1490673272261@ses:busitime-bs^0"
+            sortid="1490673272261">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29526178856393x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic8.58cdn.com.cn/p1/small/n_v1bkuymczo33mvqigqrbiq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">7 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29526178856393x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 梅山坡(市公安局旁)单身公寓 带阳台 只要550元                    </a>
+                                    </h2>
+                <p class="room">1室0厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;35㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  梅山坡                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                家源房产 - 人民店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">鄢尧旺</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">鄢尧旺</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>3年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        家源房产                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_27524573207303"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29526178856393&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>550</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_38675343718930_29405589270476_3_2_sortid:1489731166115@ses:busitime-bs^0"
+            sortid="1489731166115">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29405589270476x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic3.58cdn.com.cn/mobile/small/n_v1bl2lwxs4p3fvqsl7meva.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">1 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29405589270476x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 水西宏业佳园 2室1厅1卫                     </a>
+                                    </h2>
+                <p class="room">2室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;80㎡</p>
+                <p class="add">
+                    <a href="/jianou/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">建瓯</a>
+                    &nbsp;&nbsp;
+                                                  水西宏业佳园                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                瓯房置业 - 管葡店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">张江丽</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">张江丽</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>1年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        瓯房置业                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_38675343718930"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29405589270476&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1800</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_34028455189511_26453741023690_3_2_sortid:1489457206668@ses:busitime-bs^0"
+            sortid="1489457206668">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/26453741023690x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic2.58cdn.com.cn/p1/small/n_v1bj3gzr5ujowfrnl7jb7a.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">7 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/26453741023690x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 东门爱心星级公寓5项免费                    </a>
+                                    </h2>
+                <p class="room">1室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;37㎡</p>
+                <p class="add">
+                    <a href="/jianou/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">建瓯</a>
+                    &nbsp;&nbsp;
+                                                  东门爱心星级公寓                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">东门房产</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">东门房产</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>2年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_34028455189511"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=26453741023690&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>700</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_45993983461901_29451304703293_3_2_sortid:1490088317951@ses:busitime-bs^0"
+            sortid="1490088317951">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29451304703293x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic1.58cdn.com.cn/p1/small/n_v1bkuymc3o6hifqygalqlq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">8 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29451304703293x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 豪华别墅 5室2厅4卫 大露台 租3500 押一付三                    </a>
+                                    </h2>
+                <p class="room">5室2厅4卫                    &nbsp;&nbsp;&nbsp;&nbsp;256㎡</p>
+                <p class="add">
+                    <a href="/jianou/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">建瓯</a>
+                    &nbsp;&nbsp;
+                                                  汇丰城市                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                瓯房置业                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">林甜</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">林甜</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>1年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        瓯房置业                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_45993983461901"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29451304703293&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>3500</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_28415050528007_29572066341674_3_2_sortid:1491032066000@ses:busitime-bs^0"
+            sortid="1491032066000">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29572066341674x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic3.58cdn.com.cn/p1/small/n_v1bkuymc6tk3pvroop2jvq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">5 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29572066341674x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 您没看错创世纪三期独门独户单身公寓精装修押一付一仅租                    </a>
+                                    </h2>
+                <p class="room">1室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;41㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  创世纪三期（马坑路博物馆对面）                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                南平市延城房产 - 八一店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">沈国峰</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">沈国峰</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>3年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        南平市延                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_28415050528007"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29572066341674&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1100</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_43782300690963_29204444059833_3_2_sortid:1490174198422@ses:busitime-bs^0"
+            sortid="1490174198422">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29204444059833x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic6.58cdn.com.cn/p1/small/n_v1bl2lwkhaqozvre7evyqa.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">5 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29204444059833x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 建瓯丽佳水岸 1室1厅45平米 精装修 押一付三                    </a>
+                                    </h2>
+                <p class="room">1室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;45㎡</p>
+                <p class="add">
+                    <a href="/jianou/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">建瓯</a>
+                    &nbsp;&nbsp;
+                                                  丽佳水岸                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                瓯房置业 - 新区旗舰店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">吴智辉</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">吴智辉</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>1年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        瓯房置业                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_43782300690963"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29204444059833&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1500</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_35692050537489_29425984973776_3_2_sortid:1489890507554@ses:busitime-bs^0"
+            sortid="1489890507554">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29425984973776x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic2.58cdn.com.cn/p1/small/n_v1bkujjd4v5tgvrfrhgyda.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">5 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29425984973776x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 延平延府豪庭 1室1厅35平米 中等装修 押二付一                    </a>
+                                    </h2>
+                <p class="room">1室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;35㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  延府豪庭                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                南平市延城房产 - 人民店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">小谢</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">小谢</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>2年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        南平市延                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_35692050537489"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29425984973776&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1300</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_35692109631758_28596161489612_3_2_sortid:1489507601249@ses:busitime-bs^0"
+            sortid="1489507601249">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/28596161489612x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic8.58cdn.com.cn/p1/small/n_v1bl2lwtmtabvvrh6wercq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">4 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/28596161489612x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 延平锦绣家园 1室1厅能做饭 高层电梯 家电齐全                    </a>
+                                    </h2>
+                <p class="room">1室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;50㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  锦绣家园                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                南平市延城房产 - 世纪店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">许竟</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">许竟</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>2年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        南平市延                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_35692109631758"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=28596161489612&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1100</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_35692050537489_29160624533418_3_2_sortid:1489767370410@ses:busitime-bs^0"
+            sortid="1489767370410">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29160624533418x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic4.58cdn.com.cn/p1/small/n_v1bl2lwtjbjsxfr4hcde2q.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">10 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29160624533418x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 延平锦绣佳园 3室2厅99平米 精装修 押二付一                    </a>
+                                    </h2>
+                <p class="room">3室2厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;99㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  锦绣佳园                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                南平市延城房产 - 人民店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">小谢</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">小谢</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>2年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        南平市延                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_35692050537489"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29160624533418&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1800</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_43782300690963_29250937472073_3_2_sortid:1490372955254@ses:busitime-bs^0"
+            sortid="1490372955254">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29250937472073x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic4.58cdn.com.cn/p1/small/n_v1bj3gzsf5b24vqqkapzza.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">1 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29250937472073x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 建瓯丽佳水岸 3室2厅110平米 中等装修 押一付三                    </a>
+                                    </h2>
+                <p class="room">3室2厅2卫                    &nbsp;&nbsp;&nbsp;&nbsp;110㎡</p>
+                <p class="add">
+                    <a href="/jianou/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">建瓯</a>
+                    &nbsp;&nbsp;
+                                                  丽佳水岸                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                瓯房置业 - 新区旗舰店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">吴智辉</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">吴智辉</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>1年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        瓯房置业                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_43782300690963"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29250937472073&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>2500</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_35692109631758_27815162061510_3_2_sortid:1488902759901@ses:busitime-bs^0"
+            sortid="1488902759901">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/27815162061510x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic8.58cdn.com.cn/p1/small/n_v1bl2lwkco4ygvrwfexnhq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">4 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/27815162061510x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 地段新城中心宜家 阳光电梯房 方便停车 通透户型                    </a>
+                                    </h2>
+                <p class="room">2室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;80㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  新城中心                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                南平市延城房产 - 世纪店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">许竟</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">许竟</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>2年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        南平市延                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_35692109631758"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=27815162061510&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1800</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_27524573207303_29525165387719_3_2_sortid:1490665354472@ses:busitime-bs^0"
+            sortid="1490665354472">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29525165387719x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic3.58cdn.com.cn/p1/small/n_v1bkuyfvltx7mvqvjrninq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">14 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29525165387719x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 三元二路(闽北电脑城) 单身公寓 精装修 包看包满意                    </a>
+                                    </h2>
+                <p class="room">1室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;50㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  三元二路                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                家源房产 - 人民店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">鄢尧旺</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">鄢尧旺</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>3年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        家源房产                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_27524573207303"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29525165387719&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>900</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_46548513431571_29603887250630_0_0_sortid:1491280986348@ses:defaultrank^0"
+            sortid="1491280986348">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29603887250630x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic7.58cdn.com.cn/mobile/small/n_v1bj3gzr6vd7rvrhutwb3a.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">4 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29603887250630x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 南平市延平区亿发喜临门建材精装修电梯房 2室1厅1卫                    </a>
+                                    </h2>
+                <p class="room">2室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;69㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  南平市延平区亿发喜临门建材精装修电梯房                                                           </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>小黄                        <em class="bbonline" name="zaixian_46548513431571"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29603887250630&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1100</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="p_0_46548885092119_29604017257672_0_0_sortid:1491281416000@ses:defaultrank^0"
+            sortid="1491281416000">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29604017257672x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic4.58cdn.com.cn/p2/small/n_v1bl2lwkekexrvrvhmk4xq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">2 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29604017257672x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 延平武夷花园3室1厅1卫1000元                    </a>
+                                    </h2>
+                <p class="room">3室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                    <a href="http://np.58.com/xiaoqu/wuyihuayuannp/chuzu/"
+                               target="_blank"
+                               onClick="clickLog('from=fcpc_list_np_biaoti_xiaoqu')">武夷花园</a>
+                                                            </p>
+                                    <p class="geren">
+                        <span>来自个人房源：</span>                        <em class="bbonline" name="zaixian_46548885092119"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29604017257672&entityType=0')"></em>
+                    </p>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1000</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_34028455189511_24795047210569_3_2_sortid:1490247656000@ses:busitime-bs^0"
+            sortid="1490247656000">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/24795047210569x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic2.58cdn.com.cn/p1/small/n_v1bl2lwxwd36svngtlvytq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">8 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/24795047210569x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 东门星级公寓5项免费                    </a>
+                                    </h2>
+                <p class="room">1室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;37㎡</p>
+                <p class="add">
+                    <a href="/jianou/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">建瓯</a>
+                    &nbsp;&nbsp;
+                                                  爱心星级公寓                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">东门房产</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">东门房产</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>2年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_34028455189511"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=24795047210569&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>700</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+            <li logr="j_2_45513000395542_29163660678454_3_2_sortid:1490250459795@ses:busitime-bs^0"
+            sortid="1490250459795">
+            <div class="img_list">
+                <a href="http://np.58.com/zufang/29163660678454x.shtml" tongji_label="listclick"
+                   onclick="clickLog('from=fcpc_zflist_gzcount');" target="_blank">
+                    <img
+                        lazy_src="http://pic3.58cdn.com.cn/p1/small/n_v1bkuyfvjuu6xfr6alqusq.jpg?w=294&h=220&crop=1"
+                        src="http://img.58cdn.com.cn/ui9/house/list/lazy_pic.png">
+                </a>
+                <span class="picNum">9 图</span>
+            </div>
+            <div class="des">
+                <h2>
+                    <a href="http://np.58.com/zufang/29163660678454x.shtml"
+                       tongji_label="listclick"
+                       onclick="clickLog('from=fcpc_zflist_gzcount');"
+                       target="_blank" >
+                        整租 | 延平汇福名居 1室1厅40平米 精装修 面议                    </a>
+                                    </h2>
+                <p class="room">1室1厅1卫                    &nbsp;&nbsp;&nbsp;&nbsp;40㎡</p>
+                <p class="add">
+                    <a href="/yanping/chuzu/"
+                       onClick="clickLog('from=fcpc_list_np_biaoti_shangquan')">延平</a>
+                    &nbsp;&nbsp;
+                                                  汇福名居                                                           </p>
+                                    <div class="jjr">来自经纪人：
+                    <span class=" jjr_par">
+                                                    <span class="jjr_par_dp">
+                                南平市延城房产 - 名流店                            </span>
+                                                <span class="listjjr">
+                                                            <a href="javascript:;">张钊翔</a>
+                                <div class="jjrtip">
+                                    <img src="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png"
+                                         alt="经纪人图像" class="logo"
+                                         onerror="http://img.58cdn.com.cn/ui9/house/list/list_jjr.png">
+                                    <p class="jjrName">
+                                    <span class="jjrName_span">张钊翔</span>
+                                    <span class="wlt">
+                                        <em class="wltico"></em>1年
+                                    </span>
+                                    </p>
+                                    <p class="jjrrenz">
+                                        南平市延                                            </br>
+                                                                                58同城认证商家</p>
+                                    <span class="tipArrow"></span>
+                                </div>
+                                                    </span>
+                    </span>
+                        <em class="bbonline" name="zaixian_45513000395542"
+                            onClick="clickLog('from=fcpc_list_np_biaoti_bangbang&psid=186167302195466006299715542&entityId=29163660678454&entityType=0')"></em>
+                    </div>
+                            </div>
+            <div class="listliright">
+                <div class="sendTime">
+                    今天                </div>
+                <div class="money">
+                    <b>1100</b>元/月                </div>
+            </div>
+            <div class="listline"></div>
+        </li>
+    
+                    <!--页码 -->
+                    <li id="bottom_ad_li">
+    <div id="bottom_google_ad"></div>
+    <!-- 分页 sta-->
+    <div class="pager">
+        <strong><span>1</span></strong><a href="http://np.58.com/chuzu/pn2/"><span>2</span></a><a href="http://np.58.com/chuzu/pn3/"><span>3</span></a><a href="http://np.58.com/chuzu/pn4/"><span>4</span></a><a href="http://np.58.com/chuzu/pn5/"><span>5</span></a><a href="http://np.58.com/chuzu/pn6/"><span>6</span></a><a href="http://np.58.com/chuzu/pn7/"><span>7</span></a><a href="http://np.58.com/chuzu/pn8/"><span>8</span></a><a href="http://np.58.com/chuzu/pn9/"><span>9</span></a><a href="http://np.58.com/chuzu/pn10/"><span>10</span></a><a href="http://np.58.com/chuzu/pn11/"><span>11</span></a><a href="http://np.58.com/chuzu/pn12/"><span>12</span></a><a  class="next" href="http://np.58.com/chuzu/pn2/"><span>下一页</span></a>    </div>
+    <!-- 分页 end-->
+    <div id="bottom_zhaoshangjiameng_ad"></div>
+</li>
+                </ul>
+
+
+                <!-- 右侧广告 sta-->
+                <div class="rightAd">
+                    <div id="brand_jpjjr"></div>
+                    <div id="brand_md">
+                        <div id="ad19"></div>
+                    </div>
+                    <div id="rightframe"></div>
+                </div>
+                <!-- 右侧广告 end-->
+            </div>
+
+        </div>
+        <!-- 列表展示 end-->
+
+        <!--底部广告 sta-->
+        <div id="bottomAd">
+            <!--诚信经纪人 sta-->
+            <div class="bottomcxAd">
+                <h3>优秀经纪人推荐</h3>
+                <ul id="listZufang">
+                                    </ul>
+                <p class="btn_rock"></p>
+            </div>
+            <!--诚信经纪人 end-->
+        </div>
+        <div id="wangmeng_list_bottom_ditong"></div>
+        <!--底部广告 end-->
+
+        <!--底部频道介绍-->
+        <!------------------------------频道页介绍------------------------------------------------>
+<div class="other_series_recommend">
+    <ul class="other_series_nav">
+        <!----------------------------- 相关推荐------------------------------>
+                    <li class="selected" name="1">相关推荐</li>
+                <!-- ---------------------------频道页介绍 -------------------------------->
+        <li name="2">南平出租频道介绍</li>
+        <!--------------------------热门小区----------------------------------------------------->
+                <!-----------------------------------沿线相关的部分------------------------------------------------------->
+        <li name="4">南平出租相关</li>
+        <!---------------------------------------商圈/站点等------------------------------------->
+        <li name="5">南平出租全部商圈</li>
+        <!-------------------------------------周边城市---------------------------------------------->
+        <li name="6">南平出租周边城市</li>
+    </ul>
+
+    <ul class="other_list_introduce">
+
+        <!----------------------------- 相关推荐------------------------------>
+        <li name="1"><a target="_blank"
+                        href='http://np.fang.anjuke.com/'>南平新房</a>
+        </li>
+        <li name="1"><a target="_blank"
+                        href='http://np.fang.anjuke.com/fangjia/'>南平                新房房价</a></li>
+        <li name="1"><a target="_blank"
+                        href='http://np.anjuke.com/'>南平房产网</a>
+        </li>
+        <li name="1"><a target="_blank"
+                        href='http://np.anjuke.com/sale/'>南平                二手房</a>
+        </li>
+        <li name="1"><a target="_blank"
+                        href='http://np.zu.anjuke.com/'>南平租房</a>
+        </li>
+        <li name="1"><a target="_blank"
+                        href='http://np.anjuke.com/market/'>南平                房价走势</a>
+        </li>
+
+        <!-- ---------------------------频道页介绍 -------------------------------->
+        <li name="2" class="none">58同城南平出租            频道为您提供最新南平出租信息，每天有几十万条南平            个人租房、经纪人租房信息更新，人工审核真实有效，欢迎您使用58同城南平出租频道。
+        </li>
+
+        <!--------------------------热门小区----------------------------------------------------->
+        
+        <!-----------------------------------沿线相关的部分------------------------------------------------------->
+                        <li name="4" class="none">
+                    <a target="_blank"
+                       href="/chuzu/jh_%E5%8D%97%E5%B9%B3%E5%AE%9E%E5%B0%8F/">南平实小</a>
+                </li>
+                                <li name="4" class="none">
+                    <a target="_blank"
+                       href="/chuzu/jh_%E6%AD%A6%E5%A4%B7%E5%B1%B1%E5%87%BA%E7%A7%9F/">武夷山出租</a>
+                </li>
+                                <li name="4" class="none">
+                    <a target="_blank"
+                       href="/chuzu/jh_%E5%8D%97%E5%B9%B3%E9%A6%AC%E7%AB%99/">南平馬站</a>
+                </li>
+                                <li name="4" class="none">
+                    <a target="_blank"
+                       href="/chuzu/jh_%E9%95%BF%E5%AF%8C%E5%A4%A7%E5%8E%A6%E5%87%BA%E7%A7%9F/">长富大厦出租</a>
+                </li>
+                                <li name="4" class="none">
+                    <a target="_blank"
+                       href="/chuzu/jh_%E7%9B%9B%E4%B8%96%E5%8D%97%E5%B9%B3/">盛世南平</a>
+                </li>
+                                <li name="4" class="none">
+                    <a target="_blank"
+                       href="/chuzu/jh_%E5%8D%97%E5%B9%B3%E4%B8%80%E4%B8%AD/">南平一中</a>
+                </li>
+                
+        <!---------------------------------------商圈/站点等------------------------------------->
+        <li name="5" class="none">
+            <dl id="hotarea" class="hotarea">
+                                        <dt>
+                            <span>A</span>
+                        </dt>
+                                                <dt>
+                            <span>B</span>
+                        </dt>
+                                                <dt>
+                            <span>C</span>
+                        </dt>
+                                                    <dd style="display: block;">
+                                                                    <a target="_blank"
+                                       href="/npchongan/chuzu/">崇安出租</a>
+                                                            </dd>
+                                                <dt>
+                            <span>D</span>
+                        </dt>
+                                                <dt>
+                            <span>E</span>
+                        </dt>
+                                                <dt>
+                            <span>F</span>
+                        </dt>
+                                                <dt>
+                            <span>G</span>
+                        </dt>
+                                                    <dd style="display: block;">
+                                                                    <a target="_blank"
+                                       href="/guangzhe/chuzu/">光泽出租</a>
+                                                            </dd>
+                                                <dt>
+                            <span>H</span>
+                        </dt>
+                                                <dt>
+                            <span>I</span>
+                        </dt>
+                                                <dt>
+                            <span>J</span>
+                        </dt>
+                                                <dt>
+                            <span>K</span>
+                        </dt>
+                                                <dt>
+                            <span>L</span>
+                        </dt>
+                                                <dt>
+                            <span>M</span>
+                        </dt>
+                                                <dt>
+                            <span>N</span>
+                        </dt>
+                                                <dt>
+                            <span>O</span>
+                        </dt>
+                                                <dt>
+                            <span>P</span>
+                        </dt>
+                                                    <dd style="display: block;">
+                                                                    <a target="_blank"
+                                       href="/puchengx/chuzu/">浦城出租</a>
+                                                            </dd>
+                                                <dt>
+                            <span>Q</span>
+                        </dt>
+                                                <dt>
+                            <span>R</span>
+                        </dt>
+                                                <dt>
+                            <span>S</span>
+                        </dt>
+                                                    <dd style="display: block;">
+                                                                    <a target="_blank"
+                                       href="/songxi/chuzu/">松溪出租</a>
+                                                            </dd>
+                                                <dt>
+                            <span>T</span>
+                        </dt>
+                                                <dt>
+                            <span>U</span>
+                        </dt>
+                                                <dt>
+                            <span>V</span>
+                        </dt>
+                                                <dt>
+                            <span>W</span>
+                        </dt>
+                                                    <dd style="display: block;">
+                                                                    <a target="_blank"
+                                       href="/npwuyi/chuzu/">武夷出租</a>
+                                                                    <a target="_blank"
+                                       href="/wyswufuzhen/chuzu/">五夫镇出租</a>
+                                                                    <a target="_blank"
+                                       href="/wyswuyishanzb/chuzu/">武夷山周边出租</a>
+                                                            </dd>
+                                                <dt>
+                            <span>X</span>
+                        </dt>
+                                                    <dd style="display: block;">
+                                                                    <a target="_blank"
+                                       href="/wysxinfeng/chuzu/">新丰出租</a>
+                                                                    <a target="_blank"
+                                       href="/wysxingcunzhen/chuzu/">星村镇出租</a>
+                                                                    <a target="_blank"
+                                       href="/wysxingtianz/chuzu/">兴田镇出租</a>
+                                                            </dd>
+                                                <dt>
+                            <span>Y</span>
+                        </dt>
+                                                <dt>
+                            <span>Z</span>
+                        </dt>
+                                                    <dd style="display: block;">
+                                                                    <a target="_blank"
+                                       href="/zhenghe/chuzu/">政和出租</a>
+                                                            </dd>
+                                    </dl>
+        </li>
+        <!-------------------------------------周边城市---------------------------------------------->
+                        <li name="6" class="none">
+                    <a target="_blank" href="http://fz.58.com/chuzu/">福州出租</a>
+                </li>
+                            <li name="6" class="none">
+                    <a target="_blank" href="http://xm.58.com/chuzu/">厦门出租</a>
+                </li>
+                            <li name="6" class="none">
+                    <a target="_blank" href="http://pt.58.com/chuzu/">莆田出租</a>
+                </li>
+                            <li name="6" class="none">
+                    <a target="_blank" href="http://sm.58.com/chuzu/">三明出租</a>
+                </li>
+                            <li name="6" class="none">
+                    <a target="_blank" href="http://qz.58.com/chuzu/">泉州出租</a>
+                </li>
+                            <li name="6" class="none">
+                    <a target="_blank" href="http://ly.58.com/chuzu/">龙岩出租</a>
+                </li>
+                            <li name="6" class="none">
+                    <a target="_blank" href="http://zhangzhou.58.com/chuzu/">漳州出租</a>
+                </li>
+                </ul>
+
+    <!-------------------------------------友情链接---------------------------------------------->
+            <p>
+                            <span>友情链接：</span>
+                <span>
+                        <a href='http://np.58.com/fangjia/' target='_blank'>南平房价</a>&nbsp;<a href='http://www.58.com/ppscaipumap28/' target='_blank'>菜谱地图</a>&nbsp;<a href='http://cai.m.58.com' target='_blank'>菜谱</a>&nbsp;<a href='http://np.58.com/lpdq/xinfanglp/' target='_blank'>南平新房</a>&nbsp;<a href='http://nanping.ganji.com/fang1/m1/' target='_blank'>南平房屋出租</a>&nbsp;<a href='http://bj.58.com/pinpaigongyu/780605824279015424/' target='_blank'>和睦寓</a>&nbsp;<a href='http://m.58.com/bj/pinpaigongyu/780605824279015424/' target='_blank'>和睦寓</a>&nbsp;  <a href="/link.html" target="_blank">更多...</a>                        </span>
+                        </p>
+    </div>    </div>
+    <div class="rightFix">
+        <div class="gotop none">
+            <a class="gotop_pic" href="javascript:;"
+               onClick="clickLog('from=fcpc_list_np_gensui_fanhui')"></a>
+        </div>
+        <div class="suggest">
+            <a class="suggest_pic" href="http://about.58.com/feedback.html" target="_blank"
+               onClick="clickLog('from=fcpc_list_np_gensui_fankui')"></a>
+        </div>
+    </div>
+</div>
+
+<!-- 主要内容部分 end-->
+<div id="footer" class="footer"></div>
+<script src="http://track.58.com/adsys/ggafs?rand=20161017"></script>
+
+
+<div style="display:none">
+    <!--基本统计代码begin(8,0)--by:zhanghao06-->
+    <script type="text/javascript">
+        ____json4fe.supplycount = {level1: '', level2: '', level3: '', level4: '', sortid: ''};
+        var site_name = "58", post_count = "8067", page_type = "list";
+        var _trackURL = "{'cate':'1,37031','area':'10291','pagetype':'list','pagesize':35,'pagenum':1,'jiage':'','is_real':false,'is_biz':false,'GA_pageview':'/house/chuzu/list/'}";
+    </script>
+    <script src="http://tracklog.58.com/referrer4.js"></script>
+    <!--基本统计代码end-->
+</div>
+<script>
+    require(['house/commonFooter']);
+    require(['house/listInit']);
+</script>
+<script type="text/javascript">
+    var xxfwConfig = { namespace:'chuzulistphp'};
+</script>
+<script type="text/javascript" src="http://j1.58cdn.com.cn/resource/xxzl/xxfw/xxfw.min.js"></script>
+</body>
+</html>

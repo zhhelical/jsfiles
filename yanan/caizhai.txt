@@ -1,0 +1,1471 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+												<!--  当前的类别归属ID--> 
+		<!--  当前的类别表现ID--> 
+		<!--  当前的类别listname (eg:banjia)--> 
+		<!--  当前的类别catename (eg:搬家)--> 
+		<!--  一级类别归属ID--> 
+		<!--  一级类别表现ID--> 
+		<!--  一级类别listname eg:jiazheng--> 
+		<!--  一级类别catename eg:家政--> 
+		<!--  二级类别归属ID [Ljava.lang.Integer;@56f53e78 数字长度：2--> 
+			<!--  二级类别表现ID--> 
+				<!--  二级类别listname eg:jiazhuang--> 
+				<!--  二级类别catename eg:家装-->
+				<!-- 表现类别的全路径   eg:8512,96-->
+									
+						<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>【58同城】延安采摘园_延安周边采摘园_延安采摘哪里好</title>
+	<meta name="description" content='58同城延安采摘频道免费提供给您大量真实有效的延安采摘,延安采摘园信息查询，同时您可以免费发布延安采摘，周边采摘信息。最好的延安采摘信息就在58同城延安采摘频道。-58.com'/>
+	<meta name="keywords" content='延安采摘基地,延安附近采摘园,延安采摘一日游,延安采摘价格'/>
+	<meta http-equiv="X-UA-Compatible" content="edge" />
+		<meta name="location" content="province=陕西;city=延安;coord=109.50051,36.60332">
+				<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/yanan/caizhai/" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/yanan/caizhai/" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/yanan/caizhai/" />
+					<script type="text/javascript">
+		var ____loadCfg = ['huangye', 'shenghuo', 'listpage'];
+	</script>
+	<script src='http://j2.58cdn.com.cn/js/require_jquery_load.js'></script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">document.write('<scri'+'pt src="http://j1.58cdn.com.cn/ds/tgbrand/js/brand_listpage_v1.js?temp=' + Math.random() + '"></scri'+'pt>');</script> 
+<script type="text/javascript">
+	var xxfwConfig = {namespace:'huangyelistpc'};
+</script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/resource/xxzl/xxfw/xxfw.min_v20161021110430.js'></script>
+
+<script type="text/javascript">
+try{
+	var ____json4fe = {"catentry":[{"dispid":"8640","name":"旅游酒店","listname":"lvyouxiuxian"},{"dispid":"8659","name":"周边游","listname":"zhoubianyou"},{"dispid":"23674","name":"采摘","listname":"caizhai"}],"locallist":[{"dispid":"8973","name":"延安","listname":"yanan"}],"start":(new Date()).getTime(),"modules":"list"};
+	____json4fe.version = 'A';
+	____json4fe.modules = 'listpage';
+	____json4fe.sid = '145133251195479199914576723';
+	____json4fe.sessionid = '17e3ad3b-2f9e-4256-9fa6-d6eafe7ea4ef';
+	____json4fe.smsc = 'ea53353a1f5487603999c6c6ab0699b8eb22f92b52faa21b52f9ab4d4a426fe19fa073b94cbc9b4bace14f8a4e01e616f30a683e6ef1255aeee8a17a0a97a449d8b4ebab81737da6b76c65706bca86196337ea7665ab20d1d275899e1b3645fc6bc8f3387c3a1cd18d743cc891337f17913bc319fe882a108d3634a98389bb5718910fcd59a439b62e18d2b800c127cc53b3e7f49640f9b2d00854929f6b745e';
+	____json4fe.newcateid='23674';
+	____json4fe.keyword='';
+	____json4fe.page='1';
+	____json4fe.param='5254:6';
+	}catch(e){};
+	(function(){
+var e = "header,nav,section,aside,article,footer".split(','),
+i=0,
+length=e.length;
+while(i<length){
+    document.createElement(e[i++])
+}
+})();
+	var ajax_param = '{"platform":"pc","paramMap":null,"pageIndex":1,"dispCateId":23674,"infoMethod":["renzheng","baojia","wltAge"],"dataParam":"27573565930817_40186072498705_0_commoninfo,27150914420160_41641246549265_0_commoninfo,25305875706932_37733326492176_0_commoninfo,27017728822458_41375798924303_0_second_additional_info,29407044455878_39988694629904_0_second_additional_info,29392899939907_40686245032973_0_second_additional_info,29381865210057_41791666926351_0_second_additional_info,25701555206574_36127657595921_0_second_additional_info,25701619426101_36127657595921_0_second_additional_info,25701582266687_36127657595921_0_second_additional_info,25701638452560_36127657595921_0_second_additional_info,25701252299208_36127657595921_0_second_additional_info,25701866619701_36127657595921_0_second_additional_info,29205530021440_38188700175118_0_second_additional_info,29195620533942_30049482232588_0_second_additional_info,29193465930187_37853136649231_0_second_additional_info,29162758354357_27083146813190_0_second_additional_info,29149677093963_26886481131271_0_second_additional_info,29127476893372_30049482232588_0_second_additional_info,29097402573504_45512986946071_0_second_additional_info,29096964080458_27083146813190_0_second_additional_info,29096893626421_27082400781063_0_second_additional_info,29096824383539_27574249963014_0_second_additional_info,29064790558918_44452776865043_0_second_additional_info,29007752394565_41791666926351_0_second_additional_info,28776401591757_41791666926351_0_second_additional_info,28675876182601_42989991256077_0_second_additional_info,28566125922739_41791666926351_0_second_additional_info,26895836546488_39055345544726_0_second_additional_info,28479880307510_15082000811782_0_second_additional_info,28200279684783_34424329232395_0_second_additional_info,27921888299955_37853136649231_0_second_additional_info,27884025400909_30224375214087_0_second_additional_info,27868521954256_30049482232588_0_second_additional_info","dispCateName":"caizhai"}';
+	var s_ajax_param = 's_contact_caizhai_145133251195479199914576723_';
+</script>				<link href='http://c.58cdn.com.cn/ds/v1/base-v1_v0.css' rel="stylesheet" type="text/css">
+	<link href='http://c.58cdn.com.cn/ds/v1/common_list_v20170315183710.css' rel="stylesheet" type="text/css">
+<link href='http://c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20170331140927.css' rel="stylesheet" type="text/css">
+
+
+		<link href='http://c.58cdn.com.cn/ds/v1/list/defaultList_v20170220190119.css' rel="stylesheet" type="text/css">
+	<!-- <link rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv02_v0.css'> -->
+<link type="text/css" rel="stylesheet" href='http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03_v20160727171301.css'>
+<!-- <link type="text/css" rel="stylesheet" href="http://c.58cdn.com.cn/ds/huangye/new_jumpdiv03.css"> -->
+
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/dialog_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/release_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/banjia/retable_v20170215202539.css">
+<link rel="stylesheet" href="http://c.58cdn.com.cn/ds/weixin/hy_freetel_v20161207184444.css">	
+    		</head>
+			<body class="">
+						<!-- =S top bar header -->
+			<div id="commonTopbar" class="commonTopbar">
+<script type="text/javascript">
+    var secId;
+        ____json4fe.catentry[1]? secId = ____json4fe.catentry[1].dispid : secId = ____json4fe.catentry.dispid;
+    var modules = ____json4fe.modules;
+    //搬家列表页(secId == "96" && modules=="listpage")宽度为1190px
+    if(secId == "96" && modules=="listpage"){
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'default' // default: 1190px, narrow: 1000px
+            });
+        };
+    }else{
+        window.wbAsyncInit = function wbAsyncInit( CL ){
+            CL.invoke('topbar', {
+                aroundCity: false,
+                weather: false,
+                appQR: true, // homepage QR
+                homepageLink: true,
+                size: 'narrow' // default: 1190px, narrow: 1000px
+            });
+        };
+    }    
+</script>
+</div>
+<!-- =S banner  div -->
+<div class="topbannerbar"><div id="brand_list_top_banner" onclick="clickLog('from=pc_list_caizhai_top_banner');" ></div></div>
+<!-- =E banner  div--><header id="header">
+    <div class="header-inner">
+    <a class="logo float_l" href="/huangye/" target="_blank" onclick="clickLog('from=pc_list_logo_caizhai');">58同城</a>
+            <a href='http://post.58.com/8973/8659/s5' target="_blank" onclick="clickLog('from=pc_list_fabu_caizhai');" class="postbtn float_r">免费发布</a>
+        		        <div class="header-search float_r">
+         <em class="ico-searchkey"></em>
+         <form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+         	            	<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();">
+                        <span onMouseOut="this.className='sbtn'" onMouseOver="this.className='sbtn hover'" class="sbtn">
+                			<input type="submit" value="搜服务" onclick="clickLog('from=pc_list_search_caizhai');" class="but-bl" name="" id="searchbtn1" ></span>
+                		        		<div class="clear"></div>
+        					       		       	  </form>
+       	</div>
+		            	<div class="nav float_l" >
+	<a href="/">延安58同城</a> &gt; <a href="/lvyouxiuxian.shtml">延安旅游酒店</a>
+				 &gt; <a href="/zhoubianyou/" itemprop="url">延安周边游</a>
+				 &gt; <a href="/caizhai/" itemprop="url">延安采摘</a>
+	
+
+</div>
+	</div>
+</header>
+		<!-- =E top bar header -->
+	<!-- =S common_column_label-->
+			<!-- =E common_column_label-->
+	<!-- =S searchTip -->
+			<!-- =E searchTip  -->
+	<!-- =s cmcs -->
+							<section id="selection">
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">热门景点 ：</dt>
+		<dd id="remenjingdian" >
+																    		    		    		    					<a href="/zhoubianyou/" class='select' >全部</a>
+								    		    		    		    					<a href="http://yanan.58.com/zhoubianyou/pve_8924_906/"  >华山</a>
+								    		    		    		    					<a href="http://yanan.58.com/zhoubianyou/pve_8924_826/"  >壶口瀑布</a>
+								    		    		    		    					<a href="http://yanan.58.com/zhoubianyou/pve_8924_894/"  >黄帝陵</a>
+								    		    		    		    					<a href="http://yanan.58.com/zhoubianyou/pve_8924_1805/"  >日照</a>
+								    		    		    		    					<a href="http://yanan.58.com/zhoubianyou/pve_8924_2770/"  >枣园</a>
+								    		    		    		    					<a href="http://yanan.58.com/zhoubianyou/pve_8924_1528/"  >南宫山</a>
+								    		    		    		    					<a href="http://yanan.58.com/zhoubianyou/pve_8924_1893/"  >石林</a>
+								    		    		    		    					<a href="http://yanan.58.com/zhoubianyou/pve_8924_1744/"  >清凉山</a>
+								    		    		    		    					<a href="http://yanan.58.com/zhoubianyou/pve_8924_2518/"  >西双版纳</a>
+								    		    		    		    					<a href="http://yanan.58.com/zhoubianyou/pve_8924_897/"  >黄龙</a>
+								    		    		    		    					<a href="http://yanan.58.com/zhoubianyou/pve_8924_1359/"  >丽水金沙</a>
+								    		    		    		    					<a href="http://yanan.58.com/zhoubianyou/pve_8924_2323/"  >王家大院</a>
+								    		    		    		    					<a href="http://yanan.58.com/zhoubianyou/pve_8924_1982/"  >石门</a>
+								    		    		    		    					<a href="http://yanan.58.com/zhoubianyou/pve_8924_1385/"  >洛川谷</a>
+																				    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">行程天数 ：</dt>
+		<dd id="xingcheng" >
+																    		    		    		    					<a href="/zhoubianyou/" class='select' >全部</a>
+								    		    		    		    					<a href="http://yanan.58.com/yiriyou/"  >一日游</a>
+								    		    		    		    					<a href="http://yanan.58.com/erriyou/"  >二日游</a>
+								    		    		    		    					<a href="http://yanan.58.com/sanriyou/"  >三日游</a>
+								    		    		    		    					<a href="http://yanan.58.com/siriyou/"  >四日游</a>
+																				    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">游玩项目 ：</dt>
+		<dd id="ObjectType" >
+									    		    		    		    					<a href="/zhoubianyou/"  >全部</a>
+								    		    		    		    					<a href="http://yanan.58.com/nongjiale/"  >农家乐</a>
+								    		    		    		    					<a href="http://yanan.58.com/dujia/"  >度假村</a>
+									    				    				    														    		    		    		    					<a href="http://yanan.58.com/caizhai/" class='select' name='b_link' para='custom' cl='/zhoubianyou/' title='' >采摘</a>
+								    		    		    		    					<a href="http://yanan.58.com/piaoliuq/"  >漂流</a>
+								    		    		    		    					<a href="http://yanan.58.com/zhenrenc/"  >真人CS</a>
+								    		    		    		    					<a href="http://yanan.58.com/wenquandujiacun/"  >温泉</a>
+								    		    		    		    					<a href="http://yanan.58.com/chuidiao/"  >垂钓</a>
+								    		    		    		    					<a href="http://yanan.58.com/shaokaoy/"  >烧烤</a>
+								    		    		    		    					<a href="http://yanan.58.com/tuozhanq/"  >拓展</a>
+								    		    		    		    					<a href="http://yanan.58.com/kadingchey/"  >卡丁车</a>
+								    		    		    		    					<a href="http://yanan.58.com/qimay/"  >骑马</a>
+								    		    		    		    					<a href="http://yanan.58.com/meishiy/"  >美食</a>
+								    		    		    		    					<a href="http://yanan.58.com/zbhuiyi/"  >会议</a>
+								    		    		    		    					<a href="http://yanan.58.com/shengtai/"  >生态园</a>
+								    		    		    		    					<a href="http://yanan.58.com/zbhx/"  >滑雪</a>
+																				    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">小类 ：</dt>
+		<dd id="xiaolei" >
+																    		    		    		    					<a href="/caizhai/" class='select' >全部</a>
+								    		    		    		    					<a href="http://yanan.58.com/caomeicz/"  >草莓采摘</a>
+								    		    		    		    					<a href="http://yanan.58.com/yingtaocz/"  >樱桃采摘</a>
+								    		    		    		    					<a href="http://yanan.58.com/yangmeicz/"  >杨梅采摘</a>
+								    		    		    		    					<a href="http://yanan.58.com/sangshencz/"  >桑葚采摘</a>
+								    		    		    		    					<a href="http://yanan.58.com/xingcz/"  >杏采摘</a>
+								    		    		    		    					<a href="http://yanan.58.com/pipacz/"  >枇杷采摘</a>
+								    		    		    		    					<a href="http://yanan.58.com/putaocz/"  >葡萄采摘</a>
+								    		    		    		    					<a href="http://yanan.58.com/xiguacz/"  >西瓜采摘</a>
+								    		    		    		    					<a href="http://yanan.58.com/shumeicz/"  >树莓采摘</a>
+								    		    		    		    					<a href="http://yanan.58.com/pingguocz/"  >苹果采摘</a>
+								    		    		    		    					<a href="http://yanan.58.com/taocz/"  >桃采摘</a>
+								    		    		    		    					<a href="http://yanan.58.com/licz/"  >梨采摘</a>
+								    		    		    		    					<a href="http://yanan.58.com/lizhicz/"  >荔枝采摘</a>
+								    		    		    		    					<a href="http://yanan.58.com/lizicz/"  >李子采摘</a>
+								    		    		    		    					<a href="http://yanan.58.com/lizcz/"  >栗子采摘</a>
+								    		    		    		    					<a href="http://yanan.58.com/shizicz/"  >柿子采摘</a>
+								    		    		    		    					<a href="http://yanan.58.com/zaocz/"  >枣采摘</a>
+																				    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">出游方式 ：</dt>
+		<dd id="chuyoufangshi" >
+																    		    		    		    					<a href="/caizhai/" class='select' >全部</a>
+								    		    		    		    					<a href="http://yanan.58.com/caizhai/pve_8695_1/"  >自驾游</a>
+								    		    		    		    					<a href="http://yanan.58.com/caizhai/pve_8695_2/"  >跟团游</a>
+																				    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">适合人群 ：</dt>
+		<dd id="shiherenqun" >
+																    		    		    		    					<a href="/caizhai/" class='select' >全部</a>
+								    		    		    		    					<a href="http://yanan.58.com/caizhai/pve_8696_1/"  >情侣</a>
+								    		    		    		    					<a href="http://yanan.58.com/caizhai/pve_8696_2/"  >亲子</a>
+								    		    		    		    					<a href="http://yanan.58.com/caizhai/pve_8696_3/"  >三五好友</a>
+								    		    		    		    					<a href="http://yanan.58.com/caizhai/pve_8696_4/"  >夕阳红</a>
+								    		    		    		    					<a href="http://yanan.58.com/caizhai/pve_8696_5/"  >全家出游</a>
+								    		    		    		    					<a href="http://yanan.58.com/caizhai/pve_8696_6/"  >独自旅行</a>
+								    		    		    		    					<a href="http://yanan.58.com/caizhai/pve_8696_7/"  >公司团队</a>
+																				    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">价格 ：</dt>
+		<dd id="MinPriceqj" >
+																    		    		    		    					<a href="/caizhai/" class='select' >全部</a>
+								    		    		    		    					<a href="http://yanan.58.com/caizhai/pve_6685_0_50/"  >50元以下</a>
+								    		    		    		    					<a href="http://yanan.58.com/caizhai/pve_6685_50_100/"  >50-100元</a>
+								    		    		    		    					<a href="http://yanan.58.com/caizhai/pve_6685_100_200/"  >100-200元</a>
+								    		    		    		    					<a href="http://yanan.58.com/caizhai/pve_6685_200_300/"  >200-300元</a>
+								    		    		    		    					<a href="http://yanan.58.com/caizhai/pve_6685_300_999999/"  >300元以上</a>
+											<span class="prifilter">
+				<span class="text text2">
+					<input type="text"  para="minprice1"  size="3" muti="1" onkeyup="cknum(this)" min="0" name="b_q" /> - 
+					<input type="text"  para="minprice1"  size="3" muti="1" onkeyup="cknum(this)" min="0" name="b_q" /> 元   
+				</span>
+				<span class="btn btn2"><input type="button" value="价格筛选" onclick="b_query_minprice()" /></span>
+			</span>
+														    	</dd>
+    </dl>
+	
+	<dl class="secitem" >
+		<dt class="secitem_brand">地址 ：</dt>
+		<dd id="local" >
+																    		    		    		    					<a href="/caizhai/" class='select' >全延安</a>
+								    		    		    		    					<a href="/baotaqu/caizhai/"  >宝塔</a>
+								    		    		    		    					<a href="/zichangxian/caizhai/"  >子长</a>
+								    		    		    		    					<a href="/wuqixian/caizhai/"  >吴起</a>
+								    		    		    		    					<a href="/zhidanxian/caizhai/"  >志丹</a>
+								    		    		    		    					<a href="/anzaixian/caizhai/"  >安塞</a>
+								    		    		    		    					<a href="/yanchuanxian/caizhai/"  >延川</a>
+								    		    		    		    					<a href="/yanchangxian/caizhai/"  >延长</a>
+								    		    		    		    					<a href="/ganquanxian/caizhai/"  >甘泉</a>
+								    		    		    		    					<a href="/fuxian/caizhai/"  >富县</a>
+								    		    		    		    					<a href="/luochuanxian/caizhai/"  >洛川</a>
+								    		    		    		    					<a href="/huanglingxian/caizhai/"  >黄陵</a>
+								    		    		    		    					<a href="/yichuanxian/caizhai/"  >宜川</a>
+								    		    		    		    					<a href="/huanglongxian/caizhai/"  >黄龙</a>
+																									    	</dd>
+    </dl>
+	<div id="selected" class="bar"></div>
+	<i class="shadow"></i>
+</section>
+
+			<!-- =E cmcs -->
+		<div id="adtop_1" class="hc"><div class="mouter defa"><div class="inner"><div id="md3" class="mdul"></div><ul id="md1" class="mdul"></ul><ul id="md2" class="mdul"></ul><ul id="md4" class="mdul"></ul><ul id="md5" class="mdul"></ul><div class="clear"></div></div></div></div>
+<div class="tabsbar">
+    <div class="list-tabs">
+												<a href="/caizhai/" onclick="clickLog('from=pc_list_caizhai_list_tabs');" class="sel"><h1>延安采摘</h1></a>
+											</div>
+	 		<span class="zhaobiao zucheSpacing">
+		</span>
+    	                	        
+
+		
+	
+				<span class="zhaobiao" >
+			<a href="http://bianmin.58.com/yanan/?from=pc_list_bianmin_wzl"
+			   target="_blank" >学习办事经验，解决办证难题</a>
+		</span>
+		
+			
+
+
+</div>
+ 				<section id="mainlist" class="main clearfix pr">
+					<div class="filterbar h28">
+    <div class="filterbar-l">
+			<!-- <div class="filterup" id="filterup">
+				 <a class="m1" title="找班级" href="#" rel="nofollow" onclick=""><span>找班级<em></em></span></a>
+				 <a class="m1" title="找拼友" href="#" rel="nofollow" onclick=""><span>找拼友<em></em></span></a>
+			</div>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">全部</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示教育机构</a></span>
+			<span class="checkbox-ico checkbox-pinbantype"><a href="javascript:void(0);" onclick="clickLog('from=');">仅显示个人教师</a></span> -->
+				<div class="filterup" id="filterup">
+			 <a class="m1 sel" title="默认" href="#" rel="nofollow" onclick="g2({sort:null}); clickLog('from=huangye_list_moren_zhoubianyou_yanan&psid=145133251195479199914576723'); "><span>默认排序<em></em></span></a>
+											</div>
+														<span class="checkbox-ico" id="renzheng"><a href="javascript:void(0);" onclick="clickLog('from=List_sort_caizhai__zhikanrenzheng');">只看认证</a></span>
+									
+									</div>  
+     <div class="filterbar-md">
+    	    	<!-- 加入医疗健康判断-->
+    	    		    		        		       <a class="mdtj" style="display:inline-block;" rel="nofollow" target="_blank" href="http://e.58.com/shenghuo.html" onClick="clickLog('from=huangye_zhaoshang&psid=145133251195479199914576723');">想提升接单效果，请致电4008107258</a>
+    		        		    	
+				   </div>        
+</div>
+					<div id="infolist" class="cleft" >
+				<!-- =S infolist -->
+									<div id="top_google_ad"></div>
+<table class="small-tbimg" cellspacing="0" cellpadding="0" >
+							<tr logr='p_1_40186072498705_27573565930817_0' infotag="27573565930817_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">屈先生 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/27573565930817x.shtml?psid=145133251195479199914576723&entinfo=27573565930817_0' onclick="clickLog('from=pc_list_caizhai_xinxi_commoninfo_yanan');" target="_blank" class="t" >
+			观光旅游 进园采摘洛川苹果 全国包邮 一件代发
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												（今天你吃了吗？）爱吃苹果，证明你懂生活，爱吃洛川苹果，证明你有品味！...
+				(12-27)
+							<p class="seller">
+					1***q
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27573565930817' wltMark="0" param="27573565930817_40186072498705_0_commoninfo_C155D036362FB2C49A1FDD7E55D421C8"  data-j4fe="13369268376,屈先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27573565930817&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_41641246549265_27150914420160_0' infotag="27150914420160_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">王龙 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/27150914420160x.shtml?psid=145133251195479199914576723&entinfo=27150914420160_0' onclick="clickLog('from=pc_list_caizhai_xinxi_commoninfo_yanan');" target="_blank" class="t" >
+			洛川谷咀40号 王家大院
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												洛川谷咀王家大院是以地道的洛川美食为主体的度假村，不但能让您品味美食，...
+				(08-25)
+							<p class="seller">
+					5***c
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27150914420160' wltMark="0" param="27150914420160_41641246549265_0_commoninfo_2F7D5BBA8F081D9F9CC11742B8E3F2D6"  data-j4fe="13098060120,王龙" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27150914420160&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>								<tr logr='p_1_37733326492176_25305875706932_0' infotag="25305875706932_commoninfo">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">葛洪胜 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/25305875706932x.shtml?psid=145133251195479199914576723&entinfo=25305875706932_0' onclick="clickLog('from=pc_list_caizhai_xinxi_commoninfo_yanan');" target="_blank" class="t" >
+			牛奶草莓采摘
+		</a>
+						<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												想找到你身边的草莓采摘园，登录www.caizhaicun.com或百...
+				(03-11)
+							<p class="seller">
+					1***y
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25305875706932' wltMark="0" param="25305875706932_37733326492176_0_commoninfo_CB0D09EDBB4F73A90AEBE86A1F9D1DBC"  data-j4fe="18516844222,葛洪胜" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25305875706932&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>													<tr>
+		<td class="dev" colspan="4">当前信息较少，我们为您推荐以下信息</td>
+	</tr>
+					<tr logr='b_1_41375798924303_27017728822458_11' infotag="27017728822458_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小高 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/27017728822458x.shtml?psid=145133251195479199914576723&entinfo=27017728822458_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			延安市内导游服务
+		</a>
+						<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												延安市内导游项目服务，如果需要提供陪同前往壶口、黄帝陵、乾坤湾、梁家河...
+				(03-23)
+							<p class="seller">
+					
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27017728822458' wltMark="0" param="27017728822458_41375798924303_0_second_additional_info_A7DCB3DD2B0DBFF05B931CEA73900EAD"  data-j4fe="13220061501,小高" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27017728822458&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_39988694629904_29407044455878_11' infotag="29407044455878_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">吴某人 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/29407044455878x.shtml?psid=145133251195479199914576723&entinfo=29407044455878_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			红色延安自由游
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												旅游，讨厌跟团的盲目。旅游，讨厌人生地不熟的各种坑。 本人坐标延安宝塔...
+				(03-17)
+							<p class="seller">
+					
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29407044455878' wltMark="0" param="29407044455878_39988694629904_0_second_additional_info_7868BE22C80C94D0BA827CDC444CD895"  data-j4fe="13891128241,吴某人" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29407044455878&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_40686245032973_29392899939907_11' infotag="29392899939907_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">杨先生 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/29392899939907x.shtml?psid=145133251195479199914576723&entinfo=29392899939907_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			超值特惠澳门纯玩一日游提前预定只需188/人
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												​上午：深圳大剧院►深大北门►珠海横琴口岸早上受签注影响，领队不入澳，...
+				(03-16)
+							<p class="seller">
+					
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29392899939907' wltMark="0" param="29392899939907_40686245032973_0_second_additional_info_9291B6F4FD375C2EF5C3B08AC6153946"  data-j4fe="18665305852,杨先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29392899939907&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_41791666926351_29381865210057_11' infotag="29381865210057_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">杨先生 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/29381865210057x.shtml?psid=145133251195479199914576723&entinfo=29381865210057_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			超值特惠澳门纯玩一日游提前预定只需188/人
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												​上午：深圳大剧院►深大北门►珠海横琴口岸早上受签注影响，领队不入澳，...
+				(03-15)
+							<p class="seller">
+					
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29381865210057' wltMark="0" param="29381865210057_41791666926351_0_second_additional_info_9291B6F4FD375C2EF5C3B08AC6153946"  data-j4fe="18665305852,杨先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29381865210057&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_36127657595921_25701555206574_11' infotag="25701555206574_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">延安广通旅行 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/25701555206574x.shtml?psid=145133251195479199914576723&entinfo=25701555206574_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			延安精品散拼一日游
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												综合报价320元/人，（半价门票290元，免票260元）含门票、车费、...
+				(03-02)
+							<p class="seller">
+					延安广通旅行社有限公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25701555206574' wltMark="0" param="25701555206574_36127657595921_0_second_additional_info_7D8328DEA7A5D621708CF70D062FBAE1"  data-j4fe="13379310015,延安广通旅行" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25701555206574&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_36127657595921_25701619426101_11' infotag="25701619426101_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">延安广通旅行 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/25701619426101x.shtml?psid=145133251195479199914576723&entinfo=25701619426101_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			黄河壶口瀑布、南泥湾散拼一日游
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												综合报价240元/人，（半价门票200元，免票150元）含门票、车费、...
+				(03-02)
+							<p class="seller">
+					延安广通旅行社有限公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25701619426101' wltMark="0" param="25701619426101_36127657595921_0_second_additional_info_7D8328DEA7A5D621708CF70D062FBAE1"  data-j4fe="13379310015,延安广通旅行" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25701619426101&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_36127657595921_25701582266687_11' infotag="25701582266687_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">延安广通旅行 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/25701582266687x.shtml?psid=145133251195479199914576723&entinfo=25701582266687_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			延安精品自驾一日游
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												综合报价240元/人，（半价门票210元，免票180元）含门票、导游费...
+				(03-02)
+							<p class="seller">
+					延安广通旅行社有限公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25701582266687' wltMark="0" param="25701582266687_36127657595921_0_second_additional_info_7D8328DEA7A5D621708CF70D062FBAE1"  data-j4fe="13379310015,延安广通旅行" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25701582266687&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_36127657595921_25701638452560_11' infotag="25701638452560_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">延安广通旅行 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/25701638452560x.shtml?psid=145133251195479199914576723&entinfo=25701638452560_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			黄帝陵散拼一日游(5人以上发团)
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												综合报价240元/人，（半价门票200元，免票160元）含门票、车费、...
+				(03-02)
+							<p class="seller">
+					延安广通旅行社有限公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25701638452560' wltMark="0" param="25701638452560_36127657595921_0_second_additional_info_7D8328DEA7A5D621708CF70D062FBAE1"  data-j4fe="13379310015,延安广通旅行" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25701638452560&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_36127657595921_25701252299208_11' infotag="25701252299208_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">延安广通旅行 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/25701252299208x.shtml?psid=145133251195479199914576723&entinfo=25701252299208_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			延安市内散拼一日游
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												延安市内散拼一日游 综合报价220元/人 （半价门票190元，免票13...
+				(03-02)
+							<p class="seller">
+					延安广通旅行社有限公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25701252299208' wltMark="0" param="25701252299208_36127657595921_0_second_additional_info_7D8328DEA7A5D621708CF70D062FBAE1"  data-j4fe="13379310015,延安广通旅行" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25701252299208&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_36127657595921_25701866619701_11' infotag="25701866619701_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">延安广通旅行 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/25701866619701x.shtml?psid=145133251195479199914576723&entinfo=25701866619701_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			梁家河、乾坤湾散拼一日游(5人以上发团)
+		</a>
+							<span class='tu'>[2图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												综合报价400元/人，（半价门票370元，免票330元）含门票、车费、...
+				(03-02)
+							<p class="seller">
+					延安广通旅行社有限公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='25701866619701' wltMark="0" param="25701866619701_36127657595921_0_second_additional_info_7D8328DEA7A5D621708CF70D062FBAE1"  data-j4fe="13379310015,延安广通旅行" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=25701866619701&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_38188700175118_29205530021440_11' infotag="29205530021440_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">李延娜 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/29205530021440x.shtml?psid=145133251195479199914576723&entinfo=29205530021440_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			延安市内品质一日游
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												景点：宝塔山、清凉山、枣园、杨家岭、王家坪革命纪念馆服务标准：免费酒店...
+				(02-27)
+							<p class="seller">
+					延安驴妈妈国际旅行社
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29205530021440' wltMark="0" param="29205530021440_38188700175118_0_second_additional_info_38F70E77F3FD86470A363C310AE3EA2F"  data-j4fe="18992139993,李延娜" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29205530021440&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_30049482232588_29195620533942_11' infotag="29195620533942_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">沈先生 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/29195620533942x.shtml?psid=145133251195479199914576723&entinfo=29195620533942_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			线路热卖780元 全含价格 港澳游四天三晚迪士尼
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												深圳抵达城市：香港交通情况：汽车用餐情况：中晚住宿情况：三星或同级早上...
+				(02-26)
+							<p class="seller">
+					皇朝国旅
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29195620533942' wltMark="0" param="29195620533942_30049482232588_0_second_additional_info_8B45ABB31559AD4D0E9C68B81EE6096E"  data-j4fe="15014097197,沈先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29195620533942&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_37853136649231_29193465930187_11' infotag="29193465930187_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">小邓 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/29193465930187x.shtml?psid=145133251195479199914576723&entinfo=29193465930187_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			亲子游 香港三天两晚 海洋公园+迪士尼双园680元
+		</a>
+						<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												【深圳-香港】早上9:00皇岗口岸三楼出境候检大厅集合，然后由专业领队...
+				(02-26)
+							<p class="seller">
+					
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29193465930187' wltMark="0" param="29193465930187_37853136649231_0_second_additional_info_0CBBD69C24908A80F739D7F243E81139"  data-j4fe="18816787125,小邓" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29193465930187&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_27083146813190_29162758354357_11' infotag="29162758354357_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刘艳 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/29162758354357x.shtml?psid=145133251195479199914576723&entinfo=29162758354357_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			延安壶口瀑布一日游
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												早上从酒店接站乘车前往**重点风景区，被誉为中华名族母亲河--（壶口...
+				(02-23)
+							<p class="seller">
+					延安黄土地旅行社有限责任公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29162758354357' wltMark="0" param="29162758354357_27083146813190_0_second_additional_info_DD01A837A2B238CEA05150900F39165D"  data-j4fe="15667672393,刘艳" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29162758354357&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_26886481131271_29149677093963_11' infotag="29149677093963_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">牛乐 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/29149677093963x.shtml?psid=145133251195479199914576723&entinfo=29149677093963_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			延安市内+壶口瀑布（黄色瀑布奇观）一日游
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												早上在各个酒店接客人，8:30左右接到所有客人，后乘车赴359旅大生产...
+				(02-22)
+							<p class="seller">
+					
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29149677093963' wltMark="0" param="29149677093963_26886481131271_0_second_additional_info_06EF4B8F16F1C4F6D8FCD99B9F6409CD"  data-j4fe="15609112393,牛乐" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29149677093963&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_30049482232588_29127476893372_11' infotag="29127476893372_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">沈先生 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/29127476893372x.shtml?psid=145133251195479199914576723&entinfo=29127476893372_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			亲子游 香港三天两晚 海洋公园+迪士尼双园680元
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												【深圳-香港】早上9:00皇岗口岸三楼出境候检大厅集合，然后由专业领队...
+				(02-20)
+							<p class="seller">
+					皇朝国旅
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29127476893372' wltMark="0" param="29127476893372_30049482232588_0_second_additional_info_8B45ABB31559AD4D0E9C68B81EE6096E"  data-j4fe="15014097197,沈先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29127476893372&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_45512986946071_29097402573504_11' infotag="29097402573504_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">白女士 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/29097402573504x.shtml?psid=145133251195479199914576723&entinfo=29097402573504_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			延安市内+壶口瀑布一日游
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												早接团后乘车赴359旅大生产开荒基地，陕北的好江南--【南泥湾】（参观...
+				(02-17)
+							<p class="seller">
+					
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29097402573504' wltMark="0" param="29097402573504_45512986946071_0_second_additional_info_EB3658497DB54F9F020E402B8DFB9405"  data-j4fe="18691148880,白女士" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29097402573504&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_27083146813190_29096964080458_11' infotag="29096964080458_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">刘艳 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/29096964080458x.shtml?psid=145133251195479199914576723&entinfo=29096964080458_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			延安市内+壶口瀑布（黄色瀑布奇观）一日游
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												D1 早上在各个酒店接客人，8:30左右接到所有客人，后乘车赴359旅...
+				(02-17)
+							<p class="seller">
+					延安黄土地旅行社有限责任公司
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29096964080458' wltMark="0" param="29096964080458_27083146813190_0_second_additional_info_DD01A837A2B238CEA05150900F39165D"  data-j4fe="15667672393,刘艳" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29096964080458&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_27082400781063_29096893626421_11' infotag="29096893626421_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">高创梅 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/29096893626421x.shtml?psid=145133251195479199914576723&entinfo=29096893626421_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			延安市内+壶口瀑布一日游
+		</a>
+						<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												早上在各个酒店接客人，8:30左右接到所有客人，后乘车赴359旅大生产...
+				(02-17)
+							<p class="seller">
+					延安黄土地旅行社
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29096893626421' wltMark="0" param="29096893626421_27082400781063_0_second_additional_info_471B6FEC3098709482477C2B7CE13778"  data-j4fe="15596972393,高创梅" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29096893626421&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_27574249963014_29096824383539_11' infotag="29096824383539_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">薛妮 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/29096824383539x.shtml?psid=145133251195479199914576723&entinfo=29096824383539_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			延安市内+壶口瀑布（黄色瀑布奇观）一日游
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												早上在各个酒店接客人，8:30左右接到所有客人，后乘车赴359旅大生产...
+				(02-17)
+							<p class="seller">
+					延安黄土地
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29096824383539' wltMark="0" param="29096824383539_27574249963014_0_second_additional_info_52915F65892B49C889D1BE2286DD95D1"  data-j4fe="18691138887,薛妮" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29096824383539&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_44452776865043_29064790558918_11' infotag="29064790558918_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">曾先生 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/29064790558918x.shtml?psid=145133251195479199914576723&entinfo=29064790558918_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			闲蛋旅行-香港高性价比酒店-隆堡丽景酒店-尖沙咀
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												香港隆堡丽景酒店于2007年建，酒店风格奢华复古。酒店楼层高，间数多，...
+				(02-14)
+							<p class="seller">
+					广州乐旅
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29064790558918' wltMark="0" param="29064790558918_44452776865043_0_second_additional_info_3EBACDFB63AFFB302768928F8D304391"  data-j4fe="18122417713,曾先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29064790558918&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_41791666926351_29007752394565_11' infotag="29007752394565_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">杨先生 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/29007752394565x.shtml?psid=145133251195479199914576723&entinfo=29007752394565_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			超值特惠澳门纯玩一日游提前预定只需188/人
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												​上午：深圳大剧院►深大北门►珠海横琴口岸早上受签注影响，领队不入澳，...
+				(02-09)
+							<p class="seller">
+					
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='29007752394565' wltMark="0" param="29007752394565_41791666926351_0_second_additional_info_9291B6F4FD375C2EF5C3B08AC6153946"  data-j4fe="18665305852,杨先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=29007752394565&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_41791666926351_28776401591757_11' infotag="28776401591757_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">杨先生 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/28776401591757x.shtml?psid=145133251195479199914576723&entinfo=28776401591757_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			超值特惠澳门纯玩一日游提前预定只需188/人
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												​​上午：深圳大剧院►深大北门►珠海横琴口岸早上受签注影响，领队不入澳...
+				(01-19)
+							<p class="seller">
+					
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28776401591757' wltMark="0" param="28776401591757_41791666926351_0_second_additional_info_9291B6F4FD375C2EF5C3B08AC6153946"  data-j4fe="18665305852,杨先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28776401591757&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_42989991256077_28675876182601_11' infotag="28675876182601_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">陈小姐 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/28675876182601x.shtml?psid=145133251195479199914576723&entinfo=28675876182601_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			元旦节春节出行畅游港澳四天三晚只需488元
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												深圳-香港早上9：00前，在皇岗口岸三楼出境大厅集合，然后在专业领队带...
+				(01-10)
+							<p class="seller">
+					
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28675876182601' wltMark="0" param="28675876182601_42989991256077_0_second_additional_info_443E6EF3A63411B20849DC0778521471"  data-j4fe="18816787082,陈小姐" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28675876182601&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_41791666926351_28566125922739_11' infotag="28566125922739_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">杨先生 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/28566125922739x.shtml?psid=145133251195479199914576723&entinfo=28566125922739_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			超值特惠澳门纯玩一日游提前预定只需188/人
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												​​上午：深圳大剧院►深大北门►珠海横琴口岸​早上受签注影响，领队不入...
+				(12-31)
+							<p class="seller">
+					
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28566125922739' wltMark="0" param="28566125922739_41791666926351_0_second_additional_info_9291B6F4FD375C2EF5C3B08AC6153946"  data-j4fe="18665305852,杨先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28566125922739&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_2_39055345544726_26895836546488_11' infotag="26895836546488_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">魏经理 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/26895836546488x.shtml?psid=145133251195479199914576723&entinfo=26895836546488_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			延安市内导游服务
+		</a>
+							<span class='tu'>[1图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												负责延安市内沿途讲解，延安景区讲解。提供陪同前往壶口、黄帝陵、乾坤湾、...
+				(12-24)
+							<p class="seller">
+			<a href="http://t5839056210396937.5858.com?psid=145133251195479199914576723&entinfo=26895836546488_0" onClick="clickLog('from=List_wangzhan&entityId=26895836546488&entityType=0&psid=145133251195479199914576723');" target='_blank' class='u' rel="nofollow">延安大道旅游服务部</a>
+		</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop " data-id='26895836546488' wltMark="2" param="26895836546488_39055345544726_0_second_additional_info_8234F4DAC10C94D86721B8AC8221D1A0" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=26895836546488&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_15082000811782_28479880307510_11' infotag="28479880307510_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">廖伟 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/28479880307510x.shtml?psid=145133251195479199914576723&entinfo=28479880307510_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			云南旅游价格 昆明国际旅行社 较新纯玩旅游价格
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												.免费咨询电话15912530818（微信同号）特价品质团，品质纯玩团...
+				(12-23)
+							<p class="seller">
+					昆明中国国旅总社
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28479880307510' wltMark="0" param="28479880307510_15082000811782_0_second_additional_info_BFF1F3D5309C0A9E59D5FE575E426A7C"  data-j4fe="15912530818,廖伟" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28479880307510&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_34424329232395_28200279684783_11' infotag="28200279684783_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">杨先生 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/28200279684783x.shtml?psid=145133251195479199914576723&entinfo=28200279684783_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			重磅推荐澳门纯玩一日游提前预定只需188/人
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												​上午：深圳大剧院►深大北门►珠海横琴口岸早上受签注影响，领队不入澳，...
+				(11-28)
+							<p class="seller">
+					
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='28200279684783' wltMark="0" param="28200279684783_34424329232395_0_second_additional_info_9291B6F4FD375C2EF5C3B08AC6153946"  data-j4fe="18665305852,杨先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=28200279684783&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_37853136649231_27921888299955_11' infotag="27921888299955_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">邓小姐 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/27921888299955x.shtml?psid=145133251195479199914576723&entinfo=27921888299955_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			美食之旅香港海洋公园夜游维港自由行三天游仅480元
+		</a>
+							<span class='tu'>[4图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												第一天深圳-香港早上9:00前，在皇岗口岸三楼出境大厅集合，然后在专业...
+				(11-03)
+							<p class="seller">
+					
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27921888299955' wltMark="0" param="27921888299955_37853136649231_0_second_additional_info_0CBBD69C24908A80F739D7F243E81139"  data-j4fe="18816787125,邓小姐" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27921888299955&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_30224375214087_27884025400909_11' infotag="27884025400909_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">赵勇 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/27884025400909x.shtml?psid=145133251195479199914576723&entinfo=27884025400909_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			到云南旅游攻略 云南旅游价格 昆明国际旅行社 天天
+		</a>
+							<span class='tu'>[8图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												.·云南旅游纯玩团·云南旅游攻略·云南旅游较佳路线昆明中国国际旅行社，...
+				(10-31)
+							<p class="seller">
+					昆明中国国际旅行社
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27884025400909' wltMark="0" param="27884025400909_30224375214087_0_second_additional_info_FE028AA95DCD2C96CB1F6916AB7B384E"  data-j4fe="18082925363,赵勇" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27884025400909&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>										<tr logr='b_1_30049482232588_27868521954256_11' infotag="27868521954256_second_additional_info">
+	<td class="t" colspan="2">
+		<div class="tdiv">
+					<b class="f14">沈先生 : </b>
+				<a href='http://yanan.58.com/zhoubianyou/27868521954256x.shtml?psid=145133251195479199914576723&entinfo=27868521954256_0' onclick="clickLog('from=pc_list_caizhai_xinxi_second_additional_info_yanan');" target="_blank" class="t" >
+			香港旅游三天两晚 迪士尼乐园 特价600
+		</a>
+							<span class='tu'>[5图]</span>
+				<!-- cxsjstate='false',dispCateID='751' -->
+		    	        		<br />
+												第一天深圳抵达城市：香港交通情况：汽车用餐情况：中晚住宿情况：三星或同...
+				(10-29)
+							<p class="seller">
+					皇朝国旅
+			</p>
+		</div>
+	</td>
+	<td   class="tdp" >
+    </td>	<td class="vertop">
+									<div class="yuyue_vertop view-connect" data-id='27868521954256' wltMark="0" param="27868521954256_30049482232588_0_second_additional_info_8B45ABB31559AD4D0E9C68B81EE6096E"  data-j4fe="15014097197,沈先生" >
+		<span class='cont_Pa'><a href='javascript:;' class='click_btn' onClick='cpcget("");clickLog("from=huangye_list_lianxi&entityId=27868521954256&entityType=0&psid=145133251195479199914576723")'>免费预约</a></span>
+		</div>
+	
+</td></tr>	</table>								<!-- =E infolist -->
+					<div id="gjwb_bottom_jz_ad"></div>
+	<div id="bottom_google_ad"></div>
+<div class="pager" >
+	 <strong><span>1</span></strong>
+</div>
+<div id="infocont">
+	<!--当是健康答疑时，链接变为提问-->
+										<a target="_blank" rel="nofollow" href="http://post.58.com/8973/8659/s5" onclick="clickLog('pc_list_caizhai_bottom_fabu');" >马上发布一条采摘信息&raquo;</a>
+						</div>
+<!--医疗健康判断-->
+		<div id="direct_ad_bottom" onclick="clickLog('from=pc_list_caizhai_bottom_zhineng1');"  ></div>
+	<div id="bottom_zhaoshangjiameng_ad" onclick="clickLog('from=pc_list_caizhai_bottom_tuiguang2');"  ></div>
+
+			</div>
+			<div id="rightframe" class="cright">
+	
+
+			<div class="tuijian" id="ylad" style="display:none"></div>
+							<div id="developmentcontent">
+		
+	</div>
+							<div class="brand_md_tit"><h3><i class="brand_md_tit_i1"></i>名店推荐<i class="brand_md_tit_i2"></i></h3></div>
+	<div id="brand_md"><div id="ad19"  style="display:none"></div></div>
+	<script>
+		$("#brand_md").bind("bindBrandEvent",function(){ 
+            if($('.brand_md200').length > 0){
+				$('.brand_md_tit').show();
+			}
+        }); 
+	</script>
+	</div>	    </section>
+		<div id="wangmeng_list_bottom_ditong" onclick="clickLog('from=pc_list_caizhai_bottom_tuiguang3');"   ></div><section id="links">
+<i class="linksTopline"></i>
+	<!-- =S friendtips -->
+	<dl id="friendtips" class="linksItem friendtips"><dt class="b-left">延安采摘介绍：</dt>
+<dd class="b-right">58同城延安采摘频道为您提供延安采摘信息,您可以免费查看和发布延安采摘，延安采摘园，周边采摘信息。感谢您选择<a href=http://www.58.com/caizhai/ target=_blank>采摘</a>信息平台。手机访问<a href=http://m.58.com/yanan/caizhai/ target=_blank>延安采摘</a>触屏版,<a href=http://wap.58.com/yanan/caizhai/ target=_blank>延安采摘</a>极速版。</dd>
+</dl>
+	<!-- =E friendtips -->
+	<!-- =S relate  -->
+			<dl class="linksItem relate" id="relate">
+	<dt class="b-left">延安采摘相关信息：</dt>
+	<dd class="b-right">
+		<ul class="b-ul">
+						    			        <li><a href="/lvyouxiuxian/jh_%E5%BB%B6%E5%AE%89%E5%86%AC%E6%9E%A3%E9%87%87%E6%91%98/">延安冬枣采摘</a></li>
+			    		    		</ul>
+	</dd>
+</dl>
+		<!-- =E relate -->
+	<!-- =S relatelink allshangquan-->
+		 	<!-- =E relatelink -->
+	<!-- =S bottomlink-->
+	            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+				采摘- 相关类别：
+			</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://yanan.58.com/zhoubianyou/'>延安周边游</a></li>
+        		        		<li><a href='http://yanan.58.com/caomeicz/'>延安草莓采摘</a></li>
+        		        		<li><a href='http://yanan.58.com/nongjiale/'>延安农家乐</a></li>
+        		        		<li><a href='http://yanan.58.com/wenquandujiacun/'>延安温泉</a></li>
+        		        		<li><a href='http://yanan.58.com/caizhai/'>延安采摘园</a></li>
+        		        		<li><a href='http://yanan.58.com/yingtaocz/'>延安樱桃采摘</a></li>
+        		        		<li><a href='http://yanan.58.com/yiriyou/'>延安周边一日游</a></li>
+        		        		<li><a href='http://yanan.58.com/zhoubianyou/pve_8695_1/'>延安周边自驾游</a></li>
+        		        		<li><a href='http://yanan.58.com/erriyou/'>延安周边两日游</a></li>
+        		        		<li><a href='http://yanan.58.com/zhoubianyou/pve_8696_2/'>延安亲子游</a></li>
+        		        		<li><a href='http://yanan.58.com/dujia/'>延安度假村</a></li>
+        		        		<li><a href='http://yanan.58.com/zhoubianyou/'>十一延安周边游</a></li>
+        		        		<li><a href='http://www.58.com/pprmap9/'>旅游地图</a></li>
+        		        		<li><a href='http://www.58.com/pprmap6/'>1086排行榜地图</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+		<!-- =E bottomlink -->
+	<!-- =S hotcity-->
+	        <dl class="linksItem hotcity" id="hotcity">
+    	<dt class="b-left">延安采摘周边城市：</dt>
+    	<dd class="b-right">
+    		<ul class="b-ul">
+    			    			<li><a href="http://xa.58.com/caizhai/">西安采摘</a></li>
+    			    			<li><a href="http://xianyang.58.com/caizhai/">咸阳采摘</a></li>
+    			    			<li><a href="http://hanzhong.58.com/caizhai/">汉中采摘</a></li>
+    			    			<li><a href="http://yl.58.com/caizhai/">榆林采摘</a></li>
+    			    		</ul>
+    	</dd>
+    </dl>
+	<!-- =S hotcity -->
+            <dl class="linksItem hotcity" id="hotcity">
+        	<dt class="b-left">
+					采摘- 热门城市：
+					</dt>
+            <dd class="b-right">
+                <ul class="b-ul">
+        		        		<li><a href='http://km.58.com/caizhai/'>昆明采摘</a></li>
+        		        		<li><a href='http://cq.58.com/caizhai/'>
+重庆采摘</a></li>
+        		        		<li><a href='http://cc.58.com/caizhai/'>
+长春采摘</a></li>
+        		        		<li><a href='http://xt.58.com/caizhai/'>
+邢台采摘</a></li>
+        		        		<li><a href='http://xa.58.com/caizhai/'>
+西安采摘</a></li>
+        		        		<li><a href='http://wh.58.com/caizhai/'>
+武汉采摘</a></li>
+        		        		<li><a href='http://tj.58.com/caizhai/'>
+天津采摘</a></li>
+        		        		<li><a href='http://ta.58.com/caizhai/'>
+泰安采摘</a></li>
+        		        		<li><a href='http://ty.58.com/caizhai/'>
+太原采摘</a></li>
+        		        		<li><a href='http://su.58.com/caizhai/'>
+苏州采摘</a></li>
+        		        		<li><a href='http://sjz.58.com/caizhai/'>
+石家庄采摘</a></li>
+        		        		<li><a href='http://sy.58.com/caizhai/'>
+沈阳采摘</a></li>
+        		        		<li><a href='http://rizhao.58.com/caizhai/'>
+日照采摘</a></li>
+        		        		<li><a href='http://sh.58.com/caizhai/'>
+上海采摘</a></li>
+        		        		<li><a href='http://qd.58.com/caizhai/'>
+青岛采摘</a></li>
+        		        		<li><a href='http://dl.58.com/lvshunkou/zufang/caizhai/'>
+旅顺采摘</a></li>
+        		        		<li><a href='http://luoyang.58.com/caizhai/'>
+洛阳采摘</a></li>
+        		        		<li><a href='http://liaoyang.58.com/caizhai/'>
+辽阳采摘</a></li>
+        		        		<li><a href='http://lz.58.com/caizhai/'>
+兰州采摘</a></li>
+        		        		<li><a href='http://jiaozuo.58.com/caizhai/'>
+焦作采摘</a></li>
+        		        		<li><a href='http://jn.58.com/caizhai/'>
+济南采摘</a></li>
+        		        		<li><a href='http://jl.58.com/caizhai/'>
+吉林采摘</a></li>
+        		        		<li><a href='http://dandong.58.com/caizhai/'>
+丹东采摘</a></li>
+        		        		<li><a href='http://bj.58.com/daxing/caizhai/'>
+大兴采摘</a></li>
+        		        		<li><a href='http://dl.58.com/caizhai/'>
+大连采摘</a></li>
+        		        		<li><a href='http://cd.58.com/caizhai/'>
+成都采摘</a></li>
+        		        		<li><a href='http://bj.58.com/changping/caizhai/'>
+昌平采摘</a></li>
+        		        		<li><a href='http://bj.58.com/caizhai/'>
+北京采摘</a></li>
+        		        		<li><a href='http://bd.58.com/caizhai/'>
+保定采摘</a></li>
+        		        		<li><a href='http://bazhong.58.com/caizhai/'>
+巴中采摘</a></li>
+        		        		</ul>
+        	</dd>
+        </dl>
+	<!-- =E hotcity --> 	<!-- =E hotcity -->
+	<!-- =S friendlink-->
+			<dl id="friendlink" class="linksItem friendlink">
+<dt class="b-left"> 友情链接：</dt>
+<dd class="b-right"><a href='http://www.58.com/ppgfruit129/' target='_blank'>冬笋采摘园</a>&nbsp;<a href='http://yanan.58.com/guonxiaoxue/' target='_blank'>延安小学排名</a>&nbsp;  <a href="/link.html" target="_blank">更多...</a></dd>
+</dl>
+		<!-- =E friendlink -->
+</section>
+	<footer id="footer" class="footer">
+	    <div id="upWrap"> <a target="_blank" href="http://about.58.com/help.html" rel="nofollow">常见问题</a><span>|</span> <a target="_blank" href="http://about.58.com/" rel="nofollow">帮助中心</a><span>|</span> <a target="_blank" href="http://about.58.com/feedback.html" rel="nofollow">意见反馈</a><span>|</span> <a target="_blank" href="http://about.58.com/home/" rel="nofollow">了解58同城</a><span>|</span> <a target="_blank" href="http://about.58.com/hr/" rel="nofollow">加入58同城</a><span>|</span> <a target="_blank" href="http://fanqizha.58.com/" rel="nofollow">反欺诈联盟</a><span>|</span> <a target="_blank" href="http://110.58.com" rel="nofollow">报案平台</a><span>|</span> <a target="_blank" href="http://e.58.com" rel="nofollow">推广服务</a><span>|</span> <a target="_blank" href="http://biz.58.com" rel="nofollow">渠道招商</a><span>|</span> <a target="_blank" href="http://baozhang.58.com" rel="nofollow">先行赔付</a><span>|</span> <a target="_blank" href="http://ir.58.com?PGTID=0d100000-0000-13da-8041-51f9a3a739fa&amp;ClickID=2" rel="nofollow">Investor Relations</a> </div>
+	    <div id="downWrap"> <em>2005-2016 58.com版权所有</em><span>|</span> <em>京公网备案信息110105000809</em><span>|</span> <a target="_blank" href="http://www.miibeian.gov.cn/" rel="nofollow">京ICP证060405</a><span>|</span><em>乙测资字11018014</em><span>|</span> <a target="_blank" href="http://ir.58.com" rel="nofollow">Investor Relations</a><span>|</span><em>违法信息举报：4008135858&nbsp;&nbsp;jubao@58ganji.com</em> </div>
+	    <div class="fotBtmIcon">
+	        <a target="_blank" id="fotBm_1" href="http://fanqizha.58.com"></a>
+	        <a target="_blank" id="fotBm_2" href="http://www.12377.cn/"></a>
+	        <a target="_blank" id="fotBm_3" href="http://www.12377.cn/node_548446.htm"></a>
+	        <a target="_blank" id="fotBm_4" href="https://credit.szfw.org/CX20120918001650001720.html"></a>
+	        <a target="_blank" id="fotBm_5" href="http://img.58cdn.com.cn/ui6/index/qyxinyong.jpg?v=3"></a>
+	        <a target="_blank" id="fotBm_6" href="http://about.58.com/fqz/index.html"></a>
+	    </div>
+	</footer>
+<script>
+	var currentDate = new Date();
+</script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfc_v20160418145051.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/ds/js/lbfcInit_v20161121150119.js'></script>
+<script>
+	var jingzhun_ads = [];
+	var jingzhun_ads_param = "";
+</script>
+
+				<script type="text/javascript" src='http://j1.58cdn.com.cn/js/5_1/comm_js/boot_listpage_version_v20170329165708.js'></script>
+	<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript" src='http://j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20170331140927.js'></script>
+<script type="text/javascript">
+document.domain = '58.com';
+var win = new GetToolTipWindow('tooltipdiv', 'keyword', '3','8973','', true);win.setSearchButton('searchbtn');
+var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','8973','');win1.setSearchButton('searchbtn1');
+var win2 = new GetToolTipWindow('tooltipdiv2', 'mudidi', '7', '8973', '');win2.setSearchButton('searchbtn1');
+boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'yanan');});
+</script>
+
+<script type="text/javascript" >
+// JavaScript Document
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	toggle(".p-help");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".small-tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+
+$("#shangmenfw a").each(function(){
+	if("到店服务"== $(this).text().trim()){
+		$(this).remove();
+	}
+});
+
+BAIDU_CLB_fillSlot("567863");
+
+var alldt = $("#relateSelect>dt");
+function showNear(dt){
+    alldt.each(function(){
+        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+        else {$(this).next("dd").hide();$(this).removeClass("select");}
+    });
+}
+alldt.each(function(){
+    $(this).click(function(){showNear(this);}).hover(function(){showNear(this);});
+});
+
+showNear(alldt[0]);
+
+  
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+$(".selector").each(function(){
+	$(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+});
+
+</script>
+
+<div style="display:none;">
+<script type="text/javascript">
+ var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3bb04d7a4ca3846dcc66a99c3e861511' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+</div>
+
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+
+
+			<script type="text/javascript" src='http://j1.58cdn.com.cn/js/v8/boot/boot_huangye_v20170329172410.js'>
+		</script>
+		<script>
+			require(['_pkg/huangye/huangye_shenghuo_list_dom'],function(){});
+		</script>
+	
+<script src="http://track.58.com/adsys/ggafs?rand=20170405"></script>
+<script>
+//统计埋点
+$(function(){
+	$('dl.secitem').each(function(){
+	    var idname = $(this).find("dd").eq(0).attr('id');
+		$(this).find('a').not('span a').each(function(){
+			$(this).click(function(){
+				clickLog('from=pc_list_caizhai_shaixuan_'+idname+ '_yanan');
+		    });		
+		});	
+    });	
+})
+</script>
+<script type="text/javascript">
+    $("#more_ObjectType").click(function(){
+    	console.log("ok");
+    	var showmoreBrand = document.getElementById("moreBrandct"),moreBrandbtn = document.getElementById("moreBrandbtn");
+	    showmoreBrand.style.display = (showmoreBrand.style.display=="block")?"none":"block";
+	    moreBrandbtn.className = (moreBrandbtn.className=="moreBrand")?"moreBrand hold":"moreBrand";
+    });
+    var pemorealldt = $("#moreBrandct dt");
+	function showpemorecon(dt){
+		pemorealldt.each(function(){
+		    if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+            else {$(this).next("dd").hide();$(this).removeClass("select");}
+        });
+    }
+    pemorealldt.each(function(){
+		$(this).click(function(){showpemorecon(this);}).hover(function(){showpemorecon(this);});
+    });
+    showpemorecon(pemorealldt[0]);
+</script>
+		<script type="text/javascript">
+function cpcget(url){
+	$.ajax({
+		url:url,
+		type:"get",
+		dataType:"jsonp",
+		success:function(data){
+		
+        }
+    });	
+}
+</script>					<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e15962162366a86a6229038443847be7";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div style="display:none">
+	<script type="text/javascript">
+____json4fe.supplycount = {sortid:'27868521954256'};
+var _gaq = _gaq || [],site_name = "58",post_count = "3",shop_count= "",page_type = "list";
+var _trackURL = "{'cate':'8640,8659,23674','area':'8973','pagetype':'list','GA_pageview':'/yanan/lvyouxiuxian/zhoubianyou/listversion/','version':'A','pagesize':'35','pagenum':'1','level1':'','level2':'','level3':'','level4':'','level5':'','level6':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/yanan/lvyouxiuxian/zhoubianyou/listversion/']);
+
+$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+
+</div>
+<script src="http://wechat.58.com/google-analytics"></script> 				<!-- 抢单神器下线-->
+				<!-- 抢单神器下线-->
+		<!-- 装修搜索弹窗  S -->
+				<!-- 招标弹框start -->
+<link rel="stylesheet" href='http://c.58cdn.com.cn/ds/zhaobiao/pc_search_win/list_win_zb_v20161010135135.css' />
+<script src="http://j1.58cdn.com.cn/ds/zhaobiao/v1/js/fastpost/jquery.md5.js"></script>
+<script>
+ var cityid=8973;
+</script>
+
+        <!-- 招标弹框end -->
+
+
+				<!-- 装修搜索弹窗  E -->
+		<!-- 前置登陆  s -->
+				<!-- 前置登陆  e -->
+	</body>
+</html>
