@@ -1,0 +1,571 @@
+<!DOCTYPE html><html><head><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta charset='utf-8'><script id="perf0"></script><link rel='dns-prefetch' href='//file.baixing.net/'><link rel='dns-prefetch' href='//img4.baixing.net/'><link rel='dns-prefetch' href='//img5.baixing.net/'><link rel='dns-prefetch' href='//img6.baixing.net/'><meta name='apple-itunes-app' content='app-id=591540113'><meta property='qc:admins' content='27606217656211016763757'><meta name='renderer' content='webkit'><meta name='applicable-device' content='pc'><title>【阿拉善小物品批发_物资批发_物品采购】 - 阿拉善百姓网</title><meta name='keywords' content='阿拉善小物品批发,物资批发'><meta name='description' content='百姓网阿拉善物品批发频道是阿拉善本地最大的物资批发采购信息发布、查阅平台，不仅汇集了最新最全的食品、礼品、服装鞋帽、电器家具、卡券、箱包饰品等多类别的物品批发采购信息，还可以让您免费发布物品批发/转让/回收等信息。'><meta name='location' content='province=内蒙古;city=阿拉善;coord=105.728969,38.851892'><link rel='alternate' href='http://alashan.baixing.com/m/wupinpifa/' media='handheld' type='application/vnd.wap.xhtml+xml'><meta http-equiv='mobile-agent' content='format=html5; url=http://alashan.baixing.com/m/wupinpifa/'><meta http-equiv='mobile-agent' content='format=wml; url=http://alashan.baixing.com/m/wupinpifa/'><meta http-equiv='mobile-agent' content='format=xhtml; url=http://alashan.baixing.com/m/wupinpifa/'><script> /* 预防吉林铁通篡改百度js删除cookie */ (function() {  var _setInterval = setInterval;  try {   setInterval = function(f) {    var src = f.toString();    if (!/_hao_pg/.test(src)) {     return _setInterval.apply(window, arguments);    }   };  } catch (e) {   /* slient */  } })(); </script><script> document.documentElement.className += ' js' </script><script> void function(){  var a = location.hostname.split('.').slice(-2);  if (a[0] === 'baixing' && (a[1] === 'com' || a[1] === 'cn')) document.domain = a.join('.'); }(); var _defer=[], _taq=[]; </script><script>!function(){"use strict";function e(e){if("object"==typeof e){return n({errMessage:e.message||e.msg,errLine:e.line||e.lineno||e.lineNumber,errFile:e.file||e.filename||e.fileName,errPage:t(location.pathname),percent:e.percent},e.error||e),e.error||e}}function t(e){return e.replace(/a\d+\.html$/,"aNNNNNNN.html")}function n(e,t){Math.random()>(e.percent||.1)/100||(t&&t.stack&&(e.stack=t.stack.substring(0,500)),tracker.kLog("fe_error",e))}window.Raven&&Raven.config("//815017857a8b440084898577b6917624@error.baixing.net/3",{dataCallback:function(e){var t=e.exception.values[0];e.message||(e.message=t.type+": "+t.value,e.extra.messageSupported=!1);for(var n=t.stacktrace.frames,o=0;o<n.length;o++)n[o].colno=n[o].colno||0},release:"2017-04-14 19:27:24",shouldSendCallback:function(e){var t=e.exception.values[0];return!/MSIE [567]/.test(navigator.userAgent)&&!/ReferenceError.*?:.*?(?:\$|jQuery|Promise|RongIMLib|webpackJsonp)/.test(e.message||t.type+t.value)},whitelistUrls:[/s\.baixing\.net/]}).install(),window.errorTracker=e,window.reportError=function(){var e={};return function(t,n,o,r,i){if(!t._t){t._t=(new Date).getTime();var a=new Error;e[t._t]=a,a.columnNumber=i,a.fileName=n,a.lineNumber=r,a.message=t.message||t.description,a.name=t.name,a.stack=t.stack||t.name+": "+a.message,setTimeout(function(){delete e[t._t],t._r||window.Raven&&Raven.captureException(a,{extra:{stackSupported:!!t.stack}})},1)}var a=e[t._t];!t.stack&&n&&(a.stack+="\n\tat "+o+" (//s.baixing.net"+n+":"+r+":"+i+")")}}()}();var tracker={lastTimestamp:(new Date).getTime(),referrer:null,city:null,city_name:null,category:null,pagetype:null,trackid:null,adid:null,visitorid:null,userid:"",cv1:"",cv2:"",cv3:"",tk1:"",tk2:"",tk3:"",tk4:"",tk5:"",ic:function(e,t){_taq.push(["ic",e,t?"uv":"pv"])},count:function(e,t){_taq.push(["count",e,t])},timing:function(e,t,n){_taq.push(["timing",e,t,n])},kLog:function(e,t){_taq.push(["klog",e,t])},evt:function(e,t){_taq.push(["evt",e,t])},perf:function(e){_taq.push(["perf",tracker.pageType,e])},ga:function(e,t,n,o){_taq.push(["ga",e,t,n,o])},manageTrack:function(e,t){_taq.push(["manageTrack",e,t])},resErr:function(e){var t;switch(e.nodeName.toLowerCase()){case"link":t=e.href;break;case"script":case"img":case"iframe":t=e.src;break;default:return}"function"==typeof window.errorTracker&&window.errorTracker({msg:"Resource Error",file:t,percent:1})},setCategory:function(e){this.category=e},setCity:function(e){this.city=e},setCityEnglishName:function(e){this.city_name=e},setTrackId:function(e){this.trackid=e},setAdId:function(e){this.adid=e},setVisitorId:function(e){this.visitorid=e},setUserId:function(e){this.userid=e},generateId:function(){var e=(new Date).getTime(),t=Math.random().toString().slice(2)+"-"+e+"-"+(e^this.trackid^parseInt(this.reid,16))+"-"+(e-this.lastTimestamp);if(this.lastTimestamp=e,this.lastPvId=t,window.sessionStorage)try{window.sessionStorage.setItem("bx:pvid",t)}catch(n){}return t},parentId:function(){return this.lastPvId?this.lastPvId:window.sessionStorage?window.sessionStorage.getItem("bx:pvid"):"NA"},consumeLastClick:function(){var e=this.lastClick;return e&&(this.lastClick=null),window.sessionStorage&&(e||(e={target:window.sessionStorage.getItem("bx:click.target"),time:window.sessionStorage.getItem("bx:click.time")}),window.sessionStorage.removeItem("bx:click.target"),window.sessionStorage.removeItem("bx:click.time")),e?new Date-e.time+"$"+e.target:""},pv:function(){var e=new Image;e.id="garyTracker",e.src=["//gary.","baixing.com/arrow.php?"].join("")+"ppvid="+this.parentId()+"&pvid="+this.generateId()+"&click="+encodeURIComponent(this.consumeLastClick())+"&reid="+encodeURIComponent(this.reid)+"&url="+encodeURIComponent(document.location.href.length?document.location.href:"")+"&ref="+encodeURIComponent(this.referrer||(document.referrer.length?document.referrer:""))+"&ct="+encodeURIComponent(this.city)+"&ctn="+encodeURIComponent(this.city_name)+"&cat="+encodeURIComponent(this.category)+"&vid="+encodeURIComponent(this.visitorid)+"&uid="+encodeURIComponent(this.userid)+"&tid="+encodeURIComponent(this.trackid)+"&adid="+encodeURIComponent(this.adid)+"&cv1="+encodeURIComponent(this.cv1)+"&cv2="+encodeURIComponent(this.cv2)+"&cv3="+encodeURIComponent(this.cv3)+"&cv4="+encodeURIComponent(this.cv4)+"&cv5="+encodeURIComponent(this.cv5)+"&tk1="+encodeURIComponent(this.tk1)+"&tk2="+encodeURIComponent(this.tk2)+"&tk3="+encodeURIComponent(this.tk3)+"&tk4="+encodeURIComponent(this.tk4)+"&tk5="+encodeURIComponent(this.tk5)}};!function(e){function t(t){var n=+new Date;t||(t=e.event);var r=o(t.target||t.srcElement);if(e.tracker&&(e.tracker.lastClick={target:r,time:n}),e.sessionStorage)try{e.sessionStorage.setItem("bx:click.target",r),e.sessionStorage.setItem("bx:click.time",n)}catch(i){}}function n(e){for(var t=1,n=e.tagName;e=i(e);)e.tagName===n&&t++;return t}function o(e){var t;if(1!==e.nodeType)t="/*"+e.nodeName+"*/";else{if(t=e.tagName,e.id)return t+"#"+e.id;var r=i(e);if(r){if(r.id)return r.tagName+"#"+r.id+"+"+t;var a=n(e);t+=1===a?":first-of-type":":nth-of-type("+a+")"}else t+=":first-child"}var c=e.parentNode;return c&&1===c.nodeType&&"body"!==c.tagName.toLowerCase()?o(c)+">"+t:t}var r=e.document;r.addEventListener?r.addEventListener("click",t,!1):r.attachEvent?r.attachEvent("onclick",t):r.onclick=t;var i;i=r.documentElement.previousElementSibling!==undefined?function(e){return e.previousElementSibling}:function(e){for(;(e=e.previousSibling)&&1!==e.nodeType;);return e}}(window),function(e){function t(){e.$&&(o(document,"DOMContentLoaded",t),o(e,"load",t),r(),$(document).on("click",i),a())}function n(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function o(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent&&e.detachEvent("on"+t,n)}function r(){var t=document.createElement("a");t.href=document.referrer;var n,o,r,i=t.hostname;i.indexOf("baidu.com")>=0&&(r=document.referrer.match(/baidu.+wo?r?d=([^\\&]*)/i))?(n=r[1],o="baidu"):i.indexOf("google.com")>=0&&(r=document.referrer.match(/google.+q=([^\\&]*)/i))?(n=r[1],o="google"):i.indexOf("so.com")>=0&&(r=document.referrer.match(/so.+q=([^\\&]*)/i))?(n=r[1],o="so"):i.indexOf("haosou.com")>=0&&(r=document.referrer.match(/haoso.+q=([^\\&]*)/i))?(n=r[1],o="haosou"):i.indexOf("sm.cn")>=0&&(r=document.referrer.match(/sm.+q=([^\\&]*)/i))&&(n=r[1],o="sm"),o&&(e.landingKeyword=decodeURIComponent(n).replace(/^\s+|\s+$/g,""),e.seoSource=o)}function i(t){var n=t.target;if($.contains(document.body,n)){for(;"A"!=n.nodeName&&"BODY"!=n.nodeName;)n=n.parentNode;if("A"==n.nodeName&&n.hostname){if(!(null!==/(baixing.cn|baixing.com)$/i.exec(n.hostname))){var o=$(n).data();o.href=n.href,e.seoSource&&(o.landing_keyword=e.landingKeyword,o.seo_source=e.seoSource),o.timestamp=Math.floor(Date.now()/1e3),tracker.evt("external_click",o),$("body").trigger("adsense_click",$(t.target).parents(".adsense"))}}}}function a(){function t(){if(n){var t=$("#"+n).data();$.isEmptyObject(t)&&(t.id=$("#"+n).attr("id")),e.seoSource&&(t.landing_keyword=e.landingKeyword,t.seo_source=e.seoSource),t.timestamp=Math.floor(Date.now()/1e3),tracker.evt("external_click",t),$("body").trigger("adsense_click",$("#"+n))}}var n=!1;$(document).on("mouseenter",".iframe-3rd-party,.third-party-wrapper iframe",function(){n=this.id}).on("mouseleave",".iframe-3rd-party,.third-party-wrapper iframe",function(){n=!1,e.focus()}),$(e).on("blur",t)}n(document,"DOMContentLoaded",t),n(e,"load",t)}(window);var ON_PRODUCTION = 1;
+
+tracker.setCategory('wupinpifa');
+tracker.setCity('483');
+tracker.setCityEnglishName('alashan');
+tracker.setAdId('');
+tracker.setUserId('');
+tracker.setTrackId('149225702614197');
+tracker.setVisitorId('');
+
+tracker.tk1 = '';
+tracker.tk2 = 'sharp_ranking1';
+tracker.tk3 = '';
+tracker.tk4 = 'fenglin_title_test0';
+tracker.tk5 = '';
+
+tracker.cv1 = '';
+tracker.cv2 = '';
+tracker.cv3 = '';
+tracker.cv4 = '1492257026';
+tracker.cv5 = '149225702614197';
+tracker.reid = '58f20902e5d6691637';
+tracker.pageType = 'listing';
+</script><!--block ie6to8Style--><!--	include ie6to8style--><link rel='canonical' href='http://alashan.baixing.com/wupinpifa/'><link rel='apple-touch-icon-precomposed' href='//s.baixing.net/img/wap/icon_bx_app_1308.png'><link rel='shortcut icon' href='//s.baixing.net/favicon.ico' type='image/x-icon'><script src="//s.baixing.net/d/refashion-lib/base.b79f74d5.js" onerror="tracker.resErr(this)" crossorigin></script><!--[if lt IE 9]><script src='//s.baixing.net/d/shim.0da4e718.js'></script><![endif]--><!--[if lt IE 8]><script src='//s.baixing.net/js/module/json2.min.96bd9bbd.js'></script><![endif]--><script id="perf1"></script><script>
+	/** Start: Google Analytics */
+	(function(i, s, o, g, r, a, m) {i['GoogleAnalyticsObject'] = r;i[r] = i[r] || function() {(i[r].q = i[r].q || []).push(arguments)}, i[r].l = 1 * new Date();a = s.createElement(o),m = s.getElementsByTagName(o)[0];a.async = 1;a.src = g;m.parentNode.insertBefore(a, m)})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', {trackingId: 'UA-6183853-1', cookieDomain: 'baixing.com', 'siteSpeedSampleRate': 100});
+
+</script>
+<script>
+			if (tracker.data) {
+		var city = tracker.data.city_name,
+			category = tracker.data.category,
+			platform = 'wap';
+	} else {
+		var city = tracker.city_name,
+			category = tracker.category,
+			platform = 'web';
+	}
+
+	ga('set', 'dimension1', city);
+	ga('set', 'dimension2', category);
+	ga('set', 'dimension3', 'Listing_Controller');
+	ga('set', 'dimension4', platform);
+
+	(function () {
+		var refer = document.referrer;
+		if (refer && refer.search("http://") > -1) {
+			var domain = refer.match(/:\/\/(.[^/]+)/)[1];
+			if (domain.indexOf("baidu.com") > -1) { //暂时只统计baidu，忽略其他份额小的SE。
+				ga('set', 'dimension5', 'Listing_Controller');
+			}
+		}
+	})();
+
+	ga('send', 'pageview');
+
+	/** End: Google Analytics */
+</script>
+
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?5a727f1b4acc5725516637e03b07d3d2";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<link rel="stylesheet" href="//s.baixing.net/d/refashion-common/index.443a150c.css" onerror="tracker.resErr(this)"><link rel='stylesheet' href='//s.baixing.net/font/baicons/baicons2.1657e729.css'><style media="print">body{background:url(/c/ev/print?_city=alashan&_category=wupinpifa&_tk1=&_tk2=sharp_ranking1&_tk3=&_tk4=fenglin_title_test0&_tk5=&_tid=149225702614197&_url=http%3A%2F%2Falashan.baixing.com%2Fwupinpifa%2F&_refer=)}</style><link rel="stylesheet" href="//s.baixing.net/combine/css/d/refashion-b2c-listing/index.de5ec32c.css,/css/module/jquery-ui-1.9.1.custom.d3ae8ca1.css" onerror="tracker.resErr(this)"></head><!--[if lt IE 7 ]> <body class="ie6 lt-ie8"> <![endif]--><!--[if IE 7 ]>    <body class="ie7 lt-ie8"> <![endif]--><!--[if IE 8 ]>    <body class="ie8 category-wupinpifa category-fuwu view-item"> <![endif]--><!--[if (gte IE 9)|!(IE)]><!--> <body class="category-wupinpifa category-fuwu view-item"> <!--<![endif]--><header><div><div class='toolbar'><div class='toolbar-link'><i class='icon-mobile'></i><div class='dropdown wechat'><a rel='dialog' href='#promote-weixin-modal' data-toggle='modal'>微信版</a><div class='dropdown-block'><div class='one-block'><p class='dropdown-title'>百姓网公众号</p><p class='dropdown-describe'>微信扫码关注</p><img src='//file.baixing.net/201703/web-wechat-gongzhong.png' class='dropdown-img'></div><div class='one-block'><p class='dropdown-title'>百姓网小程序</p><p class='dropdown-describe'>微信扫扫立即体验</p><img src='//file.baixing.net/201703/fb5b82ef10f390699452795d20f569e7.png' class='dropdown-img'></div></div></div><div class='dropdown mobile'><a href='//www.baixing.com/a/mobile'>手机APP</a><div class='dropdown-block'><div class='one-block'><p class='dropdown-title'>扫码下载手机客户端</p><p class='dropdown-describe'>免费抢油卡、红包、电影票</p><img src='//file.baixing.net/201703/ad1efa7194f139b966bd3bdd9cb25adb.jpg' class='dropdown-img'></div></div></div><i class='sep'>|</i><a href='//yinchuan.baixing.com/wupinpifa/'>银川</a><a href='//shizuishan.baixing.com/wupinpifa/'>石嘴山</a><a href='//wuzhong.baixing.com/wupinpifa/'>吴忠</a><a href='//china.baixing.com'>全国</a><a href='//www.baixing.com/?changeLocation=yes&amp;return=%2Fwupinpifa%2F'>[更多城市]</a></div><ul id='user-tools' class='navbar-nav'><li><a href='//www.baixing.com/oz/verify/reg' rel='nofollow' data-toggle='userAuth' data-type='reg'>注册</a></li><li><a href='//www.baixing.com/oz/login' rel='nofollow' data-toggle='userAuth' data-type='login'>登录</a></li><li class='dropdown'><a href='//www.baixing.com/ra/pay?src=topbar#vip' target='_blank'>商户推广<i class='icon-arrow-down'></i></a><ul class='dropdown-menu'><li><a href='//www.baixing.com/ra/pay/?src=header' target='_blank'>付费推广</a></li><li><a href='//vip.baixing.com/job_buy?src=topbar' target='_blank'>VIP会员-招聘版</a></li><li><a href='//vip.baixing.com/auto_buy?src=topbar' target='_blank'>VIP会员-车商版</a></li><li><a href='//vip.baixing.com/house_buy?src=topbar' target='_blank'>VIP会员-房产版</a></li><li><a href='//vip.baixing.com/service_buy?src=topbar' target='_blank'>VIP会员-服务版</a></li><li><a href='//vip.baixing.com/pet_buy?src=topbar' target='_blank'>VIP会员-宠物版</a></li></ul></li><li class='dropdown'><a href='javascript:;'>合作及工具<i class='icon-arrow-down'></i></a><ul class='dropdown-menu'><li><a href='//www.baixing.com/a/bdad/?src=home_topbar' target='_blank'>品牌网络推广</a></li><li><a href='http://api3.baixing.com.cn/?src=home_topbar' target='_blank'>API合作</a></li><li><a href='//www.baixing.com/PublicReview/' target='_blank'>大众评审</a></li><li><a href='//www.baixing.com/mkt/agents/' target='_blank'>诚招代理商</a></li></ul></li><li><a href='//www.baixing.com/help/' target='_blank'>帮助</a></li></ul></div></div><div><div class='location'><span class='breadcrumb'><a href='/' property='v:title' rel='v:url' class='primary-logo'><span class='city-logo'>阿拉善</span><img alt='百姓网' src='//s.baixing.net/img/refashion/logo_baixing.png' width='95px' height='48px'></a><i class='icon-arrow-right'></i><a href='http://alashan.baixing.com' property='v:title' rel='v:url'>阿拉善</a><i class='icon-arrow-right'></i><a href='/fuwu/' property='v:title' rel='v:url'>阿拉善服务</a><i class='icon-arrow-right'></i><a href='/wupinpifa/' property='v:title' rel='v:url'>阿拉善物品批发</a><span class='post-total-count'>（44 条信息）</span></span><a href='//alashan.baixing.com/fabu/wupinpifa' class='post'>免费发布物品批发信息</a></div></div></header><script id="fold-point">tracker.pv()</script><div class='refashion-listing-banner'></div><div id='listing-fixed-filters'><form><fieldset><legend><a href='#listing-filters'>更多筛选</a></legend></fieldset><a href='//alashan.baixing.com/fabu/wupinpifa' class='post'>免费发布物品批发信息</a></form></div><div class='listing-fixed-bottom-promo'><div class='qrcode-container'><img src='//file.baixing.net/201604/043841105da8af0be03accadbc8202a2.png'><a href='javascript:;' class='close pull-right'>&times;</a></div></div><section><form id='listing-filters' class='compact '><fieldset><span class='legend'>服务范围</span><div class='area links'><a class='checked'>全阿拉善</a><a href='/wupinpifa/m6041/'>阿拉善左旗</a><a href='/wupinpifa/m6039/'>额济纳旗</a><a href='/wupinpifa/m6040/'>阿拉善右旗</a></div></fieldset><fieldset class='search-fieldset'><input name='query' type='search' placeholder='搜物品批发' value='' class='search-query'><a href='javascript:void 0;' class='search-trigger'><i class='icon-search'></i></a></fieldset></form><div data-type='fuwu' class='data-store'></div></section><div id='js-fixed-filter-anchor'></div><section class='container'><aside class='sidebar waterfall-glist'><div class='sidebar-filter subscribe'><div class='title'><i class='icon-xiangguan'></i>信息免费订阅</div><strong>阿拉善 物品批发</strong><a href='#email-tips' role='button' data-toggle='modal' class='subscribe-button'>有新信息通知我</a></div><div class='rightside-adsense'><script type="text/javascript">
+	(function() {
+		var cpro_id = "u2839315";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+</div><div id='port-info' class='sidebar-filter'><div class='title'><i class='icon-gold'></i>热门商家</div><div class='sidebar-filter-block'><a target='_blank' href='http://vip.baixing.com/service_buy?src=listing'><img src='//file.baixing.net/201612/38d02cd6197fe00aefda7b7934b430d8.jpg' width='160' height='160' class='sidebar-buy-url'></a></div></div><script type="text/javascript" src="//script-bd.baixing.net/ir3a1ecf94f0c8f33adb1463c6a3fa79ed54ebc50d35e57fec1a25.js"></script><iframe style="height:200px;width:200px;overflow:hidden;margin-left:auto;margin-right:auto;" frameborder="0" scrolling="no" src="//s.baixing.net/adsense/baidu_union.php?cpro_id=u2868783" class="iframe-3rd-party" id="union_iframe_u2868783" data-act_type="baidu_union" data-id="u2868783"></iframe><script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868828";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+<div style="margin: 15px 0" class="media-box third-party-wrapper"> <iframe style="height:400px;width:200px;overflow:hidden;margin-left:auto;margin-right:auto;" frameborder="0" scrolling="no" src="//s.baixing.net/adsense/baidu_union.php?cpro_id=u2868775" class="iframe-3rd-party" id="union_iframe_u2868775" data-act_type="baidu_union" data-id="u2868775"></iframe> </div><div class="media-box-fixed" style="width:200px;">
+<script type="text/javascript" src="//script-bd.baixing.net/bw3a1ecf96f3cef33fdb1463c6a3fa79ed54ebc50d35e57fec1a25.js"></script><div style="margin: 15px 0" class="media-box third-party-wrapper"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868810";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><div style="margin: 15px 0" class="media-box third-party-wrapper"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868860";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div></div>
+<script type="text/javascript">
+_defer.push(function() {
+	var $sticky = $('.media-box-fixed');
+	if ($(document).height() > 7000) {
+		var _top = $sticky.offset().top - 45;
+		var _offset = $('.foot-links-box').offset();
+		var _bottom = _offset ? $(document).height() - _offset.top : 20;
+		$sticky.affix({
+			offset: {
+				top: function (){
+					// 由于广告是异步加载的，_top的值在加载完成后可能会变大，这里取到这个最后的值做为affix插件的数据
+					// 注意：由于affix插件的特性，在变成affix-bottom之后, $sticky.offset().top会被覆盖，这里的判断条件过滤了这种情况
+					_top = $sticky.offset().top - 45 > _top && $sticky.hasClass('affix-top') ?$sticky.offset().top - 45: _top;
+					return _top;
+				},
+				bottom: _bottom
+			}
+		});
+	}
+});
+</script>
+</aside><div id='weixin-tips' tabindex='-1' role='dialog' class='modal hide'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-hidden class='close'>×</button><div id='app-download-section' class='clearfix'><div style='margin:0 0 10px 0px;font-size:1.17em;font-weight:bold'>手机App订阅</div><div style='text-align:center'><div><img id='app-download-section-img' src='//file.baixing.net/201410/95967a3f4e7e33eac4b62aa5d802b9d3.png'><div id='app-download-section-qrcode'><img src='//file.baixing.net/201410/d111c4814bdd10412c226474d9290aca.png'></div></div><div id='app-download-section-title'>扫码下载百姓网APP，随时订阅信息，还能私信沟通！</div></div></div><div class='modal-title'>微信订阅</div></div><div class='modal-body'><img id='sub-qr-code' src='//s.baixing.net/img/subscribe/baixing1.jpg'><div id='txtcontent'><p class='hint'><p>打开微信扫一扫二维码，一步轻松订阅！</p><p>订阅后，“阿拉善 物品批发”有新信息时将通过微信优先通知您。</p></p><p class='other-tips'>没有微信？您可以使用<span href='#email-tips' id='qq-sub' data-toggle='modal' class='btn email-modal'>&nbsp;QQ订阅</span>&nbsp;或&nbsp;<span href='#email-tips' id='email-sub' data-toggle='modal' class='email-modal btn'>邮件订阅 &nbsp;</span></p></div></div></div></div></div><div id='email-tips' tabindex='-1' role='dialog' class='modal hide'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-hidden class='close'>×</button><div class='modal-title'>手机订阅</div></div><div class='modal-body'><div class='text-line'><span class='icon-weixin'></span><span>扫码关注百姓网公众号，随时订阅信息！</span></div><img src='//file.baixing.net/201604/886cdef3c3645949a974d03e76e20ca3.png' class='tip-img'></div></div></div></div><script> _defer.push(function() {  window.initSidebarModal('', '物品批发 阿拉善 物品批发') });</script><div class='main'><!-- zoufeng(zoufeng@baixing.com)--><ul role='tablist' class='listing-tab-navi'><li class='active'><h1><a href='/wupinpifa/'>物品批发</a></h1></li><li class='tab-title-item'><h1><a href='/weishop/brands/wupinpifa/#list' target='_blank'>热门商家</a></h1></li></ul><div class='listing-viewtype-switch'><div><label><input type='checkbox' data-target='/wupinpifa/?imageFlag=1' >只看有图</label></div><div><label><input type='checkbox' data-target='/wupinpifa/?todayOnly=1' >只看今天发布的信息</label></div><div><label><input type='checkbox' data-target='/wupinpifa/?sixinOnlineFlag=1' >只看私信在线</label></div></div><ul style='border-top: 1px dotted #eee;' class='list-ad-items'><li data-aid='1013793685' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13507877844' data-qq='' data-id='1013793685' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a1013793685.html' target='_blank' class='ad-title'>蓝月亮洗衣液3公斤装1箱4瓶45元</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>16年7月11日</time></div></div></li><li data-aid='852241099' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18730791865' data-qq='' data-id='852241099' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a852241099.html' target='_blank' class='ad-title'>碳晶墙暖,碳晶画厂家，碳晶画批发</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>15年10月22日</time></div></div></li><li data-aid='849699910' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13390128515' data-qq='752659118' data-id='849699910' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a849699910.html' target='_blank' class='ad-title'>销售柴油！
+批发柴油！
+配送柴油!...</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善右旗</div><div class='ad-item-detail'><time>15年10月19日</time></div></div></li><li data-aid='839811892' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13284894457' data-qq='973003657' data-id='839811892' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a839811892.html' target='_blank' class='ad-title'>实体店代购韩国化妆品，批发韩国日用品</a></div><div class='ad-item-detail'>阿拉善右旗</div><div class='ad-item-detail'><time>15年10月1日</time></div></div></li><li data-aid='827061006' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15322960955' data-qq='' data-id='827061006' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a827061006.html' target='_blank' class='ad-title'>批发零售纹身机</a></div><div class='ad-item-detail'>阿拉善左旗</div><div class='ad-item-detail'><time>15年9月9日</time></div></div></li><li data-aid='825415882' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13142498238' data-qq='' data-id='825415882' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a825415882.html' target='_blank' class='ad-title'>实体店名:小爸爸椒麻鸡</a></div><div class='ad-item-detail'>阿拉善左旗</div><div class='ad-item-detail'><time>15年9月6日</time></div></div></li><li data-aid='712802388' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13178233252' data-qq='' data-id='712802388' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a712802388.html' target='_blank' class='ad-title'>批发 招收代理 一件代发 新百伦 阿迪 耐克 等等</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>15年4月27日</time></div></div></li><li data-aid='681749730' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13462247252' data-qq='' data-id='681749730' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a681749730.html' target='_blank' class='ad-title'>金刚菩提肉纹黄皮哪里批发便宜？</a></div><div class='ad-item-detail'>阿拉善 - 额济纳旗</div><div class='ad-item-detail'><time>15年4月1日</time></div></div></li><li data-aid='665734276' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15914883195' data-qq='' data-id='665734276' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a665734276.html' target='_blank' class='ad-title'>百乐可擦笔 摩磨擦中性笔 角马可擦笔</a></div><div class='ad-item-detail'>阿拉善 - 额济纳旗</div><div class='ad-item-detail'><time>15年3月20日</time></div></div></li><li data-aid='660192477' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15914883195' data-qq='' data-id='660192477' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a660192477.html' target='_blank' class='ad-title'>百乐可擦笔 热敏可擦笔 角马可擦笔批发</a></div><div class='ad-item-detail'>阿拉善 - 额济纳旗</div><div class='ad-item-detail'><time>15年3月17日</time></div></div></li><li data-aid='658870604' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15914883195' data-qq='' data-id='658870604' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a658870604.html' target='_blank' class='ad-title'>百乐可擦笔 可擦笔芯 角马可擦笔批发</a></div><div class='ad-item-detail'>阿拉善 - 额济纳旗</div><div class='ad-item-detail'><time>15年3月16日</time></div></div></li><li data-aid='654426379' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15914883195' data-qq='' data-id='654426379' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a654426379.html' target='_blank' class='ad-title'>百乐摩磨擦笔 可擦笔芯角马可擦笔招代理</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>15年3月13日</time></div></div></li><li data-aid='653242487' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15914883195' data-qq='' data-id='653242487' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a653242487.html' target='_blank' class='ad-title'>百乐可擦笔【官方首页】</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>15年3月12日</time></div></div></li><li data-aid='651702013' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15914883195' data-qq='' data-id='651702013' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a651702013.html' target='_blank' class='ad-title'>【角马可擦笔厂家】生产厂家、直销、批发、代理</a></div><div class='ad-item-detail'>额济纳旗</div><div class='ad-item-detail'><time>15年3月11日</time></div></div></li><li data-aid='611879260' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13641178853' data-qq='' data-id='611879260' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a611879260.html' target='_blank' class='ad-title'>台球桌厂家直供 全场批发价销售 高品质低价位</a></div><div class='ad-item-detail'></div><div class='ad-item-detail'><time>15年2月2日</time></div></div></li><li data-aid='549335369' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15248311050' data-qq='' data-id='549335369' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a549335369.html' target='_blank' class='ad-title'>低价出售正品川宇读卡器</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年12月18日</time></div></div></li><li data-aid='549037593' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15848356891' data-qq='' data-id='549037593' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a549037593.html' target='_blank' class='ad-title'>因商场倒闭本人存有大量批发内衣</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年12月18日</time></div></div></li><li data-aid='548117007' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15248311050' data-qq='' data-id='548117007' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a548117007.html' target='_blank' class='ad-title'>低价出售正品川宇读卡器</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年12月17日</time></div></div></li><li data-aid='547447462' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15848356891' data-qq='' data-id='547447462' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a547447462.html' target='_blank' class='ad-title'>因商场倒闭本人存有大量批发内衣</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年12月17日</time></div></div></li><li data-aid='547039920' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15248311050' data-qq='' data-id='547039920' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a547039920.html' target='_blank' class='ad-title'>低价出售正品川宇读卡器</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年12月16日</time></div></div></li><li data-aid='546837316' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15848356891' data-qq='' data-id='546837316' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a546837316.html' target='_blank' class='ad-title'>因商场倒闭本人存有大量批发内衣</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年12月16日</time></div></div></li><li data-aid='546009717' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15848356891' data-qq='' data-id='546009717' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a546009717.html' target='_blank' class='ad-title'>因商场倒闭本人存有大量批发内衣</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年12月16日</time></div></div></li><li data-aid='544230767' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15848356891' data-qq='' data-id='544230767' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a544230767.html' target='_blank' class='ad-title'>因商场倒闭本人存有大量批发内衣</a></div><div class='ad-item-detail'></div><div class='ad-item-detail'><time>14年12月15日</time></div></div></li><li data-aid='543748853' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15848356891' data-qq='' data-id='543748853' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a543748853.html' target='_blank' class='ad-title'>因商场倒闭本人存有大量批发内衣</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年12月14日</time></div></div></li><li data-aid='540972673' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15848356891' data-qq='' data-id='540972673' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a540972673.html' target='_blank' class='ad-title'>因商场倒闭本人存有大量批发内衣</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年12月13日</time></div></div></li><div style="padding: 20px 14px 20px 21px; display: inline-block;border-bottom: 1px dotted #cdcdcd"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868792";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><div style="padding: 20px 14px 20px 0; display: inline-block;border-bottom: 1px dotted #cdcdcd"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868803";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><li data-aid='539125362' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15848356891' data-qq='' data-id='539125362' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a539125362.html' target='_blank' class='ad-title'>因商场倒闭本人存有大量批发内衣</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年12月12日</time></div></div></li><li data-aid='538525962' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15848356891' data-qq='' data-id='538525962' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a538525962.html' target='_blank' class='ad-title'>因商场倒闭本人存有大量批发内衣</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年12月11日</time></div></div></li><li data-aid='535535112' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15098883026' data-qq='' data-id='535535112' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a535535112.html' target='_blank' class='ad-title'>批发零售超低价全新多功能移动电源</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年12月10日</time></div></div></li><li data-aid='534856547' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15248311050' data-qq='' data-id='534856547' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a534856547.html' target='_blank' class='ad-title'>低价出售正品川宇读卡器</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年12月9日</time></div></div></li><li data-aid='534454298' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15848356891' data-qq='' data-id='534454298' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a534454298.html' target='_blank' class='ad-title'>因商场倒闭本人存有大量批发内衣</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年12月9日</time></div></div></li><li data-aid='525853481' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15098883026' data-qq='' data-id='525853481' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a525853481.html' target='_blank' class='ad-title'>批发零售超低价全新多功能移动电源</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年12月3日</time></div></div></li><li data-aid='524001810' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15098883026' data-qq='' data-id='524001810' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a524001810.html' target='_blank' class='ad-title'>批发零售超低价全新多功能移动电源</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年12月2日</time></div></div></li><div style="padding: 20px 14px 20px 21px; display: inline-block;border-bottom: 1px dotted #cdcdcd"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868840";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><div style="padding: 20px 14px 20px 0; display: inline-block;border-bottom: 1px dotted #cdcdcd"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868850";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><li data-aid='520931099' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18320367855' data-qq='' data-id='520931099' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a520931099.html' target='_blank' class='ad-title'>童园服装折扣批发</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年11月30日</time></div></div></li><li data-aid='520931084' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13661135812' data-qq='' data-id='520931084' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a520931084.html' target='_blank' class='ad-title'>定做工服西服</a></div><div class='ad-item-detail'></div><div class='ad-item-detail'><time>14年11月30日</time></div></div></li><li data-aid='520931096' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15147817740' data-qq='' data-id='520931096' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a520931096.html' target='_blank' class='ad-title'>又到了穿情侣装的季节情侣们准备好了吗66元</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年11月30日</time></div></div></li><li data-aid='514369608' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15098883026' data-qq='' data-id='514369608' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a514369608.html' target='_blank' class='ad-title'>批发零售超低价全新多功能移动电源</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年11月26日</time></div></div></li><li data-aid='497324387' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15248311050' data-qq='' data-id='497324387' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a497324387.html' target='_blank' class='ad-title'>低价出售正品川宇读卡器</a></div><div class='ad-item-detail'></div><div class='ad-item-detail'><time>14年11月15日</time></div></div></li><li data-aid='497301430' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15503340845' data-qq='' data-id='497301430' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a497301430.html' target='_blank' class='ad-title'>大量美版苹果5s.</a></div><div class='ad-item-detail'></div><div class='ad-item-detail'><time>14年11月15日</time></div></div></li><li data-aid='493499058' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18248301834' data-qq='' data-id='493499058' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a493499058.html' target='_blank' class='ad-title'>内蒙古阿拉善圣蓉源批发肉苁蓉锁阳沙葱蒙古额吉奶茶粮</a></div><div class='ad-item-detail'></div><div class='ad-item-detail'><time>14年11月12日</time></div></div></li><li data-aid='492370011' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13661135812' data-qq='' data-id='492370011' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a492370011.html' target='_blank' class='ad-title'>定做工服西服</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年11月12日</time></div></div></li><li data-aid='492369976' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15147817740' data-qq='' data-id='492369976' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a492369976.html' target='_blank' class='ad-title'>又到了穿情侣装的季节,情侣们准备好了吗 - 66元</a></div><div class='ad-item-detail'></div><div class='ad-item-detail'><time>14年11月12日</time></div></div></li><li data-aid='492369982' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18320367855' data-qq='' data-id='492369982' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a492369982.html' target='_blank' class='ad-title'>童园服装折扣批发</a></div><div class='ad-item-detail'>阿拉善 - 阿拉善左旗</div><div class='ad-item-detail'><time>14年11月12日</time></div></div></li><li data-aid='456414745' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15098883026' data-qq='' data-id='456414745' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a456414745.html' target='_blank' class='ad-title'>批发零售超低价全新多功能移动电源</a></div><div class='ad-item-detail'>额济纳旗</div><div class='ad-item-detail'><time>14年10月13日</time></div></div></li><li data-aid='397784081' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13389585053' data-qq='' data-id='397784081' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://alashan.baixing.com/wupinpifa/a397784081.html' target='_blank' class='ad-title'>低价出售或批发三星、索尼高清超薄LED智能网络电视</a></div><div class='ad-item-detail'>阿拉善左旗</div><div class='ad-item-detail'><time>14年8月20日</time></div></div></li></ul><div id='suggested-list'><h3>周边城市或地区：<a href='http://yinchuan.baixing.com/wupinpifa/'>银川</a><a href='http://shizuishan.baixing.com/wupinpifa/'>石嘴山</a><a href='http://wuzhong.baixing.com/wupinpifa/'>吴忠</a><a href='http://wuhai.baixing.com/wupinpifa/'>乌海</a><a href='http://zhongwei.baixing.com/wupinpifa/'>中卫</a></h3><ul class='list-ad-items'><li data-aid='1057551863' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18295415117' data-qq='' data-id='1057551863' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a1057551863.html?sgs=extra' target='_blank' class='ad-title'>副食批发就找鑫源源商行</a><a href='//vip.baixing.com/service_buy' target='_blank' data-toggle='tooltip' data-placement='top' data-original-title='服务VIP用户' class='tag tag-vip tag-vip-1'></a></div><div class='ad-item-detail'>银川 - 兴庆、金凤</div><div class='ad-item-detail'><time>今天 19:04</time></div></div></li><li data-aid='848043577' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18995025192' data-qq='1764884862' data-id='848043577' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a848043577.html?sgs=extra' target='_blank' class='ad-title'>供应银川星爵士台球桌 星牌 乔氏台球桌厂家直销</a></div><div class='ad-item-detail'>银川 - 兴庆</div><div class='ad-item-detail'><time>今天 13:36</time></div></div></li><li data-aid='1110280248' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18709595673' data-qq='' data-id='1110280248' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a1110280248.html?sgs=extra' target='_blank' class='ad-title'>二手空调批发零售</a></div><div class='ad-item-detail'>银川 - 兴庆 - 清和北街146号</div><div class='ad-item-detail'><time>4月14日</time></div></div></li><li data-aid='1108674672' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13619506409' data-qq='' data-id='1108674672' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a1108674672.html?sgs=extra' target='_blank' class='ad-title'>海尔星级服务中心二手空调批发零售！</a></div><div class='ad-item-detail'>银川 - 兴庆 - 惠北巷</div><div class='ad-item-detail'><time>4月10日</time></div></div></li><li data-aid='828008292' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18795098257' data-qq='' data-id='828008292' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a828008292.html?sgs=extra' target='_blank' class='ad-title'>宁夏台球桌销售 供应宁夏星牌台球桌星爵士台球桌</a></div><div class='ad-item-detail'>银川 - 兴庆</div><div class='ad-item-detail'><time>4月9日</time></div></div></li><li data-aid='315431634' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15535091181' data-qq='' data-id='315431634' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://shizuishan.baixing.com/wupinpifa/a315431634.html?sgs=extra' target='_blank' class='ad-title'>销售肉牛,奶牛,育肥牛小公牛小母牛,山西省国营牧业</a></div><div class='ad-item-detail'>石嘴山 - 平罗</div><div class='ad-item-detail'><time>4月8日</time></div></div></li><li data-aid='315432370' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15535091181' data-qq='' data-id='315432370' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://wuzhong.baixing.com/wupinpifa/a315432370.html?sgs=extra' target='_blank' class='ad-title'>出售小牛犊@山西出售小牛@奶牛肉牛卖山西省国营养殖</a></div><div class='ad-item-detail'>吴忠 - 红寺堡</div><div class='ad-item-detail'><time>4月8日</time></div></div></li><li data-aid='853446553' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18795098257' data-qq='' data-id='853446553' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a853446553.html?sgs=extra' target='_blank' class='ad-title'>固原台球桌固原台球桌价格固原星牌台球桌专卖</a></div><div class='ad-item-detail'>银川 - 金凤</div><div class='ad-item-detail'><time>4月7日</time></div></div></li><li data-aid='1001564474' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18995025192' data-qq='1209230178' data-id='1001564474' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a1001564474.html?sgs=extra' target='_blank' class='ad-title'>宁夏台球桌销售 宁夏台球桌维修 宁夏台球桌价格</a></div><div class='ad-item-detail'>银川 - 兴庆</div><div class='ad-item-detail'><time>4月4日</time></div></div></li><li data-aid='846453002' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18995025192' data-qq='1764884862' data-id='846453002' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a846453002.html?sgs=extra' target='_blank' class='ad-title'>宁夏台球桌专卖，星牌台球桌5折，送配置</a></div><div class='ad-item-detail'>银川 - 兴庆</div><div class='ad-item-detail'><time>4月3日</time></div></div></li><li data-aid='845185045' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18995025192' data-qq='1209230178' data-id='845185045' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a845185045.html?sgs=extra' target='_blank' class='ad-title'>银川台球桌价格 银川台球桌维修 台球桌配件</a></div><div class='ad-item-detail'>银川 - 兴庆</div><div class='ad-item-detail'><time>4月2日</time></div></div></li><li data-aid='885731245' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13847351101' data-qq='' data-id='885731245' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a885731245.html?sgs=extra' target='_blank' class='ad-title'>银川南桥北方乳业奶站转让</a></div><div class='ad-item-detail'>银川 - 兴庆 - 南桥</div><div class='ad-item-detail'><time>3月31日</time></div></div></li><li data-aid='655214764' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18709601776' data-qq='' data-id='655214764' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a655214764.html?sgs=extra' target='_blank' class='ad-title'>部队用煤、医院用煤、化工厂用煤、泵业用煤批发</a></div><div class='ad-item-detail'>银川 - 兴庆</div><div class='ad-item-detail'><time>3月31日</time></div></div></li><li data-aid='624166756' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18709601776' data-qq='' data-id='624166756' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a624166756.html?sgs=extra' target='_blank' class='ad-title'>烤火煤,无烟煤,烧烤煤批发</a></div><div class='ad-item-detail'>银川 - 兴庆</div><div class='ad-item-detail'><time>3月31日</time></div></div></li><li data-aid='759894777' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18709601776' data-qq='' data-id='759894777' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a759894777.html?sgs=extra' target='_blank' class='ad-title'>批发供应部队用煤、医院用煤、学校用煤</a></div><div class='ad-item-detail'>银川 - 灵武</div><div class='ad-item-detail'><time>3月31日</time></div></div></li><li data-aid='858174573' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18995025192' data-qq='' data-id='858174573' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a858174573.html?sgs=extra' target='_blank' class='ad-title'>宁夏台球桌销售银川台球桌厂家直销货到付款</a></div><div class='ad-item-detail'>银川 - 兴庆</div><div class='ad-item-detail'><time>3月30日</time></div></div></li><li data-aid='896105793' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18295113982' data-qq='1209230178' data-id='896105793' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a896105793.html?sgs=extra' target='_blank' class='ad-title'>宁夏台球桌代理销售星牌 乔氏和星爵士直销和零售</a></div><div class='ad-item-detail'>银川 - 兴庆</div><div class='ad-item-detail'><time>3月30日</time></div></div></li><li data-aid='1104045248' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><a href='http://yinchuan.baixing.com/wupinpifa/a1104045248.html?sgs=extra' target='_blank' class='ad-title'>高低床出售</a></div><div class='ad-item-detail'>银川 - 兴庆 - 宁夏回族自治区银川市兴庆区兴庆区石油城</div><div class='ad-item-detail'><time>3月28日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='851202471' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18995025192' data-qq='1005751716' data-id='851202471' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a851202471.html?sgs=extra' target='_blank' class='ad-title'>银川星爵士2015最新钢库台球桌销售</a></div><div class='ad-item-detail'>银川 - 兴庆</div><div class='ad-item-detail'><time>3月26日</time></div></div></li><li data-aid='295033619' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18709601776' data-qq='' data-id='295033619' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a295033619.html?sgs=extra' target='_blank' class='ad-title'>长年批发无烟煤、灵武煤、烤火煤、宁夏周边可送货上门</a></div><div class='ad-item-detail'>银川 - 灵武</div><div class='ad-item-detail'><time>3月25日</time></div></div></li><li data-aid='896107940' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18295113982' data-qq='1209230178' data-id='896107940' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a896107940.html?sgs=extra' target='_blank' class='ad-title'>中卫台球桌厂家直销中卫台球桌价格中卫台球桌维修</a></div><div class='ad-item-detail'>银川 - 兴庆</div><div class='ad-item-detail'><time>3月25日</time></div></div></li><li data-aid='1103157114' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><a href='http://yinchuan.baixing.com/wupinpifa/a1103157114.html?sgs=extra' target='_blank' class='ad-title'>高低床批发</a></div><div class='ad-item-detail'>银川 - 银川市永宁县</div><div class='ad-item-detail'><time>3月25日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='845187969' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18995025192' data-qq='1209230178' data-id='845187969' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a845187969.html?sgs=extra' target='_blank' class='ad-title'>银川乒乓球桌有红双喜 双鱼和星爵士各种品牌款式厂家</a></div><div class='ad-item-detail'>银川 - 兴庆</div><div class='ad-item-detail'><time>3月24日</time></div></div></li><li data-aid='947948373' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13932158312' data-qq='3150315663' data-id='947948373' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a947948373.html?sgs=extra' target='_blank' class='ad-title'>鸿诚化工蓝月亮洗衣液33元一箱 洗衣粉 肥皂 香皂</a></div><div class='ad-item-detail'>银川 - 金凤</div><div class='ad-item-detail'><time>3月21日</time></div></div></li><li data-aid='920645926' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13932158312' data-qq='3150315663' data-id='920645926' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a920645926.html?sgs=extra' target='_blank' class='ad-title'>鸿诚化工蓝月亮洗衣液33元一箱 洗衣粉 肥皂 香皂</a></div><div class='ad-item-detail'>银川 - 兴庆</div><div class='ad-item-detail'><time>3月21日</time></div></div></li><div style="padding: 20px 14px 20px 21px; display: inline-block;border-bottom: 1px dotted #cdcdcd"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868792";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><div style="padding: 20px 14px 20px 0; display: inline-block;border-bottom: 1px dotted #cdcdcd"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868803";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><li data-aid='920646598' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13932158312' data-qq='3150315663' data-id='920646598' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://wuzhong.baixing.com/wupinpifa/a920646598.html?sgs=extra' target='_blank' class='ad-title'>鸿诚化工蓝月亮洗衣液33元一箱 洗衣粉 肥皂 香皂</a></div><div class='ad-item-detail'>吴忠 - 利通</div><div class='ad-item-detail'><time>3月21日</time></div></div></li><li data-aid='920645760' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13932158312' data-qq='3150315663' data-id='920645760' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://zhongwei.baixing.com/wupinpifa/a920645760.html?sgs=extra' target='_blank' class='ad-title'>鸿诚化工蓝月亮洗衣液33元一箱 洗衣粉 肥皂 香皂</a></div><div class='ad-item-detail'>中卫 - 沙坡头</div><div class='ad-item-detail'><time>3月21日</time></div></div></li><li data-aid='920646116' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13932158312' data-qq='31503158663' data-id='920646116' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://shizuishan.baixing.com/wupinpifa/a920646116.html?sgs=extra' target='_blank' class='ad-title'>鸿诚化工蓝月亮洗衣液33元一箱 洗衣粉 肥皂 香皂</a></div><div class='ad-item-detail'>石嘴山 - 大武口</div><div class='ad-item-detail'><time>3月21日</time></div></div></li><li data-aid='821001062' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18795098257' data-qq='1005751716' data-id='821001062' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a821001062.html?sgs=extra' target='_blank' class='ad-title'>银川台球桌专卖 宁夏台球桌厂家直销</a></div><div class='ad-item-detail'>银川 - 兴庆</div><div class='ad-item-detail'><time>3月20日</time></div></div></li><li data-aid='842708755' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18995025192' data-qq='1005751716' data-id='842708755' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a842708755.html?sgs=extra' target='_blank' class='ad-title'>银川英式斯诺克台球桌、豪华美式落袋台球桌俄式台球桌</a></div><div class='ad-item-detail'>银川 - 兴庆</div><div class='ad-item-detail'><time>3月16日</time></div></div></li><li data-aid='844598182' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18295113982' data-qq='1005751716' data-id='844598182' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a844598182.html?sgs=extra' target='_blank' class='ad-title'>宁夏斯洛克台球桌豪华美式落袋台球桌厂家直销</a></div><div class='ad-item-detail'>银川 - 兴庆</div><div class='ad-item-detail'><time>3月16日</time></div></div></li><li data-aid='819492445' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18995025192' data-qq='1005751716' data-id='819492445' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a819492445.html?sgs=extra' target='_blank' class='ad-title'>宁夏银川厂家直销台球桌乒乓球桌篮球架</a></div><div class='ad-item-detail'>银川 - 兴庆</div><div class='ad-item-detail'><time>3月14日</time></div></div></li><div style="padding: 20px 14px 20px 21px; display: inline-block;border-bottom: 1px dotted #cdcdcd"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868840";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><div style="padding: 20px 14px 20px 0; display: inline-block;border-bottom: 1px dotted #cdcdcd"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868850";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><li data-aid='1098507426' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18709630017' data-qq='954791266' data-id='1098507426' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://wuzhong.baixing.com/wupinpifa/a1098507426.html?sgs=extra' target='_blank' class='ad-title'>燕兰溪   燕兰熹官方总代批发威信XL061124</a></div><div class='ad-item-detail'>吴忠 - 利通、青铜峡</div><div class='ad-item-detail'><time>3月11日</time></div></div></li><li data-aid='1097910323' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><a href='http://yinchuan.baixing.com/wupinpifa/a1097910323.html?sgs=extra' target='_blank' class='ad-title'>伟仔库存服装批发</a></div><div class='ad-item-detail'>银川 - 兴庆</div><div class='ad-item-detail'><time>3月10日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='1077808866' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18995047870' data-qq='' data-id='1077808866' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a1077808866.html?sgs=extra' target='_blank' class='ad-title'>银川南门广场李氏台球桌20多年厂家直销老牌子台球桌</a></div><div class='ad-item-detail'>银川 - 兴庆 - 南门广场</div><div class='ad-item-detail'><time>3月2日</time></div></div></li><li data-aid='986476464' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18995047870' data-qq='' data-id='986476464' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a986476464.html?sgs=extra' target='_blank' class='ad-title'>李氏台球桌出售批发零售二手台球桌配件。</a></div><div class='ad-item-detail'>银川 - 贺兰</div><div class='ad-item-detail'><time>3月2日</time></div></div></li><li data-aid='880723220' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><a href='http://shizuishan.baixing.com/wupinpifa/a880723220.html?sgs=extra' target='_blank' class='ad-title'>男装男鞋一手货源</a></div><div class='ad-item-detail'>石嘴山 - 大武口</div><div class='ad-item-detail'><time>2月28日</time></div></div></li><li data-aid='745533230' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13909562737' data-qq='' data-id='745533230' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://shizuishan.baixing.com/wupinpifa/a745533230.html?sgs=extra' target='_blank' class='ad-title'>男装男鞋一手货源号qzf81099质量保证，厂家直</a></div><div class='ad-item-detail'>石嘴山 - 大武口</div><div class='ad-item-detail'><time>2月28日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='1094307584' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15296951239' data-qq='' data-id='1094307584' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a1094307584.html?sgs=extra' target='_blank' class='ad-title'>高低床回收出租</a></div><div class='ad-item-detail'>银川 - 兴庆 - 加油站对面</div><div class='ad-item-detail'><time>2月27日</time></div></div></li><li data-aid='1092565543' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><a href='http://zhongwei.baixing.com/wupinpifa/a1092565543.html?sgs=extra' target='_blank' class='ad-title'>宁夏枸杞</a></div><div class='ad-item-detail'>中卫 - 沙坡头</div><div class='ad-item-detail'><time>2月22日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='1091641047' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13519592402' data-qq='' data-id='1091641047' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a1091641047.html?sgs=extra' target='_blank' class='ad-title'>人和海鲜</a></div><div class='ad-item-detail'>银川 - 兴庆</div><div class='ad-item-detail'><time>2月19日</time></div></div></li><li data-aid='779887045' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='185-88528738' data-qq='' data-id='779887045' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a779887045.html?sgs=extra' target='_blank' class='ad-title'>银川店面低、中、高端二手笔记本批零，有保修可退换</a></div><div class='ad-item-detail'>银川 - 西夏</div><div class='ad-item-detail'><time>2月16日</time></div></div></li><li data-aid='1089756825' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18733266202' data-qq='987948549' data-id='1089756825' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a1089756825.html?sgs=extra' target='_blank' class='ad-title'>美容养颜</a></div><div class='ad-item-detail'>银川 - 灵武</div><div class='ad-item-detail'><time>2月14日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='848798534' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13255559187' data-qq='874809040' data-id='848798534' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://yinchuan.baixing.com/wupinpifa/a848798534.html?sgs=extra' target='_blank' class='ad-title'>银川牛仔裤批发服装尾货批发10元库存牛仔裤批发</a></div><div class='ad-item-detail'>银川 - 灵武</div><div class='ad-item-detail'><time>2月14日</time></div></div></li></ul></div><div style="padding-left: 15px"><script type="text/javascript" src="//script-bd.baixing.net/gs3a1ecf96ffcdf130db1463c6a3fa79ed54ebc50d35e57fec1a25.js"></script></div><section class='listing-pager-section'><ul class='list-pagination'><li class='active'><span>1</span></li></ul></section><div style="background-color:#FFF;padding: 10px 0;border:solid 1px #DDD;margin: 5px 0">
+<script type="text/javascript" src="//script-bd.baixing.net/ea3a1ecf96f3cef238db1463c6a3fa79ed54ebc50d35e57fec1a25.js"></script></div></div></section><section><section class='foot-links-box'><div id='foot-links'><table><tr><th>阿拉善物品批发相关专题</th><td id='juhe'><a href='http://alashan.baixing.com/jh_%E7%BE%8E%E5%AE%B9%E9%99%A2%E7%BE%8E%E5%AE%B9/' target='_blank' class='selected'>阿拉善美容院美容</a><a href='http://alashan.baixing.com/jh_%E9%9D%A2%E8%86%9C%E7%9A%84%E4%BB%B7%E6%A0%BC/' target='_blank' class='selected'>阿拉善面膜的价格</a><a href='http://alashan.baixing.com/jh_%E9%98%B2%E6%99%92/' target='_blank' class='selected'>阿拉善防晒</a><a href='http://alashan.baixing.com/jh_%E6%B4%81%E9%9D%A2%E5%A5%B6/' target='_blank' class='selected'>阿拉善洁面奶</a><a href='http://alashan.baixing.com/jh_%E9%80%81%E9%A4%90%E7%9A%84/' target='_blank' class='selected'>阿拉善送餐的</a><a href='http://alashan.baixing.com/jh_%E7%83%A7%E7%83%A4%E5%8A%A0%E7%9B%9F%E5%85%AC%E5%8F%B8/' target='_blank' class='selected'>阿拉善烧烤加盟公司</a><a href='http://alashan.baixing.com/jh_%E9%9D%A2%E8%86%9C%E8%A1%A5%E6%B0%B4/' target='_blank' class='selected'>阿拉善面膜补水</a><a href='http://alashan.baixing.com/jh_%E9%9F%A9%E5%BC%8F%E7%83%A4%E8%82%89/' target='_blank' class='selected'>阿拉善韩式烤肉</a><a href='http://alashan.baixing.com/jh_%E7%94%B5%E8%AF%9D%E5%A4%96%E5%8D%96/' target='_blank' class='selected'>阿拉善电话外卖</a><a href='http://alashan.baixing.com/jh_%E9%A3%9F%E5%93%81%E7%9A%84%E5%8A%A0%E5%B7%A5/' target='_blank' class='selected'>阿拉善食品的加工</a><a href='http://alashan.baixing.com/jh_%E4%BA%A7%E5%93%81%E6%89%B9%E5%8F%91/' target='_blank' class='selected'>阿拉善产品批发</a><a href='http://alashan.baixing.com/jh_%E7%B2%BE%E5%8D%8E%E6%B2%B9/' target='_blank' class='selected'>阿拉善精华油</a><a href='http://alashan.baixing.com/jh_%E5%8A%A0%E7%9B%9F%E5%B0%8F%E9%9B%B6%E9%A3%9F%E5%BA%97/' target='_blank' class='selected'>阿拉善加盟小零食店</a><a href='http://alashan.baixing.com/jh_%E6%AD%A3%E5%93%81%E5%8C%96%E5%A6%86%E5%93%81/' target='_blank' class='selected'>阿拉善正品化妆品</a><a href='http://alashan.baixing.com/jh_%E7%BE%8E%E5%AE%B9%E7%BE%8E%E5%8F%91%E7%BE%8E%E5%AE%B9/' target='_blank' class='selected'>阿拉善美容美发美容</a><a href='http://alashan.baixing.com/jh_%E7%BE%8E%E5%AE%B9%E7%BE%8E%E5%AE%B9/' target='_blank' class='selected'>阿拉善美容美容</a><a href='http://alashan.baixing.com/jh_%E7%BE%8E%E5%AE%B9%E5%BA%8A/' target='_blank' class='selected'>阿拉善美容床</a><a href='http://alashan.baixing.com/jh_%E7%BE%8E%E5%8F%91/' target='_blank' class='selected'>阿拉善美发</a><a href='http://alashan.baixing.com/jh_%E7%BE%8E%E5%8F%91%E7%BE%8E%E5%8F%91/' target='_blank' class='selected'>阿拉善美发美发</a><a href='http://alashan.baixing.com/jh_%E8%9B%8B%E7%B3%95/' target='_blank' class='selected'>阿拉善蛋糕</a><a href='http://alashan.baixing.com/jh_%E8%BF%9B%E5%8F%A3/' target='_blank' class='selected'>阿拉善进口</a><a href='http://alashan.baixing.com/jh_%E4%BA%8C%E6%89%8B%E6%89%B9%E5%8F%91/' target='_blank' class='selected'>阿拉善二手批发</a><a href='http://alashan.baixing.com/jh_%E5%8C%96%E5%A6%86%E5%93%81%E5%8A%A0%E7%9B%9F/' target='_blank' class='selected'>阿拉善化妆品加盟</a><a href='http://alashan.baixing.com/jh_%E6%89%B9%E5%8F%91/' target='_blank' class='selected'>阿拉善批发</a><a href='http://alashan.baixing.com/jh_%E9%9B%B6%E9%A3%9F/' target='_blank' class='selected'>阿拉善零食</a><a href='http://alashan.baixing.com/jh_%E7%BE%8E%E5%8F%91%E7%BE%8E%E5%AE%B9/' target='_blank' class='selected'>阿拉善美发美容</a><a href='http://alashan.baixing.com/jh_%E5%B7%A5%E8%A1%A3/' target='_blank' class='selected'>阿拉善工衣</a><a href='http://alashan.baixing.com/jh_%E9%98%B2%E6%99%92%E7%9A%84/' target='_blank' class='selected'>阿拉善防晒的</a><a href='http://alashan.baixing.com/jh_%E6%B4%97%E9%9D%A2%E5%A5%B6%E6%B4%97%E9%9D%A2%E5%A5%B6/' target='_blank' class='selected'>阿拉善洗面奶洗面奶</a><a href='http://alashan.baixing.com/jh_%E9%A3%9F%E5%93%81%20%E5%8A%A0%E5%B7%A5/' target='_blank' class='selected'>阿拉善食品 加工</a><a href='http://alashan.baixing.com/jh_.%E9%9D%A2%E8%86%9C/' target='_blank' class='selected'>阿拉善.面膜</a><a href='http://alashan.baixing.com/jh_%E9%80%81%E9%A4%90/' target='_blank' class='selected'>阿拉善送餐</a><a href='http://alashan.baixing.com/jh_%E9%80%81%E9%A4%90%E7%94%B5%E8%AF%9D/' target='_blank' class='selected'>阿拉善送餐电话</a><a href='http://alashan.baixing.com/jh_%E5%8C%96%E5%A6%86%E5%93%81%E5%93%81/' target='_blank' class='selected'>阿拉善化妆品品</a><a href='http://alashan.baixing.com/jh_%E7%B2%BE%E5%8D%8E/' target='_blank' class='selected'>阿拉善精华</a><a href='http://alashan.baixing.com/jh_%E7%A5%9B%E6%96%91%E9%9D%A2%E8%86%9C/' target='_blank' class='selected'>阿拉善祛斑面膜</a><a href='http://alashan.baixing.com/jh_%E9%9D%A2%E8%86%9C%E7%BE%8E%E7%99%BD/' target='_blank' class='selected'>阿拉善面膜美白</a><a href='http://alashan.baixing.com/jh_%E8%A1%A5%E6%B0%B4%E4%BF%9D%E6%B9%BF%E6%B0%B4/' target='_blank' class='selected'>阿拉善补水保湿水</a><a href='http://alashan.baixing.com/jh_%E7%BE%8E%E5%AE%B9%E4%BB%AA/' target='_blank' class='selected'>阿拉善美容仪</a><a href='http://alashan.baixing.com/jh_%E8%A1%A5%E6%B0%B4%E7%9A%84%E9%9D%A2%E8%86%9C/' target='_blank' class='selected'>阿拉善补水的面膜</a><a href='http://alashan.baixing.com/jh_%E8%A1%A5%E6%B0%B4%E4%BF%9D%E6%B9%BF/' target='_blank' class='selected'>阿拉善补水保湿</a><a href='http://alashan.baixing.com/jh_%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%BA%97/' target='_blank' class='selected'>阿拉善麻辣烫店</a><a href='http://alashan.baixing.com/jh_%E6%9C%88%E9%A5%BC/' target='_blank' class='selected'>阿拉善月饼</a><a href='http://alashan.baixing.com/jh_%E9%A3%9F%E5%93%81%E5%8A%A0%E5%B7%A5%E6%8B%9B%E8%81%98/' target='_blank' class='selected'>阿拉善食品加工招聘</a><a href='http://alashan.baixing.com/jh_%2C%E7%BE%8E%E5%AE%B9/' target='_blank' class='selected'>阿拉善,美容</a><a href='http://alashan.baixing.com/jh_%E7%BE%8E%E5%8F%91%E4%BA%A7%E5%93%81/' target='_blank' class='selected'>阿拉善美发产品</a><a href='http://alashan.baixing.com/jh_%E8%BF%AA%E5%A5%A5/' target='_blank' class='selected'>阿拉善迪奥</a><a href='http://alashan.baixing.com/jh_%E4%BB%A3%E7%90%86%E9%9D%A2%E8%86%9C/' target='_blank' class='selected'>阿拉善代理面膜</a><a href='http://alashan.baixing.com/jh_%E9%9B%B6%E9%A3%9F%E5%BA%97%E5%8A%A0%E7%9B%9F/' target='_blank' class='selected'>阿拉善零食店加盟</a><a href='http://alashan.baixing.com/jh_%E5%A4%96%E5%8D%96%E7%94%B5%E8%AF%9D/' target='_blank' class='selected'>阿拉善外卖电话</a><a href='/jh_wupinpifa/?parent=root' target='_blank' class='selected'>更多物品批发专题</a><a href='/cwjh/' target='_blank' class='selected'>优质信息</a></td></tr><tr><th>阿拉善物品批发类目介绍</th><td id='intro'><div>百姓网阿拉善物品批发频道是阿拉善本地最大的物资批发采购信息发布、查阅平台，不仅汇集了最新最全的食品、礼品、服装鞋帽、电器家具、卡券、箱包饰品等多类别的物品批发采购信息，还可以让您免费发布物品批发/转让/回收等信息。</div></td></tr><tr><th>阿拉善物品批发全部地区</th><td id='area'><a href='/wupinpifa/m6041/' target='_blank' class='selected'>阿拉善左旗物品批发</a><a href='/wupinpifa/m6039/' target='_blank' class='selected'>额济纳旗物品批发</a><a href='/wupinpifa/m6040/' target='_blank' class='selected'>阿拉善右旗物品批发</a></td></tr><tr><th>阿拉善物品批发热门城市</th><td id='hotCities'><a href='http://shanghai.baixing.com/wupinpifa/' target='_blank' class='selected'>上海小物品批发</a><a href='http://beijing.baixing.com/wupinpifa/' target='_blank' class='selected'>北京小物品批发</a><a href='http://guangzhou.baixing.com/wupinpifa/' target='_blank' class='selected'>广州小物品批发</a><a href='http://suzhou.baixing.com/wupinpifa/' target='_blank' class='selected'>苏州小物品批发</a><a href='http://shenzhen.baixing.com/wupinpifa/' target='_blank' class='selected'>深圳小物品批发</a><a href='http://shenyang.baixing.com/wupinpifa/' target='_blank' class='selected'>沈阳小物品批发</a><a href='http://zhengzhou.baixing.com/wupinpifa/' target='_blank' class='selected'>郑州小物品批发</a><a href='http://wuxi.baixing.com/wupinpifa/' target='_blank' class='selected'>无锡小物品批发</a><a href='http://dalian.baixing.com/wupinpifa/' target='_blank' class='selected'>大连小物品批发</a><a href='http://dongguan.baixing.com/wupinpifa/' target='_blank' class='selected'>东莞小物品批发</a><a href='http://hangzhou.baixing.com/wupinpifa/' target='_blank' class='selected'>杭州小物品批发</a><a href='http://xian.baixing.com/wupinpifa/' target='_blank' class='selected'>西安小物品批发</a><a href='http://nanning.baixing.com/wupinpifa/' target='_blank' class='selected'>南宁小物品批发</a><a href='http://chengdu.baixing.com/wupinpifa/' target='_blank' class='selected'>成都小物品批发</a><a href='http://qingdao.baixing.com/wupinpifa/' target='_blank' class='selected'>青岛小物品批发</a><a href='http://wuhan.baixing.com/wupinpifa/' target='_blank' class='selected'>武汉小物品批发</a><a href='http://nanjing.baixing.com/wupinpifa/' target='_blank' class='selected'>南京小物品批发</a><a href='http://jinan.baixing.com/wupinpifa/' target='_blank' class='selected'>济南小物品批发</a><a href='http://shijiazhuang.baixing.com/wupinpifa/' target='_blank' class='selected'>石家庄小物品批发</a><a href='http://tianjin.baixing.com/wupinpifa/' target='_blank' class='selected'>天津小物品批发</a><a href='http://ningbo.baixing.com/wupinpifa/' target='_blank' class='selected'>宁波小物品批发</a><a href='http://hefei.baixing.com/wupinpifa/' target='_blank' class='selected'>合肥小物品批发</a><a href='http://chongqing.baixing.com/wupinpifa/' target='_blank' class='selected'>重庆小物品批发</a><a href='http://changchun.baixing.com/wupinpifa/' target='_blank' class='selected'>长春小物品批发</a><a href='http://xiamen.baixing.com/wupinpifa/' target='_blank' class='selected'>厦门小物品批发</a><a href='http://fuzhou.baixing.com/wupinpifa/' target='_blank' class='selected'>福州小物品批发</a><a href='http://changsha.baixing.com/wupinpifa/' target='_blank' class='selected'>长沙小物品批发</a><a href='http://haerbin.baixing.com/wupinpifa/' target='_blank' class='selected'>哈尔滨小物品批发</a><a href='http://zhuhai.baixing.com/wupinpifa/' target='_blank' class='selected'>珠海小物品批发</a><a href='http://taiyuan.baixing.com/wupinpifa/' target='_blank' class='selected'>太原小物品批发</a><a href='http://shantou.baixing.com/wupinpifa/' target='_blank' class='selected'>汕头小物品批发</a><a href='http://kunming.baixing.com/wupinpifa/' target='_blank' class='selected'>昆明小物品批发</a><a href='http://wulumuqi.baixing.com/wupinpifa/' target='_blank' class='selected'>乌鲁木齐小物品批发</a><a href='http://lanzhou.baixing.com/wupinpifa/' target='_blank' class='selected'>兰州小物品批发</a><a href='http://nanchang.baixing.com/wupinpifa/' target='_blank' class='selected'>南昌小物品批发</a><a href='http://guiyang.baixing.com/wupinpifa/' target='_blank' class='selected'>贵阳小物品批发</a><a href='http://haikou.baixing.com/wupinpifa/' target='_blank' class='selected'>海口小物品批发</a><a href='http://huhehaote.baixing.com/wupinpifa/' target='_blank' class='selected'>呼和浩特小物品批发</a></td></tr><tr><th>阿拉善物品批发周边城市</th><td id='around'><a href='http://yinchuan.baixing.com/wupinpifa/' target='_blank' class='selected'>银川小物品批发</a><a href='http://shizuishan.baixing.com/wupinpifa/' target='_blank' class='selected'>石嘴山小物品批发</a><a href='http://wuzhong.baixing.com/wupinpifa/' target='_blank' class='selected'>吴忠小物品批发</a><a href='http://wuhai.baixing.com/wupinpifa/' target='_blank' class='selected'>乌海小物品批发</a><a href='http://zhongwei.baixing.com/wupinpifa/' target='_blank' class='selected'>中卫小物品批发</a><a href='http://www.baixing.com/wupinpifa/' target='_blank' class='selected'>小物品批发</a></td></tr><tr><th>移动触屏版</th><td id='mobile'><a href='http://alashan.baixing.com/m/wupinpifa/' target='_blank' class='selected'>阿拉善小物品批发</a></td></tr></table></div></section></section><footer><div><a href='//www.baixing.com/a/bangui/' target='_blank' rel='nofollow'>百姓网公约</a><i class='sep'>|</i><a href='//www.baixing.com/ra/pay/?src=footer' target='_blank' rel='nofollow'>付费推广</a><i class='sep'>|</i><a href='//www.baixing.com/a/company?src=bottom' target='_blank'>客户合作</a><i class='sep'>|</i><a href='//www.baixing.com/xiangyang/post/daoyong/?src=footer' target='_blank' rel='nofollow'>号码被冒用</a><i class='sep'>|</i><a href='//www.baixing.com/help/' target='_blank' data-toggle='tracker' data-source='footer'>联系我们</a><i class='sep'>|</i><a href='http://api.baixing.com.cn/' target='_blank' rel='nofollow'>开放API</a><i class='sep'>|</i><a href='//www.baixing.com/mkt/agents/' target='_blank' rel='nofollow'>诚招代理商</a><i class='sep'>|</i><a href='//www.baixing.com/a/bdad/' target='_blank'>品牌网络推广</a><i class='sep'>|</i><a href='//www.baixing.com/help/feed?id=fd53284' target='_blank'>诚信建设</a><i class='sep'>|</i><a href='//www.baixing.com/v/mobile' rel='nofollow'>手机版</a></div><div><span class='copyright'>&copy; 2017 百姓网股份有限公司 (上海市广元西路55号浩然高科技大厦1808室) 客服电话：400-036-3650或021-61300110（周一至周日，9:00-18:00）</span></div><div><a target='_blank' rel='nofollow' href='http://shwg.dianping.com/index.html'><img height='30' alt='网购大家评' src='http://file.baixing.net/201604/8fa27c5945f2ec31155a36e4a03cc841.png'></a><a target='_blank' rel='nofollow' href='http://www.shjbzx.cn'><img height='30' alt='上海市互联网举报平台' src='//file.baixing.net/201703/b795b51d45c5297739d0add5d4b87475.jpg'></a><a target='_blank' rel='nofollow' href='http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=20111025095406671'><img width='30' alt='上海工商' src='//s.baixing.net/d/refashion-home/images/icon_footer02.png'></a><a target='_blank' rel='nofollow' href='http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010402000116'><img height='30' alt='网络社会征信网' src='//s.baixing.net/d/refashion-home/images/icon_footer01.png'><span class='beian'>沪公网安备31010402000116号</span></a><span class='at-haojing'>7&nbsp;G:24&nbsp;GM:82</span></div></footer><div id='sidebar-buttons'><a id='weixin-qrcode-login' href='#' title='手机百姓'><i class='icon-mobile2'></i></a><a id='feedback-button' href='#' title='我要反馈' class='feedback'><i class='icon-side-feedback'></i></a><a id='back-to-top' href='#' title='返回顶部'><i class='icon-arrow-up'></i></a><div class='qrcode-login-dialog in left fade'><img src='//file.baixing.net/201607/5f583b56bc0d435f0f67c8e67d0a8a96.png'><img src='//file.baixing.net/201607/02b008f4f9a924687e129852191867e4.png'></div><a id='chat-button' href='#' title='系统消息' class='chat-button'><i class='icon-tieba'></i></a></div><script type="text/javascript">
+	var baiduImagePlus = {"unionId":"u1612675","noLogo":true,"formList":[{"formId":2}]};
+</script>
+<script src="//cpro.baidustatic.com/cpro/ui/i.js"></script>
+<div id='feedback-refashion'><a target="_blank"  href="http://alashan.baixing.com/redirect/index?r=dXJsPSUyRiUyRnd3dy5iYWl4aW5nLmNvbSUyRmElMkZmZW5nbWluZyZldmVudFR5cGU9ZXh0ZXJuYWxfcmVkaXJlY3QmZXZlbnRWYWx1ZSU1QnBvc2l0aW9uJTVEPXJpZ2h0LWZpeGVkJmV2ZW50VmFsdWUlNUJocmVmJTVEPWh0dHAlM0ElMkYlMkZhbGFzaGFuLmJhaXhpbmcuY29tJTJGd3VwaW5waWZhJTJGJmV2ZW50VmFsdWUlNUJ1cmwlNUQ9JTJGJTJGd3d3LmJhaXhpbmcuY29tJTJGYSUyRmZlbmdtaW5nJmV2ZW50VmFsdWUlNUJ1YSU1RD1Nb3ppbGxhJTJGNS4wKyUyOFdpbmRvd3MrTlQrNi4xJTNCK1dPVzY0JTI5K0FwcGxlV2ViS2l0JTJGNTM3LjM2KyUyOEtIVE1MJTJDK2xpa2UrR2Vja28lMjkrQ2hyb21lJTJGMzkuMC4yMTcxLjk1JmV2ZW50VmFsdWUlNUJ0aW1lJTVEPTIwMTctMDQtMTUrMTklM0E1MCUzQTI3" class="a_d_s_hidden_link adsense-image-link" target="_blank"><img class="a_d_s_img"  src="//file.baixing.net/201702/bbc0fe137d39ca9ce017f460ee112f84.jpg"></a></div><script id='user-3rd-tag'> window.__is3rdUser = ""; </script><script src="//s.baixing.net/combine/js/d/refashion-libs.min.a7d5ef5f.js,/d/refashion-common/index.f006c9a0.js,/app/convert/app-download.web.17be6ff0.js,/js/module/banner-track.c1cd96f7.js" onerror="tracker.resErr(this)" crossorigin></script><!--[if (gte IE 9)|!(IE)]><!--><script src="//s.baixing.net/combine/js/js/global/easyXDM.min.f0549ee3.js,/js/module/rongcloud/chat-host.481066e4.js" onerror="tracker.resErr(this)" crossorigin></script><!--<![endif]--><script> window.__isSuperMan = ""; window.__city = "阿拉善"; </script><script src="//s.baixing.net/combine/js/js/module/jquery-ui-1.9.1.custom.50550ec4.js,/d/refashion-listing/index.23ba6b9e.js" onerror="tracker.resErr(this)"></script><script src="//s.baixing.net/d/adTracker/index.js?v1.2" onerror="tracker.resErr(this)" crossorigin></script><script src="//s.baixing.net/combine/js/js/module/jquery-ui-1.9.1.custom.50550ec4.js,/d/refashion-fuwu-listing/index.63a22ba0.js" onerror="tracker.resErr(this)"></script><div id='xiangyang-feedback-modal' role='dialog' tabindex='-1' class='modal feedback-modal'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-label='Close' class='close'><span aria-hidden>×</span></button><h4 class='modal-title'>反馈建议</h4></div><div class='modal-body'><form novalidate><span id='desc'></span><input type='hidden' name='labels' value='helpcenter'><div class='p-line'></div><div class='p-line'><label class='p-label'>描述：</label><span class='p-value'><textarea type='text' maxlength='500' name='post[content]' required='required' data-parent='.p-line' value='' placeholder='请尽可能详细地输入您的问题，我们将尽快帮您解决。' style='overflow: hidden; word-wrap: break-word; resize: none; width: 400px;' class='input input-5'></textarea><br><span style='padding-left:0;' class='p-error-empty'>请填写描述</span></span></div><div class='p-line'><label class='p-label'>手机号：</label><span class='p-value'><input name='post[mobile]' maxlength='11' required='required' data-parent='.p-line' type='mobile' value='' class='input'><input id='feedback_ad' name='ad' type='hidden' value=''><input id='feedback_type' name='type' type='hidden' value=''><input id='feedback_bangui' name='bangui' type='hidden' value=''><input id='feedback_source' name='source' type='hidden' value=''><input id='feedback_survey' name='survey_fid' type='hidden' value=''><span class='p-error'>请填写手机号</span><span class='p-error-empty'>请填写手机号</span></span></div><div class='p-line'><label class='p-label'>上传图片：</label><span id='feedback_picture' class='p-value'></span></div><div class='p-line'><label class='p-label'></label><span class='p-value'><input type='submit' value='提交反馈' class='button'><a href='/PublicReview/?src=feedback' target='_blank' class='public-review link'>邀请您参加大众评审</a></span></div></form></div></div></div></div><script> var imageConfig = {"uploadUrl":"http:\/\/v0.api.upyun.com\/bximg\/","uploadParams":{"policy":"eyJidWNrZXQiOiJieGltZyIsInNhdmUta2V5IjoiL3tmaWxlbWQ1fXsuc3VmZml4fSIsImNvbnRlbnQtc2VjcmV0Ijoib3JpZ2luYWwiLCJjb250ZW50LWxlbmd0aC1yYW5nZSI6IjAsMTA0ODU3NjAiLCJ4LWdta2VybC10eXBlIjoiZml4X21heCIsIngtZ21rZXJsLXZhbHVlIjoiNjQwIiwieC1nbWtlcmwtbm9pY2MiOiJ0cnVlIiwieC1nbWtlcmwtcXVhbGl0eSI6Ijc1IiwieC1nbWtlcmwtcm90YXRlIjoiYXV0byIsIngtZ21rZXJsLWV4aWYtc3dpdGNoIjoidHJ1ZSIsIm5vdGlmeS11cmwiOiJodHRwOi8vY2FsbGJhY2suaW1nLmJhaXhpbmcubmV0L3VweXVuLnBocD9idWNrZXQ9YnhpbWciLCJleHBpcmF0aW9uIjoxNDkyMjYwNjI3fQ==","signature":"afdd83ffbff028ed834f5621dc56be68"},"vendorName":"upyun","imageSuffix":"#up","fileKey":"file","imageHost":null}; _defer.push(["//s.baixing.net/js/guandu/uploader.824150a3.js", function () {  if ( GuanduUploader.isSupported() === true) {   GuanduUploader.init('#feedback_picture', 'bximg')  } else {   $('#feedback_picture').closest('.p-line').remove();  }; }]); _defer.push(["//s.baixing.net/js/module/validator.1d066c49.js", function () {   $('.feedback-modal').validator({   isErrorOnParent: true,   after: function(e) {    var modal = $('.feedback-modal');    e.preventDefault();    var pictures = [];    GuanduUploader.upload({     complete : function (res, fileUrl) {      pictures.push(res.url.slice(1) + imageConfig.imageSuffix);     },     allComplete : function () {      var data = $(e.target).serialize();      if (pictures.length > 0) {       data =  data + '&pictures=' + encodeURIComponent(pictures.join(','));      }      $.post('/xiangyang/post/web?ajax=1', data, function(resp) {       var type = $('#feedback_type').val();       var typeNames = {"feedback":"\u53cd\u9988","jubao":"\u4e3e\u62a5","shensu":"\u7533\u8bc9","tuiguang":"\u63a8\u5e7f","weiquan":"\u7ef4\u6743","chat":"\u79c1\u4fe1","baozhang":"\u4fdd\u969c","lekongkong":"\u4e50\u7a7a\u7a7a","report":"\u4e3e\u62a5\u7533\u8bf7","yinshou":"\u8425\u6536"};       var typeName = '反馈';       $.each(typeNames, function(key, value) {        if (type == key) typeName = value;       });              var modalBody = "谢谢您的反馈！<br />我们将在1个工作日内处理并以电话/短信/站内信方式给您回复。（工作时间：9:00—18:00）<br />您可以在<a href='/w/feedback/'>用户中心——我的反馈</a>中查看问题回复进度";       if (type == 'shensu') {        modalBody = resp == 'true' ? '您的' + typeName + '已提交成功，我们将在24小时内核实处理！' : resp;       }       modal.find('.modal-body').html('<p>' + modalBody + '</p>');       switch (type) {        case 'shensu' :         setTimeout(function() {          window.location.reload();         } ,1500);         break;        default :         setTimeout(function() {          $('.feedback-modal').modal('hide');         } ,3000);       }      });     }    });   }  }); }]); </script><script> feedback("alashan", "wupinpifa")</script><div id='promote-weixin-modal' class='fade hide in modal'><div style='width: 600px;' class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-label='Close' class='close'><span aria-hidden>×</span></button><div class='modal-title'>扫码使用百姓微信公众号</div></div><div class='modal-body'><p>打开微信，扫一扫右侧二维码，即可完成绑定 --></p><img id='promoQrcode' src='//s.baixing.net/img/subscribe/baixing1.jpg' style='float:right;'><div class='promoteWeixinContent'><p>绑定后，您可以：</p><p>1. 立即在手机上收到用户给您的留言</p><p>2. 使用手机快速完成付费推广的续费动作</p><p>3. 第一时间了解到百姓网付费推广最新的促销活动，以及享受微信端独特的促销活动</p><p>4. 更快速地将信息通过微信分享给好友、同事、朋友圈</p><p>5. 如果您是招聘类目用户，还能够第一时间接收到新简历通知</p></div></div></div></div></div><script src='//s.baixing.net/js/global/defer.9fe29b86.js'></script><script type="text/html" id="item_adsense_top_tmpl">
+<li class="media clearfix adsense adsense-oneline">
+	<a class="media-body" target="_blank" href="#{url}" style="text-decoration:none;display:block;" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}" data-index="#{index}" data-top="1">
+		<div class="media-body-title">
+		<span>#{line1}</span>
+		</div>
+		<div class="media-body-des">#{line2}</div>
+		<small class="pull-right">广告</small>
+	</a>
+</li>
+</script>
+<script type="text/html" id="item_adsense_tmpl">
+<li class="media clearfix adsense" id="s_i_ad#{index}">
+	<a href="#{url}" target="_blank" class="media-cap" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}">
+	<img src="#{imgUrl}" alt="#{line1}">
+	</a>
+	<a class="media-body" target="_blank" href="#{url}" style="text-decoration:none;display:block;" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}" data-index="#{index}">
+		<div class="media-body-title">
+			<small class="adsense-label">广告</small>
+			<span>#{line1}</span>
+		</div>
+		<div class="ad-item-detail">#{line2}</div>
+		<div class="ad-item-detail">#{visible_url}</div>
+	</a>
+</li>
+</script>
+
+<script type="text/html" id="table_adsense_tmpl">
+<li class="clearfix table-adsense-item table-view-item adsense">
+	<a target="_blank" href="#{url}" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}" data-index="#{index}">
+		<span class="table-view-body">
+			#{line1}
+		</span>
+		<div class="table-view-block">#{line2}</div>
+		<div class="table-view-cap">广告</div>
+	</a>
+</li>
+</script>
+<script type="text/javascript">
+	var totalAds = $('.item-pinned').length + $('.item-regular').length;
+	var viewType = 'item';
+	var keyword = '';
+	var insertSize2 = 18;
+	var insertSize = totalAds > 50 ? 7 : 5; // 当ad不足50条是，每隔5条出一个广告
+	var adSize = 5;
+	// var divide = +tracker.lastPvId.split('-')[0].substr(-4)%6;
+	var divide = 0;
+	var showTopItems = 1;
+	var hardcodeAds = [
+		{
+			tit: '一分钟线上申请，低息快速轻松贷款',
+			desc: '简单快速搞的定',
+			surl: 'jinrong.baixing.com',
+			curl: 'https://jinrong.baixing.com/loan/?src=youmi_p_c_2001',
+			imgUrl: '//file.baixing.net/201702/f708b98b10406238858ce05c58813f03.png'
+		},
+		{
+			tit: '节后缺钱怎么办？上百姓金融一分钟申请，半天放款',
+			desc: '简单快速搞的定',
+			surl: 'jinrong.baixing.com',
+			curl: 'https://jinrong.baixing.com/loan/?src=youmi_p_c_2002',
+			imgUrl: '//file.baixing.net/201702/f708b98b10406238858ce05c58813f03.png'
+		}
+	];
+
+	var cproRenderer = function (_ads) {
+		var ads = []
+
+		if (_ads) {
+			for(var i = 0; i < _ads.length; i++) {
+				if (_ads[i].surl.indexOf('58.com') === -1) {
+					ads.push(_ads[i])
+				}
+			}
+		}
+
+		var doubleAds = ads.concat(ads) // 双倍展现
+		if (doubleAds.length > 6) {
+			doubleAds[6] = hardcodeAds[0]
+			doubleAds[7] = hardcodeAds[1]
+		} else {
+			doubleAds = doubleAds.concat(hardcodeAds)
+		}
+
+		$list = viewType == 'item' ? $('.list-ad-items').not('.list-no-ads') : $('.table-view').not('.list-no-ads');
+		$firstList = $list.first();
+		$lastList = $list.last();
+
+		render(doubleAds);
+		if($('.youlanMoreBtn')) {
+			$('.hide + .table-adsense-item').addClass('hide')
+		}
+		function isRealPinned($tags) {
+			var isReal = false;
+			var classes = ['tag-ace','tag-huoji','tag-ding'];
+			$tags.each(function(){
+				var tagName = $(this).attr('class').split(/\s+/)[1];
+				if (classes.indexOf(tagName) != -1) isReal = true;
+			});
+			return isReal;
+		}
+		function render(ads) {
+			var index = 1;
+			if (showTopItems) {
+				if (viewType=='item') {
+					for (var i = 2; i > 0; i--) {
+						$firstList.prepend(renderAd(ads.shift(),'#item_adsense_top_tmpl'));
+					}
+				} else {
+					$list.prepend(renderAd(ads.shift(),'#'+viewType+'_adsense_tmpl'));
+				}
+			}
+
+			var regularItems = $lastList.find('.item-regular').get();
+			var pinnedItems = $lastList.find('.item-pinned:not(.item-youlan)').get();
+
+			var pinnedItemsSize = 0;
+			$(pinnedItems).each(function() {
+				var $tags = $(this).find('.tag');
+				if (isRealPinned($tags)) pinnedItemsSize++;
+			});
+			var vipItems = pinnedItems.splice(pinnedItemsSize,pinnedItems.length-pinnedItemsSize);
+			regularItems = vipItems.concat(regularItems);
+			var $regularItems = $(regularItems);
+
+			var i = 0;
+			var insertIndex = 0;
+			var insertNum = 2;
+			for (; i < ads.length; i++) {
+				insertIndex += (i % insertNum)^1;
+				if (insertIndex > divide) insertNum = 1;
+				if (insertIndex <= divide) {
+					var insertPlace = insertSize2 * insertIndex;
+				} else {
+					var insertPlace = insertSize2 * divide + (insertIndex-divide) * insertSize;
+				}
+				var content = renderAd(ads[i],'#'+viewType+'_adsense_tmpl');
+				var insertNode = $regularItems.eq(insertPlace);
+
+				if (!insertNode.length) break;
+				insertNode.before(content);
+			};
+			// 打点一下展现量
+			if(Math.random() < 0.01) {
+				window.tracker.evt('search_ad_show', {
+					num: $('.clearfix.adsense').length,
+					ad1: !!$('#s_i_ad1').length,
+					ad3: !!$('#s_i_ad3').length,
+					ad5: !!$('#s_i_ad5').length,
+				})
+			}
+						var extra_max = 10;
+			for (; i < ads.length && extra_max>0; i++, extra_max--) {
+				$list.append(renderAd(ads[i],'#'+viewType+'_adsense_tmpl'));
+			}
+						function renderAd(ad, templateHolder) {
+				if (!ad) return;
+				var template = $(templateHolder).html();
+				return $.renderAdsense({
+					url: ad.curl,
+					line1: ad.tit,
+					line2: ad.desc,
+					visible_url: ad.surl,
+					hintword: ad.bid,
+					keyword: keyword,
+					billing_name: '30024088_11_cpr',
+					index: index++,
+					imgUrl: ad.imgUrl || '//file.baixing.net/201508/7e396f2e318dcf731b1d62b615e6b76a.png',
+				},template);
+			}
+		}
+	}
+	var $cproIdRandom = parseInt(Math.random() * 10000);
+	var arrBaiduCproConfig = {};
+
+	arrBaiduCproConfig['n'] = '30024088_11_cpr'; //计费名
+	arrBaiduCproConfig['template'] = 'baiduDEFINE';
+	arrBaiduCproConfig['wn'] = adSize;   //横向广告条数
+	arrBaiduCproConfig['hn'] = 1;   //纵向广告条数
+	arrBaiduCproConfig['tm'] = 30;  //标题长度
+	arrBaiduCproConfig['cm'] = 40;  //描述长度
+	arrBaiduCproConfig['um'] = 28;  //url长度
+	arrBaiduCproConfig['define'] = 'cproRenderer';
+	arrBaiduCproConfig['charset'] = 'utf8';
+	arrBaiduCproConfig['rad'] = 0;  //是否出不相关广告
+	arrBaiduCproConfig['uap'] = 0;  //是否出cpa广告
+	arrBaiduCproConfig['cad'] = 0;  //是否显示公益广告
+	arrBaiduCproConfig['nfr'] = 0;  //是否飘红. 0表示飘红，1表示不飘红。描述不会飘红
+	arrBaiduCproConfig['bu'] = 0;   //是否展现show url
+	arrBaiduCproConfig['channel'] = '12';   //渠道值
+	arrBaiduCproConfig['k'] = '';
+</script>
+<script src="//cpro.baidustatic.com/cpro/ui/ui.js" type="text/javascript"></script>
+<script src="//s.baixing.net/js/module/cookie.81431fea.js"></script>
+<script>
+/* taq 处理 */
+$(document).ready(function () {
+	var data = [];
+	if (_taq.length) {
+		data = _taq;
+	}
+	_taq = {
+		push : function(data) {
+			switch (data[0]) {
+				case 'evt' :
+					var attribute = $.extend({
+						"_pvid": tracker.lastPvId
+						, "_reid": tracker.reid
+						, "_city": tracker.city_name
+						, "_category": tracker.category
+						, "_ad": tracker.adid
+						, "_url": document.location.href.length ? document.location.href.substr(0, 4000) : ''
+						, "_bnid": Cookie.read('kjj_trace_banner_id')
+						, "_clid": Cookie.read('kjj_trace_click_id_new')
+						, "_prof": Cookie.read('kjj_trace_profile_new')
+						, "_refer": document.referrer.length ? document.referrer : ''
+					}, data[2]);
+					$.get('/c/ev/' + encodeURIComponent(data[1]), attribute);
+					break;
+				case 'ic' :
+					$.get( '/c/ic/' + encodeURIComponent(data[1]));
+					break;
+				case 'count' :
+					$.get( '/c/mc/' + encodeURIComponent(data[1]) + '.' + encodeURIComponent(data[2]));
+					break;
+				case 'timing' :
+					$.get('/c/tm/' + encodeURIComponent(data[1]) + '.' + encodeURIComponent(data[2]) +
+					'.' + encodeURIComponent(data[3]))
+					break;
+				case 'klog' :
+					$.get( '/c/klog/' + encodeURIComponent(data[1]), data[2]);
+					break;
+				case 'perf' :
+					$.get('/c/perf/' + encodeURIComponent(data[1]), data[2]);
+					break;
+				case 'manageTrack' :
+					$.get('/c/mt/' + encodeURIComponent(data[1]), data[2]);
+					break;
+			}
+		}
+	};
+	while (data.length) {
+		_taq.push(data.shift());
+	}
+});
+</script>
+<script id="perf2"></script><script id="perflog"></script><div id='chat-to-app' class='modal modal-load disable-setpos hide'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-label='Close' class='close'><span aria-hidden>&times;</span></button><div class='modal-top'><span>登录</span></div></div><div class='modal-body'><img src='//file.baixing.net/201703/b6ed3ad67a0e69ed4fb6552877b1be1b.png' class='qr-code'><div class='tip'>下载APP无需登录实时接受私信提醒，联系更便捷！或点击下方先登录再进入私信联系</div></div><div class='modal-commit'><a id='chat-login-btn' href='javascript:;' class='modal-input'>立即登录</a></div></div></div></div><script> _defer.push(function(){  var islogin = Cookie && Cookie.read('__n') && Cookie.read('__u') && Cookie.read('__c');  if (!islogin) {   var $loginBtn = $('#chat-login-btn');   var $appModal = $('#chat-to-app');   $('#show-chat, #chat-button').on('click', function (e) {    e.preventDefault();    var type = $(this).attr('id').indexOf('show-chat') > -1 ? 'chat' : 'open';    $appModal.modal('show');    $loginBtn     .attr('data-type', type)     .attr('href', '/oz/login?redirect=' + encodeURIComponent(window.location.href));   });   $loginBtn.on('click', function(){    Cookie && Cookie.write('__unlogin_chat', $(this).attr('data-type'), 1);   });   return;  }    if (typeof WebChat !== 'undefined' && islogin) {   /* when ready */   var $el = $('#chat-button');   WebChat.onReady(function () {    $el.on('click', function (e) {     e.preventDefault();     e.stopPropagation();     window.WebChat && window.WebChat.toggle();     window.tracker && tracker.evt('chat_btn_click', {});    });    if (Cookie && Cookie.read('__unlogin_chat') === 'open') {     $el.trigger('click');     Cookie.write('__unlogin_chat', '', -1);    }   });  } });</script><script class='collector-bar'></script><script type='text/javascript'>
+(function() {
+	function b64EncodeUnicode(str) {
+		return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, function(match, p1) {
+			return String.fromCharCode('0x' + p1);
+		}));
+	}
+
+	$('.ex_re').on('click', function(e) {
+		var $el = $(e.target)
+		var link = $el.attr('href')
+
+		if(!$el.data('url')) $el.data('url', link)
+
+		var extra = { url: $el.data('url'), href: window.location.href }
+		var encodeLink = b64EncodeUnicode($.param({url: link, eventType: 'external_redirect', eventValue: extra})).toString()
+		var redirectUrl = 'http://www.baixing.com/redirect/index?r=' + encodeLink.replace('+', '-').replace('_', '/').replace('=', ',')
+
+		$el.attr('href', redirectUrl)
+	})
+})();
+</script><script type='text/javascript'>
+(function() {
+	var clickedAdsense = []
+
+	$('body').on('adsense_click', function(event, data) {
+		if(!data || !data.id) return false
+
+		var id = '#' + data.id
+		if(clickedAdsense.indexOf(id) === -1) {
+			clickedAdsense.push(id)
+		} else {
+			setTimeout(function() {
+				$(id).remove()
+			}, 1000)
+		}
+	})
+
+	// 暂时检测一下搜索广告点击状况，就不取全量了
+	if (Math.random() < 0.1) {
+		$('body').on('click', '.media.clearfix.adsense', function(e) {
+			var offset = $(e.target).parents('.adsense').offset()
+			var posY = offset.top - $(window).scrollTop()
+			var posX = offset.left - $(window).scrollLeft()
+
+			var result = {
+				x: e.screenX - posX,
+				y: e.screenY - posY - 120
+			}
+
+			tracker.evt('search_ad_click_position', result)
+		})
+	}
+})();
+</script>
+</body></html>

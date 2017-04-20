@@ -1,0 +1,513 @@
+<!DOCTYPE html><html><head><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta charset='utf-8'><script id="perf0"></script><link rel='dns-prefetch' href='//file.baixing.net/'><link rel='dns-prefetch' href='//img4.baixing.net/'><link rel='dns-prefetch' href='//img5.baixing.net/'><link rel='dns-prefetch' href='//img6.baixing.net/'><meta name='apple-itunes-app' content='app-id=591540113'><meta property='qc:admins' content='27606217656211016763757'><meta name='renderer' content='webkit'><meta name='applicable-device' content='pc'><title>【黔东南美食_黔东南特色美食_黔东南小吃】-【电话】 - 黔东南百姓网</title><meta name='keywords' content='黔东南美食,黔东南特色美食,黔东南小吃'><meta name='description' content='百姓网黔东南餐饮美食频道汇集了黔东南最全的特色美食信息，想选哪个就选哪个，百姓网帮百姓，生活服务真周到！'><meta name='location' content='province=贵州;city=黔东南;coord=107.98282799999992,26.58355'><link rel='alternate' href='http://qiandongnan.baixing.com/m/canyinmeishi/' media='handheld' type='application/vnd.wap.xhtml+xml'><meta http-equiv='mobile-agent' content='format=html5; url=http://qiandongnan.baixing.com/m/canyinmeishi/'><meta http-equiv='mobile-agent' content='format=wml; url=http://qiandongnan.baixing.com/m/canyinmeishi/'><meta http-equiv='mobile-agent' content='format=xhtml; url=http://qiandongnan.baixing.com/m/canyinmeishi/'><script> /* 预防吉林铁通篡改百度js删除cookie */ (function() {  var _setInterval = setInterval;  try {   setInterval = function(f) {    var src = f.toString();    if (!/_hao_pg/.test(src)) {     return _setInterval.apply(window, arguments);    }   };  } catch (e) {   /* slient */  } })(); </script><script> document.documentElement.className += ' js' </script><script> void function(){  var a = location.hostname.split('.').slice(-2);  if (a[0] === 'baixing' && (a[1] === 'com' || a[1] === 'cn')) document.domain = a.join('.'); }(); var _defer=[], _taq=[]; </script><script>!function(){"use strict";function e(e){if("object"==typeof e){return n({errMessage:e.message||e.msg,errLine:e.line||e.lineno||e.lineNumber,errFile:e.file||e.filename||e.fileName,errPage:t(location.pathname),percent:e.percent},e.error||e),e.error||e}}function t(e){return e.replace(/a\d+\.html$/,"aNNNNNNN.html")}function n(e,t){Math.random()>(e.percent||.1)/100||(t&&t.stack&&(e.stack=t.stack.substring(0,500)),tracker.kLog("fe_error",e))}window.Raven&&Raven.config("//815017857a8b440084898577b6917624@error.baixing.net/3",{dataCallback:function(e){var t=e.exception.values[0];e.message||(e.message=t.type+": "+t.value,e.extra.messageSupported=!1);for(var n=t.stacktrace.frames,o=0;o<n.length;o++)n[o].colno=n[o].colno||0},release:"2017-04-19 21:37:58",shouldSendCallback:function(e){var t=e.exception.values[0];return!/MSIE [567]/.test(navigator.userAgent)&&!/ReferenceError.*?:.*?(?:\$|jQuery|Promise|RongIMLib|webpackJsonp)/.test(e.message||t.type+t.value)},whitelistUrls:[/s\.baixing\.net/]}).install(),window.errorTracker=e,window.reportError=function(){var e={};return function(t,n,o,r,i){if(!t._t){t._t=(new Date).getTime();var a=new Error;e[t._t]=a,a.columnNumber=i,a.fileName=n,a.lineNumber=r,a.message=t.message||t.description,a.name=t.name,a.stack=t.stack||t.name+": "+a.message,setTimeout(function(){delete e[t._t],t._r||window.Raven&&Raven.captureException(a,{extra:{stackSupported:!!t.stack}})},1)}var a=e[t._t];!t.stack&&n&&(a.stack+="\n\tat "+o+" (//s.baixing.net"+n+":"+r+":"+i+")")}}()}();var tracker={lastTimestamp:(new Date).getTime(),referrer:null,city:null,city_name:null,category:null,pagetype:null,trackid:null,adid:null,visitorid:null,userid:"",cv1:"",cv2:"",cv3:"",tk1:"",tk2:"",tk3:"",tk4:"",tk5:"",ic:function(e,t){_taq.push(["ic",e,t?"uv":"pv"])},count:function(e,t){_taq.push(["count",e,t])},timing:function(e,t,n){_taq.push(["timing",e,t,n])},kLog:function(e,t){_taq.push(["klog",e,t])},evt:function(e,t){_taq.push(["evt",e,t])},perf:function(e){_taq.push(["perf",tracker.pageType,e])},ga:function(e,t,n,o){_taq.push(["ga",e,t,n,o])},manageTrack:function(e,t){_taq.push(["manageTrack",e,t])},resErr:function(e){var t;switch(e.nodeName.toLowerCase()){case"link":t=e.href;break;case"script":case"img":case"iframe":t=e.src;break;default:return}"function"==typeof window.errorTracker&&window.errorTracker({msg:"Resource Error",file:t,percent:1})},setCategory:function(e){this.category=e},setCity:function(e){this.city=e},setCityEnglishName:function(e){this.city_name=e},setTrackId:function(e){this.trackid=e},setAdId:function(e){this.adid=e},setVisitorId:function(e){this.visitorid=e},setUserId:function(e){this.userid=e},generateId:function(){var e=(new Date).getTime(),t=Math.random().toString().slice(2)+"-"+e+"-"+(e^this.trackid^parseInt(this.reid,16))+"-"+(e-this.lastTimestamp);if(this.lastTimestamp=e,this.lastPvId=t,window.sessionStorage)try{window.sessionStorage.setItem("bx:pvid",t)}catch(n){}return t},parentId:function(){return this.lastPvId?this.lastPvId:window.sessionStorage?window.sessionStorage.getItem("bx:pvid"):"NA"},consumeLastClick:function(){var e=this.lastClick;return e&&(this.lastClick=null),window.sessionStorage&&(e||(e={target:window.sessionStorage.getItem("bx:click.target"),time:window.sessionStorage.getItem("bx:click.time")}),window.sessionStorage.removeItem("bx:click.target"),window.sessionStorage.removeItem("bx:click.time")),e?new Date-e.time+"$"+e.target:""},pv:function(){var e=new Image;e.id="garyTracker",e.src=["//gary.","baixing.com/arrow.php?"].join("")+"ppvid="+this.parentId()+"&pvid="+this.generateId()+"&click="+encodeURIComponent(this.consumeLastClick())+"&reid="+encodeURIComponent(this.reid)+"&url="+encodeURIComponent(document.location.href.length?document.location.href:"")+"&ref="+encodeURIComponent(this.referrer||(document.referrer.length?document.referrer:""))+"&ct="+encodeURIComponent(this.city)+"&ctn="+encodeURIComponent(this.city_name)+"&cat="+encodeURIComponent(this.category)+"&vid="+encodeURIComponent(this.visitorid)+"&uid="+encodeURIComponent(this.userid)+"&tid="+encodeURIComponent(this.trackid)+"&adid="+encodeURIComponent(this.adid)+"&cv1="+encodeURIComponent(this.cv1)+"&cv2="+encodeURIComponent(this.cv2)+"&cv3="+encodeURIComponent(this.cv3)+"&cv4="+encodeURIComponent(this.cv4)+"&cv5="+encodeURIComponent(this.cv5)+"&tk1="+encodeURIComponent(this.tk1)+"&tk2="+encodeURIComponent(this.tk2)+"&tk3="+encodeURIComponent(this.tk3)+"&tk4="+encodeURIComponent(this.tk4)+"&tk5="+encodeURIComponent(this.tk5)}};!function(e){function t(t){var n=+new Date;t||(t=e.event);var r=o(t.target||t.srcElement);if(e.tracker&&(e.tracker.lastClick={target:r,time:n}),e.sessionStorage)try{e.sessionStorage.setItem("bx:click.target",r),e.sessionStorage.setItem("bx:click.time",n)}catch(i){}}function n(e){for(var t=1,n=e.tagName;e=i(e);)e.tagName===n&&t++;return t}function o(e){var t;if(1!==e.nodeType)t="/*"+e.nodeName+"*/";else{if(t=e.tagName,e.id)return t+"#"+e.id;var r=i(e);if(r){if(r.id)return r.tagName+"#"+r.id+"+"+t;var a=n(e);t+=1===a?":first-of-type":":nth-of-type("+a+")"}else t+=":first-child"}var c=e.parentNode;return c&&1===c.nodeType&&"body"!==c.tagName.toLowerCase()?o(c)+">"+t:t}var r=e.document;r.addEventListener?r.addEventListener("click",t,!1):r.attachEvent?r.attachEvent("onclick",t):r.onclick=t;var i;i=r.documentElement.previousElementSibling!==undefined?function(e){return e.previousElementSibling}:function(e){for(;(e=e.previousSibling)&&1!==e.nodeType;);return e}}(window),function(e){function t(){e.$&&(o(document,"DOMContentLoaded",t),o(e,"load",t),r(),$(document).on("click",i),a())}function n(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function o(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent&&e.detachEvent("on"+t,n)}function r(){var t=document.createElement("a");t.href=document.referrer;var n,o,r,i=t.hostname;i.indexOf("baidu.com")>=0&&(r=document.referrer.match(/baidu.+wo?r?d=([^\\&]*)/i))?(n=r[1],o="baidu"):i.indexOf("google.com")>=0&&(r=document.referrer.match(/google.+q=([^\\&]*)/i))?(n=r[1],o="google"):i.indexOf("so.com")>=0&&(r=document.referrer.match(/so.+q=([^\\&]*)/i))?(n=r[1],o="so"):i.indexOf("haosou.com")>=0&&(r=document.referrer.match(/haoso.+q=([^\\&]*)/i))?(n=r[1],o="haosou"):i.indexOf("sm.cn")>=0&&(r=document.referrer.match(/sm.+q=([^\\&]*)/i))&&(n=r[1],o="sm"),o&&(e.landingKeyword=decodeURIComponent(n).replace(/^\s+|\s+$/g,""),e.seoSource=o)}function i(t){var n=t.target;if($.contains(document.body,n)){for(;"A"!=n.nodeName&&"BODY"!=n.nodeName;)n=n.parentNode;if("A"==n.nodeName&&n.hostname){if(!(null!==/(baixing.cn|baixing.com)$/i.exec(n.hostname))){var o=$(n).data();o.href=n.href,e.seoSource&&(o.landing_keyword=e.landingKeyword,o.seo_source=e.seoSource),o.timestamp=Math.floor(Date.now()/1e3),tracker.evt("external_click",o),$("body").trigger("adsense_click",$(t.target).parents(".adsense"))}}}}function a(){function t(){if(n){var t=$("#"+n).data();$.isEmptyObject(t)&&(t.id=$("#"+n).attr("id")),e.seoSource&&(t.landing_keyword=e.landingKeyword,t.seo_source=e.seoSource),t.timestamp=Math.floor(Date.now()/1e3),tracker.evt("external_click",t),$("body").trigger("adsense_click",$("#"+n))}}var n=!1;$(document).on("mouseenter",".iframe-3rd-party,.third-party-wrapper iframe",function(){n=this.id}).on("mouseleave",".iframe-3rd-party,.third-party-wrapper iframe",function(){n=!1,e.focus()}),$(e).on("blur",t)}n(document,"DOMContentLoaded",t),n(e,"load",t)}(window);var ON_PRODUCTION = 1;
+
+tracker.setCategory('canyinmeishi');
+tracker.setCity('855');
+tracker.setCityEnglishName('qiandongnan');
+tracker.setAdId('');
+tracker.setUserId('');
+tracker.setTrackId('149261740239757');
+tracker.setVisitorId('');
+
+tracker.tk1 = '';
+tracker.tk2 = 'sharp_ranking1';
+tracker.tk3 = '';
+tracker.tk4 = 'fenglin_title_test0';
+tracker.tk5 = '';
+
+tracker.cv1 = '';
+tracker.cv2 = '';
+tracker.cv3 = '';
+tracker.cv4 = '1492617402';
+tracker.cv5 = '149261740239757';
+tracker.reid = '58f788ba9296366747';
+tracker.pageType = 'listing';
+</script><!--block ie6to8Style--><!--	include ie6to8style--><link rel='canonical' href='http://qiandongnan.baixing.com/canyinmeishi/'><link rel='apple-touch-icon-precomposed' href='//s.baixing.net/img/wap/icon_bx_app_1308.png'><link rel='shortcut icon' href='//s.baixing.net/favicon.ico' type='image/x-icon'><script src="//s.baixing.net/d/refashion-lib/base.5ab2ef6e.js" onerror="tracker.resErr(this)" crossorigin></script><!--[if lt IE 9]><script src='//s.baixing.net/d/shim.0da4e718.js'></script><![endif]--><!--[if lt IE 8]><script src='//s.baixing.net/js/module/json2.min.96bd9bbd.js'></script><![endif]--><script id="perf1"></script><link rel="stylesheet" href="//s.baixing.net/d/refashion-common/index.443a150c.css" onerror="tracker.resErr(this)"><link rel='stylesheet' href='//s.baixing.net/font/baicons/baicons2.1657e729.css'><style media="print">body{background:url(/c/ev/print?_city=qiandongnan&_category=canyinmeishi&_tk1=&_tk2=sharp_ranking1&_tk3=&_tk4=fenglin_title_test0&_tk5=&_tid=149261740239757&_url=http%3A%2F%2Fqiandongnan.baixing.com%2Fcanyinmeishi%2F&_refer=)}</style><link rel="stylesheet" href="//s.baixing.net/combine/css/d/refashion-b2c-listing/index.8cfb8df2.css,/css/module/jquery-ui-1.9.1.custom.d3ae8ca1.css" onerror="tracker.resErr(this)"></head><!--[if lt IE 7 ]> <body class="ie6 lt-ie8"> <![endif]--><!--[if IE 7 ]>    <body class="ie7 lt-ie8"> <![endif]--><!--[if IE 8 ]>    <body class="ie8 category-canyinmeishi category-fuwu view-item"> <![endif]--><!--[if (gte IE 9)|!(IE)]><!--> <body class="category-canyinmeishi category-fuwu view-item"> <!--<![endif]--><header><div><div class='toolbar'><div class='toolbar-link'><i class='icon-mobile'></i><div class='dropdown wechat'><a rel='dialog' href='#promote-weixin-modal' data-toggle='modal'>微信版</a><div class='dropdown-block'><div class='one-block'><p class='dropdown-title'>百姓网公众号</p><p class='dropdown-describe'>微信扫码关注</p><img src='//file.baixing.net/201703/web-wechat-gongzhong.png' class='dropdown-img'></div><div class='one-block'><p class='dropdown-title'>百姓网小程序</p><p class='dropdown-describe'>微信扫扫立即体验</p><img src='//file.baixing.net/201703/fb5b82ef10f390699452795d20f569e7.png' class='dropdown-img'></div></div></div><div class='dropdown mobile'><a href='//www.baixing.com/a/mobile'>手机APP</a><div class='dropdown-block'><div class='one-block'><p class='dropdown-title'>扫码下载手机客户端</p><p class='dropdown-describe'>免费抢油卡、红包、电影票</p><img src='//file.baixing.net/201703/ad1efa7194f139b966bd3bdd9cb25adb.jpg' class='dropdown-img'></div></div></div><i class='sep'>|</i><a href='//qiannan.baixing.com/canyinmeishi/'>黔南</a><a href='//guiyang.baixing.com/canyinmeishi/'>贵阳</a><a href='//anshun.baixing.com/canyinmeishi/'>安顺</a><a href='//china.baixing.com'>全国</a><a href='//www.baixing.com/?changeLocation=yes&amp;return=%2Fcanyinmeishi%2F'>[更多城市]</a></div><ul id='user-tools' class='navbar-nav'><li><a href='//www.baixing.com/oz/verify/reg' rel='nofollow' data-toggle='userAuth' data-type='reg'>注册</a></li><li><a href='//www.baixing.com/oz/login' rel='nofollow' data-toggle='userAuth' data-type='login'>登录</a></li><li class='dropdown'><a href='//www.baixing.com/ra/pay?src=topbar#vip' target='_blank'>商户推广<i class='icon-arrow-down'></i></a><ul class='dropdown-menu'><li><a href='//www.baixing.com/ra/pay/?src=header' target='_blank'>付费推广</a></li><li><a href='//vip.baixing.com/job_buy?src=topbar' target='_blank'>VIP会员-招聘版</a></li><li><a href='//vip.baixing.com/auto_buy?src=topbar' target='_blank'>VIP会员-车商版</a></li><li><a href='//vip.baixing.com/house_buy?src=topbar' target='_blank'>VIP会员-房产版</a></li><li><a href='//vip.baixing.com/service_buy?src=topbar' target='_blank'>VIP会员-服务版</a></li><li><a href='//vip.baixing.com/pet_buy?src=topbar' target='_blank'>VIP会员-宠物版</a></li></ul></li><li class='dropdown'><a href='javascript:;'>合作及工具<i class='icon-arrow-down'></i></a><ul class='dropdown-menu'><li><a href='//www.baixing.com/a/bdad/?src=home_topbar' target='_blank'>品牌网络推广</a></li><li><a href='http://api3.baixing.com.cn/?src=home_topbar' target='_blank'>API合作</a></li><li><a href='//www.baixing.com/PublicReview/' target='_blank'>大众评审</a></li><li><a href='//www.baixing.com/mkt/agents/' target='_blank'>诚招代理商</a></li></ul></li><li><a href='//www.baixing.com/help/' target='_blank'>帮助</a></li></ul></div></div><div><div class='location'><span class='breadcrumb'><a href='/' property='v:title' rel='v:url' class='primary-logo'><span class='city-logo'>黔东南</span><img alt='百姓网' src='//s.baixing.net/img/refashion/logo_baixing.png' width='95px' height='48px'></a><i class='icon-arrow-right'></i><a href='http://qiandongnan.baixing.com' property='v:title' rel='v:url'>黔东南</a><i class='icon-arrow-right'></i><a href='/fuwu/' property='v:title' rel='v:url'>黔东南服务</a><i class='icon-arrow-right'></i><a href='/canyinmeishi/' property='v:title' rel='v:url'>黔东南餐饮美食</a><span class='post-total-count'>（48 条信息）</span></span><a href='//qiandongnan.baixing.com/fabu/canyinmeishi' class='post'>免费发布餐饮美食信息</a></div></div></header><script id="fold-point">tracker.pv()</script><div class='refashion-listing-banner'></div><div id='listing-fixed-filters'><form><fieldset><legend><a href='#listing-filters'>更多筛选</a></legend></fieldset><a href='//qiandongnan.baixing.com/fabu/canyinmeishi' class='post'>免费发布餐饮美食信息</a></form></div><div class='listing-fixed-bottom-promo'><div class='qrcode-container'><img src='//file.baixing.net/201604/043841105da8af0be03accadbc8202a2.png'><a href='javascript:;' class='close pull-right'>&times;</a></div></div><section><form id='listing-filters' class='compact '><fieldset><span class='legend'>服务范围</span><div class='area links'><a class='checked'>全黔东南</a><a href='/canyinmeishi/m4740/'>凯里</a><a href='/canyinmeishi/m4730/'>黎平</a><a href='/canyinmeishi/m4734/'>天柱</a><a href='/canyinmeishi/m4736/'>镇远</a><a href='/canyinmeishi/m4726/'>麻江</a><a href='/canyinmeishi/m4737/'>三穗</a><a href='/canyinmeishi/m4733/'>锦屏</a><a href='/canyinmeishi/m4729/'>榕江</a><a href='/canyinmeishi/m4739/'>黄平</a><a href='/canyinmeishi/m4735/'>岑巩</a><a href='/canyinmeishi/m4732/'>剑河</a><a href='/canyinmeishi/m4725/'>丹寨</a><a href='/canyinmeishi/m4731/'>台江</a><a href='/canyinmeishi/m4727/'>雷山</a><a href='/canyinmeishi/m4728/'>从江</a><a href='/canyinmeishi/m4738/'>施秉</a></div></fieldset><fieldset class='search-fieldset'><input name='query' type='search' placeholder='搜餐饮美食' value='' class='search-query'><a href='javascript:void 0;' class='search-trigger'><i class='icon-search'></i></a></fieldset></form><div data-type='fuwu' class='data-store'></div></section><div id='js-fixed-filter-anchor'></div><section class='container'><aside class='sidebar waterfall-glist'><div class='sidebar-filter subscribe'><div class='title'><i class='icon-xiangguan'></i>信息免费订阅</div><strong>黔东南 餐饮美食</strong><a href='#email-tips' role='button' data-toggle='modal' class='subscribe-button'>有新信息通知我</a></div><div class='rightside-adsense'><script type="text/javascript">
+	(function() {
+		var cpro_id = "u2839315";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+</div><div id='port-info' class='sidebar-filter'><div class='title'><i class='icon-gold'></i>热门商家</div><div class='sidebar-filter-block'><a target='_blank' href='http://vip.baixing.com/service_buy?src=listing'><img src='//file.baixing.net/201612/38d02cd6197fe00aefda7b7934b430d8.jpg' width='160' height='160' class='sidebar-buy-url'></a></div></div><script type="text/javascript" src="//script-bd.baixing.net/ir3a1ecf94f0c8f33adb1463c6a3fa79ed54ebc50d35e57fec1a25.js"></script><iframe style="height:200px;width:200px;overflow:hidden;margin-left:auto;margin-right:auto;" frameborder="0" scrolling="no" src="//s.baixing.net/adsense/baidu_union.php?cpro_id=u2868783" class="iframe-3rd-party" id="union_iframe_u2868783" data-act_type="baidu_union" data-id="u2868783"></iframe><script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868828";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+<div style="margin: 15px 0" class="media-box third-party-wrapper"> <iframe style="height:400px;width:200px;overflow:hidden;margin-left:auto;margin-right:auto;" frameborder="0" scrolling="no" src="//s.baixing.net/adsense/baidu_union.php?cpro_id=u2868775" class="iframe-3rd-party" id="union_iframe_u2868775" data-act_type="baidu_union" data-id="u2868775"></iframe> </div><div class="media-box-fixed" style="width:200px;">
+<script type="text/javascript" src="//script-bd.baixing.net/bw3a1ecf96f3cef33fdb1463c6a3fa79ed54ebc50d35e57fec1a25.js"></script><div style="margin: 15px 0" class="media-box third-party-wrapper"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868810";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><div style="margin: 15px 0" class="media-box third-party-wrapper"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868860";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div></div>
+<script type="text/javascript">
+_defer.push(function() {
+	var $sticky = $('.media-box-fixed');
+	if ($(document).height() > 7000) {
+		var _top = $sticky.offset().top - 45;
+		var _offset = $('.foot-links-box').offset();
+		var _bottom = _offset ? $(document).height() - _offset.top : 20;
+		$sticky.affix({
+			offset: {
+				top: function (){
+					// 由于广告是异步加载的，_top的值在加载完成后可能会变大，这里取到这个最后的值做为affix插件的数据
+					// 注意：由于affix插件的特性，在变成affix-bottom之后, $sticky.offset().top会被覆盖，这里的判断条件过滤了这种情况
+					_top = $sticky.offset().top - 45 > _top && $sticky.hasClass('affix-top') ?$sticky.offset().top - 45: _top;
+					return _top;
+				},
+				bottom: _bottom
+			}
+		});
+	}
+});
+</script>
+</aside><div id='weixin-tips' tabindex='-1' role='dialog' class='modal hide'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-hidden class='close'>×</button><div id='app-download-section' class='clearfix'><div style='margin:0 0 10px 0px;font-size:1.17em;font-weight:bold'>手机App订阅</div><div style='text-align:center'><div><img id='app-download-section-img' src='//file.baixing.net/201410/95967a3f4e7e33eac4b62aa5d802b9d3.png'><div id='app-download-section-qrcode'><img src='//file.baixing.net/201410/d111c4814bdd10412c226474d9290aca.png'></div></div><div id='app-download-section-title'>扫码下载百姓网APP，随时订阅信息，还能私信沟通！</div></div></div><div class='modal-title'>微信订阅</div></div><div class='modal-body'><img id='sub-qr-code' src='//s.baixing.net/img/subscribe/baixing1.jpg'><div id='txtcontent'><p class='hint'><p>打开微信扫一扫二维码，一步轻松订阅！</p><p>订阅后，“黔东南 餐饮美食”有新信息时将通过微信优先通知您。</p></p><p class='other-tips'>没有微信？您可以使用<span href='#email-tips' id='qq-sub' data-toggle='modal' class='btn email-modal'>&nbsp;QQ订阅</span>&nbsp;或&nbsp;<span href='#email-tips' id='email-sub' data-toggle='modal' class='email-modal btn'>邮件订阅 &nbsp;</span></p></div></div></div></div></div><div id='email-tips' tabindex='-1' role='dialog' class='modal hide'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-hidden class='close'>×</button><div class='modal-title'>手机订阅</div></div><div class='modal-body'><div class='text-line'><span class='icon-weixin'></span><span>扫码关注百姓网公众号，随时订阅信息！</span></div><img src='//file.baixing.net/201604/886cdef3c3645949a974d03e76e20ca3.png' class='tip-img'></div></div></div></div><script> _defer.push(function() {  window.initSidebarModal('', '餐饮美食 黔东南 餐饮美食') });</script><div class='main'><!-- zoufeng(zoufeng@baixing.com)--><ul role='tablist' class='listing-tab-navi'><li class='active'><h1><a href='/canyinmeishi/'>餐饮美食</a></h1></li><li class='tab-title-item'><h1><a href='/weishop/brands/canyinmeishi/#list' target='_blank'>热门商家</a></h1></li></ul><div class='listing-viewtype-switch'><div><label><input type='checkbox' data-target='/canyinmeishi/?imageFlag=1' >只看有图</label></div><div><label><input type='checkbox' data-target='/canyinmeishi/?sixinOnlineFlag=1' >只看私信在线</label></div></div><ul style='border-top: 1px dotted #eee;' class='list-ad-items'><li data-aid='1110849150' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18485470078' data-qq='' data-id='1110849150' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a1110849150.html' target='_blank' class='ad-title'>纯菜油，野生山茶油，桐油，蜂蜜销售</a></div><div class='ad-item-detail'>黔东南 - 凯里、锦屏</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/143611065/' target='_blank'>敦寨榨油坊</a>&nbsp;/&nbsp;<time>4月15日</time></div></div></li><li data-aid='863220337' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15186897619' data-qq='' data-id='863220337' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a863220337.html' target='_blank' class='ad-title'>专业疏通管道-15186897619</a></div><div class='ad-item-detail'>黔东南 - 凯里</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/102257920/' target='_blank'>通通通</a>&nbsp;/&nbsp;<time>4月5日</time></div></div></li><li data-aid='900691715' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18585182898' data-qq='6662017' data-id='900691715' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a900691715.html' target='_blank' class='ad-title'>农家自榨的100纯正原生态野生茶籽油</a></div><div class='ad-item-detail'>黔东南 - 凯里</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/106351388/' target='_blank'>野生茶籽油（个体经营）</a>&nbsp;/&nbsp;<time>16年12月25日</time></div></div></li><li data-aid='1076274046' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15186816088' data-qq='' data-id='1076274046' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a1076274046.html' target='_blank' class='ad-title'>门面转让</a></div><div class='ad-item-detail'>黔东南 - 凯里</div><div class='ad-item-detail'><time>16年12月18日</time></div></div></li><li data-aid='1068306015' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18276774268' data-qq='' data-id='1068306015' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a1068306015.html' target='_blank' class='ad-title'>牛肚牛杂</a></div><div class='ad-item-detail'>黔东南 - 榕江、丹寨</div><div class='ad-item-detail'><time>16年12月5日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='1060701157' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13398553726' data-qq='441013753' data-id='1060701157' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a1060701157.html' target='_blank' class='ad-title'>出售正宗田鱼</a></div><div class='ad-item-detail'>黔东南 - 凯里、榕江</div><div class='ad-item-detail'><time>16年11月12日</time></div></div></li><li data-aid='1055448368' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13765565676' data-qq='2163225322' data-id='1055448368' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a1055448368.html' target='_blank' class='ad-title'>保健土鸡</a></div><div class='ad-item-detail'>黔东南 - 凯里、榕江</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/192905314/' target='_blank'>特色保健</a>&nbsp;/&nbsp;<time>16年10月17日</time></div></div></li><li data-aid='917777404' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><a href='http://qiandongnan.baixing.com/canyinmeishi/a917777404.html' target='_blank' class='ad-title'>凯里市亲亲快送</a></div><div class='ad-item-detail'>黔东南 - 凯里</div><div class='ad-item-detail'><time>16年1月29日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='874978156' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='0855-8319993' data-qq='949412223' data-id='874978156' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a874978156.html' target='_blank' class='ad-title'>馨明跑腿【凯里全城5元起送】</a></div><div class='ad-item-detail'>黔东南 - 凯里</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/115252112/' target='_blank'>凯里市馨明跑腿服务部</a>&nbsp;/&nbsp;<time>15年11月27日</time></div></div></li><li data-aid='872393376' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13595830796' data-qq='364318496' data-id='872393376' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a872393376.html' target='_blank' class='ad-title'>酸汤鱼厨师</a></div><div class='ad-item-detail'>黔东南 - 凯里</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/165055783/' target='_blank'>苗岭酸汤鱼</a>&nbsp;/&nbsp;<time>15年11月23日</time></div></div></li><li data-aid='862185525' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><a href='http://qiandongnan.baixing.com/canyinmeishi/a862185525.html' target='_blank' class='ad-title'>出售大量生姜</a></div><div class='ad-item-detail'>凯里 - 贵州省黔东南苗族侗族自治州凯里市三友路</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/164801577/' target='_blank'>是农民</a>&nbsp;/&nbsp;<time>15年11月9日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='861505798' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='0855-8585765' data-qq='3552038' data-id='861505798' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a861505798.html' target='_blank' class='ad-title'>凯里讯牛快送外卖服务电话</a></div><div class='ad-item-detail'>凯里</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/162720027/' target='_blank'>讯牛快送</a>&nbsp;/&nbsp;<time>15年11月5日</time></div></div></li><li data-aid='848573801' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18286537925' data-qq='' data-id='848573801' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a848573801.html' target='_blank' class='ad-title'>厨师</a></div><div class='ad-item-detail'>岑巩</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/125613558/' target='_blank'>兰雨山庄</a>&nbsp;/&nbsp;<time>15年10月17日</time></div></div></li><li data-aid='846362727' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><a href='http://qiandongnan.baixing.com/canyinmeishi/a846362727.html' target='_blank' class='ad-title'>欢迎各位光临景南庄</a></div><div class='ad-item-detail'>凯里</div><div class='ad-item-detail'><time>15年10月11日</time></div></div></li><li data-aid='830525633' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15885114201' data-qq='' data-id='830525633' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a830525633.html' target='_blank' class='ad-title'>罗箩香卤坊熟食店</a></div><div class='ad-item-detail'>黔东南 - 凯里</div><div class='ad-item-detail'><time>15年9月14日</time></div></div></li><li data-aid='827496994' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13918931648' data-qq='' data-id='827496994' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a827496994.html' target='_blank' class='ad-title'>鸿翔汤包馆。</a></div><div class='ad-item-detail'>黄平</div><div class='ad-item-detail'><time>15年9月10日</time></div></div></li><li data-aid='822488486' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><a href='http://qiandongnan.baixing.com/canyinmeishi/a822488486.html' target='_blank' class='ad-title'>产品</a></div><div class='ad-item-detail'>凯里 - 金井路11号</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/159929527/' target='_blank'>贵州省</a>&nbsp;/&nbsp;<time>15年9月5日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='819341142' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='chengjiao'></div><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18985286295' data-qq='' data-id='819341142' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a819341142.html' target='_blank' class='ad-title'>【搞定了！】凯里学习奶茶在那里，黎平奶茶原料供应技</a></div><div class='ad-item-detail'>黔东南 - 黎平</div><div class='ad-item-detail'><time>15年8月26日</time></div></div></li><li data-aid='817920802' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15185734666' data-qq='1186558098' data-id='817920802' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a817920802.html' target='_blank' class='ad-title'>莎藓牛脑壳外卖中心</a></div><div class='ad-item-detail'>黔东南 - 凯里</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/159285636/' target='_blank'>莎藓牛脑壳外卖中心</a>&nbsp;/&nbsp;<time>15年8月23日</time></div></div></li><li data-aid='819210091' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13595544661' data-qq='' data-id='819210091' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a819210091.html' target='_blank' class='ad-title'>镇远铁溪风景区黄雷山庄</a></div><div class='ad-item-detail'>黔东南 - 镇远</div><div class='ad-item-detail'><time>15年8月23日</time></div></div></li><li data-aid='810950304' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18385823132' data-qq='' data-id='810950304' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a810950304.html' target='_blank' class='ad-title'>滋补养生老鸭</a></div><div class='ad-item-detail'>黔东南 - 锦屏</div><div class='ad-item-detail'><time>15年8月9日</time></div></div></li><li data-aid='810570833' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18585515558' data-qq='' data-id='810570833' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a810570833.html' target='_blank' class='ad-title'>美食新品种【海鲜烩鱼】</a></div><div class='ad-item-detail'>黔东南 - 凯里</div><div class='ad-item-detail'><time>15年8月9日</time></div></div></li><li data-aid='803226647' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18212346930' data-qq='406234523' data-id='803226647' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a803226647.html' target='_blank' class='ad-title'>凯里快老火快送</a></div><div class='ad-item-detail'>黔东南 - 凯里</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/157158102/' target='_blank'>凯里快老火快送</a>&nbsp;/&nbsp;<time>15年8月2日</time></div></div></li><li data-aid='806648046' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18285517962' data-qq='' data-id='806648046' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a806648046.html' target='_blank' class='ad-title'>施秉特色全牛火锅（五点二十客栈一楼）</a></div><div class='ad-item-detail'>黔东南 - 镇远</div><div class='ad-item-detail'><time>15年7月30日</time></div></div></li><li data-aid='797717872' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18685509160' data-qq='' data-id='797717872' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a797717872.html' target='_blank' class='ad-title'>凯里红酸汤鱼</a></div><div class='ad-item-detail'>黔东南 - 凯里</div><div class='ad-item-detail'><time>15年7月19日</time></div></div></li><div style="padding: 20px 14px 20px 21px; display: inline-block;border-bottom: 1px dotted #cdcdcd"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868792";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><div style="padding: 20px 14px 20px 0; display: inline-block;border-bottom: 1px dotted #cdcdcd"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868803";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><li data-aid='797717809' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18984617586' data-qq='' data-id='797717809' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a797717809.html' target='_blank' class='ad-title'>正宗 酸汤老酒家</a></div><div class='ad-item-detail'>天柱</div><div class='ad-item-detail'><time>15年7月19日</time></div></div></li><li data-aid='792215386' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18375296391' data-qq='' data-id='792215386' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a792215386.html' target='_blank' class='ad-title'>满朝佰家粥铺</a></div><div class='ad-item-detail'>凯里</div><div class='ad-item-detail'><time>15年7月12日</time></div></div></li><li data-aid='787355247' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13049559641' data-qq='' data-id='787355247' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a787355247.html' target='_blank' class='ad-title'>韩国正宗泡菜系列批发零售</a></div><div class='ad-item-detail'>凯里</div><div class='ad-item-detail'><time>15年7月8日</time></div></div></li><li data-aid='718580858' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='0855-8538558' data-qq='2020929995' data-id='718580858' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a718580858.html' target='_blank' class='ad-title'>【贵州省凯里市大飞鸟快送服务电话】</a></div><div class='ad-item-detail'>黔东南 - 凯里</div><div class='ad-item-detail'><a href='http://www.baixing.com/weishop/w98263051/' target='_blank'>凯里市大飞鸟快送服务有限责任公司</a>&nbsp;/&nbsp;<time>15年7月6日</time></div></div></li><li data-aid='733067862' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='0855-8538558' data-qq='2020929995' data-id='733067862' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a733067862.html' target='_blank' class='ad-title'>凯里市大飞鸟快送外卖服务电话</a></div><div class='ad-item-detail'>黔东南 - 凯里</div><div class='ad-item-detail'><a href='http://www.baixing.com/weishop/w98263051/' target='_blank'>凯里市大飞鸟快送服务有限责任公司</a>&nbsp;/&nbsp;<time>15年7月6日</time></div></div></li><li data-aid='731474470' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='0855-8538558' data-qq='2020929995' data-id='731474470' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a731474470.html' target='_blank' class='ad-title'>【凯里市大飞鸟快送订餐电话服务】</a></div><div class='ad-item-detail'>黔东南 - 凯里</div><div class='ad-item-detail'><a href='http://www.baixing.com/weishop/w98263051/' target='_blank'>凯里市大飞鸟快送服务有限责任公司</a>&nbsp;/&nbsp;<time>15年7月6日</time></div></div></li><li data-aid='780276712' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15185594568' data-qq='' data-id='780276712' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a780276712.html' target='_blank' class='ad-title'>正宗乌江片片鱼</a></div><div class='ad-item-detail'></div><div class='ad-item-detail'><time>15年7月3日</time></div></div></li><div style="padding: 20px 14px 20px 21px; display: inline-block;border-bottom: 1px dotted #cdcdcd"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868840";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><div style="padding: 20px 14px 20px 0; display: inline-block;border-bottom: 1px dotted #cdcdcd"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868850";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><li data-aid='776972436' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18788716698' data-qq='' data-id='776972436' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a776972436.html' target='_blank' class='ad-title'>原二商场肥仔老夜市</a></div><div class='ad-item-detail'>黔东南 - 凯里</div><div class='ad-item-detail'><time>15年7月1日</time></div></div></li><li data-aid='768525491' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18285595565' data-qq='1164300014' data-id='768525491' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a768525491.html' target='_blank' class='ad-title'>哪些人适合食用阿胶糕</a></div><div class='ad-item-detail'>黔东南 - 黎平</div><div class='ad-item-detail'><time>15年6月21日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='768508054' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18285595565' data-qq='1164300014' data-id='768508054' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a768508054.html' target='_blank' class='ad-title'>珍记阿胶糕是靠什么发现起来的</a></div><div class='ad-item-detail'>黔东南 - 黎平</div><div class='ad-item-detail'><time>15年6月21日</time></div></div></li><li data-aid='765573299' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18286551060' data-qq='' data-id='765573299' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a765573299.html' target='_blank' class='ad-title'>苗家自酿纯米酒</a></div><div class='ad-item-detail'>凯里</div><div class='ad-item-detail'><time>15年6月15日</time></div></div></li><li data-aid='744795500' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13885580867' data-qq='' data-id='744795500' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a744795500.html' target='_blank' class='ad-title'>特色酸汤鱼府</a></div><div class='ad-item-detail'>凯里</div><div class='ad-item-detail'><time>15年5月23日</time></div></div></li><li data-aid='737420592' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13980261719' data-qq='' data-id='737420592' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a737420592.html' target='_blank' class='ad-title'>牛华绿缘麻辣烫火锅店</a></div><div class='ad-item-detail'>榕江</div><div class='ad-item-detail'><time>15年5月14日</time></div></div></li><li data-aid='732260555' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15885116988' data-qq='492593827' data-id='732260555' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a732260555.html' target='_blank' class='ad-title'>施秉特色牛肉火锅</a></div><div class='ad-item-detail'>黔东南 - 镇远</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/147568650/' target='_blank'>施秉特色牛肉火锅</a>&nbsp;/&nbsp;<time>15年5月12日</time></div></div></li><li data-aid='734765502' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15885116988' data-qq='' data-id='734765502' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a734765502.html' target='_blank' class='ad-title'>施秉特色牛肉火锅</a></div><div class='ad-item-detail'>镇远</div><div class='ad-item-detail'><time>15年5月11日</time></div></div></li><li data-aid='725004109' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15329550323' data-qq='' data-id='725004109' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a725004109.html' target='_blank' class='ad-title'>两位胖叔叔的私房菜</a></div><div class='ad-item-detail'>黔东南 - 凯里</div><div class='ad-item-detail'><time>15年5月7日</time></div></div></li><li data-aid='679021336' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18375281042' data-qq='' data-id='679021336' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a679021336.html' target='_blank' class='ad-title'>优质团餐预定地道苗家美味</a></div><div class='ad-item-detail'>雷山</div><div class='ad-item-detail'><time>15年3月30日</time></div></div></li><li data-aid='678622640' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18786414035' data-qq='' data-id='678622640' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a678622640.html' target='_blank' class='ad-title'>天柱大晚饭实惠</a></div><div class='ad-item-detail'>黔东南 - 天柱</div><div class='ad-item-detail'><time>15年3月30日</time></div></div></li><li data-aid='678603023' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13116459325' data-qq='' data-id='678603023' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a678603023.html' target='_blank' class='ad-title'>快餐点送早餐</a></div><div class='ad-item-detail'>天柱</div><div class='ad-item-detail'><time>15年3月29日</time></div></div></li><li data-aid='661363677' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18786426065' data-qq='' data-id='661363677' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a661363677.html' target='_blank' class='ad-title'>岜沙黔驴居客栈承接旅行团餐、零餐</a></div><div class='ad-item-detail'>从江</div><div class='ad-item-detail'><time>15年3月17日</time></div></div></li><li data-aid='618286484' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13885528980' data-qq='' data-id='618286484' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a618286484.html' target='_blank' class='ad-title'>快餐佩送快捷</a></div><div class='ad-item-detail'>凯里</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/101048455/' target='_blank'>tidny_f8</a>&nbsp;/&nbsp;<time>15年2月9日</time></div></div></li><li data-aid='534985200' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15085246693' data-qq='' data-id='534985200' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a534985200.html' target='_blank' class='ad-title'>凯里盘古寨餐饮服务有限公司</a></div><div class='ad-item-detail'>黔东南 - 凯里</div><div class='ad-item-detail'><time>14年12月9日</time></div></div></li><li data-aid='493971226' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18685569690' data-qq='' data-id='493971226' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qiandongnan.baixing.com/canyinmeishi/a493971226.html' target='_blank' class='ad-title'>渔水湾时尚美食城</a></div><div class='ad-item-detail'>黔东南 - 凯里</div><div class='ad-item-detail'><time>14年11月13日</time></div></div></li></ul><div id='suggested-list'><h3>周边城市或地区：<a href='http://qiannan.baixing.com/canyinmeishi/'>黔南</a><a href='http://guiyang.baixing.com/canyinmeishi/'>贵阳</a><a href='http://anshun.baixing.com/canyinmeishi/'>安顺</a><a href='http://tongren.baixing.com/canyinmeishi/'>铜仁</a><a href='http://huaihua.baixing.com/canyinmeishi/'>怀化</a></h3><ul class='list-ad-items'><li data-aid='1018223131' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13974568319' data-qq='' data-id='1018223131' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://huaihua.baixing.com/canyinmeishi/a1018223131.html?sgs=extra' target='_blank' class='ad-title'>休闲零食首选刘少爷槟榔</a><a href='//vip.baixing.com/service_buy' target='_blank' data-toggle='tooltip' data-placement='top' data-original-title='服务VIP用户' class='tag tag-vip tag-vip-1'></a></div><div class='ad-item-detail'>怀化 - 鹤城</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/118647005/' target='_blank'>怀化刘少爷槟榔总代理</a>&nbsp;/&nbsp;<time>今天 20:12</time></div></div></li><li data-aid='1112186725' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13984108939' data-qq='845318564' data-id='1112186725' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://guiyang.baixing.com/canyinmeishi/a1112186725.html?sgs=extra' target='_blank' class='ad-title'>【冲皇冠特价】榴莲芒果千层蛋糕包送小河南明送全市</a></div><div class='ad-item-detail'>贵阳 - 云岩、南明</div><div class='ad-item-detail'><a href='http://www.baixing.com/weishop/w63726484/' target='_blank'>贵阳市经开区佳伟食品经营部</a>&nbsp;/&nbsp;<time>今天 8:24</time></div></div></li><li data-aid='858718201' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><a href='http://guiyang.baixing.com/canyinmeishi/a858718201.html?sgs=extra' target='_blank' class='ad-title'>贵阳花溪牛肉粉的制作技术请到永和益厨艺培训</a></div><div class='ad-item-detail'>贵阳 - 花溪</div><div class='ad-item-detail'><time>4月13日</time></div></div></li><li data-aid='989347972' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18785001408  17785307515' data-qq='' data-id='989347972' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://guiyang.baixing.com/canyinmeishi/a989347972.html?sgs=extra' target='_blank' class='ad-title'>供应土鸡   土鸡蛋   肉鸡</a></div><div class='ad-item-detail'>贵阳 - 云岩</div><div class='ad-item-detail'><time>4月10日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='1107369332' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18874747375' data-qq='' data-id='1107369332' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://guiyang.baixing.com/canyinmeishi/a1107369332.html?sgs=extra' target='_blank' class='ad-title'>厨房承包，借租</a></div><div class='ad-item-detail'>贵阳 - 南明</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/198348819/' target='_blank'>贵州海德餐饮文化管理有限公司</a>&nbsp;/&nbsp;<time>4月7日</time></div></div></li><li data-aid='750868488' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15285167571' data-qq='1076935626' data-id='750868488' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://guiyang.baixing.com/canyinmeishi/a750868488.html?sgs=extra' target='_blank' class='ad-title'>肠旺面|贵阳肠旺面|贵阳肠旺面的技术到哪儿学？</a></div><div class='ad-item-detail'>贵阳 - 云岩</div><div class='ad-item-detail'><a href='http://www.baixing.com/weishop/w104628678/' target='_blank'>贵州永和益厨艺技术咨询有限公司</a>&nbsp;/&nbsp;<time>4月5日</time></div></div></li><li data-aid='1004478077' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18286131980' data-qq='' data-id='1004478077' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://guiyang.baixing.com/canyinmeishi/a1004478077.html?sgs=extra' target='_blank' class='ad-title'>贵州贵阳正宗肠旺粉面</a></div><div class='ad-item-detail'>贵阳 - 云岩、南明</div><div class='ad-item-detail'><time>4月4日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='1105988237' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18786698263' data-qq='452208972' data-id='1105988237' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://guiyang.baixing.com/canyinmeishi/a1105988237.html?sgs=extra' target='_blank' class='ad-title'>燕窝糕是什么？多少钱可以买？</a></div><div class='ad-item-detail'>贵阳 - 花溪、小河</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/183875632/' target='_blank'>黛颜堂</a>&nbsp;/&nbsp;<time>4月2日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='1105739998' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><a href='http://anshun.baixing.com/canyinmeishi/a1105739998.html?sgs=extra' target='_blank' class='ad-title'>出售自己家做的云南普洱茶，红茶</a></div><div class='ad-item-detail'>安顺 - 西秀</div><div class='ad-item-detail'><time>4月2日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='936500030' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15884523896' data-qq='11065013' data-id='936500030' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://guiyang.baixing.com/canyinmeishi/a936500030.html?sgs=extra' target='_blank' class='ad-title'>贵阳冷餐、贵阳茶歇、贵阳自助餐、BBQ烧烤、酒会</a><abbr data-toggle='tooltip' data-placement='top' data-original-title='内容包含视频' class='tag icon-video'></abbr></div><div class='ad-item-detail'>贵阳 - 小河</div><div class='ad-item-detail'><a href='http://www.baixing.com/weishop/w67462436/' target='_blank'>贵州法尔加餐饮管理有限公司</a>&nbsp;/&nbsp;<time>3月14日</time></div></div></li><li data-aid='1070266580' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15685496060' data-qq='381246530' data-id='1070266580' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://guiyang.baixing.com/canyinmeishi/a1070266580.html?sgs=extra' target='_blank' class='ad-title'>贵州特产&quot;黔苗乡&quot;糯米酒</a></div><div class='ad-item-detail'>贵阳 - 清镇</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/158076076/' target='_blank'>贵州林都酒业有限公司</a>&nbsp;/&nbsp;<time>3月6日</time></div></div></li><li data-aid='989809892' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13883826879' data-qq='1542130361' data-id='989809892' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://guiyang.baixing.com/canyinmeishi/a989809892.html?sgs=extra' target='_blank' class='ad-title'>贵阳冷餐外卖茶歇外卖BBQ烧烤.自助餐.鸡尾酒会</a></div><div class='ad-item-detail'>贵阳 - 云岩</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/152572981/' target='_blank'>重庆骁酷餐饮管理有限公司</a>&nbsp;/&nbsp;<time>2月23日</time></div></div></li><li data-aid='1082718763' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18285087620' data-qq='2855891462' data-id='1082718763' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://guiyang.baixing.com/canyinmeishi/a1082718763.html?sgs=extra' target='_blank' class='ad-title'>马上过年了，这几样东西必不可少</a></div><div class='ad-item-detail'>贵阳 - 开阳</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/142366308/' target='_blank'>开阳硒乃康农民专业专业合作社</a>&nbsp;/&nbsp;<time>2月21日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='926660028' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13985010136' data-qq='' data-id='926660028' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://guiyang.baixing.com/canyinmeishi/a926660028.html?sgs=extra' target='_blank' class='ad-title'>打杂工</a></div><div class='ad-item-detail'>贵阳 - 花溪</div><div class='ad-item-detail'><a href='http://www.baixing.com/u/162020360/' target='_blank'>兄弟风味鱼馆</a>&nbsp;/&nbsp;<time>2月20日</time></div></div></li></ul></div><div style="padding-left: 15px"><script type="text/javascript" src="//script-bd.baixing.net/gs3a1ecf96ffcdf130db1463c6a3fa79ed54ebc50d35e57fec1a25.js"></script></div><section class='listing-pager-section'><ul class='list-pagination'><li class='active'><span>1</span></li></ul></section><div style="background-color:#FFF;padding: 10px 0;border:solid 1px #DDD;margin: 5px 0">
+<script type="text/javascript" src="//script-bd.baixing.net/ea3a1ecf96f3cef238db1463c6a3fa79ed54ebc50d35e57fec1a25.js"></script></div></div></section><section><section class='foot-links-box'><div id='foot-links'><table><tr><th>黔东南餐饮美食相关专题</th><td id='juhe'><a href='http://www.baixing.com/canyinmeishi/j2_5RroiyFa5nrGk5o6S6aqo54Gr6ZSF5YGa5rOV/' target='_blank' class='selected'>清汤排骨火锅做法</a><a href='http://www.baixing.com/canyinmeishi/j2_5RooCyOa5nLmI5Yqg55uf54Gr6ZSF5bqX/' target='_blank' class='selected'>怎么加盟火锅店</a><a href='http://www.baixing.com/canyinmeishi/j2_5Rpoeyla5npys5paZ55CG5paH5YyW/' target='_blank' class='selected'>日本料理文化</a><a href='http://www.baixing.com/canyinmeishi/j2_5RLoiyKa5nrW36Ze45YyX5Yy65Yqz5Yqo5bGA/' target='_blank' class='selected'>上海闸北区劳动局</a><a href='http://www.baixing.com/canyinmeishi/j2_5RLomyQa6nJyC572RIOS8mOaDoOWIuAO0O0OO0O0O/' target='_blank' class='selected'>乐蜂网 优惠券</a><a href='http://www.baixing.com/canyinmeishi/j2_5RooCyOa5nLmI5Zo000o56K6t6aSQ5Y6F5pyN5Yqh5ZGY/' target='_blank' class='selected'>怎么培训餐厅服务员</a><a href='http://www.baixing.com/canyinmeishi/j2_5RboCyPa5nY6o5oioo00o566h55CG/' target='_blank' class='selected'>小厨房管理</a><a href='http://www.baixing.com/canyinmeishi/j2_5R4oOyka6nIKJ5Liy55qE6IWM5Yi26YWN5pa5/' target='_blank' class='selected'>烤肉串的腌制配方</a><a href='http://www.baixing.com/canyinmeishi/j2_5R5oSyfa5npel5a605Lya57uT5p2f6Ko000ot/' target='_blank' class='selected'>生日宴会结束语</a><a href='http://www.baixing.com/canyinmeishi/j2_5RYo6yfa5n5uF5Y6f5ZGz6JCl5YW75bo000or6aSQ/' target='_blank' class='selected'>原盅原味营养快餐</a><a href='http://www.baixing.com/canyinmeishi/j2_5RroWy3a6nbKc5bqX6Lo000oe6ZSB5Yqg55uf/' target='_blank' class='selected'>海鲜店连锁加盟</a><a href='http://www.baixing.com/canyinmeishi/j2_5RZoOyqa5na6255qE54Ok6bG85aW95ZCD/' target='_blank' class='selected'>哪家的烤鱼好吃</a><a href='http://www.baixing.com/canyinmeishi/j2_5RroWy3a6nbKc54On54Ok6YWN5paZ/' target='_blank' class='selected'>海鲜烧烤配料</a><a href='http://www.baixing.com/canyinmeishi/j2_5R4oGyra6nZSF5bqV5paZ5YGa5rGk/' target='_blank' class='selected'>火锅底料做汤</a><a href='http://www.baixing.com/canyinmeishi/j2_5R4oGyra6nZSF5YGa5rOV/' target='_blank' class='selected'>火锅做法</a><a href='http://www.baixing.com/canyinmeishi/j2_5R4oGyra6nZSF57KJ5YGa5rOV/' target='_blank' class='selected'>火锅粉做法</a><a href='http://www.baixing.com/canyinmeishi/j2_5RboCyPa5na2p54KS6Io000oc/' target='_blank' class='selected'>小孩炒菜</a><a href='http://www.baixing.com/canyinmeishi/j2_5RYo6yVa5nomA5qyi5LmQ5Li76aKY6aSQ5Y6F/' target='_blank' class='selected'>厕所欢乐主题餐厅</a><a href='http://www.baixing.com/canyinmeishi/j2_5RLoiyta5nbyP5bo000or6aSQ5YWs5Yo000o4/' target='_blank' class='selected'>中式快餐公司</a><a href='http://www.baixing.com/canyinmeishi/j2_5RZoCyEa5n7G75rW36bKc55qE5YGa5rOV/' target='_blank' class='selected'>各类海鲜的做法</a></td></tr><tr><th>黔东南餐饮美食类目介绍</th><td id='intro'><div>百姓网黔东南餐饮美食频道汇集了黔东南最全的特色美食信息，想选哪个就选哪个，百姓网帮百姓，生活服务真周到！</div></td></tr><tr><th>黔东南餐饮美食全部地区</th><td id='area'><a href='/canyinmeishi/m4740/' target='_blank' class='selected'>凯里餐饮美食</a><a href='/canyinmeishi/m4730/' target='_blank' class='selected'>黎平餐饮美食</a><a href='/canyinmeishi/m4734/' target='_blank' class='selected'>天柱餐饮美食</a><a href='/canyinmeishi/m4736/' target='_blank' class='selected'>镇远餐饮美食</a><a href='/canyinmeishi/m4726/' target='_blank' class='selected'>麻江餐饮美食</a><a href='/canyinmeishi/m4737/' target='_blank' class='selected'>三穗餐饮美食</a><a href='/canyinmeishi/m4733/' target='_blank' class='selected'>锦屏餐饮美食</a><a href='/canyinmeishi/m4729/' target='_blank' class='selected'>榕江餐饮美食</a><a href='/canyinmeishi/m4739/' target='_blank' class='selected'>黄平餐饮美食</a><a href='/canyinmeishi/m4735/' target='_blank' class='selected'>岑巩餐饮美食</a><a href='/canyinmeishi/m4732/' target='_blank' class='selected'>剑河餐饮美食</a><a href='/canyinmeishi/m4725/' target='_blank' class='selected'>丹寨餐饮美食</a><a href='/canyinmeishi/m4731/' target='_blank' class='selected'>台江餐饮美食</a><a href='/canyinmeishi/m4727/' target='_blank' class='selected'>雷山餐饮美食</a><a href='/canyinmeishi/m4728/' target='_blank' class='selected'>从江餐饮美食</a><a href='/canyinmeishi/m4738/' target='_blank' class='selected'>施秉餐饮美食</a></td></tr><tr><th>黔东南餐饮美食热门城市</th><td id='hotCities'><a href='http://shanghai.baixing.com/canyinmeishi/' target='_blank' class='selected'>上海美食</a><a href='http://beijing.baixing.com/canyinmeishi/' target='_blank' class='selected'>北京美食</a><a href='http://guangzhou.baixing.com/canyinmeishi/' target='_blank' class='selected'>广州美食</a><a href='http://suzhou.baixing.com/canyinmeishi/' target='_blank' class='selected'>苏州美食</a><a href='http://shenzhen.baixing.com/canyinmeishi/' target='_blank' class='selected'>深圳美食</a><a href='http://shenyang.baixing.com/canyinmeishi/' target='_blank' class='selected'>沈阳美食</a><a href='http://zhengzhou.baixing.com/canyinmeishi/' target='_blank' class='selected'>郑州美食</a><a href='http://wuxi.baixing.com/canyinmeishi/' target='_blank' class='selected'>无锡美食</a><a href='http://dalian.baixing.com/canyinmeishi/' target='_blank' class='selected'>大连美食</a><a href='http://dongguan.baixing.com/canyinmeishi/' target='_blank' class='selected'>东莞美食</a><a href='http://hangzhou.baixing.com/canyinmeishi/' target='_blank' class='selected'>杭州美食</a><a href='http://xian.baixing.com/canyinmeishi/' target='_blank' class='selected'>西安美食</a><a href='http://nanning.baixing.com/canyinmeishi/' target='_blank' class='selected'>南宁美食</a><a href='http://chengdu.baixing.com/canyinmeishi/' target='_blank' class='selected'>成都美食</a><a href='http://qingdao.baixing.com/canyinmeishi/' target='_blank' class='selected'>青岛美食</a><a href='http://wuhan.baixing.com/canyinmeishi/' target='_blank' class='selected'>武汉美食</a><a href='http://nanjing.baixing.com/canyinmeishi/' target='_blank' class='selected'>南京美食</a><a href='http://jinan.baixing.com/canyinmeishi/' target='_blank' class='selected'>济南美食</a><a href='http://shijiazhuang.baixing.com/canyinmeishi/' target='_blank' class='selected'>石家庄美食</a><a href='http://tianjin.baixing.com/canyinmeishi/' target='_blank' class='selected'>天津美食</a><a href='http://ningbo.baixing.com/canyinmeishi/' target='_blank' class='selected'>宁波美食</a><a href='http://hefei.baixing.com/canyinmeishi/' target='_blank' class='selected'>合肥美食</a><a href='http://chongqing.baixing.com/canyinmeishi/' target='_blank' class='selected'>重庆美食</a><a href='http://changchun.baixing.com/canyinmeishi/' target='_blank' class='selected'>长春美食</a><a href='http://xiamen.baixing.com/canyinmeishi/' target='_blank' class='selected'>厦门美食</a><a href='http://fuzhou.baixing.com/canyinmeishi/' target='_blank' class='selected'>福州美食</a><a href='http://changsha.baixing.com/canyinmeishi/' target='_blank' class='selected'>长沙美食</a><a href='http://haerbin.baixing.com/canyinmeishi/' target='_blank' class='selected'>哈尔滨美食</a><a href='http://zhuhai.baixing.com/canyinmeishi/' target='_blank' class='selected'>珠海美食</a><a href='http://taiyuan.baixing.com/canyinmeishi/' target='_blank' class='selected'>太原美食</a><a href='http://shantou.baixing.com/canyinmeishi/' target='_blank' class='selected'>汕头美食</a><a href='http://kunming.baixing.com/canyinmeishi/' target='_blank' class='selected'>昆明美食</a><a href='http://wulumuqi.baixing.com/canyinmeishi/' target='_blank' class='selected'>乌鲁木齐美食</a><a href='http://lanzhou.baixing.com/canyinmeishi/' target='_blank' class='selected'>兰州美食</a><a href='http://nanchang.baixing.com/canyinmeishi/' target='_blank' class='selected'>南昌美食</a><a href='http://guiyang.baixing.com/canyinmeishi/' target='_blank' class='selected'>贵阳美食</a><a href='http://haikou.baixing.com/canyinmeishi/' target='_blank' class='selected'>海口美食</a><a href='http://huhehaote.baixing.com/canyinmeishi/' target='_blank' class='selected'>呼和浩特美食</a></td></tr><tr><th>黔东南餐饮美食周边城市</th><td id='around'><a href='http://qiannan.baixing.com/canyinmeishi/' target='_blank' class='selected'>黔南美食</a><a href='http://guiyang.baixing.com/canyinmeishi/' target='_blank' class='selected'>贵阳美食</a><a href='http://anshun.baixing.com/canyinmeishi/' target='_blank' class='selected'>安顺美食</a><a href='http://tongren.baixing.com/canyinmeishi/' target='_blank' class='selected'>铜仁美食</a><a href='http://huaihua.baixing.com/canyinmeishi/' target='_blank' class='selected'>怀化美食</a><a href='http://www.baixing.com/canyinmeishi/' target='_blank' class='selected'>美食</a></td></tr><tr><th>移动触屏版</th><td id='mobile'><a href='http://qiandongnan.baixing.com/m/canyinmeishi/' target='_blank' class='selected'>黔东南美食</a></td></tr></table></div></section></section><footer><div><a href='//www.baixing.com/a/bangui/' target='_blank' rel='nofollow'>百姓网公约</a><i class='sep'>|</i><a href='//www.baixing.com/ra/pay/?src=footer' target='_blank' rel='nofollow'>付费推广</a><i class='sep'>|</i><a href='//www.baixing.com/a/company?src=bottom' target='_blank'>客户合作</a><i class='sep'>|</i><a href='//www.baixing.com/xiangyang/post/daoyong/?src=footer' target='_blank' rel='nofollow'>号码被冒用</a><i class='sep'>|</i><a href='//www.baixing.com/help/' target='_blank' data-toggle='tracker' data-source='footer'>联系我们</a><i class='sep'>|</i><a href='http://api.baixing.com.cn/' target='_blank' rel='nofollow'>开放API</a><i class='sep'>|</i><a href='//www.baixing.com/mkt/agents/' target='_blank' rel='nofollow'>诚招代理商</a><i class='sep'>|</i><a href='//www.baixing.com/a/bdad/' target='_blank'>品牌网络推广</a><i class='sep'>|</i><a href='//www.baixing.com/help/feed?id=fd53284' target='_blank'>诚信建设</a><i class='sep'>|</i><a href='//www.baixing.com/v/mobile' rel='nofollow'>手机版</a></div><div><span class='copyright'>&copy; 2017 百姓网股份有限公司 (上海市广元西路55号浩然高科技大厦1808室) 客服电话：400-036-3650或021-61300110（周一至周日，9:00-18:00）</span></div><div><a target='_blank' rel='nofollow' href='http://shwg.dianping.com/index.html'><img height='30' alt='网购大家评' src='http://file.baixing.net/201604/8fa27c5945f2ec31155a36e4a03cc841.png'></a><a target='_blank' rel='nofollow' href='http://www.shjbzx.cn'><img height='30' alt='上海市互联网举报平台' src='//file.baixing.net/201703/b795b51d45c5297739d0add5d4b87475.jpg'></a><a target='_blank' rel='nofollow' href='http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=20111025095406671'><img width='30' alt='上海工商' src='//s.baixing.net/d/refashion-home/images/icon_footer02.png'></a><a target='_blank' rel='nofollow' href='http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010402000116'><img height='30' alt='网络社会征信网' src='//s.baixing.net/d/refashion-home/images/icon_footer01.png'><span class='beian'>沪公网安备31010402000116号</span></a><span class='at-haojing'>6&nbsp;G:29&nbsp;GM:104</span></div></footer><div id='sidebar-buttons'><a id='weixin-qrcode-login' href='#' title='手机百姓'><i class='icon-mobile2'></i></a><a id='feedback-button' href='#' title='我要反馈' class='feedback'><i class='icon-side-feedback'></i></a><a id='back-to-top' href='#' title='返回顶部'><i class='icon-arrow-up'></i></a><div class='qrcode-login-dialog in left fade'><img src='//file.baixing.net/201607/5f583b56bc0d435f0f67c8e67d0a8a96.png'><img src='//file.baixing.net/201607/02b008f4f9a924687e129852191867e4.png'></div><a id='chat-button' href='#' title='系统消息' class='chat-button'><i class='icon-tieba'></i></a></div><script type="text/javascript">
+	var baiduImagePlus = {"unionId":"u1612675","noLogo":true,"formList":[{"formId":2}]};
+</script>
+<script src="//cpro.baidustatic.com/cpro/ui/i.js"></script>
+<div id='feedback-refashion'><a target="_blank"  href="http://qiandongnan.baixing.com/redirect/index?r=dXJsPSUyRiUyRnd3dy5iYWl4aW5nLmNvbSUyRmElMkZmZW5nbWluZyZldmVudFR5cGU9ZXh0ZXJuYWxfcmVkaXJlY3QmZXZlbnRWYWx1ZSU1QnBvc2l0aW9uJTVEPXJpZ2h0LWZpeGVkJmV2ZW50VmFsdWUlNUJocmVmJTVEPWh0dHAlM0ElMkYlMkZxaWFuZG9uZ25hbi5iYWl4aW5nLmNvbSUyRmNhbnlpbm1laXNoaSUyRiZldmVudFZhbHVlJTVCdXJsJTVEPSUyRiUyRnd3dy5iYWl4aW5nLmNvbSUyRmElMkZmZW5nbWluZyZldmVudFZhbHVlJTVCdWElNUQ9TW96aWxsYSUyRjUuMCslMjhXaW5kb3dzK05UKzYuMSUzQitXT1c2NCUyOStBcHBsZVdlYktpdCUyRjUzNy4zNislMjhLSFRNTCUyQytsaWtlK0dlY2tvJTI5K0Nocm9tZSUyRjM5LjAuMjE3MS45NSZldmVudFZhbHVlJTVCdGltZSU1RD0yMDE3LTA0LTE5KzIzJTNBNTYlM0E0Mg,," class="a_d_s_hidden_link adsense-image-link" target="_blank"><img class="a_d_s_img"  src="//file.baixing.net/201702/bbc0fe137d39ca9ce017f460ee112f84.jpg"></a></div><script>
+	/** Start: Google Analytics */
+	(function(i, s, o, g, r, a, m) {i['GoogleAnalyticsObject'] = r;i[r] = i[r] || function() {(i[r].q = i[r].q || []).push(arguments)}, i[r].l = 1 * new Date();a = s.createElement(o),m = s.getElementsByTagName(o)[0];a.async = 1;a.src = g;m.parentNode.insertBefore(a, m)})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', {trackingId: 'UA-6183853-1', cookieDomain: 'baixing.com', 'siteSpeedSampleRate': 100});
+
+</script>
+<script>
+			if (tracker.data) {
+		var city = tracker.data.city_name,
+			category = tracker.data.category,
+			platform = 'wap';
+	} else {
+		var city = tracker.city_name,
+			category = tracker.category,
+			platform = 'web';
+	}
+
+	ga('set', 'dimension1', city);
+	ga('set', 'dimension2', category);
+	ga('set', 'dimension3', 'Listing_Controller');
+	ga('set', 'dimension4', platform);
+
+	(function () {
+		var refer = document.referrer;
+		if (refer && refer.search("http://") > -1) {
+			var domain = refer.match(/:\/\/(.[^/]+)/)[1];
+			if (domain.indexOf("baidu.com") > -1) { //暂时只统计baidu，忽略其他份额小的SE。
+				ga('set', 'dimension5', 'Listing_Controller');
+			}
+		}
+	})();
+
+	ga('send', 'pageview');
+
+	/** End: Google Analytics */
+</script>
+
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?5a727f1b4acc5725516637e03b07d3d2";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script id='user-3rd-tag'> window.__is3rdUser = ""; </script><script src="//s.baixing.net/combine/js/d/refashion-libs.min.a7d5ef5f.js,/d/refashion-common/index.9a34f1b5.js,/app/convert/app-download.web.17be6ff0.js,/js/module/banner-track.c1cd96f7.js" onerror="tracker.resErr(this)" crossorigin></script><!--[if (gte IE 9)|!(IE)]><!--><script src="//s.baixing.net/combine/js/js/global/easyXDM.min.f0549ee3.js,/js/module/rongcloud/chat-host.481066e4.js" onerror="tracker.resErr(this)" crossorigin></script><!--<![endif]--><script> window.__isSuperMan = ""; window.__city = "黔东南"; </script><script src="//s.baixing.net/combine/js/js/module/jquery-ui-1.9.1.custom.50550ec4.js,/d/refashion-listing/index.cf9d6c8c.js" onerror="tracker.resErr(this)"></script><script src="//s.baixing.net/d/adTracker/index.js?v1.2" onerror="tracker.resErr(this)" crossorigin></script><script src="//s.baixing.net/combine/js/js/module/jquery-ui-1.9.1.custom.50550ec4.js,/d/refashion-fuwu-listing/index.bf146786.js" onerror="tracker.resErr(this)"></script><div id='xiangyang-feedback-modal' role='dialog' tabindex='-1' class='modal feedback-modal'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-label='Close' class='close'><span aria-hidden>×</span></button><h4 class='modal-title'>反馈建议</h4></div><div class='modal-body'><form novalidate><span id='desc'></span><input type='hidden' name='labels' value='helpcenter'><div class='p-line'></div><div class='p-line'><label class='p-label'>描述：</label><span class='p-value'><textarea type='text' maxlength='500' name='post[content]' required='required' data-parent='.p-line' value='' placeholder='请尽可能详细地输入您的问题，我们将尽快帮您解决。' style='overflow: hidden; word-wrap: break-word; resize: none; width: 400px;' class='input input-5'></textarea><br><span style='padding-left:0;' class='p-error-empty'>请填写描述</span></span></div><div class='p-line'><label class='p-label'>手机号：</label><span class='p-value'><input name='post[mobile]' maxlength='11' required='required' data-parent='.p-line' type='mobile' value='' class='input'><input id='feedback_ad' name='ad' type='hidden' value=''><input id='feedback_type' name='type' type='hidden' value=''><input id='feedback_bangui' name='bangui' type='hidden' value=''><input id='feedback_source' name='source' type='hidden' value=''><input id='feedback_survey' name='survey_fid' type='hidden' value=''><span class='p-error'>请填写手机号</span><span class='p-error-empty'>请填写手机号</span></span></div><div class='p-line'><label class='p-label'>上传图片：</label><span id='feedback_picture' class='p-value'></span></div><div class='p-line'><label class='p-label'></label><span class='p-value'><input type='submit' value='提交反馈' class='button'><a href='/PublicReview/?src=feedback' target='_blank' class='public-review link'>邀请您参加大众评审</a></span></div></form></div></div></div></div><script> var imageConfig = {"uploadUrl":"http:\/\/v0.api.upyun.com\/bximg\/","uploadParams":{"policy":"eyJidWNrZXQiOiJieGltZyIsInNhdmUta2V5IjoiL3tmaWxlbWQ1fXsuc3VmZml4fSIsImNvbnRlbnQtc2VjcmV0Ijoib3JpZ2luYWwiLCJjb250ZW50LWxlbmd0aC1yYW5nZSI6IjAsMTA0ODU3NjAiLCJ4LWdta2VybC10eXBlIjoiZml4X21heCIsIngtZ21rZXJsLXZhbHVlIjoiNjQwIiwieC1nbWtlcmwtbm9pY2MiOiJ0cnVlIiwieC1nbWtlcmwtcXVhbGl0eSI6Ijc1IiwieC1nbWtlcmwtcm90YXRlIjoiYXV0byIsIngtZ21rZXJsLWV4aWYtc3dpdGNoIjoidHJ1ZSIsIm5vdGlmeS11cmwiOiJodHRwOi8vY2FsbGJhY2suaW1nLmJhaXhpbmcubmV0L3VweXVuLnBocD9idWNrZXQ9YnhpbWciLCJleHBpcmF0aW9uIjoxNDkyNjIxMDAyfQ==","signature":"0ca7710d62785ee3d36c67fc329403c4"},"vendorName":"upyun","imageSuffix":"#up","fileKey":"file","imageHost":null}; _defer.push(["//s.baixing.net/js/guandu/uploader.824150a3.js", function () {  if ( GuanduUploader.isSupported() === true) {   GuanduUploader.init('#feedback_picture', 'bximg')  } else {   $('#feedback_picture').closest('.p-line').remove();  }; }]); _defer.push(["//s.baixing.net/js/module/validator.1d066c49.js", function () {   $('.feedback-modal').validator({   isErrorOnParent: true,   after: function(e) {    var modal = $('.feedback-modal');    e.preventDefault();    var pictures = [];    GuanduUploader.upload({     complete : function (res, fileUrl) {      pictures.push(res.url.slice(1) + imageConfig.imageSuffix);     },     allComplete : function () {      var data = $(e.target).serialize();      if (pictures.length > 0) {       data =  data + '&pictures=' + encodeURIComponent(pictures.join(','));      }      $.post('/xiangyang/post/web?ajax=1', data, function(resp) {       var type = $('#feedback_type').val();       var typeNames = {"feedback":"\u53cd\u9988","jubao":"\u4e3e\u62a5","shensu":"\u7533\u8bc9","tuiguang":"\u63a8\u5e7f","weiquan":"\u7ef4\u6743","chat":"\u79c1\u4fe1","baozhang":"\u4fdd\u969c","lekongkong":"\u4e50\u7a7a\u7a7a","report":"\u4e3e\u62a5\u7533\u8bf7","yinshou":"\u8425\u6536"};       var typeName = '反馈';       $.each(typeNames, function(key, value) {        if (type == key) typeName = value;       });              var modalBody = "谢谢您的反馈！<br />我们将在1个工作日内处理并以电话/短信/站内信方式给您回复。（工作时间：9:00—18:00）<br />您可以在<a href='/w/feedback/'>用户中心——我的反馈</a>中查看问题回复进度";       if (type == 'shensu') {        modalBody = resp == 'true' ? '您的' + typeName + '已提交成功，我们将在24小时内核实处理！' : resp;       }       modal.find('.modal-body').html('<p>' + modalBody + '</p>');       switch (type) {        case 'shensu' :         setTimeout(function() {          window.location.reload();         } ,1500);         break;        default :         setTimeout(function() {          $('.feedback-modal').modal('hide');         } ,3000);       }      });     }    });   }  }); }]); </script><script> feedback("qiandongnan", "canyinmeishi")</script><div id='promote-weixin-modal' class='fade hide in modal'><div style='width: 600px;' class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-label='Close' class='close'><span aria-hidden>×</span></button><div class='modal-title'>扫码使用百姓微信公众号</div></div><div class='modal-body'><p>打开微信，扫一扫右侧二维码，即可完成绑定 --></p><img id='promoQrcode' src='//s.baixing.net/img/subscribe/baixing1.jpg' style='float:right;'><div class='promoteWeixinContent'><p>绑定后，您可以：</p><p>1. 立即在手机上收到用户给您的留言</p><p>2. 使用手机快速完成付费推广的续费动作</p><p>3. 第一时间了解到百姓网付费推广最新的促销活动，以及享受微信端独特的促销活动</p><p>4. 更快速地将信息通过微信分享给好友、同事、朋友圈</p><p>5. 如果您是招聘类目用户，还能够第一时间接收到新简历通知</p></div></div></div></div></div><script src='//s.baixing.net/js/global/defer.9fe29b86.js'></script><script type="text/html" id="item_adsense_top_tmpl">
+<li class="media clearfix adsense adsense-oneline">
+	<a class="media-body" target="_blank" href="#{url}" style="text-decoration:none;display:block;" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}" data-index="#{index}" data-top="1">
+		<div class="media-body-title">
+		<span>#{line1}</span>
+		</div>
+		<div class="media-body-des">#{line2}</div>
+		<small class="pull-right">广告</small>
+	</a>
+</li>
+</script>
+<script type="text/html" id="item_adsense_tmpl">
+<li class="media clearfix adsense" id="s_i_ad#{index}">
+	<a href="#{url}" target="_blank" class="media-cap" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}">
+	<img src="#{imgUrl}" alt="#{line1}">
+	</a>
+	<a class="media-body" target="_blank" href="#{url}" style="text-decoration:none;display:block;" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}" data-index="#{index}">
+		<div class="media-body-title">
+			<small class="adsense-label">广告</small>
+			<span>#{line1}</span>
+		</div>
+		<div class="ad-item-detail">#{line2}</div>
+		<div class="ad-item-detail">#{visible_url}</div>
+	</a>
+</li>
+</script>
+
+<script type="text/html" id="table_adsense_tmpl">
+<li class="clearfix table-adsense-item table-view-item adsense">
+	<a target="_blank" href="#{url}" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}" data-index="#{index}">
+		<span class="table-view-body">
+			#{line1}
+		</span>
+		<div class="table-view-block">#{line2}</div>
+		<div class="table-view-cap">广告</div>
+	</a>
+</li>
+</script>
+<script type="text/javascript">
+	var totalAds = $('.item-pinned').length + $('.item-regular').length;
+	var viewType = 'item';
+	var keyword = '';
+	var insertSize2 = 18;
+	var insertSize = totalAds > 50 ? 7 : 5; // 当ad不足50条是，每隔5条出一个广告
+	var adSize = 5;
+	// var divide = +tracker.lastPvId.split('-')[0].substr(-4)%6;
+	var divide = 0;
+	var showTopItems = 1;
+	var hardcodeAds = [
+		{
+			tit: '一分钟线上申请，低息快速轻松贷款',
+			desc: '简单快速搞的定',
+			surl: 'jinrong.baixing.com',
+			curl: 'https://jinrong.baixing.com/loan/?src=youmi_p_c_2001',
+			imgUrl: '//file.baixing.net/201702/f708b98b10406238858ce05c58813f03.png'
+		},
+		{
+			tit: '节后缺钱怎么办？上百姓金融一分钟申请，半天放款',
+			desc: '简单快速搞的定',
+			surl: 'jinrong.baixing.com',
+			curl: 'https://jinrong.baixing.com/loan/?src=youmi_p_c_2002',
+			imgUrl: '//file.baixing.net/201702/f708b98b10406238858ce05c58813f03.png'
+		}
+	];
+
+	var cproRenderer = function (_ads) {
+		var ads = []
+
+		if (_ads) {
+			for(var i = 0; i < _ads.length; i++) {
+				if (_ads[i].surl.indexOf('58.com') === -1) {
+					ads.push(_ads[i])
+				}
+			}
+		}
+
+		var doubleAds = ads.concat(ads) // 双倍展现
+		if (doubleAds.length > 6) {
+			doubleAds[6] = hardcodeAds[0]
+			doubleAds[7] = hardcodeAds[1]
+		} else {
+			doubleAds = doubleAds.concat(hardcodeAds)
+		}
+
+		$list = viewType == 'item' ? $('.list-ad-items').not('.list-no-ads') : $('.table-view').not('.list-no-ads');
+		$firstList = $list.first();
+		$lastList = $list.last();
+
+		render(doubleAds);
+		if($('.youlanMoreBtn')) {
+			$('.hide + .table-adsense-item').addClass('hide')
+		}
+		function isRealPinned($tags) {
+			var isReal = false;
+			var classes = ['tag-ace','tag-huoji','tag-ding'];
+			$tags.each(function(){
+				var tagName = $(this).attr('class').split(/\s+/)[1];
+				if (classes.indexOf(tagName) != -1) isReal = true;
+			});
+			return isReal;
+		}
+		function render(ads) {
+			var index = 1;
+			if (showTopItems) {
+				if (viewType=='item') {
+					for (var i = 2; i > 0; i--) {
+						$firstList.prepend(renderAd(ads.shift(),'#item_adsense_top_tmpl'));
+					}
+				} else {
+					$list.prepend(renderAd(ads.shift(),'#'+viewType+'_adsense_tmpl'));
+				}
+			}
+
+			var regularItems = $lastList.find('.item-regular').get();
+			var pinnedItems = $lastList.find('.item-pinned:not(.item-youlan)').get();
+
+			var pinnedItemsSize = 0;
+			$(pinnedItems).each(function() {
+				var $tags = $(this).find('.tag');
+				if (isRealPinned($tags)) pinnedItemsSize++;
+			});
+			var vipItems = pinnedItems.splice(pinnedItemsSize,pinnedItems.length-pinnedItemsSize);
+			regularItems = vipItems.concat(regularItems);
+			var $regularItems = $(regularItems);
+
+			var i = 0;
+			var insertIndex = 0;
+			var insertNum = 2;
+			for (; i < ads.length; i++) {
+				insertIndex += (i % insertNum)^1;
+				if (insertIndex > divide) insertNum = 1;
+				if (insertIndex <= divide) {
+					var insertPlace = insertSize2 * insertIndex;
+				} else {
+					var insertPlace = insertSize2 * divide + (insertIndex-divide) * insertSize;
+				}
+				var content = renderAd(ads[i],'#'+viewType+'_adsense_tmpl');
+				var insertNode = $regularItems.eq(insertPlace);
+
+				if (!insertNode.length) break;
+				insertNode.before(content);
+			};
+			// 打点一下展现量
+			if(Math.random() < 0.01) {
+				window.tracker.evt('search_ad_show', {
+					num: $('.clearfix.adsense').length,
+					ad1: !!$('#s_i_ad1').length,
+					ad3: !!$('#s_i_ad3').length,
+					ad5: !!$('#s_i_ad5').length,
+				})
+			}
+						var extra_max = 10;
+			for (; i < ads.length && extra_max>0; i++, extra_max--) {
+				$list.append(renderAd(ads[i],'#'+viewType+'_adsense_tmpl'));
+			}
+						function renderAd(ad, templateHolder) {
+				if (!ad) return;
+				var template = $(templateHolder).html();
+				return $.renderAdsense({
+					url: ad.curl,
+					line1: ad.tit,
+					line2: ad.desc,
+					visible_url: ad.surl,
+					hintword: ad.bid,
+					keyword: keyword,
+					billing_name: '30024088_11_cpr',
+					index: index++,
+					imgUrl: ad.imgUrl || '//file.baixing.net/201508/7e396f2e318dcf731b1d62b615e6b76a.png',
+				},template);
+			}
+		}
+	}
+	var $cproIdRandom = parseInt(Math.random() * 10000);
+	var arrBaiduCproConfig = {};
+
+	arrBaiduCproConfig['n'] = '30024088_11_cpr'; //计费名
+	arrBaiduCproConfig['template'] = 'baiduDEFINE';
+	arrBaiduCproConfig['wn'] = adSize;   //横向广告条数
+	arrBaiduCproConfig['hn'] = 1;   //纵向广告条数
+	arrBaiduCproConfig['tm'] = 30;  //标题长度
+	arrBaiduCproConfig['cm'] = 40;  //描述长度
+	arrBaiduCproConfig['um'] = 28;  //url长度
+	arrBaiduCproConfig['define'] = 'cproRenderer';
+	arrBaiduCproConfig['charset'] = 'utf8';
+	arrBaiduCproConfig['rad'] = 0;  //是否出不相关广告
+	arrBaiduCproConfig['uap'] = 0;  //是否出cpa广告
+	arrBaiduCproConfig['cad'] = 0;  //是否显示公益广告
+	arrBaiduCproConfig['nfr'] = 0;  //是否飘红. 0表示飘红，1表示不飘红。描述不会飘红
+	arrBaiduCproConfig['bu'] = 0;   //是否展现show url
+	arrBaiduCproConfig['channel'] = '12';   //渠道值
+	arrBaiduCproConfig['k'] = '';
+</script>
+<script src="//cpro.baidustatic.com/cpro/ui/ui.js" type="text/javascript"></script>
+<script src="//s.baixing.net/js/module/cookie.81431fea.js"></script>
+<script>
+/* taq 处理 */
+$(document).ready(function () {
+	var data = [];
+	if (_taq.length) {
+		data = _taq;
+	}
+	_taq = {
+		push : function(data) {
+			switch (data[0]) {
+				case 'evt' :
+					var attribute = $.extend({
+						"_pvid": tracker.lastPvId
+						, "_reid": tracker.reid
+						, "_city": tracker.city_name
+						, "_category": tracker.category
+						, "_ad": tracker.adid
+						, "_url": document.location.href.length ? document.location.href.substr(0, 4000) : ''
+						, "_bnid": Cookie.read('kjj_trace_banner_id')
+						, "_clid": Cookie.read('kjj_trace_click_id_new')
+						, "_prof": Cookie.read('kjj_trace_profile_new')
+						, "_refer": document.referrer.length ? document.referrer : ''
+					}, data[2]);
+					$.get('/c/ev/' + encodeURIComponent(data[1]), attribute);
+					break;
+				case 'ic' :
+					$.get( '/c/ic/' + encodeURIComponent(data[1]));
+					break;
+				case 'count' :
+					$.get( '/c/mc/' + encodeURIComponent(data[1]) + '.' + encodeURIComponent(data[2]));
+					break;
+				case 'timing' :
+					$.get('/c/tm/' + encodeURIComponent(data[1]) + '.' + encodeURIComponent(data[2]) +
+					'.' + encodeURIComponent(data[3]))
+					break;
+				case 'klog' :
+					$.get( '/c/klog/' + encodeURIComponent(data[1]), data[2]);
+					break;
+				case 'perf' :
+					$.get('/c/perf/' + encodeURIComponent(data[1]), data[2]);
+					break;
+				case 'manageTrack' :
+					$.get('/c/mt/' + encodeURIComponent(data[1]), data[2]);
+					break;
+			}
+		}
+	};
+	while (data.length) {
+		_taq.push(data.shift());
+	}
+});
+</script>
+<script id="perf2"></script><script id="perflog"></script><div id='chat-to-app' class='modal modal-load disable-setpos hide'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-label='Close' class='close'><span aria-hidden>&times;</span></button><div class='modal-top'><span>登录</span></div></div><div class='modal-body'><img src='//file.baixing.net/201703/b6ed3ad67a0e69ed4fb6552877b1be1b.png' class='qr-code'><div class='tip'>下载APP无需登录实时接受私信提醒，联系更便捷！或点击下方先登录再进入私信联系</div></div><div class='modal-commit'><a id='chat-login-btn' href='javascript:;' class='modal-input'>立即登录</a></div></div></div></div><script> _defer.push(function(){  var islogin = Cookie && Cookie.read('__n') && Cookie.read('__u') && Cookie.read('__c');  if (!islogin) {   var $loginBtn = $('#chat-login-btn');   var $appModal = $('#chat-to-app');   $('#show-chat, #chat-button').on('click', function (e) {    e.preventDefault();    var type = $(this).attr('id').indexOf('show-chat') > -1 ? 'chat' : 'open';    $appModal.modal('show');    $loginBtn     .attr('data-type', type)     .attr('href', '/oz/login?redirect=' + encodeURIComponent(window.location.href));   });   $loginBtn.on('click', function(){    Cookie && Cookie.write('__unlogin_chat', $(this).attr('data-type'), 1);   });   return;  }    if (typeof WebChat !== 'undefined' && islogin) {   /* when ready */   var $el = $('#chat-button');   WebChat.onReady(function () {    $el.on('click', function (e) {     e.preventDefault();     e.stopPropagation();     window.WebChat && window.WebChat.toggle();     window.tracker && tracker.evt('chat_btn_click', {});    });    if (Cookie && Cookie.read('__unlogin_chat') === 'open') {     $el.trigger('click');     Cookie.write('__unlogin_chat', '', -1);    }   });  } });</script><script class='collector-bar'></script><script type='text/javascript'>
+(function() {
+	function b64EncodeUnicode(str) {
+		return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, function(match, p1) {
+			return String.fromCharCode('0x' + p1);
+		}));
+	}
+
+	$('.ex_re').on('click', function(e) {
+		var $el = $(e.target)
+		var link = $el.attr('href')
+
+		if(!$el.data('url')) $el.data('url', link)
+
+		var extra = { url: $el.data('url'), href: window.location.href }
+		var encodeLink = b64EncodeUnicode($.param({url: link, eventType: 'external_redirect', eventValue: extra})).toString()
+		var redirectUrl = 'http://www.baixing.com/redirect/index?r=' + encodeLink.replace('+', '-').replace('_', '/').replace('=', ',')
+
+		$el.attr('href', redirectUrl)
+	})
+})();
+</script><script type='text/javascript'>
+(function() {
+	var clickedAdsense = []
+
+	$('body').on('adsense_click', function(event, data) {
+		if(!data || !data.id) return false
+
+		var id = '#' + data.id
+		if(clickedAdsense.indexOf(id) === -1) {
+			clickedAdsense.push(id)
+		} else {
+			setTimeout(function() {
+				$(id).remove()
+			}, 1000)
+		}
+	})
+
+	// 暂时检测一下搜索广告点击状况，就不取全量了
+	if (Math.random() < 0.1) {
+		$('body').on('click', '.media.clearfix.adsense', function(e) {
+			var offset = $(e.target).parents('.adsense').offset()
+			var posY = offset.top - $(window).scrollTop()
+			var posX = offset.left - $(window).scrollLeft()
+
+			var result = {
+				x: e.screenX - posX,
+				y: e.screenY - posY - 120
+			}
+
+			tracker.evt('search_ad_click_position', result)
+		})
+	}
+})();
+</script>
+</body></html>
