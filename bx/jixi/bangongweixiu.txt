@@ -1,0 +1,466 @@
+<!DOCTYPE html><html><head><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta charset='utf-8'><script id="perf0"></script><link rel='dns-prefetch' href='//file.baixing.net/'><link rel='dns-prefetch' href='//img4.baixing.net/'><link rel='dns-prefetch' href='//img5.baixing.net/'><link rel='dns-prefetch' href='//img6.baixing.net/'><meta name='apple-itunes-app' content='app-id=591540113'><meta property='qc:admins' content='27606217656211016763757'><meta name='renderer' content='webkit'><meta name='applicable-device' content='pc'><title>【鸡西办公设备维修_鸡西办公用品维修_上门维修】 - 鸡西百姓网</title><meta name='keywords' content='鸡西办公设备维修,鸡西办公用品维修'><meta name='description' content='百姓网鸡西办公设备维修频道是鸡西本地最大的办公设备维修信息免费发布、查询平台，您不仅可以免费快速查找到鸡西专业办公设备维修服务公司，还可以免费发布您公司的办公设备维修相关信息。'><meta name='location' content='province=黑龙江;city=鸡西;coord=130.969333,45.295075'><link rel='alternate' href='http://jixi.baixing.com/m/bangongweixiu/' media='handheld' type='application/vnd.wap.xhtml+xml'><meta http-equiv='mobile-agent' content='format=html5; url=http://jixi.baixing.com/m/bangongweixiu/'><meta http-equiv='mobile-agent' content='format=wml; url=http://jixi.baixing.com/m/bangongweixiu/'><meta http-equiv='mobile-agent' content='format=xhtml; url=http://jixi.baixing.com/m/bangongweixiu/'><script> /* 预防吉林铁通篡改百度js删除cookie */ (function() {  var _setInterval = setInterval;  try {   setInterval = function(f) {    var src = f.toString();    if (!/_hao_pg/.test(src)) {     return _setInterval.apply(window, arguments);    }   };  } catch (e) {   /* slient */  } })(); </script><script> document.documentElement.className += ' js' </script><script> void function(){  var a = location.hostname.split('.').slice(-2);  if (a[0] === 'baixing' && (a[1] === 'com' || a[1] === 'cn')) document.domain = a.join('.'); }(); var _defer=[], _taq=[]; </script><script>!function(){"use strict";function e(e){if("object"==typeof e){return n({errMessage:e.message||e.msg,errLine:e.line||e.lineno||e.lineNumber,errFile:e.file||e.filename||e.fileName,errPage:t(location.pathname),percent:e.percent},e.error||e),e.error||e}}function t(e){return e.replace(/a\d+\.html$/,"aNNNNNNN.html")}function n(e,t){Math.random()>(e.percent||.1)/100||(t&&t.stack&&(e.stack=t.stack.substring(0,500)),tracker.kLog("fe_error",e))}window.Raven&&Raven.config("//815017857a8b440084898577b6917624@error.baixing.net/3",{dataCallback:function(e){var t=e.exception.values[0];e.message||(e.message=t.type+": "+t.value,e.extra.messageSupported=!1);for(var n=t.stacktrace.frames,o=0;o<n.length;o++)n[o].colno=n[o].colno||0},release:"2017-04-16 15:54:26",shouldSendCallback:function(e){var t=e.exception.values[0];return!/MSIE [567]/.test(navigator.userAgent)&&!/ReferenceError.*?:.*?(?:\$|jQuery|Promise|RongIMLib|webpackJsonp)/.test(e.message||t.type+t.value)},whitelistUrls:[/s\.baixing\.net/]}).install(),window.errorTracker=e,window.reportError=function(){var e={};return function(t,n,o,r,i){if(!t._t){t._t=(new Date).getTime();var a=new Error;e[t._t]=a,a.columnNumber=i,a.fileName=n,a.lineNumber=r,a.message=t.message||t.description,a.name=t.name,a.stack=t.stack||t.name+": "+a.message,setTimeout(function(){delete e[t._t],t._r||window.Raven&&Raven.captureException(a,{extra:{stackSupported:!!t.stack}})},1)}var a=e[t._t];!t.stack&&n&&(a.stack+="\n\tat "+o+" (//s.baixing.net"+n+":"+r+":"+i+")")}}()}();var tracker={lastTimestamp:(new Date).getTime(),referrer:null,city:null,city_name:null,category:null,pagetype:null,trackid:null,adid:null,visitorid:null,userid:"",cv1:"",cv2:"",cv3:"",tk1:"",tk2:"",tk3:"",tk4:"",tk5:"",ic:function(e,t){_taq.push(["ic",e,t?"uv":"pv"])},count:function(e,t){_taq.push(["count",e,t])},timing:function(e,t,n){_taq.push(["timing",e,t,n])},kLog:function(e,t){_taq.push(["klog",e,t])},evt:function(e,t){_taq.push(["evt",e,t])},perf:function(e){_taq.push(["perf",tracker.pageType,e])},ga:function(e,t,n,o){_taq.push(["ga",e,t,n,o])},manageTrack:function(e,t){_taq.push(["manageTrack",e,t])},resErr:function(e){var t;switch(e.nodeName.toLowerCase()){case"link":t=e.href;break;case"script":case"img":case"iframe":t=e.src;break;default:return}"function"==typeof window.errorTracker&&window.errorTracker({msg:"Resource Error",file:t,percent:1})},setCategory:function(e){this.category=e},setCity:function(e){this.city=e},setCityEnglishName:function(e){this.city_name=e},setTrackId:function(e){this.trackid=e},setAdId:function(e){this.adid=e},setVisitorId:function(e){this.visitorid=e},setUserId:function(e){this.userid=e},generateId:function(){var e=(new Date).getTime(),t=Math.random().toString().slice(2)+"-"+e+"-"+(e^this.trackid^parseInt(this.reid,16))+"-"+(e-this.lastTimestamp);if(this.lastTimestamp=e,this.lastPvId=t,window.sessionStorage)try{window.sessionStorage.setItem("bx:pvid",t)}catch(n){}return t},parentId:function(){return this.lastPvId?this.lastPvId:window.sessionStorage?window.sessionStorage.getItem("bx:pvid"):"NA"},consumeLastClick:function(){var e=this.lastClick;return e&&(this.lastClick=null),window.sessionStorage&&(e||(e={target:window.sessionStorage.getItem("bx:click.target"),time:window.sessionStorage.getItem("bx:click.time")}),window.sessionStorage.removeItem("bx:click.target"),window.sessionStorage.removeItem("bx:click.time")),e?new Date-e.time+"$"+e.target:""},pv:function(){var e=new Image;e.id="garyTracker",e.src=["//gary.","baixing.com/arrow.php?"].join("")+"ppvid="+this.parentId()+"&pvid="+this.generateId()+"&click="+encodeURIComponent(this.consumeLastClick())+"&reid="+encodeURIComponent(this.reid)+"&url="+encodeURIComponent(document.location.href.length?document.location.href:"")+"&ref="+encodeURIComponent(this.referrer||(document.referrer.length?document.referrer:""))+"&ct="+encodeURIComponent(this.city)+"&ctn="+encodeURIComponent(this.city_name)+"&cat="+encodeURIComponent(this.category)+"&vid="+encodeURIComponent(this.visitorid)+"&uid="+encodeURIComponent(this.userid)+"&tid="+encodeURIComponent(this.trackid)+"&adid="+encodeURIComponent(this.adid)+"&cv1="+encodeURIComponent(this.cv1)+"&cv2="+encodeURIComponent(this.cv2)+"&cv3="+encodeURIComponent(this.cv3)+"&cv4="+encodeURIComponent(this.cv4)+"&cv5="+encodeURIComponent(this.cv5)+"&tk1="+encodeURIComponent(this.tk1)+"&tk2="+encodeURIComponent(this.tk2)+"&tk3="+encodeURIComponent(this.tk3)+"&tk4="+encodeURIComponent(this.tk4)+"&tk5="+encodeURIComponent(this.tk5)}};!function(e){function t(t){var n=+new Date;t||(t=e.event);var r=o(t.target||t.srcElement);if(e.tracker&&(e.tracker.lastClick={target:r,time:n}),e.sessionStorage)try{e.sessionStorage.setItem("bx:click.target",r),e.sessionStorage.setItem("bx:click.time",n)}catch(i){}}function n(e){for(var t=1,n=e.tagName;e=i(e);)e.tagName===n&&t++;return t}function o(e){var t;if(1!==e.nodeType)t="/*"+e.nodeName+"*/";else{if(t=e.tagName,e.id)return t+"#"+e.id;var r=i(e);if(r){if(r.id)return r.tagName+"#"+r.id+"+"+t;var a=n(e);t+=1===a?":first-of-type":":nth-of-type("+a+")"}else t+=":first-child"}var c=e.parentNode;return c&&1===c.nodeType&&"body"!==c.tagName.toLowerCase()?o(c)+">"+t:t}var r=e.document;r.addEventListener?r.addEventListener("click",t,!1):r.attachEvent?r.attachEvent("onclick",t):r.onclick=t;var i;i=r.documentElement.previousElementSibling!==undefined?function(e){return e.previousElementSibling}:function(e){for(;(e=e.previousSibling)&&1!==e.nodeType;);return e}}(window),function(e){function t(){e.$&&(o(document,"DOMContentLoaded",t),o(e,"load",t),r(),$(document).on("click",i),a())}function n(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function o(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent&&e.detachEvent("on"+t,n)}function r(){var t=document.createElement("a");t.href=document.referrer;var n,o,r,i=t.hostname;i.indexOf("baidu.com")>=0&&(r=document.referrer.match(/baidu.+wo?r?d=([^\\&]*)/i))?(n=r[1],o="baidu"):i.indexOf("google.com")>=0&&(r=document.referrer.match(/google.+q=([^\\&]*)/i))?(n=r[1],o="google"):i.indexOf("so.com")>=0&&(r=document.referrer.match(/so.+q=([^\\&]*)/i))?(n=r[1],o="so"):i.indexOf("haosou.com")>=0&&(r=document.referrer.match(/haoso.+q=([^\\&]*)/i))?(n=r[1],o="haosou"):i.indexOf("sm.cn")>=0&&(r=document.referrer.match(/sm.+q=([^\\&]*)/i))&&(n=r[1],o="sm"),o&&(e.landingKeyword=decodeURIComponent(n).replace(/^\s+|\s+$/g,""),e.seoSource=o)}function i(t){var n=t.target;if($.contains(document.body,n)){for(;"A"!=n.nodeName&&"BODY"!=n.nodeName;)n=n.parentNode;if("A"==n.nodeName&&n.hostname){if(!(null!==/(baixing.cn|baixing.com)$/i.exec(n.hostname))){var o=$(n).data();o.href=n.href,e.seoSource&&(o.landing_keyword=e.landingKeyword,o.seo_source=e.seoSource),o.timestamp=Math.floor(Date.now()/1e3),tracker.evt("external_click",o),$("body").trigger("adsense_click",$(t.target).parents(".adsense"))}}}}function a(){function t(){if(n){var t=$("#"+n).data();$.isEmptyObject(t)&&(t.id=$("#"+n).attr("id")),e.seoSource&&(t.landing_keyword=e.landingKeyword,t.seo_source=e.seoSource),t.timestamp=Math.floor(Date.now()/1e3),tracker.evt("external_click",t),$("body").trigger("adsense_click",$("#"+n))}}var n=!1;$(document).on("mouseenter",".iframe-3rd-party,.third-party-wrapper iframe",function(){n=this.id}).on("mouseleave",".iframe-3rd-party,.third-party-wrapper iframe",function(){n=!1,e.focus()}),$(e).on("blur",t)}n(document,"DOMContentLoaded",t),n(e,"load",t)}(window);var ON_PRODUCTION = 1;
+
+tracker.setCategory('bangongweixiu');
+tracker.setCity('111');
+tracker.setCityEnglishName('jixi');
+tracker.setAdId('');
+tracker.setUserId('');
+tracker.setTrackId('149234428897676');
+tracker.setVisitorId('');
+
+tracker.tk1 = '';
+tracker.tk2 = 'sharp_ranking0';
+tracker.tk3 = '';
+tracker.tk4 = 'fenglin_title_test0';
+tracker.tk5 = '';
+
+tracker.cv1 = '';
+tracker.cv2 = '';
+tracker.cv3 = '';
+tracker.cv4 = '1492344288';
+tracker.cv5 = '149234428897676';
+tracker.reid = '58f35de07367954851';
+tracker.pageType = 'listing';
+</script><!--block ie6to8Style--><!--	include ie6to8style--><link rel='canonical' href='http://jixi.baixing.com/bangongweixiu/'><link rel='apple-touch-icon-precomposed' href='//s.baixing.net/img/wap/icon_bx_app_1308.png'><link rel='shortcut icon' href='//s.baixing.net/favicon.ico' type='image/x-icon'><script src="//s.baixing.net/d/refashion-lib/base.b79f74d5.js" onerror="tracker.resErr(this)" crossorigin></script><!--[if lt IE 9]><script src='//s.baixing.net/d/shim.0da4e718.js'></script><![endif]--><!--[if lt IE 8]><script src='//s.baixing.net/js/module/json2.min.96bd9bbd.js'></script><![endif]--><script id="perf1"></script><script>
+	/** Start: Google Analytics */
+	(function(i, s, o, g, r, a, m) {i['GoogleAnalyticsObject'] = r;i[r] = i[r] || function() {(i[r].q = i[r].q || []).push(arguments)}, i[r].l = 1 * new Date();a = s.createElement(o),m = s.getElementsByTagName(o)[0];a.async = 1;a.src = g;m.parentNode.insertBefore(a, m)})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', {trackingId: 'UA-6183853-1', cookieDomain: 'baixing.com', 'siteSpeedSampleRate': 100});
+
+</script>
+<script>
+			if (tracker.data) {
+		var city = tracker.data.city_name,
+			category = tracker.data.category,
+			platform = 'wap';
+	} else {
+		var city = tracker.city_name,
+			category = tracker.category,
+			platform = 'web';
+	}
+
+	ga('set', 'dimension1', city);
+	ga('set', 'dimension2', category);
+	ga('set', 'dimension3', 'Listing_Controller');
+	ga('set', 'dimension4', platform);
+
+	(function () {
+		var refer = document.referrer;
+		if (refer && refer.search("http://") > -1) {
+			var domain = refer.match(/:\/\/(.[^/]+)/)[1];
+			if (domain.indexOf("baidu.com") > -1) { //暂时只统计baidu，忽略其他份额小的SE。
+				ga('set', 'dimension5', 'Listing_Controller');
+			}
+		}
+	})();
+
+	ga('send', 'pageview');
+
+	/** End: Google Analytics */
+</script>
+
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?5a727f1b4acc5725516637e03b07d3d2";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<link rel="stylesheet" href="//s.baixing.net/d/refashion-common/index.443a150c.css" onerror="tracker.resErr(this)"><link rel='stylesheet' href='//s.baixing.net/font/baicons/baicons2.1657e729.css'><style media="print">body{background:url(/c/ev/print?_city=jixi&_category=bangongweixiu&_tk1=&_tk2=sharp_ranking0&_tk3=&_tk4=fenglin_title_test0&_tk5=&_tid=149234428897676&_url=http%3A%2F%2Fjixi.baixing.com%2Fbangongweixiu%2F&_refer=)}</style><link rel="stylesheet" href="//s.baixing.net/combine/css/d/refashion-b2c-listing/index.de5ec32c.css,/css/module/jquery-ui-1.9.1.custom.d3ae8ca1.css" onerror="tracker.resErr(this)"></head><!--[if lt IE 7 ]> <body class="ie6 lt-ie8"> <![endif]--><!--[if IE 7 ]>    <body class="ie7 lt-ie8"> <![endif]--><!--[if IE 8 ]>    <body class="ie8 category-bangongweixiu category-fuwu view-item"> <![endif]--><!--[if (gte IE 9)|!(IE)]><!--> <body class="category-bangongweixiu category-fuwu view-item"> <!--<![endif]--><header><div><div class='toolbar'><div class='toolbar-link'><i class='icon-mobile'></i><div class='dropdown wechat'><a rel='dialog' href='#promote-weixin-modal' data-toggle='modal'>微信版</a><div class='dropdown-block'><div class='one-block'><p class='dropdown-title'>百姓网公众号</p><p class='dropdown-describe'>微信扫码关注</p><img src='//file.baixing.net/201703/web-wechat-gongzhong.png' class='dropdown-img'></div><div class='one-block'><p class='dropdown-title'>百姓网小程序</p><p class='dropdown-describe'>微信扫扫立即体验</p><img src='//file.baixing.net/201703/fb5b82ef10f390699452795d20f569e7.png' class='dropdown-img'></div></div></div><div class='dropdown mobile'><a href='//www.baixing.com/a/mobile'>手机APP</a><div class='dropdown-block'><div class='one-block'><p class='dropdown-title'>扫码下载手机客户端</p><p class='dropdown-describe'>免费抢油卡、红包、电影票</p><img src='//file.baixing.net/201703/ad1efa7194f139b966bd3bdd9cb25adb.jpg' class='dropdown-img'></div></div></div><i class='sep'>|</i><a href='//qitaihe.baixing.com/bangongweixiu/'>七台河</a><a href='//mudanjiang.baixing.com/bangongweixiu/'>牡丹江</a><a href='//jiamusi.baixing.com/bangongweixiu/'>佳木斯</a><a href='//china.baixing.com'>全国</a><a href='//www.baixing.com/?changeLocation=yes&amp;return=%2Fbangongweixiu%2F'>[更多城市]</a></div><ul id='user-tools' class='navbar-nav'><li><a href='//www.baixing.com/oz/verify/reg' rel='nofollow' data-toggle='userAuth' data-type='reg'>注册</a></li><li><a href='//www.baixing.com/oz/login' rel='nofollow' data-toggle='userAuth' data-type='login'>登录</a></li><li class='dropdown'><a href='//www.baixing.com/ra/pay?src=topbar#vip' target='_blank'>商户推广<i class='icon-arrow-down'></i></a><ul class='dropdown-menu'><li><a href='//www.baixing.com/ra/pay/?src=header' target='_blank'>付费推广</a></li><li><a href='//vip.baixing.com/job_buy?src=topbar' target='_blank'>VIP会员-招聘版</a></li><li><a href='//vip.baixing.com/auto_buy?src=topbar' target='_blank'>VIP会员-车商版</a></li><li><a href='//vip.baixing.com/house_buy?src=topbar' target='_blank'>VIP会员-房产版</a></li><li><a href='//vip.baixing.com/service_buy?src=topbar' target='_blank'>VIP会员-服务版</a></li><li><a href='//vip.baixing.com/pet_buy?src=topbar' target='_blank'>VIP会员-宠物版</a></li></ul></li><li class='dropdown'><a href='javascript:;'>合作及工具<i class='icon-arrow-down'></i></a><ul class='dropdown-menu'><li><a href='//www.baixing.com/a/bdad/?src=home_topbar' target='_blank'>品牌网络推广</a></li><li><a href='http://api3.baixing.com.cn/?src=home_topbar' target='_blank'>API合作</a></li><li><a href='//www.baixing.com/PublicReview/' target='_blank'>大众评审</a></li><li><a href='//www.baixing.com/mkt/agents/' target='_blank'>诚招代理商</a></li></ul></li><li><a href='//www.baixing.com/help/' target='_blank'>帮助</a></li></ul></div></div><div><div class='location'><span class='breadcrumb'><a href='/' property='v:title' rel='v:url' class='primary-logo'><span class='city-logo'>鸡西</span><img alt='百姓网' src='//s.baixing.net/img/refashion/logo_baixing.png' width='95px' height='48px'></a><i class='icon-arrow-right'></i><a href='http://jixi.baixing.com' property='v:title' rel='v:url'>鸡西</a><i class='icon-arrow-right'></i><a href='/fuwu/' property='v:title' rel='v:url'>鸡西服务</a><i class='icon-arrow-right'></i><a href='/bangongweixiu/' property='v:title' rel='v:url'>鸡西设备维修</a><span class='post-total-count'>（22 条信息）</span></span><a href='//jixi.baixing.com/fabu/bangongweixiu' class='post'>免费发布设备维修信息</a></div></div></header><script id="fold-point">tracker.pv()</script><div class='refashion-listing-banner'><div data-ride="carousel" id="topCarousel" class="carousel slide">
+		<div role="listbox" class="carousel-inner">
+				<div class="item active">
+			<a href="javascript:void(0)" target="_blank">
+				<img src="//file.baixing.net/201607/9c2d1da99499b9d98ae61741624faf4e.jpg">
+			</a>
+		</div>
+			</div>
+</div>
+</div><div id='listing-fixed-filters'><form><fieldset class='dropdown'><legend data-toggle='dropdown'><span>服务内容</span><i class='icon-arrow-down'></i></legend><ul class='dropdown-menu'><li><a class='checked'>不限</a></li><li><a href='/bangongweixiu/m35847/'>打印机维修</a></li><li><a href='/bangongweixiu/m178761/'>一体机维修</a></li><li><a href='/bangongweixiu/m178760/'>复印机维修</a></li><li><a href='/bangongweixiu/m178765/'>投影仪维修</a></li><li><a href='/bangongweixiu/m35848/'>传真机维修</a></li><li><a href='/bangongweixiu/m178766/'>印刷机维修</a></li><li><a href='/bangongweixiu/m178767/'>绘图仪维修</a></li><li><a href='/bangongweixiu/m178763/'>考勤机维修</a></li><li><a href='/bangongweixiu/m178762/'>扫描仪维修</a></li><li><a href='/bangongweixiu/m178764/'>碎纸机维修</a></li><li><a href='/bangongweixiu/m178768/'>其他</a></li></ul></fieldset><i class='sep'></i><fieldset><legend><a href='#listing-filters'>更多筛选</a></legend></fieldset><a href='//jixi.baixing.com/fabu/bangongweixiu' class='post'>免费发布设备维修信息</a></form></div><div class='listing-fixed-bottom-promo'><div class='qrcode-container'><img src='//file.baixing.net/201604/043841105da8af0be03accadbc8202a2.png'><a href='javascript:;' class='close pull-right'>&times;</a></div></div><section><form id='listing-filters' class='compact '><fieldset><span class='legend'>服务内容</span><div class='links'><a class='checked'>不限</a><a href='/bangongweixiu/m35847/'>打印机维修</a><a href='/bangongweixiu/m178761/'>一体机维修</a><a href='/bangongweixiu/m178760/'>复印机维修</a><a href='/bangongweixiu/m178765/'>投影仪维修</a><a href='/bangongweixiu/m35848/'>传真机维修</a><a href='/bangongweixiu/m178766/'>印刷机维修</a><a href='/bangongweixiu/m178767/'>绘图仪维修</a><a href='/bangongweixiu/m178763/'>考勤机维修</a><a href='/bangongweixiu/m178762/'>扫描仪维修</a><a href='/bangongweixiu/m178764/'>碎纸机维修</a><a href='/bangongweixiu/m178768/'>其他</a></div></fieldset><fieldset><span class='legend'>服务范围</span><div class='area links'><a class='checked'>全鸡西</a><a href='/bangongweixiu/m7110/'>鸡冠</a><a href='/bangongweixiu/m7102/'>密山</a><a href='/bangongweixiu/m7104/'>鸡东</a><a href='/bangongweixiu/m7103/'>虎林</a><a href='/bangongweixiu/m7106/'>城子河</a><a href='/bangongweixiu/m7109/'>恒山</a><a href='/bangongweixiu/m7108/'>滴道</a><a href='/bangongweixiu/m7107/'>梨树</a><a href='/bangongweixiu/m7105/'>麻山</a></div></fieldset><fieldset class='search-fieldset'><input name='query' type='search' placeholder='搜设备维修' value='' class='search-query'><a href='javascript:void 0;' class='search-trigger'><i class='icon-search'></i></a></fieldset></form><div data-type='fuwu' class='data-store'></div></section><div id='js-fixed-filter-anchor'></div><section class='container'><aside class='sidebar waterfall-glist'><div class='sidebar-filter subscribe'><div class='title'><i class='icon-xiangguan'></i>信息免费订阅</div><strong>鸡西 设备维修</strong><a href='#email-tips' role='button' data-toggle='modal' class='subscribe-button'>有新信息通知我</a></div><div class='rightside-adsense'><script type="text/javascript">
+	(function() {
+		var cpro_id = "u2839315";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+</div><div id='port-info' class='sidebar-filter'><div class='title'><i class='icon-gold'></i>热门商家</div><div class='sidebar-filter-block'><a target='_blank' href='http://vip.baixing.com/service_buy?src=listing'><img src='//file.baixing.net/201612/38d02cd6197fe00aefda7b7934b430d8.jpg' width='160' height='160' class='sidebar-buy-url'></a></div></div><script type="text/javascript" src="//script-bd.baixing.net/ir3a1ecf94f0c8f33adb1463c6a3fa79ed54ebc50d35e57fec1a25.js"></script><iframe style="height:200px;width:200px;overflow:hidden;margin-left:auto;margin-right:auto;" frameborder="0" scrolling="no" src="//s.baixing.net/adsense/baidu_union.php?cpro_id=u2868783" class="iframe-3rd-party" id="union_iframe_u2868783" data-act_type="baidu_union" data-id="u2868783"></iframe><script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868828";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+<div style="margin: 15px 0" class="media-box third-party-wrapper"> <iframe style="height:400px;width:200px;overflow:hidden;margin-left:auto;margin-right:auto;" frameborder="0" scrolling="no" src="//s.baixing.net/adsense/baidu_union.php?cpro_id=u2868775" class="iframe-3rd-party" id="union_iframe_u2868775" data-act_type="baidu_union" data-id="u2868775"></iframe> </div><div class="media-box-fixed" style="width:200px;">
+<script type="text/javascript" src="//script-bd.baixing.net/bw3a1ecf96f3cef33fdb1463c6a3fa79ed54ebc50d35e57fec1a25.js"></script><div style="margin: 15px 0" class="media-box third-party-wrapper"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868810";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><div style="margin: 15px 0" class="media-box third-party-wrapper"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868860";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div></div>
+<script type="text/javascript">
+_defer.push(function() {
+	var $sticky = $('.media-box-fixed');
+	if ($(document).height() > 7000) {
+		var _top = $sticky.offset().top - 45;
+		var _offset = $('.foot-links-box').offset();
+		var _bottom = _offset ? $(document).height() - _offset.top : 20;
+		$sticky.affix({
+			offset: {
+				top: function (){
+					// 由于广告是异步加载的，_top的值在加载完成后可能会变大，这里取到这个最后的值做为affix插件的数据
+					// 注意：由于affix插件的特性，在变成affix-bottom之后, $sticky.offset().top会被覆盖，这里的判断条件过滤了这种情况
+					_top = $sticky.offset().top - 45 > _top && $sticky.hasClass('affix-top') ?$sticky.offset().top - 45: _top;
+					return _top;
+				},
+				bottom: _bottom
+			}
+		});
+	}
+});
+</script>
+</aside><div id='weixin-tips' tabindex='-1' role='dialog' class='modal hide'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-hidden class='close'>×</button><div id='app-download-section' class='clearfix'><div style='margin:0 0 10px 0px;font-size:1.17em;font-weight:bold'>手机App订阅</div><div style='text-align:center'><div><img id='app-download-section-img' src='//file.baixing.net/201410/95967a3f4e7e33eac4b62aa5d802b9d3.png'><div id='app-download-section-qrcode'><img src='//file.baixing.net/201410/d111c4814bdd10412c226474d9290aca.png'></div></div><div id='app-download-section-title'>扫码下载百姓网APP，随时订阅信息，还能私信沟通！</div></div></div><div class='modal-title'>微信订阅</div></div><div class='modal-body'><img id='sub-qr-code' src='//s.baixing.net/img/subscribe/baixing1.jpg'><div id='txtcontent'><p class='hint'><p>打开微信扫一扫二维码，一步轻松订阅！</p><p>订阅后，“鸡西 设备维修”有新信息时将通过微信优先通知您。</p></p><p class='other-tips'>没有微信？您可以使用<span href='#email-tips' id='qq-sub' data-toggle='modal' class='btn email-modal'>&nbsp;QQ订阅</span>&nbsp;或&nbsp;<span href='#email-tips' id='email-sub' data-toggle='modal' class='email-modal btn'>邮件订阅 &nbsp;</span></p></div></div></div></div></div><div id='email-tips' tabindex='-1' role='dialog' class='modal hide'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-hidden class='close'>×</button><div class='modal-title'>手机订阅</div></div><div class='modal-body'><div class='text-line'><span class='icon-weixin'></span><span>扫码关注百姓网公众号，随时订阅信息！</span></div><img src='//file.baixing.net/201604/886cdef3c3645949a974d03e76e20ca3.png' class='tip-img'></div></div></div></div><script> _defer.push(function() {  window.initSidebarModal('', '设备维修 鸡西 设备维修') });</script><div class='main'><!-- zoufeng(zoufeng@baixing.com)--><ul role='tablist' class='listing-tab-navi'><li class='active'><h1><a href='/bangongweixiu/'>设备维修</a></h1></li><li class='tab-title-item'><h1><a href='/weishop/brands/bangongweixiu/#list' target='_blank'>热门商家</a></h1></li></ul><div class='listing-viewtype-switch'><div><label><input type='checkbox' data-target='/bangongweixiu/?imageFlag=1' >只看有图</label></div><div><label><input type='checkbox' data-target='/bangongweixiu/?todayOnly=1' >只看今天发布的信息</label></div><div><label><input type='checkbox' data-target='/bangongweixiu/?sixinOnlineFlag=1' >只看私信在线</label></div></div><ul style='border-top: 1px dotted #eee;' class='list-ad-items'><li data-aid='1108520108' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15845337358' data-qq='' data-id='1108520108' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a1108520108.html' target='_blank' class='ad-title'>安防产品安装设计和维修。</a></div><div class='ad-item-detail'>鸡西 - 鸡冠、鸡东<a href='/a/mobile/?source=chatonlineicon' target='_blank' class='icon'><i class='icon-private-message'></i></a></div><div class='ad-item-detail'><time>4月10日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='995170191' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18746704766' data-qq='' data-id='995170191' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a995170191.html' target='_blank' class='ad-title'>老电工，技术说话！18746704766</a></div><div class='ad-item-detail'>鸡西 - 鸡冠</div><div class='ad-item-detail'><time>4月7日</time></div></div></li><li data-aid='990965889' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15146131188' data-qq='' data-id='990965889' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a990965889.html' target='_blank' class='ad-title'>鑫旺电机水泵维修中心</a></div><div class='ad-item-detail'>鸡西 - 鸡冠</div><div class='ad-item-detail'><a href='http://jixi.baixing.com/bangongweixiu/a990965889.html'>鑫旺电机水泵维修中心</a>&nbsp;/&nbsp;<time>4月2日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='915977715' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13846044245' data-qq='' data-id='915977715' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a915977715.html' target='_blank' class='ad-title'>百姓 电工</a></div><div class='ad-item-detail'>鸡西 - 鸡冠</div><div class='ad-item-detail'><a href='http://jixi.baixing.com/bangongweixiu/a915977715.html'>乔廉皓</a>&nbsp;/&nbsp;<time>3月19日</time></div></div></li><li data-aid='1100334837' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13029895583' data-qq='2295588022' data-id='1100334837' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a1100334837.html' target='_blank' class='ad-title'>电气检修 可救援</a></div><div class='ad-item-detail'>鸡西 - 虎林、鸡东</div><div class='ad-item-detail'><a href='http://jixi.baixing.com/bangongweixiu/a1100334837.html'>虎林</a>&nbsp;/&nbsp;<time>3月16日</time></div></div></li><li data-aid='1067231199' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15045104517' data-qq='276716088' data-id='1067231199' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a1067231199.html' target='_blank' class='ad-title'>维修各类灭火器及销售</a></div><div class='ad-item-detail'>鸡西 - 鸡冠、虎林</div><div class='ad-item-detail'><time>16年11月19日</time></div></div></li><li data-aid='1010420051' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15946761790' data-qq='' data-id='1010420051' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a1010420051.html' target='_blank' class='ad-title'>专业维修舞台灯光音响投影机</a></div><div class='ad-item-detail'>鸡西 - 鸡冠</div><div class='ad-item-detail'><time>16年11月3日</time></div></div></li><li data-aid='1051113720' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13199189882' data-qq='' data-id='1051113720' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a1051113720.html' target='_blank' class='ad-title'>照明安装，单相，三相电机控制接线</a></div><div class='ad-item-detail'>鸡西 - 密山、虎林</div><div class='ad-item-detail'><time>16年10月10日</time></div></div></li><li data-aid='866836473' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15146788808' data-qq='39457511' data-id='866836473' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a866836473.html' target='_blank' class='ad-title'>上门精修电脑/安装监控/电子屏 商标注册/公安备案</a></div><div class='ad-item-detail'>鸡西 - 鸡冠</div><div class='ad-item-detail'><a href='http://jixi.baixing.com/bangongweixiu/a866836473.html'>雷康网络科技有限公司</a>&nbsp;/&nbsp;<time>16年8月15日</time></div></div></li><li data-aid='1021658847' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15636893137' data-qq='408533990' data-id='1021658847' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a1021658847.html' target='_blank' class='ad-title'>专业维修改造排沙船</a></div><div class='ad-item-detail'>鸡西 - 城子河</div><div class='ad-item-detail'><time>16年7月26日</time></div></div></li><li data-aid='950413800' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13796431012' data-qq='' data-id='950413800' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a950413800.html' target='_blank' class='ad-title'>专业大小工厂设备维修，家庭电路维修</a></div><div class='ad-item-detail'>鸡西 - 鸡冠</div><div class='ad-item-detail'><a href='http://jixi.baixing.com/bangongweixiu/a950413800.html'>电工王</a>&nbsp;/&nbsp;<time>16年3月23日</time></div></div></li><li data-aid='918494786' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18714499981' data-qq='' data-id='918494786' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a918494786.html' target='_blank' class='ad-title'>电工，安装热水器</a></div><div class='ad-item-detail'>鸡冠</div><div class='ad-item-detail'><a href='http://jixi.baixing.com/bangongweixiu/a918494786.html'>小孙帮忙</a>&nbsp;/&nbsp;<time>16年2月1日</time></div></div></li><li data-aid='880023913' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18246779217' data-qq='' data-id='880023913' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a880023913.html' target='_blank' class='ad-title'>专业焊接   有用的联系</a></div><div class='ad-item-detail'>梨树</div><div class='ad-item-detail'><a href='http://jixi.baixing.com/bangongweixiu/a880023913.html'>个体</a>&nbsp;/&nbsp;<time>15年12月7日</time></div></div></li><li data-aid='878085728' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15045773075' data-qq='' data-id='878085728' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a878085728.html' target='_blank' class='ad-title'>机电设备安装</a></div><div class='ad-item-detail'>鸡冠</div><div class='ad-item-detail'><a href='http://jixi.baixing.com/bangongweixiu/a878085728.html'>建设安装公司</a>&nbsp;/&nbsp;<time>15年12月2日</time></div></div></li><li data-aid='853930907' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18746704766' data-qq='' data-id='853930907' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a853930907.html' target='_blank' class='ad-title'>专业水暖电，维修小家电</a></div><div class='ad-item-detail'>鸡西 - 鸡冠</div><div class='ad-item-detail'><time>15年11月12日</time></div></div></li><li data-aid='855100696' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13796447911' data-qq='506110222' data-id='855100696' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a855100696.html' target='_blank' class='ad-title'>维修矿山设备（主修推拉缸）</a></div><div class='ad-item-detail'>鸡西 - 鸡冠</div><div class='ad-item-detail'><a href='http://jixi.baixing.com/bangongweixiu/a855100696.html'>东山工业园区</a>&nbsp;/&nbsp;<time>15年10月26日</time></div></div></li><li data-aid='834267821' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18714499981' data-qq='' data-id='834267821' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a834267821.html' target='_blank' class='ad-title'>专业维修各种强电设备。各种强电弱点</a></div><div class='ad-item-detail'>鸡西 - 鸡东</div><div class='ad-item-detail'><a href='http://jixi.baixing.com/bangongweixiu/a834267821.html'>小孙帮忙</a>&nbsp;/&nbsp;<time>15年9月22日</time></div></div></li><li data-aid='741312778' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13796419606' data-qq='' data-id='741312778' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a741312778.html' target='_blank' class='ad-title'>专业打印机维修</a></div><div class='ad-item-detail'>鸡冠</div><div class='ad-item-detail'><a href='http://jixi.baixing.com/bangongweixiu/a741312778.html'>思达电脑</a>&nbsp;/&nbsp;<time>15年5月21日</time></div></div></li><li data-aid='273853150' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18636019919' data-qq='' data-id='273853150' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a273853150.html' target='_blank' class='ad-title'>专业维修打印机，一体机，复印机，传真机</a></div><div class='ad-item-detail'>鸡冠</div><div class='ad-item-detail'><a href='http://jixi.baixing.com/bangongweixiu/a273853150.html'>总部。北京腾达科技有限公司</a>&nbsp;/&nbsp;<time>15年4月24日</time></div></div></li><li data-aid='638088007' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18045769899' data-qq='' data-id='638088007' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a638088007.html' target='_blank' class='ad-title'>全系打印机灌粉维护维修</a></div><div class='ad-item-detail'>密山</div><div class='ad-item-detail'><time>15年3月1日</time></div></div></li><li data-aid='517951729' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18511446607' data-qq='' data-id='517951729' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a517951729.html' target='_blank' class='ad-title'>上们维修电脑 打印机专业电脑公司</a></div><div class='ad-item-detail'>恒山</div><div class='ad-item-detail'><time>14年11月28日</time></div></div></li><li data-aid='435224188' data-cpm-sign='' data-inorganic='1' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='15146753721' data-qq='' data-id='435224188' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://jixi.baixing.com/bangongweixiu/a435224188.html' target='_blank' class='ad-title'>上门做系统，打印机换粉专业维修电脑，组家庭无线网络</a></div><div class='ad-item-detail'>鸡西 - 鸡冠</div><div class='ad-item-detail'><time>14年9月24日</time></div></div></li></ul><div id='suggested-list'><h3>周边城市或地区：<a href='http://qitaihe.baixing.com/bangongweixiu/'>七台河</a><a href='http://mudanjiang.baixing.com/bangongweixiu/'>牡丹江</a><a href='http://jiamusi.baixing.com/bangongweixiu/'>佳木斯</a><a href='http://shuangyashan.baixing.com/bangongweixiu/'>双鸭山</a><a href='http://hegang.baixing.com/bangongweixiu/'>鹤岗</a></h3><ul class='list-ad-items'><li data-aid='1094162358' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='17713388858' data-qq='1480970672' data-id='1094162358' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://hegang.baixing.com/bangongweixiu/a1094162358.html?sgs=extra' target='_blank' class='ad-title'>安防监控 网络组建 打印耗材 酒店超市收银设备</a></div><div class='ad-item-detail'>鹤岗 - 工农、向阳</div><div class='ad-item-detail'><a href='http://hegang.baixing.com/bangongweixiu/a1094162358.html'>鹤岗市大元网络科技有限公司</a>&nbsp;/&nbsp;<time>4月10日</time></div></div></li><li data-aid='1104503465' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13946558233' data-qq='' data-id='1104503465' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://qitaihe.baixing.com/bangongweixiu/a1104503465.html?sgs=extra' target='_blank' class='ad-title'>消防维修，检测</a></div><div class='ad-item-detail'>七台河 - 桃山、新兴</div><div class='ad-item-detail'><time>3月29日</time></div></div></li><li data-aid='1101265502' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13634644500' data-qq='' data-id='1101265502' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://shuangyashan.baixing.com/bangongweixiu/a1101265502.html?sgs=extra' target='_blank' class='ad-title'>友谊地区精修水稻插秧机</a></div><div class='ad-item-detail'>双鸭山 - 友谊</div><div class='ad-item-detail'><time>3月20日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='708752308' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='13945757837' data-qq='1430611702' data-id='708752308' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://hegang.baixing.com/bangongweixiu/a708752308.html?sgs=extra' target='_blank' class='ad-title'>设备维修～13945757837</a></div><div class='ad-item-detail'>鹤岗 - 工农</div><div class='ad-item-detail'><time>2月28日</time></div></div></li><li data-aid='320396175' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='media-body'><div class='media-body-title'><span class='highlight'><button data-contact='18945174004' data-qq='' data-id='320396175' class='contact-button'><i class='icon-tel'></i>联系卖家</button></span><a href='http://hegang.baixing.com/bangongweixiu/a320396175.html?sgs=extra' target='_blank' class='ad-title'>鹤岗市蓝达电脑 上门维修</a></div><div class='ad-item-detail'>鹤岗 - 工农</div><div class='ad-item-detail'><time>2月22日</time></div></div></li></ul></div><div style="padding-left: 15px"><script type="text/javascript" src="//script-bd.baixing.net/gs3a1ecf96ffcdf130db1463c6a3fa79ed54ebc50d35e57fec1a25.js"></script></div><section class='listing-pager-section'><ul class='list-pagination'><li class='active'><span>1</span></li></ul></section><div style="background-color:#FFF;padding: 10px 0;border:solid 1px #DDD;margin: 5px 0">
+<script type="text/javascript" src="//script-bd.baixing.net/ea3a1ecf96f3cef238db1463c6a3fa79ed54ebc50d35e57fec1a25.js"></script></div></div></section><section><section class='foot-links-box'><div id='foot-links'><table><tr><th>鸡西设备维修相关专题</th><td id='juhe'><a href='http://jixi.baixing.com/jh_%E7%94%B5%E8%84%91%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81/' target='_blank' class='selected'>鸡西电脑技术支持</a><a href='http://jixi.baixing.com/jh_%E7%94%B5%E7%84%8A%E6%8A%80%E6%9C%AF/' target='_blank' class='selected'>鸡西电焊技术</a><a href='http://jixi.baixing.com/jh_%E9%92%A2%E7%BB%93%E6%9E%84%E7%84%8A%E5%B7%A5/' target='_blank' class='selected'>鸡西钢结构焊工</a><a href='http://jixi.baixing.com/jh_%E7%94%B5%E5%AD%90%E7%94%B5%E7%84%8A/' target='_blank' class='selected'>鸡西电子电焊</a><a href='http://jixi.baixing.com/jh_%E7%94%B5%E7%84%8A%E7%94%B5%E7%84%8A/' target='_blank' class='selected'>鸡西电焊电焊</a><a href='http://jixi.baixing.com/jh_%E7%94%B5%E7%84%8A%E7%9A%84/' target='_blank' class='selected'>鸡西电焊的</a><a href='http://jixi.baixing.com/jh_%E5%81%A5%E8%BA%AB%E6%88%BF/' target='_blank' class='selected'>鸡西健身房</a><a href='http://jixi.baixing.com/jh_u%E7%9B%98%20%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D/' target='_blank' class='selected'>鸡西u盘 数据恢复</a><a href='http://jixi.baixing.com/jh_%E5%85%BC%E8%81%8C%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/' target='_blank' class='selected'>鸡西兼职平面设计</a><a href='http://jixi.baixing.com/jh_excel/' target='_blank' class='selected'>鸡西excel</a><a href='http://jixi.baixing.com/jh_%E9%AB%98%E7%BA%A7%E7%BB%B4%E4%BF%AE%E5%B7%A5/' target='_blank' class='selected'>鸡西高级维修工</a><a href='http://jixi.baixing.com/jh_%E7%94%B5%E8%84%91%20%E7%BB%B4%E4%BF%AE%E7%82%B9/' target='_blank' class='selected'>鸡西电脑 维修点</a><a href='http://jixi.baixing.com/jh_%E6%95%B0%E6%8D%AE%20%E6%81%A2%E5%A4%8D/' target='_blank' class='selected'>鸡西数据 恢复</a><a href='http://jixi.baixing.com/jh_%E7%BD%91%E7%BB%9C%E5%B8%83%E7%BA%BF/' target='_blank' class='selected'>鸡西网络布线</a><a href='http://jixi.baixing.com/jh_%E7%AC%94%E8%AE%B0%E6%9C%ACwifi%E7%BB%B4%E4%BF%AE/' target='_blank' class='selected'>鸡西笔记本wifi维修</a><a href='http://jixi.baixing.com/jh_%E4%B8%93%E4%B8%9A%E4%BF%AE%E7%A9%BA%E8%B0%83/' target='_blank' class='selected'>鸡西专业修空调</a><a href='http://jixi.baixing.com/jh_%E7%90%86%E5%85%89%E6%89%93%E5%8D%B0%E5%A4%8D%E5%8D%B0%E6%9C%BA%E4%B8%80%E4%BD%93%E6%9C%BA/' target='_blank' class='selected'>鸡西理光打印复印机一体机</a><a href='http://jixi.baixing.com/jh_%E7%90%86%E5%85%89%E9%BB%91%E7%99%BD%E9%AB%98%E9%80%9F%E5%A4%8D%E5%8D%B0%E6%9C%BA/' target='_blank' class='selected'>鸡西理光黑白高速复印机</a><a href='http://jixi.baixing.com/jh_%E5%B7%A5%E7%A8%8B%E7%BD%91%E7%BB%9C%E5%B8%83%E7%BA%BF/' target='_blank' class='selected'>鸡西工程网络布线</a><a href='http://jixi.baixing.com/jh_%E7%BD%91%E7%BB%9C%E5%B8%83%E7%BA%BF%E5%8F%8A%E7%BB%B4%E6%8A%A4/' target='_blank' class='selected'>鸡西网络布线及维护</a><a href='http://jixi.baixing.com/jh_%E7%BD%91%E7%BB%9C%E5%B8%83%E7%BA%BF%E4%B8%8E%E7%BB%B4%E6%8A%A4/' target='_blank' class='selected'>鸡西网络布线与维护</a><a href='http://jixi.baixing.com/jh_%E5%85%AC%E5%8F%B8%E5%B8%83%E7%BA%BF/' target='_blank' class='selected'>鸡西公司布线</a><a href='http://jixi.baixing.com/jh_%E5%85%AC%E5%8F%B8%E7%94%B5%E8%AF%9D%E5%B8%83%E7%BA%BF/' target='_blank' class='selected'>鸡西公司电话布线</a><a href='http://jixi.baixing.com/jh_%E5%B8%83%E7%BA%BF%E5%90%88%E7%90%86/' target='_blank' class='selected'>鸡西布线合理</a><a href='http://jixi.baixing.com/jh_%E6%95%99%E5%B8%88%E6%8B%9B%E8%80%83%E7%AC%94%E8%AF%95%E5%9F%B9%E8%AE%AD/' target='_blank' class='selected'>鸡西教师招考笔试培训</a><a href='http://jixi.baixing.com/jh_%E6%95%99%E5%B8%88%E6%8B%9B%E8%80%83%E5%9F%B9%E8%AE%AD/' target='_blank' class='selected'>鸡西教师招考培训</a><a href='http://jixi.baixing.com/jh_%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%AD%89%E7%BA%A7%20%E5%9F%B9%E8%AE%AD/' target='_blank' class='selected'>鸡西计算机等级 培训</a><a href='http://jixi.baixing.com/jh_u%E7%9B%98%E6%95%B0%E6%8D%AE%E8%A6%86%E7%9B%96%E6%81%A2%E5%A4%8D/' target='_blank' class='selected'>鸡西u盘数据覆盖恢复</a><a href='http://jixi.baixing.com/jh_u%E7%9B%98%E8%A3%85%E7%B3%BB%E7%BB%9F%20%E6%81%A2%E5%A4%8D/' target='_blank' class='selected'>鸡西u盘装系统 恢复</a><a href='http://jixi.baixing.com/jh_u%E7%9B%98%E8%87%AA%E5%8A%A8%E6%81%A2%E5%A4%8D%E7%B3%BB%E7%BB%9F/' target='_blank' class='selected'>鸡西u盘自动恢复系统</a><a href='http://jixi.baixing.com/jh_u%E7%9B%98%E6%89%93%E4%B8%8D%E5%BC%80%20%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D/' target='_blank' class='selected'>鸡西u盘打不开 数据恢复</a><a href='http://jixi.baixing.com/jh_%E7%AC%94%E8%AE%B0%E6%9C%AC%E8%AE%BE%E7%BD%AEwifi%E7%9A%84%E8%BD%AF%E4%BB%B6/' target='_blank' class='selected'>鸡西笔记本设置wifi的软件</a><a href='http://jixi.baixing.com/jh_u%E7%9B%98%E6%81%A2%E5%A4%8D%E8%AE%BE%E5%A4%87/' target='_blank' class='selected'>鸡西u盘恢复设备</a><a href='http://jixi.baixing.com/jh_%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D%E6%93%8D%E4%BD%9C/' target='_blank' class='selected'>鸡西数据恢复操作</a><a href='http://jixi.baixing.com/jh_%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D%E5%B7%A5%E4%BD%9C/' target='_blank' class='selected'>鸡西数据恢复工作</a><a href='http://jixi.baixing.com/jh_%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D%E7%BD%91/' target='_blank' class='selected'>鸡西数据恢复网</a><a href='http://jixi.baixing.com/jh_%E4%BF%A1%E6%81%AF%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D/' target='_blank' class='selected'>鸡西信息数据恢复</a><a href='http://jixi.baixing.com/jh_%E5%BF%AB%E9%80%9F%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D/' target='_blank' class='selected'>鸡西快速数据恢复</a><a href='http://jixi.baixing.com/jh_%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D%20f/' target='_blank' class='selected'>鸡西数据恢复 f</a><a href='http://jixi.baixing.com/jh_%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D%E5%BA%97/' target='_blank' class='selected'>鸡西数据恢复店</a><a href='http://jixi.baixing.com/jh_%E7%94%B5%E8%84%91%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D%E5%85%8D%E8%B4%B9/' target='_blank' class='selected'>鸡西电脑数据恢复免费</a><a href='http://jixi.baixing.com/jh_%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D%E7%9A%84%E5%B7%A5%E5%85%B7/' target='_blank' class='selected'>鸡西数据恢复的工具</a><a href='http://jixi.baixing.com/jh_%E6%A0%BC%E5%BC%8F%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D/' target='_blank' class='selected'>鸡西格式数据恢复</a><a href='http://jixi.baixing.com/jh_%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D/' target='_blank' class='selected'>鸡西网络数据恢复</a><a href='http://jixi.baixing.com/jh_%E4%BB%80%E4%B9%88%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D%E8%BD%AF%E4%BB%B6/' target='_blank' class='selected'>鸡西什么数据恢复软件</a><a href='http://jixi.baixing.com/jh_%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D%20%E4%B8%93%E4%B8%9A/' target='_blank' class='selected'>鸡西数据恢复 专业</a><a href='http://jixi.baixing.com/jh_%E4%B8%8A%E9%97%A8%E5%8D%96%E7%94%B5%E8%84%91/' target='_blank' class='selected'>鸡西上门卖电脑</a><a href='http://jixi.baixing.com/jh_%E7%94%B5%E8%84%91%E4%B8%8A%E9%97%A8%E7%BB%B4%E6%8A%A4%E4%BB%B7%E6%A0%BC/' target='_blank' class='selected'>鸡西电脑上门维护价格</a><a href='http://jixi.baixing.com/jh_%E7%94%B5%E8%84%91%E7%BB%B4%E4%BF%AE%E4%B8%8A%E9%97%A8%E6%9C%8D%E5%8A%A1%E9%A1%B9%E7%9B%AE/' target='_blank' class='selected'>鸡西电脑维修上门服务项目</a><a href='http://jixi.baixing.com/jh_%E5%8D%8E%E7%A1%95%E7%94%B5%E8%84%91%E4%B8%8A%E9%97%A8%E7%BB%B4%E4%BF%AE%E7%94%B5%E8%AF%9D/' target='_blank' class='selected'>鸡西华硕电脑上门维修电话</a><a href='/jh_bangongweixiu/?parent=root' target='_blank' class='selected'>更多设备维修专题</a><a href='/cwjh/' target='_blank' class='selected'>优质信息</a></td></tr><tr><th>鸡西设备维修类目介绍</th><td id='intro'><div>百姓网鸡西办公设备维修频道是鸡西本地最大的办公设备维修信息免费发布、查询平台，您不仅可以免费快速查找到鸡西专业办公设备维修服务公司，还可以免费发布您公司的办公设备维修相关信息。</div></td></tr><tr><th>鸡西设备维修全部地区</th><td id='area'><a href='/bangongweixiu/m7110/' target='_blank' class='selected'>鸡冠设备维修</a><a href='/bangongweixiu/m7102/' target='_blank' class='selected'>密山设备维修</a><a href='/bangongweixiu/m7104/' target='_blank' class='selected'>鸡东设备维修</a><a href='/bangongweixiu/m7103/' target='_blank' class='selected'>虎林设备维修</a><a href='/bangongweixiu/m7106/' target='_blank' class='selected'>城子河设备维修</a><a href='/bangongweixiu/m7109/' target='_blank' class='selected'>恒山设备维修</a><a href='/bangongweixiu/m7108/' target='_blank' class='selected'>滴道设备维修</a><a href='/bangongweixiu/m7107/' target='_blank' class='selected'>梨树设备维修</a><a href='/bangongweixiu/m7105/' target='_blank' class='selected'>麻山设备维修</a></td></tr><tr><th>鸡西设备维修热门城市</th><td id='hotCities'><a href='http://shanghai.baixing.com/bangongweixiu/' target='_blank' class='selected'>上海办公设备维修</a><a href='http://beijing.baixing.com/bangongweixiu/' target='_blank' class='selected'>北京办公设备维修</a><a href='http://guangzhou.baixing.com/bangongweixiu/' target='_blank' class='selected'>广州办公设备维修</a><a href='http://suzhou.baixing.com/bangongweixiu/' target='_blank' class='selected'>苏州办公设备维修</a><a href='http://shenzhen.baixing.com/bangongweixiu/' target='_blank' class='selected'>深圳办公设备维修</a><a href='http://shenyang.baixing.com/bangongweixiu/' target='_blank' class='selected'>沈阳办公设备维修</a><a href='http://zhengzhou.baixing.com/bangongweixiu/' target='_blank' class='selected'>郑州办公设备维修</a><a href='http://wuxi.baixing.com/bangongweixiu/' target='_blank' class='selected'>无锡办公设备维修</a><a href='http://dalian.baixing.com/bangongweixiu/' target='_blank' class='selected'>大连办公设备维修</a><a href='http://dongguan.baixing.com/bangongweixiu/' target='_blank' class='selected'>东莞办公设备维修</a><a href='http://hangzhou.baixing.com/bangongweixiu/' target='_blank' class='selected'>杭州办公设备维修</a><a href='http://xian.baixing.com/bangongweixiu/' target='_blank' class='selected'>西安办公设备维修</a><a href='http://nanning.baixing.com/bangongweixiu/' target='_blank' class='selected'>南宁办公设备维修</a><a href='http://chengdu.baixing.com/bangongweixiu/' target='_blank' class='selected'>成都办公设备维修</a><a href='http://qingdao.baixing.com/bangongweixiu/' target='_blank' class='selected'>青岛办公设备维修</a><a href='http://wuhan.baixing.com/bangongweixiu/' target='_blank' class='selected'>武汉办公设备维修</a><a href='http://nanjing.baixing.com/bangongweixiu/' target='_blank' class='selected'>南京办公设备维修</a><a href='http://jinan.baixing.com/bangongweixiu/' target='_blank' class='selected'>济南办公设备维修</a><a href='http://shijiazhuang.baixing.com/bangongweixiu/' target='_blank' class='selected'>石家庄办公设备维修</a><a href='http://tianjin.baixing.com/bangongweixiu/' target='_blank' class='selected'>天津办公设备维修</a><a href='http://ningbo.baixing.com/bangongweixiu/' target='_blank' class='selected'>宁波办公设备维修</a><a href='http://hefei.baixing.com/bangongweixiu/' target='_blank' class='selected'>合肥办公设备维修</a><a href='http://chongqing.baixing.com/bangongweixiu/' target='_blank' class='selected'>重庆办公设备维修</a><a href='http://changchun.baixing.com/bangongweixiu/' target='_blank' class='selected'>长春办公设备维修</a><a href='http://xiamen.baixing.com/bangongweixiu/' target='_blank' class='selected'>厦门办公设备维修</a><a href='http://fuzhou.baixing.com/bangongweixiu/' target='_blank' class='selected'>福州办公设备维修</a><a href='http://changsha.baixing.com/bangongweixiu/' target='_blank' class='selected'>长沙办公设备维修</a><a href='http://haerbin.baixing.com/bangongweixiu/' target='_blank' class='selected'>哈尔滨办公设备维修</a><a href='http://zhuhai.baixing.com/bangongweixiu/' target='_blank' class='selected'>珠海办公设备维修</a><a href='http://taiyuan.baixing.com/bangongweixiu/' target='_blank' class='selected'>太原办公设备维修</a><a href='http://shantou.baixing.com/bangongweixiu/' target='_blank' class='selected'>汕头办公设备维修</a><a href='http://kunming.baixing.com/bangongweixiu/' target='_blank' class='selected'>昆明办公设备维修</a><a href='http://wulumuqi.baixing.com/bangongweixiu/' target='_blank' class='selected'>乌鲁木齐办公设备维修</a><a href='http://lanzhou.baixing.com/bangongweixiu/' target='_blank' class='selected'>兰州办公设备维修</a><a href='http://nanchang.baixing.com/bangongweixiu/' target='_blank' class='selected'>南昌办公设备维修</a><a href='http://guiyang.baixing.com/bangongweixiu/' target='_blank' class='selected'>贵阳办公设备维修</a><a href='http://haikou.baixing.com/bangongweixiu/' target='_blank' class='selected'>海口办公设备维修</a><a href='http://huhehaote.baixing.com/bangongweixiu/' target='_blank' class='selected'>呼和浩特办公设备维修</a></td></tr><tr><th>鸡西设备维修周边城市</th><td id='around'><a href='http://qitaihe.baixing.com/bangongweixiu/' target='_blank' class='selected'>七台河办公设备维修</a><a href='http://mudanjiang.baixing.com/bangongweixiu/' target='_blank' class='selected'>牡丹江办公设备维修</a><a href='http://jiamusi.baixing.com/bangongweixiu/' target='_blank' class='selected'>佳木斯办公设备维修</a><a href='http://shuangyashan.baixing.com/bangongweixiu/' target='_blank' class='selected'>双鸭山办公设备维修</a><a href='http://hegang.baixing.com/bangongweixiu/' target='_blank' class='selected'>鹤岗办公设备维修</a><a href='http://www.baixing.com/bangongweixiu/' target='_blank' class='selected'>办公设备维修</a></td></tr><tr><th>移动触屏版</th><td id='mobile'><a href='http://jixi.baixing.com/m/bangongweixiu/' target='_blank' class='selected'>鸡西办公设备维修</a></td></tr></table></div></section></section><footer><div><a href='//www.baixing.com/a/bangui/' target='_blank' rel='nofollow'>百姓网公约</a><i class='sep'>|</i><a href='//www.baixing.com/ra/pay/?src=footer' target='_blank' rel='nofollow'>付费推广</a><i class='sep'>|</i><a href='//www.baixing.com/a/company?src=bottom' target='_blank'>客户合作</a><i class='sep'>|</i><a href='//www.baixing.com/xiangyang/post/daoyong/?src=footer' target='_blank' rel='nofollow'>号码被冒用</a><i class='sep'>|</i><a href='//www.baixing.com/help/' target='_blank' data-toggle='tracker' data-source='footer'>联系我们</a><i class='sep'>|</i><a href='http://api.baixing.com.cn/' target='_blank' rel='nofollow'>开放API</a><i class='sep'>|</i><a href='//www.baixing.com/mkt/agents/' target='_blank' rel='nofollow'>诚招代理商</a><i class='sep'>|</i><a href='//www.baixing.com/a/bdad/' target='_blank'>品牌网络推广</a><i class='sep'>|</i><a href='//www.baixing.com/help/feed?id=fd53284' target='_blank'>诚信建设</a><i class='sep'>|</i><a href='//www.baixing.com/v/mobile' rel='nofollow'>手机版</a></div><div><span class='copyright'>&copy; 2017 百姓网股份有限公司 (上海市广元西路55号浩然高科技大厦1808室) 客服电话：400-036-3650或021-61300110（周一至周日，9:00-18:00）</span></div><div><a target='_blank' rel='nofollow' href='http://shwg.dianping.com/index.html'><img height='30' alt='网购大家评' src='http://file.baixing.net/201604/8fa27c5945f2ec31155a36e4a03cc841.png'></a><a target='_blank' rel='nofollow' href='http://www.shjbzx.cn'><img height='30' alt='上海市互联网举报平台' src='//file.baixing.net/201703/b795b51d45c5297739d0add5d4b87475.jpg'></a><a target='_blank' rel='nofollow' href='http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=20111025095406671'><img width='30' alt='上海工商' src='//s.baixing.net/d/refashion-home/images/icon_footer02.png'></a><a target='_blank' rel='nofollow' href='http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010402000116'><img height='30' alt='网络社会征信网' src='//s.baixing.net/d/refashion-home/images/icon_footer01.png'><span class='beian'>沪公网安备31010402000116号</span></a><span class='at-haojing'>7&nbsp;G:24&nbsp;GM:68</span></div></footer><div id='sidebar-buttons'><a id='weixin-qrcode-login' href='#' title='手机百姓'><i class='icon-mobile2'></i></a><a id='feedback-button' href='#' title='我要反馈' class='feedback'><i class='icon-side-feedback'></i></a><a id='back-to-top' href='#' title='返回顶部'><i class='icon-arrow-up'></i></a><div class='qrcode-login-dialog in left fade'><img src='//file.baixing.net/201607/5f583b56bc0d435f0f67c8e67d0a8a96.png'><img src='//file.baixing.net/201607/02b008f4f9a924687e129852191867e4.png'></div><a id='chat-button' href='#' title='系统消息' class='chat-button'><i class='icon-tieba'></i></a></div><script type="text/javascript">
+	var baiduImagePlus = {"unionId":"u1612675","noLogo":true,"formList":[{"formId":2}]};
+</script>
+<script src="//cpro.baidustatic.com/cpro/ui/i.js"></script>
+<div id='feedback-refashion'><a target="_blank"  href="http://jixi.baixing.com/redirect/index?r=dXJsPSUyRiUyRnd3dy5iYWl4aW5nLmNvbSUyRmElMkZmZW5nbWluZyZldmVudFR5cGU9ZXh0ZXJuYWxfcmVkaXJlY3QmZXZlbnRWYWx1ZSU1QnBvc2l0aW9uJTVEPXJpZ2h0LWZpeGVkJmV2ZW50VmFsdWUlNUJocmVmJTVEPWh0dHAlM0ElMkYlMkZqaXhpLmJhaXhpbmcuY29tJTJGYmFuZ29uZ3dlaXhpdSUyRiZldmVudFZhbHVlJTVCdXJsJTVEPSUyRiUyRnd3dy5iYWl4aW5nLmNvbSUyRmElMkZmZW5nbWluZyZldmVudFZhbHVlJTVCdWElNUQ9TW96aWxsYSUyRjUuMCslMjhXaW5kb3dzK05UKzYuMSUzQitXT1c2NCUyOStBcHBsZVdlYktpdCUyRjUzNy4zNislMjhLSFRNTCUyQytsaWtlK0dlY2tvJTI5K0Nocm9tZSUyRjM5LjAuMjE3MS45NSZldmVudFZhbHVlJTVCdGltZSU1RD0yMDE3LTA0LTE2KzIwJTNBMDQlM0E0OA,," class="a_d_s_hidden_link adsense-image-link" target="_blank"><img class="a_d_s_img"  src="//file.baixing.net/201702/bbc0fe137d39ca9ce017f460ee112f84.jpg"></a></div><script id='user-3rd-tag'> window.__is3rdUser = ""; </script><script src="//s.baixing.net/combine/js/d/refashion-libs.min.a7d5ef5f.js,/d/refashion-common/index.f006c9a0.js,/app/convert/app-download.web.17be6ff0.js,/js/module/banner-track.c1cd96f7.js" onerror="tracker.resErr(this)" crossorigin></script><!--[if (gte IE 9)|!(IE)]><!--><script src="//s.baixing.net/combine/js/js/global/easyXDM.min.f0549ee3.js,/js/module/rongcloud/chat-host.481066e4.js" onerror="tracker.resErr(this)" crossorigin></script><!--<![endif]--><script> window.__isSuperMan = ""; window.__city = "鸡西"; </script><script src="//s.baixing.net/combine/js/js/module/jquery-ui-1.9.1.custom.50550ec4.js,/d/refashion-listing/index.23ba6b9e.js" onerror="tracker.resErr(this)"></script><script src="//s.baixing.net/d/adTracker/index.js?v1.2" onerror="tracker.resErr(this)" crossorigin></script><script src="//s.baixing.net/combine/js/js/module/jquery-ui-1.9.1.custom.50550ec4.js,/d/refashion-fuwu-listing/index.63a22ba0.js" onerror="tracker.resErr(this)"></script><div id='xiangyang-feedback-modal' role='dialog' tabindex='-1' class='modal feedback-modal'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-label='Close' class='close'><span aria-hidden>×</span></button><h4 class='modal-title'>反馈建议</h4></div><div class='modal-body'><form novalidate><span id='desc'></span><input type='hidden' name='labels' value='helpcenter'><div class='p-line'></div><div class='p-line'><label class='p-label'>描述：</label><span class='p-value'><textarea type='text' maxlength='500' name='post[content]' required='required' data-parent='.p-line' value='' placeholder='请尽可能详细地输入您的问题，我们将尽快帮您解决。' style='overflow: hidden; word-wrap: break-word; resize: none; width: 400px;' class='input input-5'></textarea><br><span style='padding-left:0;' class='p-error-empty'>请填写描述</span></span></div><div class='p-line'><label class='p-label'>手机号：</label><span class='p-value'><input name='post[mobile]' maxlength='11' required='required' data-parent='.p-line' type='mobile' value='' class='input'><input id='feedback_ad' name='ad' type='hidden' value=''><input id='feedback_type' name='type' type='hidden' value=''><input id='feedback_bangui' name='bangui' type='hidden' value=''><input id='feedback_source' name='source' type='hidden' value=''><input id='feedback_survey' name='survey_fid' type='hidden' value=''><span class='p-error'>请填写手机号</span><span class='p-error-empty'>请填写手机号</span></span></div><div class='p-line'><label class='p-label'>上传图片：</label><span id='feedback_picture' class='p-value'></span></div><div class='p-line'><label class='p-label'></label><span class='p-value'><input type='submit' value='提交反馈' class='button'><a href='/PublicReview/?src=feedback' target='_blank' class='public-review link'>邀请您参加大众评审</a></span></div></form></div></div></div></div><script> var imageConfig = {"uploadUrl":"http:\/\/v0.api.upyun.com\/bximg\/","uploadParams":{"policy":"eyJidWNrZXQiOiJieGltZyIsInNhdmUta2V5IjoiL3tmaWxlbWQ1fXsuc3VmZml4fSIsImNvbnRlbnQtc2VjcmV0Ijoib3JpZ2luYWwiLCJjb250ZW50LWxlbmd0aC1yYW5nZSI6IjAsMTA0ODU3NjAiLCJ4LWdta2VybC10eXBlIjoiZml4X21heCIsIngtZ21rZXJsLXZhbHVlIjoiNjQwIiwieC1nbWtlcmwtbm9pY2MiOiJ0cnVlIiwieC1nbWtlcmwtcXVhbGl0eSI6Ijc1IiwieC1nbWtlcmwtcm90YXRlIjoiYXV0byIsIngtZ21rZXJsLWV4aWYtc3dpdGNoIjoidHJ1ZSIsIm5vdGlmeS11cmwiOiJodHRwOi8vY2FsbGJhY2suaW1nLmJhaXhpbmcubmV0L3VweXVuLnBocD9idWNrZXQ9YnhpbWciLCJleHBpcmF0aW9uIjoxNDkyMzQ3ODg4fQ==","signature":"bcf684dc216d90a5e9b69f0fe7fb72db"},"vendorName":"upyun","imageSuffix":"#up","fileKey":"file","imageHost":null}; _defer.push(["//s.baixing.net/js/guandu/uploader.824150a3.js", function () {  if ( GuanduUploader.isSupported() === true) {   GuanduUploader.init('#feedback_picture', 'bximg')  } else {   $('#feedback_picture').closest('.p-line').remove();  }; }]); _defer.push(["//s.baixing.net/js/module/validator.1d066c49.js", function () {   $('.feedback-modal').validator({   isErrorOnParent: true,   after: function(e) {    var modal = $('.feedback-modal');    e.preventDefault();    var pictures = [];    GuanduUploader.upload({     complete : function (res, fileUrl) {      pictures.push(res.url.slice(1) + imageConfig.imageSuffix);     },     allComplete : function () {      var data = $(e.target).serialize();      if (pictures.length > 0) {       data =  data + '&pictures=' + encodeURIComponent(pictures.join(','));      }      $.post('/xiangyang/post/web?ajax=1', data, function(resp) {       var type = $('#feedback_type').val();       var typeNames = {"feedback":"\u53cd\u9988","jubao":"\u4e3e\u62a5","shensu":"\u7533\u8bc9","tuiguang":"\u63a8\u5e7f","weiquan":"\u7ef4\u6743","chat":"\u79c1\u4fe1","baozhang":"\u4fdd\u969c","lekongkong":"\u4e50\u7a7a\u7a7a","report":"\u4e3e\u62a5\u7533\u8bf7","yinshou":"\u8425\u6536"};       var typeName = '反馈';       $.each(typeNames, function(key, value) {        if (type == key) typeName = value;       });              var modalBody = "谢谢您的反馈！<br />我们将在1个工作日内处理并以电话/短信/站内信方式给您回复。（工作时间：9:00—18:00）<br />您可以在<a href='/w/feedback/'>用户中心——我的反馈</a>中查看问题回复进度";       if (type == 'shensu') {        modalBody = resp == 'true' ? '您的' + typeName + '已提交成功，我们将在24小时内核实处理！' : resp;       }       modal.find('.modal-body').html('<p>' + modalBody + '</p>');       switch (type) {        case 'shensu' :         setTimeout(function() {          window.location.reload();         } ,1500);         break;        default :         setTimeout(function() {          $('.feedback-modal').modal('hide');         } ,3000);       }      });     }    });   }  }); }]); </script><script> feedback("jixi", "bangongweixiu")</script><div id='promote-weixin-modal' class='fade hide in modal'><div style='width: 600px;' class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-label='Close' class='close'><span aria-hidden>×</span></button><div class='modal-title'>扫码使用百姓微信公众号</div></div><div class='modal-body'><p>打开微信，扫一扫右侧二维码，即可完成绑定 --></p><img id='promoQrcode' src='//s.baixing.net/img/subscribe/baixing1.jpg' style='float:right;'><div class='promoteWeixinContent'><p>绑定后，您可以：</p><p>1. 立即在手机上收到用户给您的留言</p><p>2. 使用手机快速完成付费推广的续费动作</p><p>3. 第一时间了解到百姓网付费推广最新的促销活动，以及享受微信端独特的促销活动</p><p>4. 更快速地将信息通过微信分享给好友、同事、朋友圈</p><p>5. 如果您是招聘类目用户，还能够第一时间接收到新简历通知</p></div></div></div></div></div><script src='//s.baixing.net/js/global/defer.9fe29b86.js'></script><script type="text/html" id="item_adsense_top_tmpl">
+<li class="media clearfix adsense adsense-oneline">
+	<a class="media-body" target="_blank" href="#{url}" style="text-decoration:none;display:block;" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}" data-index="#{index}" data-top="1">
+		<div class="media-body-title">
+		<span>#{line1}</span>
+		</div>
+		<div class="media-body-des">#{line2}</div>
+		<small class="pull-right">广告</small>
+	</a>
+</li>
+</script>
+<script type="text/html" id="item_adsense_tmpl">
+<li class="media clearfix adsense" id="s_i_ad#{index}">
+	<a href="#{url}" target="_blank" class="media-cap" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}">
+	<img src="#{imgUrl}" alt="#{line1}">
+	</a>
+	<a class="media-body" target="_blank" href="#{url}" style="text-decoration:none;display:block;" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}" data-index="#{index}">
+		<div class="media-body-title">
+			<small class="adsense-label">广告</small>
+			<span>#{line1}</span>
+		</div>
+		<div class="ad-item-detail">#{line2}</div>
+		<div class="ad-item-detail">#{visible_url}</div>
+	</a>
+</li>
+</script>
+
+<script type="text/html" id="table_adsense_tmpl">
+<li class="clearfix table-adsense-item table-view-item adsense">
+	<a target="_blank" href="#{url}" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}" data-index="#{index}">
+		<span class="table-view-body">
+			#{line1}
+		</span>
+		<div class="table-view-block">#{line2}</div>
+		<div class="table-view-cap">广告</div>
+	</a>
+</li>
+</script>
+<script type="text/javascript">
+	var totalAds = $('.item-pinned').length + $('.item-regular').length;
+	var viewType = 'item';
+	var keyword = '';
+	var insertSize2 = 18;
+	var insertSize = totalAds > 50 ? 7 : 5; // 当ad不足50条是，每隔5条出一个广告
+	var adSize = 5;
+	// var divide = +tracker.lastPvId.split('-')[0].substr(-4)%6;
+	var divide = 0;
+	var showTopItems = 1;
+	var hardcodeAds = [
+		{
+			tit: '一分钟线上申请，低息快速轻松贷款',
+			desc: '简单快速搞的定',
+			surl: 'jinrong.baixing.com',
+			curl: 'https://jinrong.baixing.com/loan/?src=youmi_p_c_2001',
+			imgUrl: '//file.baixing.net/201702/f708b98b10406238858ce05c58813f03.png'
+		},
+		{
+			tit: '节后缺钱怎么办？上百姓金融一分钟申请，半天放款',
+			desc: '简单快速搞的定',
+			surl: 'jinrong.baixing.com',
+			curl: 'https://jinrong.baixing.com/loan/?src=youmi_p_c_2002',
+			imgUrl: '//file.baixing.net/201702/f708b98b10406238858ce05c58813f03.png'
+		}
+	];
+
+	var cproRenderer = function (_ads) {
+		var ads = []
+
+		if (_ads) {
+			for(var i = 0; i < _ads.length; i++) {
+				if (_ads[i].surl.indexOf('58.com') === -1) {
+					ads.push(_ads[i])
+				}
+			}
+		}
+
+		var doubleAds = ads.concat(ads) // 双倍展现
+		if (doubleAds.length > 6) {
+			doubleAds[6] = hardcodeAds[0]
+			doubleAds[7] = hardcodeAds[1]
+		} else {
+			doubleAds = doubleAds.concat(hardcodeAds)
+		}
+
+		$list = viewType == 'item' ? $('.list-ad-items').not('.list-no-ads') : $('.table-view').not('.list-no-ads');
+		$firstList = $list.first();
+		$lastList = $list.last();
+
+		render(doubleAds);
+		if($('.youlanMoreBtn')) {
+			$('.hide + .table-adsense-item').addClass('hide')
+		}
+		function isRealPinned($tags) {
+			var isReal = false;
+			var classes = ['tag-ace','tag-huoji','tag-ding'];
+			$tags.each(function(){
+				var tagName = $(this).attr('class').split(/\s+/)[1];
+				if (classes.indexOf(tagName) != -1) isReal = true;
+			});
+			return isReal;
+		}
+		function render(ads) {
+			var index = 1;
+			if (showTopItems) {
+				if (viewType=='item') {
+					for (var i = 2; i > 0; i--) {
+						$firstList.prepend(renderAd(ads.shift(),'#item_adsense_top_tmpl'));
+					}
+				} else {
+					$list.prepend(renderAd(ads.shift(),'#'+viewType+'_adsense_tmpl'));
+				}
+			}
+
+			var regularItems = $lastList.find('.item-regular').get();
+			var pinnedItems = $lastList.find('.item-pinned:not(.item-youlan)').get();
+
+			var pinnedItemsSize = 0;
+			$(pinnedItems).each(function() {
+				var $tags = $(this).find('.tag');
+				if (isRealPinned($tags)) pinnedItemsSize++;
+			});
+			var vipItems = pinnedItems.splice(pinnedItemsSize,pinnedItems.length-pinnedItemsSize);
+			regularItems = vipItems.concat(regularItems);
+			var $regularItems = $(regularItems);
+
+			var i = 0;
+			var insertIndex = 0;
+			var insertNum = 2;
+			for (; i < ads.length; i++) {
+				insertIndex += (i % insertNum)^1;
+				if (insertIndex > divide) insertNum = 1;
+				if (insertIndex <= divide) {
+					var insertPlace = insertSize2 * insertIndex;
+				} else {
+					var insertPlace = insertSize2 * divide + (insertIndex-divide) * insertSize;
+				}
+				var content = renderAd(ads[i],'#'+viewType+'_adsense_tmpl');
+				var insertNode = $regularItems.eq(insertPlace);
+
+				if (!insertNode.length) break;
+				insertNode.before(content);
+			};
+			// 打点一下展现量
+			if(Math.random() < 0.01) {
+				window.tracker.evt('search_ad_show', {
+					num: $('.clearfix.adsense').length,
+					ad1: !!$('#s_i_ad1').length,
+					ad3: !!$('#s_i_ad3').length,
+					ad5: !!$('#s_i_ad5').length,
+				})
+			}
+						var extra_max = 10;
+			for (; i < ads.length && extra_max>0; i++, extra_max--) {
+				$list.append(renderAd(ads[i],'#'+viewType+'_adsense_tmpl'));
+			}
+						function renderAd(ad, templateHolder) {
+				if (!ad) return;
+				var template = $(templateHolder).html();
+				return $.renderAdsense({
+					url: ad.curl,
+					line1: ad.tit,
+					line2: ad.desc,
+					visible_url: ad.surl,
+					hintword: ad.bid,
+					keyword: keyword,
+					billing_name: '30024088_11_cpr',
+					index: index++,
+					imgUrl: ad.imgUrl || '//file.baixing.net/201508/7e396f2e318dcf731b1d62b615e6b76a.png',
+				},template);
+			}
+		}
+	}
+	var $cproIdRandom = parseInt(Math.random() * 10000);
+	var arrBaiduCproConfig = {};
+
+	arrBaiduCproConfig['n'] = '30024088_11_cpr'; //计费名
+	arrBaiduCproConfig['template'] = 'baiduDEFINE';
+	arrBaiduCproConfig['wn'] = adSize;   //横向广告条数
+	arrBaiduCproConfig['hn'] = 1;   //纵向广告条数
+	arrBaiduCproConfig['tm'] = 30;  //标题长度
+	arrBaiduCproConfig['cm'] = 40;  //描述长度
+	arrBaiduCproConfig['um'] = 28;  //url长度
+	arrBaiduCproConfig['define'] = 'cproRenderer';
+	arrBaiduCproConfig['charset'] = 'utf8';
+	arrBaiduCproConfig['rad'] = 0;  //是否出不相关广告
+	arrBaiduCproConfig['uap'] = 0;  //是否出cpa广告
+	arrBaiduCproConfig['cad'] = 0;  //是否显示公益广告
+	arrBaiduCproConfig['nfr'] = 0;  //是否飘红. 0表示飘红，1表示不飘红。描述不会飘红
+	arrBaiduCproConfig['bu'] = 0;   //是否展现show url
+	arrBaiduCproConfig['channel'] = '12';   //渠道值
+	arrBaiduCproConfig['k'] = '';
+</script>
+<script src="//cpro.baidustatic.com/cpro/ui/ui.js" type="text/javascript"></script>
+<script src="//s.baixing.net/js/module/cookie.81431fea.js"></script>
+<script>
+/* taq 处理 */
+$(document).ready(function () {
+	var data = [];
+	if (_taq.length) {
+		data = _taq;
+	}
+	_taq = {
+		push : function(data) {
+			switch (data[0]) {
+				case 'evt' :
+					var attribute = $.extend({
+						"_pvid": tracker.lastPvId
+						, "_reid": tracker.reid
+						, "_city": tracker.city_name
+						, "_category": tracker.category
+						, "_ad": tracker.adid
+						, "_url": document.location.href.length ? document.location.href.substr(0, 4000) : ''
+						, "_bnid": Cookie.read('kjj_trace_banner_id')
+						, "_clid": Cookie.read('kjj_trace_click_id_new')
+						, "_prof": Cookie.read('kjj_trace_profile_new')
+						, "_refer": document.referrer.length ? document.referrer : ''
+					}, data[2]);
+					$.get('/c/ev/' + encodeURIComponent(data[1]), attribute);
+					break;
+				case 'ic' :
+					$.get( '/c/ic/' + encodeURIComponent(data[1]));
+					break;
+				case 'count' :
+					$.get( '/c/mc/' + encodeURIComponent(data[1]) + '.' + encodeURIComponent(data[2]));
+					break;
+				case 'timing' :
+					$.get('/c/tm/' + encodeURIComponent(data[1]) + '.' + encodeURIComponent(data[2]) +
+					'.' + encodeURIComponent(data[3]))
+					break;
+				case 'klog' :
+					$.get( '/c/klog/' + encodeURIComponent(data[1]), data[2]);
+					break;
+				case 'perf' :
+					$.get('/c/perf/' + encodeURIComponent(data[1]), data[2]);
+					break;
+				case 'manageTrack' :
+					$.get('/c/mt/' + encodeURIComponent(data[1]), data[2]);
+					break;
+			}
+		}
+	};
+	while (data.length) {
+		_taq.push(data.shift());
+	}
+});
+</script>
+<script id="perf2"></script><script id="perflog"></script><div id='chat-to-app' class='modal modal-load disable-setpos hide'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-label='Close' class='close'><span aria-hidden>&times;</span></button><div class='modal-top'><span>登录</span></div></div><div class='modal-body'><img src='//file.baixing.net/201703/b6ed3ad67a0e69ed4fb6552877b1be1b.png' class='qr-code'><div class='tip'>下载APP无需登录实时接受私信提醒，联系更便捷！或点击下方先登录再进入私信联系</div></div><div class='modal-commit'><a id='chat-login-btn' href='javascript:;' class='modal-input'>立即登录</a></div></div></div></div><script> _defer.push(function(){  var islogin = Cookie && Cookie.read('__n') && Cookie.read('__u') && Cookie.read('__c');  if (!islogin) {   var $loginBtn = $('#chat-login-btn');   var $appModal = $('#chat-to-app');   $('#show-chat, #chat-button').on('click', function (e) {    e.preventDefault();    var type = $(this).attr('id').indexOf('show-chat') > -1 ? 'chat' : 'open';    $appModal.modal('show');    $loginBtn     .attr('data-type', type)     .attr('href', '/oz/login?redirect=' + encodeURIComponent(window.location.href));   });   $loginBtn.on('click', function(){    Cookie && Cookie.write('__unlogin_chat', $(this).attr('data-type'), 1);   });   return;  }    if (typeof WebChat !== 'undefined' && islogin) {   /* when ready */   var $el = $('#chat-button');   WebChat.onReady(function () {    $el.on('click', function (e) {     e.preventDefault();     e.stopPropagation();     window.WebChat && window.WebChat.toggle();     window.tracker && tracker.evt('chat_btn_click', {});    });    if (Cookie && Cookie.read('__unlogin_chat') === 'open') {     $el.trigger('click');     Cookie.write('__unlogin_chat', '', -1);    }   });  } });</script><script class='collector-bar'></script><script type='text/javascript'>
+(function() {
+	function b64EncodeUnicode(str) {
+		return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, function(match, p1) {
+			return String.fromCharCode('0x' + p1);
+		}));
+	}
+
+	$('.ex_re').on('click', function(e) {
+		var $el = $(e.target)
+		var link = $el.attr('href')
+
+		if(!$el.data('url')) $el.data('url', link)
+
+		var extra = { url: $el.data('url'), href: window.location.href }
+		var encodeLink = b64EncodeUnicode($.param({url: link, eventType: 'external_redirect', eventValue: extra})).toString()
+		var redirectUrl = 'http://www.baixing.com/redirect/index?r=' + encodeLink.replace('+', '-').replace('_', '/').replace('=', ',')
+
+		$el.attr('href', redirectUrl)
+	})
+})();
+</script><script type='text/javascript'>
+(function() {
+	var clickedAdsense = []
+
+	$('body').on('adsense_click', function(event, data) {
+		if(!data || !data.id) return false
+
+		var id = '#' + data.id
+		if(clickedAdsense.indexOf(id) === -1) {
+			clickedAdsense.push(id)
+		} else {
+			setTimeout(function() {
+				$(id).remove()
+			}, 1000)
+		}
+	})
+
+	// 暂时检测一下搜索广告点击状况，就不取全量了
+	if (Math.random() < 0.1) {
+		$('body').on('click', '.media.clearfix.adsense', function(e) {
+			var offset = $(e.target).parents('.adsense').offset()
+			var posY = offset.top - $(window).scrollTop()
+			var posX = offset.left - $(window).scrollLeft()
+
+			var result = {
+				x: e.screenX - posX,
+				y: e.screenY - posY - 120
+			}
+
+			tracker.evt('search_ad_click_position', result)
+		})
+	}
+})();
+</script>
+</body></html>
