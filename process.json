@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "name": "wscsrv",
+      "script": "procesures/app.js",
+      "watch": ["procesures"],
+      "ignore_watch": ["node_modules"],
+      "cwd": "/home/zhangwenpo/workstation/golden_servers/wserver",
+      "exec_mode": "fork",
+      "env": {
+        "NODE_ENV": "production",
+        "PORT": 9595
+      }
+    }
+  ]
+}
